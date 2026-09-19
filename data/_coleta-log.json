@@ -1,6 +1,225 @@
 {
   "runs": [
     {
+      "startedAt": "2026-09-19T17:41:53.325Z",
+      "finishedAt": "2026-09-19T17:41:53.789Z",
+      "only": [
+        "criterion",
+        "bfiplayer",
+        "artetv",
+        "curtaon"
+      ],
+      "results": [
+        {
+          "source": "curtaon",
+          "label": "[C] Curta! On",
+          "method": "tmdb-provedor",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "api-descoberta",
+              "count": 0,
+              "ms": 1,
+              "error": "sem API descoberta — preencha \"curtaon\" em collector/sources/_apis-descobertas.json (ver _apis-descobertas.md)"
+            },
+            {
+              "method": "tmdb-provedor",
+              "count": 210,
+              "ms": 103,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 210,
+            "validos": 209,
+            "revisao": 1,
+            "novos": 0,
+            "atualizados": 209,
+            "completados": 0,
+            "total": 209,
+            "tmdb_matched": 210,
+            "tmdb_unmatched": 0
+          },
+          "warnings": []
+        },
+        {
+          "source": "criterion",
+          "label": "[C] Criterion Channel",
+          "method": "tmdb-provedor",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "tmdb-provedor",
+              "count": 3086,
+              "ms": 13,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 3086,
+            "validos": 3086,
+            "revisao": 0,
+            "novos": 0,
+            "atualizados": 3086,
+            "completados": 0,
+            "total": 3086,
+            "tmdb_matched": 3086,
+            "tmdb_unmatched": 0
+          },
+          "warnings": []
+        },
+        {
+          "source": "bfiplayer",
+          "label": "[C] BFI Player",
+          "method": "tmdb-provedor",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "tmdb-provedor",
+              "count": 4452,
+              "ms": 3,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 4452,
+            "validos": 4452,
+            "revisao": 0,
+            "novos": 0,
+            "atualizados": 4452,
+            "completados": 0,
+            "total": 4452,
+            "tmdb_matched": 4452,
+            "tmdb_unmatched": 0
+          },
+          "warnings": []
+        },
+        {
+          "source": "artetv",
+          "label": "[C] Arte.tv",
+          "method": "tmdb-provedor",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "tmdb-provedor",
+              "count": 323,
+              "ms": 0,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 323,
+            "validos": 323,
+            "revisao": 0,
+            "novos": 0,
+            "atualizados": 323,
+            "completados": 0,
+            "total": 323,
+            "tmdb_matched": 323,
+            "tmdb_unmatched": 0
+          },
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "startedAt": "2026-09-19T16:17:45.376Z",
+      "finishedAt": "2026-09-19T17:37:58.577Z",
+      "only": [
+        "criterion",
+        "bfiplayer"
+      ],
+      "results": [
+        {
+          "source": "criterion",
+          "label": "[C] Criterion Channel",
+          "method": "tmdb-provedor",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "tmdb-provedor",
+              "count": 3086,
+              "ms": 109982,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 3086,
+            "validos": 3086,
+            "revisao": 0,
+            "novos": 3086,
+            "atualizados": 0,
+            "completados": 0,
+            "total": 3086,
+            "tmdb_matched": 3086,
+            "tmdb_unmatched": 0
+          },
+          "warnings": []
+        },
+        {
+          "source": "bfiplayer",
+          "label": "[C] BFI Player",
+          "method": "tmdb-provedor",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "tmdb-provedor",
+              "count": 4452,
+              "ms": 157012,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 4452,
+            "validos": 4452,
+            "revisao": 0,
+            "novos": 4452,
+            "atualizados": 0,
+            "completados": 0,
+            "total": 4452,
+            "tmdb_matched": 4452,
+            "tmdb_unmatched": 0
+          },
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "startedAt": "2026-09-19T16:13:47.980Z",
+      "finishedAt": "2026-09-19T16:17:34.658Z",
+      "only": [
+        "artetv"
+      ],
+      "results": [
+        {
+          "source": "artetv",
+          "label": "[C] Arte.tv",
+          "method": "tmdb-provedor",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "tmdb-provedor",
+              "count": 323,
+              "ms": 13769,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 323,
+            "validos": 323,
+            "revisao": 0,
+            "novos": 323,
+            "atualizados": 0,
+            "completados": 0,
+            "total": 323,
+            "tmdb_matched": 323,
+            "tmdb_unmatched": 0
+          },
+          "warnings": []
+        }
+      ]
+    },
+    {
       "startedAt": "2026-09-19T14:02:01.412Z",
       "finishedAt": "2026-09-19T14:02:01.453Z",
       "only": [
@@ -293,37 +512,6 @@
           "warnings": []
         },
         {
-          "source": "spcineplay",
-          "label": "[C] Spcine Play",
-          "method": null,
-          "status": "sem-dados",
-          "attempts": [
-            {
-              "method": "api-descoberta",
-              "count": 0,
-              "ms": 0,
-              "error": "sem API descoberta — preencha \"spcineplay\" em collector/sources/_apis-descobertas.json (ver _apis-descobertas.md)"
-            },
-            {
-              "method": "tmdb-provedor",
-              "count": 0,
-              "ms": 1,
-              "error": "nenhum provedor do TMDB bate com Spcine Play / Spcine em BR"
-            },
-            {
-              "method": "carga-manual",
-              "count": 0,
-              "ms": 0,
-              "error": "sem carga manual (data/_manual/spcineplay.csv)"
-            }
-          ],
-          "stats": {
-            "coletados": 0,
-            "acervo": 0
-          },
-          "warnings": []
-        },
-        {
           "source": "curtaon",
           "label": "[C] Curta! On",
           "method": null,
@@ -565,37 +753,6 @@
             "total": 160,
             "tmdb_matched": 147,
             "tmdb_unmatched": 13
-          },
-          "warnings": []
-        },
-        {
-          "source": "spcineplay",
-          "label": "[C] Spcine Play",
-          "method": null,
-          "status": "sem-dados",
-          "attempts": [
-            {
-              "method": "api-descoberta",
-              "count": 0,
-              "ms": 0,
-              "error": "sem API descoberta — preencha \"spcineplay\" em collector/sources/_apis-descobertas.json (ver _apis-descobertas.md)"
-            },
-            {
-              "method": "tmdb-provedor",
-              "count": 0,
-              "ms": 1,
-              "error": "nenhum provedor do TMDB bate com Spcine Play / Spcine em BR"
-            },
-            {
-              "method": "carga-manual",
-              "count": 0,
-              "ms": 0,
-              "error": "sem carga manual (data/_manual/spcineplay.csv)"
-            }
-          ],
-          "stats": {
-            "coletados": 0,
-            "acervo": 0
           },
           "warnings": []
         },
