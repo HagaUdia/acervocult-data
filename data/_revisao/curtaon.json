@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "acervocult:curtaon:652960",
+    "source": "curtaon",
+    "name": "O Astronauta Tupy",
+    "year": null,
+    "director": null,
+    "type": "movie",
+    "imdb_id": null,
+    "tmdb_id": 652960,
+    "poster": "https://image.tmdb.org/t/p/w500/l67G104hAymgQFcgH5OgiwZXYEo.jpg",
+    "source_url": "https://www.themoviedb.org/movie/652960",
+    "enrich_status": "matched",
+    "review_reason": "sem-ano-e-sem-diretor",
+    "first_seen": "2026-09-19T14:00:33.350Z",
+    "last_seen": "2026-09-19T14:02:01.452Z"
+  }
+]

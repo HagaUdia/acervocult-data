@@ -100194,6 +100194,5958 @@
         "imdb_id": "tt1935750"
       },
       "earliest_release_year": null
+    },
+    "/discover/movie?include_adult=false&language=pt-BR&page=1&sort_by=primary_release_date.desc&watch_region=BR&with_watch_monetization_types=undefined&with_watch_providers=2159": {
+      "page": 1,
+      "total_pages": 11,
+      "total_results": 210,
+      "results": [
+        {
+          "id": 1568158,
+          "title": "Carolina Maria de Jesus",
+          "original_title": "Carolina Maria de Jesus",
+          "release_date": "2026-11-19",
+          "poster_path": null,
+          "popularity": 1.1481
+        },
+        {
+          "id": 1684901,
+          "title": "Artacho Jurado: Sinfonia de um Arquiteto",
+          "original_title": "Artacho Jurado: Sinfonia de um Arquiteto",
+          "release_date": "2026-05-07",
+          "poster_path": "/hjOTqJOCHeU6aPU1pbXb93BXbA5.jpg",
+          "popularity": 0.6265
+        },
+        {
+          "id": 1630527,
+          "title": "Da Fome ao Sonho",
+          "original_title": "Da Fome ao Sonho",
+          "release_date": "2026-02-11",
+          "poster_path": "/rvxJou2HXEeG5VFYlHyNepfIFqv.jpg",
+          "popularity": 1.1751
+        },
+        {
+          "id": 1608797,
+          "title": "Groenlândia: O Eldorado do Gelo",
+          "original_title": "Groenland, L'Eldorado des glaces",
+          "release_date": "2025-12-23",
+          "poster_path": "/eyqqICems4onXWNSSZJWzER0jjg.jpg",
+          "popularity": 3.8693
+        },
+        {
+          "id": 1594659,
+          "title": "A Cidade que Ainda Sonha",
+          "original_title": "A Cidade que Ainda Sonha",
+          "release_date": "2025-12-08",
+          "poster_path": "/jV56uStfbLJTZHtXXWATlFVd9dC.jpg",
+          "popularity": 0.6045
+        },
+        {
+          "id": 1543093,
+          "title": "Cadernos Negros",
+          "original_title": "Cadernos Negros",
+          "release_date": "2025-10-19",
+          "poster_path": "/vFriEIlkWrHPgkNIRn1zze5fhsi.jpg",
+          "popularity": 1.7509
+        },
+        {
+          "id": 1564399,
+          "title": "Gilberto Gil: Tempo Rei - A Última Turnê",
+          "original_title": "Gilberto Gil: Tempo Rei - A Última Turnê",
+          "release_date": "2025-10-18",
+          "poster_path": "/4ULPePyuu1FRBzi6tJ6BoC7Hb62.jpg",
+          "popularity": 0.6921
+        },
+        {
+          "id": 1460390,
+          "title": "Cazuza: Boas Novas",
+          "original_title": "Cazuza: Boas Novas",
+          "release_date": "2025-07-17",
+          "poster_path": "/3K65Ikh2pe87GARhPXHlsDsKGqm.jpg",
+          "popularity": 1.2069
+        },
+        {
+          "id": 1462357,
+          "title": "Watoriki - Conversa com Davi Kopenawa",
+          "original_title": "Watoriki - Conversa com Davi Kopenawa",
+          "release_date": "2025-04-18",
+          "poster_path": "/qN1LHOOyuRoby0awMFXikDpRkcj.jpg",
+          "popularity": 1.2027
+        },
+        {
+          "id": 1430149,
+          "title": "We Want the Funk!",
+          "original_title": "We Want the Funk!",
+          "release_date": "2025-04-08",
+          "poster_path": "/hJtko6EIcE280ZdVnP358or870T.jpg",
+          "popularity": 2.0723
+        },
+        {
+          "id": 1459709,
+          "title": "A Bahia Me Fez Assim",
+          "original_title": "A Bahia Me Fez Assim",
+          "release_date": "2025-04-04",
+          "poster_path": "/lLgRVHa0zk80ccdOosBJD5ndNFk.jpg",
+          "popularity": 0.753
+        },
+        {
+          "id": 1451469,
+          "title": "A Escrita Delas",
+          "original_title": "A Escrita Delas",
+          "release_date": "2025-03-27",
+          "poster_path": "/desFkXpwk3xuybIQKGcNG8EM9pb.jpg",
+          "popularity": 0.9464
+        },
+        {
+          "id": 1416427,
+          "title": "O Outro Lado da Moeda",
+          "original_title": "O Outro Lado da Moeda",
+          "release_date": "2024-11-30",
+          "poster_path": "/dl8DWFVIMgKFWlIkmQ5unBXerro.jpg",
+          "popularity": 0.5226
+        },
+        {
+          "id": 1374404,
+          "title": "O Menino d’Olho d’Água",
+          "original_title": "O Menino d’Olho d’Água",
+          "release_date": "2024-11-15",
+          "poster_path": "/2BR9gs2NxlEuI9EI9zmMvij0Ec3.jpg",
+          "popularity": 1.0484
+        },
+        {
+          "id": 1304109,
+          "title": "Sem Vergonha",
+          "original_title": "Sem Vergonha",
+          "release_date": "2024-10-20",
+          "poster_path": "/daJ0CYI3wiU75BEfchj2e5EAKAx.jpg",
+          "popularity": 2.1184
+        },
+        {
+          "id": 1361306,
+          "title": "The Birth of H. Teixeira",
+          "original_title": "O Nascimento de H. Teixeira",
+          "release_date": "2024-10-03",
+          "poster_path": "/pL6VsNHUek68xAfCoEwCFfOZkRl.jpg",
+          "popularity": 0.6277
+        },
+        {
+          "id": 1318389,
+          "title": "Clarice Niskier: Teatro dos Pés à Cabeça",
+          "original_title": "Clarice Niskier: Teatro dos Pés à Cabeça",
+          "release_date": "2024-08-15",
+          "poster_path": "/cOQGZ8NNgZ2kFOrSV280I8Xu68Q.jpg",
+          "popularity": 1.3295
+        },
+        {
+          "id": 1317993,
+          "title": "Santos Dumont, O Céu na Cabeça",
+          "original_title": "Santos Dumont, O Céu na Cabeça",
+          "release_date": "2024-07-19",
+          "poster_path": "/l3rAcmDdVJpBmCAA7Y9r8c716oZ.jpg",
+          "popularity": 0.7073
+        },
+        {
+          "id": 1311806,
+          "title": "Alternativos",
+          "original_title": "Alternativos",
+          "release_date": "2024-07-04",
+          "poster_path": "/saWtbgjfUPvYYYSGJWnI5JmI6up.jpg",
+          "popularity": 1.6777
+        },
+        {
+          "id": 1262161,
+          "title": "Um Filme para Beatrice",
+          "original_title": "Um Filme para Beatrice",
+          "release_date": "2024-04-03",
+          "poster_path": "/sEbFZf3CXWw1HaFHR7DBDMNEp0j.jpg",
+          "popularity": 0.6497
+        }
+      ]
+    },
+    "/discover/movie?include_adult=false&language=pt-BR&page=2&sort_by=primary_release_date.desc&watch_region=BR&with_watch_monetization_types=undefined&with_watch_providers=2159": {
+      "page": 2,
+      "total_pages": 11,
+      "total_results": 210,
+      "results": [
+        {
+          "id": 1201537,
+          "title": "Com as Próprias Mãos",
+          "original_title": "Com as Próprias Mãos",
+          "release_date": "2023-12-08",
+          "poster_path": "/lzZxuIXVSlsKrRVZVJbZgdwKPXq.jpg",
+          "popularity": 1.3881
+        },
+        {
+          "id": 1193638,
+          "title": "Adriana Varejão: Entre Carnes e Mares",
+          "original_title": "Adriana Varejão: Entre Carnes e Mares",
+          "release_date": "2023-10-19",
+          "poster_path": "/7ACn0ihk9HFeKwVQM3UYzWmTrfT.jpg",
+          "popularity": 0.8566
+        },
+        {
+          "id": 1177238,
+          "title": "Dois Sertões",
+          "original_title": "Dois Sertões",
+          "release_date": "2023-10-09",
+          "poster_path": "/gQZM4RPprGRONqILwKNiIN6wT4S.jpg",
+          "popularity": 1.2631
+        },
+        {
+          "id": 1186666,
+          "title": "Arte da Diplomacia",
+          "original_title": "Arte da Diplomacia",
+          "release_date": "2023-10-05",
+          "poster_path": "/bf91GylLaHsTNVB17shxxXrY0Pa.jpg",
+          "popularity": 0.8597
+        },
+        {
+          "id": 1177246,
+          "title": "Mulheres Radicais",
+          "original_title": "Mulheres Radicais",
+          "release_date": "2023-10-05",
+          "poster_path": "/xo1kBd4srulvGU0yOCrJf9Vbrd.jpg",
+          "popularity": 0.7045
+        },
+        {
+          "id": 1140562,
+          "title": "Dolores Duran: O Coração da Noite",
+          "original_title": "Dolores Duran: O Coração da Noite",
+          "release_date": "2023-06-15",
+          "poster_path": "/4OPMWm4qVnAhfUKENngxe8cudxM.jpg",
+          "popularity": 1.0812
+        },
+        {
+          "id": 1141238,
+          "title": "Chiquinha Gonzaga - Música Substantivo Feminino",
+          "original_title": "Chiquinha Gonzaga - Música Substantivo Feminino",
+          "release_date": "2023-06-14",
+          "poster_path": "/rTpMDIm54FPiSDPRhPYkDWQ4G1m.jpg",
+          "popularity": 0.7129
+        },
+        {
+          "id": 1135644,
+          "title": "Semana Sem Fim",
+          "original_title": "Semana Sem Fim",
+          "release_date": "2023-06-06",
+          "poster_path": "/nJGL5wFssqdj9Es2rcODMTStImc.jpg",
+          "popularity": 1.2048
+        },
+        {
+          "id": 745885,
+          "title": "Jair Rodrigues - Deixa Que Digam",
+          "original_title": "Jair Rodrigues - Deixa Que Digam",
+          "release_date": "2023-04-27",
+          "poster_path": "/Ay38DAnwjUzSbK3TI3SXpSCTJb.jpg",
+          "popularity": 0.915
+        },
+        {
+          "id": 1105948,
+          "title": "Incompatível com a Vida",
+          "original_title": "Incompatível com a Vida",
+          "release_date": "2023-03-30",
+          "poster_path": "/s3hjvbZuXRVmfGanJyx0AdGzoPB.jpg",
+          "popularity": 0.9571
+        },
+        {
+          "id": 1033322,
+          "title": "Biocêntricos",
+          "original_title": "Biocêntricos",
+          "release_date": "2023-03-16",
+          "poster_path": "/lP20tU0BDFHtaWjI6VuXiGH99ir.jpg",
+          "popularity": 1.5364
+        },
+        {
+          "id": 783427,
+          "title": "O Filme Perdido de Nuremberg",
+          "original_title": "Nuremberg : des images pour l'histoire",
+          "release_date": "2023-01-27",
+          "poster_path": "/okNiHkGMvlwAsG91BFJ97VwlbRx.jpg",
+          "popularity": 1.8445
+        },
+        {
+          "id": 1474401,
+          "title": "Fellini by Fellini",
+          "original_title": "Fellini by Fellini",
+          "release_date": "2023-01-01",
+          "poster_path": null,
+          "popularity": 0.7303
+        },
+        {
+          "id": 1068034,
+          "title": "De longe toda serra é azul",
+          "original_title": "De longe toda serra é azul",
+          "release_date": "2022-12-27",
+          "poster_path": "/5FylMnfBNg9VXcXo07sD5XotgzT.jpg",
+          "popularity": 0.6009
+        },
+        {
+          "id": 1033349,
+          "title": "Lupicínio Rodrigues: Confissões de um Sofredor",
+          "original_title": "Lupicínio Rodrigues: Confissões de um Sofredor",
+          "release_date": "2022-10-22",
+          "poster_path": "/tKtmKKn3mGYbkGy31ckTfJ1VjL8.jpg",
+          "popularity": 0.7323
+        },
+        {
+          "id": 1030583,
+          "title": "Não é a Primeira Vez que Lutamos pelo Nosso Amor",
+          "original_title": "Não é a Primeira Vez que Lutamos pelo Nosso Amor",
+          "release_date": "2022-10-06",
+          "poster_path": "/w4baC0suE1ue3zQYbylKgSma7jf.jpg",
+          "popularity": 1.0398
+        },
+        {
+          "id": 1150453,
+          "title": "Verde-Esperanza: Aborto Legal na América Latina",
+          "original_title": "Verde-Esperanza: Aborto Legal na América Latina",
+          "release_date": "2022-09-22",
+          "poster_path": "/5UiCtxfU4jTKpNrwSObWp8hvwdw.jpg",
+          "popularity": 1.0116
+        },
+        {
+          "id": 1016206,
+          "title": "Miúcha, a Voz da Bossa Nova",
+          "original_title": "Miúcha, a Voz da Bossa Nova",
+          "release_date": "2022-09-10",
+          "poster_path": "/uX2iZcu99kJ83900J6V6MHHNcYb.jpg",
+          "popularity": 0.9431
+        },
+        {
+          "id": 952392,
+          "title": "O Presidente Improvável",
+          "original_title": "O Presidente Improvável",
+          "release_date": "2022-03-31",
+          "poster_path": "/oug8RzS5stfwUi0rUIFvRGod1hn.jpg",
+          "popularity": 1.3022
+        },
+        {
+          "id": 1441687,
+          "title": "Lobby do Batom",
+          "original_title": "Lobby do Batom",
+          "release_date": "2022-03-28",
+          "poster_path": "/sinVKUqq0r4sKIzCAgUKj8Z2QPt.jpg",
+          "popularity": 1.0904
+        }
+      ]
+    },
+    "/discover/movie?include_adult=false&language=pt-BR&page=3&sort_by=primary_release_date.desc&watch_region=BR&with_watch_monetization_types=undefined&with_watch_providers=2159": {
+      "page": 3,
+      "total_pages": 11,
+      "total_results": 210,
+      "results": [
+        {
+          "id": 938381,
+          "title": "Melvin Van Peebles O Nascimento de um Heroi Negro",
+          "original_title": "Naissance d'un héros noir au cinéma : Sweet Sweetback",
+          "release_date": "2022-03-16",
+          "poster_path": "/nJuZ0M96oN2hXUsf0Ei0eWdMv7M.jpg",
+          "popularity": 0.9395
+        },
+        {
+          "id": 882829,
+          "title": "Ziraldo: Era Uma Vez Um Menino",
+          "original_title": "Ziraldo: Era Uma Vez Um Menino",
+          "release_date": "2021-12-16",
+          "poster_path": "/f9yMYYCugtaT8i4HngnZK59rTcE.jpg",
+          "popularity": 0.9954
+        },
+        {
+          "id": 1237219,
+          "title": "Expedição Roosevelt Rondon",
+          "original_title": "Expedição Roosevelt Rondon",
+          "release_date": "2021-11-12",
+          "poster_path": "/hd8Wrtv3y2VOTjk40wsTfC1Tfz4.jpg",
+          "popularity": 0.5258
+        },
+        {
+          "id": 900023,
+          "title": "A Mãe de Todas as Lutas",
+          "original_title": "A Mãe de Todas as Lutas",
+          "release_date": "2021-11-06",
+          "poster_path": "/1AHVyjmjJKUIjryArHFWKoYCWpS.jpg",
+          "popularity": 0.6537
+        },
+        {
+          "id": 882994,
+          "title": "Antígona 442 A.C.",
+          "original_title": "Antígona 442 A.C.",
+          "release_date": "2021-10-21",
+          "poster_path": "/ubcUwI6AyIFgzRF1FEgDfFuJwtO.jpg",
+          "popularity": 0.9353
+        },
+        {
+          "id": 920639,
+          "title": "Romance de Formação",
+          "original_title": "Romance de Formação",
+          "release_date": "2021-09-23",
+          "poster_path": "/vEH7ADIWk6GGeLkqKgB6PApVoIZ.jpg",
+          "popularity": 0.5934
+        },
+        {
+          "id": 872197,
+          "title": "Danças Negras",
+          "original_title": "Danças Negras",
+          "release_date": "2021-09-09",
+          "poster_path": "/47v2Hc9wFR46kVGsTMr172WGn4k.jpg",
+          "popularity": 2.2024
+        },
+        {
+          "id": 841986,
+          "title": "Ventos Que Sopram Maranhão",
+          "original_title": "Ventos Que Sopram Maranhão",
+          "release_date": "2021-06-17",
+          "poster_path": "/nUhiwhJvBELOiigbf3xCTC8MDaF.jpg",
+          "popularity": 1.0314
+        },
+        {
+          "id": 810210,
+          "title": "Dois Tempos",
+          "original_title": "Dois Tempos",
+          "release_date": "2021-04-12",
+          "poster_path": "/auBZm1FMdwwAMmvNY1bOrZWaEQo.jpg",
+          "popularity": 2.1974
+        },
+        {
+          "id": 810213,
+          "title": "Paulo César Pinheiro - Letra e Alma",
+          "original_title": "Paulo César Pinheiro - Letra e Alma",
+          "release_date": "2021-04-11",
+          "poster_path": "/vx2ck3JYWzJVScQOdNAnZWB4S2t.jpg",
+          "popularity": 0.9884
+        },
+        {
+          "id": 808624,
+          "title": "O Bom Cinema",
+          "original_title": "O Bom Cinema",
+          "release_date": "2021-03-18",
+          "poster_path": "/rKKZwBgmEO10efhYg4za3vzRRwo.jpg",
+          "popularity": 0.8404
+        },
+        {
+          "id": 801019,
+          "title": "Depois da Primavera",
+          "original_title": "Depois da Primavera",
+          "release_date": "2021-02-27",
+          "poster_path": "/uU4gjSVJhbud3vXZFvLWeSqGg8y.jpg",
+          "popularity": 1.3905
+        },
+        {
+          "id": 791389,
+          "title": "Torquato, Imagem da Incompletude",
+          "original_title": "Torquato, Imagem da Incompletude",
+          "release_date": "2020-12-16",
+          "poster_path": "/wDv6FKwBDgbCYtBJr3FVQuQ35zG.jpg",
+          "popularity": 0.5856
+        },
+        {
+          "id": 789242,
+          "title": "Operação Camanducaia",
+          "original_title": "Operação Camanducaia",
+          "release_date": "2020-12-04",
+          "poster_path": "/u8ge7A9YIcVoxbOJJKYgLACEmg.jpg",
+          "popularity": 0.5609
+        },
+        {
+          "id": 931088,
+          "title": "Festa de Iemanjá",
+          "original_title": "Festa de Iemanjá",
+          "release_date": "2020-11-20",
+          "poster_path": "/8h50YRDk0rPoBlfwbszZrh75OmT.jpg",
+          "popularity": 0.8372
+        },
+        {
+          "id": 752663,
+          "title": "Todas as Melodias",
+          "original_title": "Todas as Melodias",
+          "release_date": "2020-10-22",
+          "poster_path": "/e0XTsdpZq9Uwflj0tSU9MjrwzJb.jpg",
+          "popularity": 1.081
+        },
+        {
+          "id": 752657,
+          "title": "Glauber, Claro",
+          "original_title": "Glauber, Claro",
+          "release_date": "2020-10-22",
+          "poster_path": "/iiUmR6SGCXuAwtanwFsC5g3dwk4.jpg",
+          "popularity": 2.1798
+        },
+        {
+          "id": 689705,
+          "title": "Kubrick por Kubrick",
+          "original_title": "Kubrick by Kubrick",
+          "release_date": "2020-10-22",
+          "poster_path": "/m4hC8loafr9Ch8ExF9Mibp2PRoD.jpg",
+          "popularity": 2.7347
+        },
+        {
+          "id": 745887,
+          "title": "Os Quatro Paralamas",
+          "original_title": "Os Quatro Paralamas",
+          "release_date": "2020-09-26",
+          "poster_path": "/Aby3sHQM9G4ugY9rW5n3gzrXecJ.jpg",
+          "popularity": 0.8841
+        },
+        {
+          "id": 745867,
+          "title": "Atravessa a Vida",
+          "original_title": "Atravessa a Vida",
+          "release_date": "2020-09-25",
+          "poster_path": "/1uf9KjMhgmP6xcQ6tesVLjM95c7.jpg",
+          "popularity": 1.0078
+        }
+      ]
+    },
+    "/discover/movie?include_adult=false&language=pt-BR&page=4&sort_by=primary_release_date.desc&watch_region=BR&with_watch_monetization_types=undefined&with_watch_providers=2159": {
+      "page": 4,
+      "total_pages": 11,
+      "total_results": 210,
+      "results": [
+        {
+          "id": 766685,
+          "title": "Ney - À Flor da Pele",
+          "original_title": "Ney - À Flor da Pele",
+          "release_date": "2020-09-21",
+          "poster_path": "/rsMG00iyaLPl1aEAQmTb52nKjb4.jpg",
+          "popularity": 0.8755
+        },
+        {
+          "id": 742292,
+          "title": "Count Basie: Through His Own Eyes",
+          "original_title": "Count Basie: Through His Own Eyes",
+          "release_date": "2020-09-13",
+          "poster_path": "/zCvOauKdLQPzYRApTzEafHJHAgb.jpg",
+          "popularity": 0.9565
+        },
+        {
+          "id": 741213,
+          "title": "Neojiba - Música Que Transforma",
+          "original_title": "Neojiba - Música Que Transforma",
+          "release_date": "2020-09-10",
+          "poster_path": "/s1ALoM4pBG6ir2iAqxwHP84FoEs.jpg",
+          "popularity": 0.8057
+        },
+        {
+          "id": 741146,
+          "title": "Garoto - Vivo Sonhando",
+          "original_title": "Garoto - Vivo Sonhando",
+          "release_date": "2020-09-10",
+          "poster_path": "/p3sdVGKZu2cnive65eU5EUSlOvh.jpg",
+          "popularity": 0.7169
+        },
+        {
+          "id": 929009,
+          "title": "O Cinema das Mulheres",
+          "original_title": "O Cinema das Mulheres",
+          "release_date": "2020-09-06",
+          "poster_path": "/y7JqMZwhdPLDrxAqd7z9ODpOcz5.jpg",
+          "popularity": 1.015
+        },
+        {
+          "id": 738739,
+          "title": "You Tubers",
+          "original_title": "You Tubers",
+          "release_date": "2020-09-01",
+          "poster_path": "/6HZ3c3DMWzCtfeNajtYDjpnNekl.jpg",
+          "popularity": 1.634
+        },
+        {
+          "id": 1311942,
+          "title": "Cannabis: A História Através dos Tempos",
+          "original_title": "Cannabis: Through the Ages",
+          "release_date": "2020-08-25",
+          "poster_path": "/go15o6DPCucQy6hbqYC5WxU1oGb.jpg",
+          "popularity": 0.7052
+        },
+        {
+          "id": 725486,
+          "title": "Truffaut Segredos de um Cineasta",
+          "original_title": "Les secrets de François Truffaut",
+          "release_date": "2020-07-05",
+          "poster_path": "/yKa4EwDJRkajBRsfypdtTkdrHGd.jpg",
+          "popularity": 1.1456
+        },
+        {
+          "id": 1451547,
+          "title": "Sobre Sonhos e Liberdade",
+          "original_title": "Sobre Sonhos e Liberdade",
+          "release_date": "2020-06-25",
+          "poster_path": "/h1YnoCJjWh7JYdN1Iq6DuHX5nYl.jpg",
+          "popularity": 0.4284
+        },
+        {
+          "id": 746124,
+          "title": "O Índio Cor de Rosa Contra a Fera Invisível: A Peleja de Noel Nutels",
+          "original_title": "O Índio Cor de Rosa Contra a Fera Invisível: A Peleja de Noel Nutels",
+          "release_date": "2020-03-15",
+          "poster_path": "/lAmAyvrKvfkbDonZC758HwKVXIu.jpg",
+          "popularity": 0.8315
+        },
+        {
+          "id": 651898,
+          "title": "Favela é Moda",
+          "original_title": "Favela é Moda",
+          "release_date": "2019-12-09",
+          "poster_path": "/h8sGa0SZ9en5PBg9AEveCSIzJWw.jpg",
+          "popularity": 0.8606
+        },
+        {
+          "id": 651877,
+          "title": "Movimentos do Invisível",
+          "original_title": "Movimentos do Invisível",
+          "release_date": "2019-12-09",
+          "poster_path": "/lEhx67gNBMeIKL3jEGUIoh2quZ2.jpg",
+          "popularity": 0.7462
+        },
+        {
+          "id": 651299,
+          "title": "Dorivando Saravá, o Preto Que Virou Mar",
+          "original_title": "Dorivando Saravá, o Preto Que Virou Mar",
+          "release_date": "2019-11-29",
+          "poster_path": "/5eRLu0dFiSPGRBfuNdM3MCKcaYa.jpg",
+          "popularity": 0.7776
+        },
+        {
+          "id": 638239,
+          "title": "Pessoas - Contar para Viver",
+          "original_title": "Pessoas - Contar para Viver",
+          "release_date": "2019-10-24",
+          "poster_path": "/g9tZHrVRMzrvoCTTQQYna59Etuj.jpg",
+          "popularity": 1.1194
+        },
+        {
+          "id": 637613,
+          "title": "O Mês Que Não Terminou",
+          "original_title": "O Mês Que Não Terminou",
+          "release_date": "2019-10-22",
+          "poster_path": "/fmEXAvVQeJWLWZbKCNcAPK99LCL.jpg",
+          "popularity": 0.723
+        },
+        {
+          "id": 637616,
+          "title": "O Paradoxo da Democracia",
+          "original_title": "O Paradoxo da Democracia",
+          "release_date": "2019-10-17",
+          "poster_path": "/gQQPkFYR4w4gsgim6hwgSUOkYZX.jpg",
+          "popularity": 1.2732
+        },
+        {
+          "id": 627449,
+          "title": "Uruguai na Vanguarda",
+          "original_title": "Uruguai na Vanguarda",
+          "release_date": "2019-09-19",
+          "poster_path": "/5LqF0PDg9mpYIUdeN4yQszwabQd.jpg",
+          "popularity": 0.756
+        },
+        {
+          "id": 752600,
+          "title": "Soros",
+          "original_title": "Soros",
+          "release_date": "2019-08-31",
+          "poster_path": "/9RRtwWidZRoDaXhno2LmyDovzRm.jpg",
+          "popularity": 1.1121
+        },
+        {
+          "id": 575817,
+          "title": "Espero Tua (Re)volta",
+          "original_title": "Espero Tua (Re)volta",
+          "release_date": "2019-08-15",
+          "poster_path": "/wOoQYSw5mVd9I1acTEzq1Tsq7ES.jpg",
+          "popularity": 1.2023
+        },
+        {
+          "id": 935695,
+          "title": "Samba Junino – De Porta Em Porta",
+          "original_title": "Samba Junino – De Porta Em Porta",
+          "release_date": "2019-08-08",
+          "poster_path": "/oPcG9g44kMNTLOsO9bxTJgEpVEj.jpg",
+          "popularity": 0.8438
+        }
+      ]
+    },
+    "/discover/movie?include_adult=false&language=pt-BR&page=5&sort_by=primary_release_date.desc&watch_region=BR&with_watch_monetization_types=undefined&with_watch_providers=2159": {
+      "page": 5,
+      "total_pages": 11,
+      "total_results": 210,
+      "results": [
+        {
+          "id": 624635,
+          "title": "Bob Fosse: It's Showtime!",
+          "original_title": "Bob Fosse: It's Showtime!",
+          "release_date": "2019-08-03",
+          "poster_path": "/lomhum5148r509ct0qSXDycKqxk.jpg",
+          "popularity": 1.2038
+        },
+        {
+          "id": 733709,
+          "title": "O Método",
+          "original_title": "O Método",
+          "release_date": "2019-07-10",
+          "poster_path": "/okYtQgJiVCcSyinavVIznAdbXKu.jpg",
+          "popularity": 0.8285
+        },
+        {
+          "id": 734668,
+          "title": "Ibiúna, Primavera Brasileira",
+          "original_title": "Ibiúna, Primavera Brasileira",
+          "release_date": "2019-06-20",
+          "poster_path": "/2vluF4SGnCSihbTUEvsfWhL6uTD.jpg",
+          "popularity": 0.5415
+        },
+        {
+          "id": 607947,
+          "title": "Alceu Valença - Na Embolada do Tempo",
+          "original_title": "Alceu Valença - Na Embolada do Tempo",
+          "release_date": "2019-06-14",
+          "poster_path": "/52PyW8IieIuj7QInfpvgDYg0t2e.jpg",
+          "popularity": 1.2203
+        },
+        {
+          "id": 791410,
+          "title": "Fake News - Made in Brazil",
+          "original_title": "Fake News - Made in Brazil",
+          "release_date": "2019-06-11",
+          "poster_path": "/rvnOjkeWKxg9dXj849K2mfj4r2E.jpg",
+          "popularity": 0.6038
+        },
+        {
+          "id": 601613,
+          "title": "Banquete Coutinho",
+          "original_title": "Banquete Coutinho",
+          "release_date": "2019-06-05",
+          "poster_path": "/aiQEAQsq5H8AJ5GDIdKi6UcOsP4.jpg",
+          "popularity": 0.6193
+        },
+        {
+          "id": 743785,
+          "title": "Your Turn",
+          "original_title": "Your Turn",
+          "release_date": "2019-05-24",
+          "poster_path": "/tW2BfQuWwkghjut4OINn3jK7qT1.jpg",
+          "popularity": 1.3805
+        },
+        {
+          "id": 555799,
+          "title": "Marcia Haydée: Uma Vida Pela Dança",
+          "original_title": "Marcia Haydée: Uma Vida Pela Dança",
+          "release_date": "2019-04-18",
+          "poster_path": "/3stl0LvE1GuR0PIJ5Wxob3T58dv.jpg",
+          "popularity": 1.9775
+        },
+        {
+          "id": 573503,
+          "title": "Meu Amigo Fela",
+          "original_title": "Meu Amigo Fela",
+          "release_date": "2019-01-26",
+          "poster_path": "/k1fIr6nTPaoct8VQEElHwpLBRRx.jpg",
+          "popularity": 1.2144
+        },
+        {
+          "id": 555816,
+          "title": "Zuza Homem de Jazz",
+          "original_title": "Zuza Homem de Jazz",
+          "release_date": "2018-11-30",
+          "poster_path": "/5c5jbmRqoolkVqjQdFSnDtd70J1.jpg",
+          "popularity": 0.7033
+        },
+        {
+          "id": 542480,
+          "title": "Excelentíssimos",
+          "original_title": "Excelentíssimos",
+          "release_date": "2018-11-22",
+          "poster_path": "/5o0SMnTONlx3qAHCkItm1F1Wv0E.jpg",
+          "popularity": 1.1529
+        },
+        {
+          "id": 633997,
+          "title": "Erlon Chaves: O Maestro do Veneno",
+          "original_title": "Erlon Chaves: O Maestro do Veneno",
+          "release_date": "2018-11-20",
+          "poster_path": "/oPNbQRoY065nU3R9prnVO1NE904.jpg",
+          "popularity": 1.5663
+        },
+        {
+          "id": 555812,
+          "title": "Tá Rindo de Quê? Humor e Ditadura",
+          "original_title": "Tá Rindo de Quê? Humor e Ditadura",
+          "release_date": "2018-11-09",
+          "poster_path": "/5HYq86yGCD2EDoEY7CsNFfPCCkb.jpg",
+          "popularity": 1.418
+        },
+        {
+          "id": 555810,
+          "title": "Rindo à Toa: Humor Sem Limites",
+          "original_title": "Rindo à Toa: Humor Sem Limites",
+          "release_date": "2018-11-09",
+          "poster_path": "/6T2HQavaxwShOXgBZxLbZQViSUW.jpg",
+          "popularity": 1.3246
+        },
+        {
+          "id": 554976,
+          "title": "Clementina",
+          "original_title": "Clementina",
+          "release_date": "2018-11-03",
+          "poster_path": "/pAv95gMY8SDyrCgi49VOMjkc567.jpg",
+          "popularity": 1.9929
+        },
+        {
+          "id": 614842,
+          "title": "As mil mulheres",
+          "original_title": "As mil mulheres",
+          "release_date": "2018-10-24",
+          "poster_path": "/fSxTOuWvmh8mWluwfAfegm6iA5u.jpg",
+          "popularity": 0.6639
+        },
+        {
+          "id": 555430,
+          "title": "Com a Palavra, Arnaldo Antunes",
+          "original_title": "Com a Palavra, Arnaldo Antunes",
+          "release_date": "2018-10-19",
+          "poster_path": "/ylHkmOKJwV1g5NKV4JKgfxqsnTB.jpg",
+          "popularity": 1.5023
+        },
+        {
+          "id": 554036,
+          "title": "A Última Abolição",
+          "original_title": "A Última Abolição",
+          "release_date": "2018-10-18",
+          "poster_path": "/6vchlq87tC5P3MTZaqJlwvY8ZLS.jpg",
+          "popularity": 0.8892
+        },
+        {
+          "id": 544491,
+          "title": "Orin: Música Para os Orixás",
+          "original_title": "Orin: Música Para os Orixás",
+          "release_date": "2018-09-12",
+          "poster_path": "/bksWi3Bk5Akt2ShC100fEcSozud.jpg",
+          "popularity": 1.564
+        },
+        {
+          "id": 712940,
+          "title": "Candeia",
+          "original_title": "Candeia",
+          "release_date": "2018-07-16",
+          "poster_path": "/sJjUk5d5Pum3CL0QBFR5dTzHbvb.jpg",
+          "popularity": 0.8528
+        }
+      ]
+    },
+    "/discover/movie?include_adult=false&language=pt-BR&page=6&sort_by=primary_release_date.desc&watch_region=BR&with_watch_monetization_types=undefined&with_watch_providers=2159": {
+      "page": 6,
+      "total_pages": 11,
+      "total_results": 210,
+      "results": [
+        {
+          "id": 522868,
+          "title": "Bergman: 100 Anos",
+          "original_title": "Bergman - ett år, ett liv",
+          "release_date": "2018-07-12",
+          "poster_path": "/29n7iICJFwKnNr3ZiwUUtRXYMuT.jpg",
+          "popularity": 2.2456
+        },
+        {
+          "id": 435681,
+          "title": "Onde Está Você, João Gilberto?",
+          "original_title": "Where Are You, João Gilberto?",
+          "release_date": "2018-05-05",
+          "poster_path": "/4Q80bIyy3ZRa5ais4MO3ByDQRTO.jpg",
+          "popularity": 0.8949
+        },
+        {
+          "id": 515190,
+          "title": "O Desmonte do Monte",
+          "original_title": "O Desmonte do Monte",
+          "release_date": "2018-03-30",
+          "poster_path": "/kYt45V9W9tUUyWNdQUOyoX7p2Gb.jpg",
+          "popularity": 0.8027
+        },
+        {
+          "id": 480242,
+          "title": "Piripkura",
+          "original_title": "Piripkura",
+          "release_date": "2018-03-01",
+          "poster_path": "/mFt7rO2d0ODgU7JlVfng0psWksZ.jpg",
+          "popularity": 1.6451
+        },
+        {
+          "id": 726572,
+          "title": "Som, Sol & Surf - Saquarema",
+          "original_title": "Som, Sol & Surf - Saquarema",
+          "release_date": "2018-01-02",
+          "poster_path": "/wdrhko3z6R4YRVJ9orKaNpHdKyE.jpg",
+          "popularity": 1.0727
+        },
+        {
+          "id": 1416448,
+          "title": "Carolina Maria de Jesus",
+          "original_title": "Carolina Maria de Jesus",
+          "release_date": "2018-01-01",
+          "poster_path": "/pJPAsS0GHQOZSUCTK7m25oCw8R3.jpg",
+          "popularity": 0.7854
+        },
+        {
+          "id": 487460,
+          "title": "Maria: Não Esqueça Que Eu Venho dos Trópicos",
+          "original_title": "Maria: Não Esqueça Que Eu Venho dos Trópicos",
+          "release_date": "2017-11-16",
+          "poster_path": "/hI1lZYI1fHIddg8JtgFYM5fyfZj.jpg",
+          "popularity": 0.8019
+        },
+        {
+          "id": 441498,
+          "title": "No Intenso Agora",
+          "original_title": "No Intenso Agora",
+          "release_date": "2017-11-09",
+          "poster_path": "/oQooO01POzU5suQjFFflTBdzan3.jpg",
+          "popularity": 1.2797
+        },
+        {
+          "id": 548265,
+          "title": "Exu Rei - Abdias do Nascimento",
+          "original_title": "Exu Rei - Abdias do Nascimento",
+          "release_date": "2017-10-18",
+          "poster_path": "/jb39YV60n7wEiVBb4IBemjelHQI.jpg",
+          "popularity": 0.9253
+        },
+        {
+          "id": 480540,
+          "title": "Clara Estrela",
+          "original_title": "Clara Estrela",
+          "release_date": "2017-10-17",
+          "poster_path": "/26VSsSrH0zNob4gRQuCGMZabJmY.jpg",
+          "popularity": 2.0415
+        },
+        {
+          "id": 480706,
+          "title": "Soldados do Araguaia",
+          "original_title": "Soldados do Araguaia",
+          "release_date": "2017-10-11",
+          "poster_path": "/ap8kC7g8qsO3PIaITmJu9squMvD.jpg",
+          "popularity": 0.89
+        },
+        {
+          "id": 480519,
+          "title": "Paulo Autran – O Senhor dos Palcos",
+          "original_title": "Paulo Autran – O Senhor dos Palcos",
+          "release_date": "2017-10-10",
+          "poster_path": "/wUWRWwSMAFY2nqOsXN31PuWCyHl.jpg",
+          "popularity": 0.8421
+        },
+        {
+          "id": 479563,
+          "title": "Henfil",
+          "original_title": "Henfil",
+          "release_date": "2017-10-06",
+          "poster_path": "/1QJhtj8iqn9cvjuOTHheQ9R7yww.jpg",
+          "popularity": 1.6092
+        },
+        {
+          "id": 479487,
+          "title": "Ferrante Fever",
+          "original_title": "Ferrante Fever",
+          "release_date": "2017-10-02",
+          "poster_path": "/broPZaY0TBo61IdCTcnRi8h3jwK.jpg",
+          "popularity": 1.1866
+        },
+        {
+          "id": 481573,
+          "title": "Gutenberg e o Nascimento da Impressão",
+          "original_title": "Gutenberg : l'aventure de l'imprimerie",
+          "release_date": "2017-09-25",
+          "poster_path": "/o0Fwqj99FDawUCbpBbpyBDGEnHk.jpg",
+          "popularity": 1.11
+        },
+        {
+          "id": 576050,
+          "title": "Agatha Christie contre Hercule Poirot : Qui a tué Roger Ackroyd ?",
+          "original_title": "Agatha Christie contre Hercule Poirot : Qui a tué Roger Ackroyd ?",
+          "release_date": "2017-09-06",
+          "poster_path": "/bGTW9d2iJHyFI5hNZgQAcoIv4fz.jpg",
+          "popularity": 1.3079
+        },
+        {
+          "id": 646036,
+          "title": "O Pessoal é Político",
+          "original_title": "O Pessoal é Político",
+          "release_date": "2017-09-05",
+          "poster_path": "/mijdpo9l5RUiP1n9tJFSAZdRZsa.jpg",
+          "popularity": 0.7463
+        },
+        {
+          "id": 805300,
+          "title": "Ailton Krenak: O Sonho da Pedra",
+          "original_title": "Ailton Krenak: O Sonho da Pedra",
+          "release_date": "2017-07-20",
+          "poster_path": "/w2CHrmLle0AoqsarLmt2pdoaYR6.jpg",
+          "popularity": 0.9435
+        },
+        {
+          "id": 675248,
+          "title": "David Hockney - Tempo Recuperado",
+          "original_title": "David Hockney - Die wiedergefundene Zeit",
+          "release_date": "2017-07-16",
+          "poster_path": "/z4q9cwgJb0h1uBSOmhUHbHj3ty5.jpg",
+          "popularity": 1.1957
+        },
+        {
+          "id": 451813,
+          "title": "Cidades Fantasmas",
+          "original_title": "Cidades Fantasmas",
+          "release_date": "2017-07-15",
+          "poster_path": "/g8WUcuU0B0MAantv06T3kbdrcIK.jpg",
+          "popularity": 1.6176
+        }
+      ]
+    },
+    "/discover/movie?include_adult=false&language=pt-BR&page=7&sort_by=primary_release_date.desc&watch_region=BR&with_watch_monetization_types=undefined&with_watch_providers=2159": {
+      "page": 7,
+      "total_pages": 11,
+      "total_results": 210,
+      "results": [
+        {
+          "id": 721295,
+          "title": "Zélia - Memórias de Amor",
+          "original_title": "Zélia - Memórias de Amor",
+          "release_date": "2017-06-14",
+          "poster_path": "/ttVbSskaTVw910FmxiHLDWgaIYk.jpg",
+          "popularity": 0.7776
+        },
+        {
+          "id": 481887,
+          "title": "Tudo é Projeto",
+          "original_title": "Tudo é Projeto",
+          "release_date": "2017-06-13",
+          "poster_path": "/4qpxwZqKuI1TUturFq6wai5KaO6.jpg",
+          "popularity": 0.984
+        },
+        {
+          "id": 573871,
+          "title": "Rodin e a porta do inferno",
+          "original_title": "La Turbulence Rodin",
+          "release_date": "2017-04-02",
+          "poster_path": "/7t0V4T2dtuodxzcBXJZ6RxvcE8G.jpg",
+          "popularity": 1.152
+        },
+        {
+          "id": 516494,
+          "title": "Meu Corpo, Minha Vida",
+          "original_title": "Meu Corpo, Minha Vida",
+          "release_date": "2017-03-30",
+          "poster_path": "/bqIE9k9G0CLLwax9p70INVOP6ML.jpg",
+          "popularity": 0.5974
+        },
+        {
+          "id": 439296,
+          "title": "Guarnieri",
+          "original_title": "Guarnieri",
+          "release_date": "2017-01-28",
+          "poster_path": "/h1h2bChPIUJYOTP2gAz1SqulctC.jpg",
+          "popularity": 5.3978
+        },
+        {
+          "id": 772507,
+          "title": "Do Jazz ao Samba",
+          "original_title": "Do Jazz ao Samba",
+          "release_date": "2017-01-01",
+          "poster_path": "/7j1ZwPTzsY86w7rocmLFNpOS7Fb.jpg",
+          "popularity": 0.7561
+        },
+        {
+          "id": 478652,
+          "title": "Karingana - Licença para contar",
+          "original_title": "Karingana - Licença para contar",
+          "release_date": "2017-01-01",
+          "poster_path": "/rvYWP9Xdj0QOpREwEuIjinE9ED7.jpg",
+          "popularity": 1.1309
+        },
+        {
+          "id": 502338,
+          "title": "A Terceira Margem",
+          "original_title": "A Terceira Margem",
+          "release_date": "2016-11-02",
+          "poster_path": "/8nkQQPvGnFj81o5JNhAWrAOFWAA.jpg",
+          "popularity": 0.8312
+        },
+        {
+          "id": 417502,
+          "title": "Deixa Na Régua",
+          "original_title": "Deixa Na Régua",
+          "release_date": "2016-10-06",
+          "poster_path": "/hnwCUlY2UU7gjfGfxKRVoI6xgxg.jpg",
+          "popularity": 0.9655
+        },
+        {
+          "id": 411003,
+          "title": "Lumiere: A Aventura Começa",
+          "original_title": "Lumière ! L'aventure commence",
+          "release_date": "2016-10-03",
+          "poster_path": "/kSSQQWuCApk6SsDDtzjOLjCSZuZ.jpg",
+          "popularity": 1.9733
+        },
+        {
+          "id": 535149,
+          "title": "As Incríveis Artimanhas da Nuvem Cigana",
+          "original_title": "As Incríveis Artimanhas da Nuvem Cigana",
+          "release_date": "2016-08-13",
+          "poster_path": "/jl8ZcbhO22jsU4g8Vq1diDCMdc8.jpg",
+          "popularity": 0.6324
+        },
+        {
+          "id": 434949,
+          "title": "Bowie: The Man Who Changed the World",
+          "original_title": "Bowie: The Man Who Changed the World",
+          "release_date": "2016-05-09",
+          "poster_path": "/okiUq69MB9Wgj9fNE0u4RWCGus3.jpg",
+          "popularity": 1.4113
+        },
+        {
+          "id": 461178,
+          "title": "Cacaso na Corda Bamba",
+          "original_title": "Cacaso na Corda Bamba",
+          "release_date": "2016-04-10",
+          "poster_path": "/1Bzhm1eE472AwroPNvZCHp3IP2f.jpg",
+          "popularity": 0.8116
+        },
+        {
+          "id": 846670,
+          "title": "Sergio Britto – O Mestre dos Palcos",
+          "original_title": "Sergio Britto – O Mestre dos Palcos",
+          "release_date": "2016-01-01",
+          "poster_path": "/l0UWx9jS74qZPDdSHqdeHIqqQWD.jpg",
+          "popularity": 0.8677
+        },
+        {
+          "id": 386332,
+          "title": "Born Free - Filhos da Revolução",
+          "original_title": "Born Free - Filhos da Revolução",
+          "release_date": "2015-11-20",
+          "poster_path": "/szyetfM9HLz9JDYFASO9knWSb7O.jpg",
+          "popularity": 1.2366
+        },
+        {
+          "id": 361474,
+          "title": "Gaga, o Amor pela Dança",
+          "original_title": "מיסטר גאגא",
+          "release_date": "2015-10-29",
+          "poster_path": "/297K0wrWBmiy6mwyF2fknHNfyT6.jpg",
+          "popularity": 2.0081
+        },
+        {
+          "id": 359808,
+          "title": "Damas do Samba",
+          "original_title": "Damas do Samba",
+          "release_date": "2015-09-17",
+          "poster_path": "/wfigxbq5uNtuOE7k8UQLzQCcuNy.jpg",
+          "popularity": 1.103
+        },
+        {
+          "id": 360113,
+          "title": "Um Filme de Cinema",
+          "original_title": "Um Filme de Cinema",
+          "release_date": "2015-09-15",
+          "poster_path": "/pAa5mRyiZLaukORuF30rnkO6t7F.jpg",
+          "popularity": 1.325
+        },
+        {
+          "id": 347098,
+          "title": "Vilanova Artigas: O Arquiteto e a Luz",
+          "original_title": "Vilanova Artigas: O Arquiteto e a Luz",
+          "release_date": "2015-06-25",
+          "poster_path": "/mk4mLJ8DnJ4G19Fze1olYPfUHjl.jpg",
+          "popularity": 0.5477
+        },
+        {
+          "id": 461597,
+          "title": "Diego Velázquez - Realismo Selvagem",
+          "original_title": "Diego Velázquez ou le Réalisme Sauvage",
+          "release_date": "2015-03-19",
+          "poster_path": "/mKH1edyc9kf404VTMIQ8jxW76NM.jpg",
+          "popularity": 0.7282
+        }
+      ]
+    },
+    "/discover/movie?include_adult=false&language=pt-BR&page=8&sort_by=primary_release_date.desc&watch_region=BR&with_watch_monetization_types=undefined&with_watch_providers=2159": {
+      "page": 8,
+      "total_pages": 11,
+      "total_results": 210,
+      "results": [
+        {
+          "id": 610146,
+          "title": "Bergman",
+          "original_title": "Bergman",
+          "release_date": "2015-03-15",
+          "poster_path": null,
+          "popularity": 0.9355
+        },
+        {
+          "id": 298340,
+          "title": "Brincante",
+          "original_title": "Brincante",
+          "release_date": "2014-11-20",
+          "poster_path": "/eumbcsSqufnCzjIJkZirR7JDfPp.jpg",
+          "popularity": 1.2776
+        },
+        {
+          "id": 334152,
+          "title": "Democracia em Preto e Branco",
+          "original_title": "Democracia em Preto e Branco",
+          "release_date": "2014-10-18",
+          "poster_path": "/ls69cDVmbREn9VYcTJslRYSY72n.jpg",
+          "popularity": 0.8173
+        },
+        {
+          "id": 297140,
+          "title": "Marisa Monte: Verdade, Uma Ilusão",
+          "original_title": "Marisa Monte: Verdade, Uma Ilusão",
+          "release_date": "2014-10-12",
+          "poster_path": "/jyq9jcCHhtYGMg73cj9ISWUdA5i.jpg",
+          "popularity": 1.0303
+        },
+        {
+          "id": 704780,
+          "title": "Jacques Derrida: O Filósofo da Desconstrução",
+          "original_title": "Jacques Derrida, le courage de la pensée",
+          "release_date": "2014-10-08",
+          "poster_path": "/3ZoYpfVx06AWHluFfjS14PoCtay.jpg",
+          "popularity": 0.7628
+        },
+        {
+          "id": 265297,
+          "title": "O Sal da Terra",
+          "original_title": "Le sel de la terre",
+          "release_date": "2014-08-29",
+          "poster_path": "/co47qUCNSa3LIPWwNcqq0PGhnJJ.jpg",
+          "popularity": 3.9925
+        },
+        {
+          "id": 280759,
+          "title": "Bernardes",
+          "original_title": "Bernardes",
+          "release_date": "2014-06-26",
+          "poster_path": "/irSj2FqQS0tTMubLhVNPaSqRVV6.jpg",
+          "popularity": 1.2865
+        },
+        {
+          "id": 330666,
+          "title": "Foucault contra ele mesmo",
+          "original_title": "Foucault contre lui même",
+          "release_date": "2014-06-18",
+          "poster_path": "/lQvA1guddWl05dP9Hk4JWrCHdJ0.jpg",
+          "popularity": 2.4709
+        },
+        {
+          "id": 263976,
+          "title": "O Mercado de Notícias",
+          "original_title": "O Mercado de Notícias",
+          "release_date": "2014-04-09",
+          "poster_path": "/2AqzCDINCgteHYhFaKXklLSDAwH.jpg",
+          "popularity": 0.6739
+        },
+        {
+          "id": 250784,
+          "title": "Sobre a Violência",
+          "original_title": "Om våld",
+          "release_date": "2014-01-17",
+          "poster_path": "/fAPh3e3WXMu6YaYHbufLngxsmt1.jpg",
+          "popularity": 1.1722
+        },
+        {
+          "id": 821370,
+          "title": "Éramos Todos Loucos",
+          "original_title": "Éramos Todos Loucos",
+          "release_date": "2014-01-01",
+          "poster_path": "/lfVAzMYxoV5wyPl0BmUrGca9i0A.jpg",
+          "popularity": 0.9626
+        },
+        {
+          "id": 235453,
+          "title": "Sobral: O Homem Que Não Tinha Preço",
+          "original_title": "Sobral: O Homem Que Não Tinha Preço",
+          "release_date": "2013-11-01",
+          "poster_path": "/63HZNGvKOr4BPN3WoLOeJURC12i.jpg",
+          "popularity": 0.6867
+        },
+        {
+          "id": 228380,
+          "title": "A Batalha do Passinho - O Filme",
+          "original_title": "A Batalha do Passinho - O Filme",
+          "release_date": "2013-10-11",
+          "poster_path": "/dUC4nzCtbhPszKuGqwcnwZKVCOy.jpg",
+          "popularity": 1.1383
+        },
+        {
+          "id": 534299,
+          "title": "Mário Lago",
+          "original_title": "Mário Lago",
+          "release_date": "2013-10-05",
+          "poster_path": "/uzz8Oxjdfq1nQVnlKWXtLkVCxz1.jpg",
+          "popularity": 0.9494
+        },
+        {
+          "id": 198950,
+          "title": "A Alma da Gente",
+          "original_title": "A Alma da Gente",
+          "release_date": "2013-04-07",
+          "poster_path": "/iFJM9qPrKjidEE6rTBg32YATPvM.jpg",
+          "popularity": 0.9656
+        },
+        {
+          "id": 783348,
+          "title": "500 - Os bebês roubados pela ditadura argentina",
+          "original_title": "500 - Os bebês roubados pela ditadura argentina",
+          "release_date": "2013-01-23",
+          "poster_path": "/d8BcqTidjBVkIONudrIqgOEoVQ9.jpg",
+          "popularity": 0.8783
+        },
+        {
+          "id": 466439,
+          "title": "O Prólogo",
+          "original_title": "O Prólogo",
+          "release_date": "2013-01-01",
+          "poster_path": "/u2r0L2mvZGgjpFvmgndtkxnu26j.jpg",
+          "popularity": 1.6276
+        },
+        {
+          "id": 128190,
+          "title": "O Guia Pervertido da Ideologia",
+          "original_title": "The Pervert's Guide to Ideology",
+          "release_date": "2012-11-15",
+          "poster_path": "/lgStDDSyHCMlwYbtGpcwNTZsPcW.jpg",
+          "popularity": 1.5241
+        },
+        {
+          "id": 263839,
+          "title": "Francisco Brennand",
+          "original_title": "Francisco Brennand",
+          "release_date": "2012-10-20",
+          "poster_path": "/ydObLDDRwCC1r4zlseKfQp31fia.jpg",
+          "popularity": 1.8878
+        },
+        {
+          "id": 121983,
+          "title": "Libertem Angela Davis",
+          "original_title": "Free Angela and All Political Prisoners",
+          "release_date": "2012-09-09",
+          "poster_path": "/rmDXXMSCdM3pMcNMbaUSLP2EIn.jpg",
+          "popularity": 1.5567
+        }
+      ]
+    },
+    "/discover/movie?include_adult=false&language=pt-BR&page=9&sort_by=primary_release_date.desc&watch_region=BR&with_watch_monetization_types=undefined&with_watch_providers=2159": {
+      "page": 9,
+      "total_pages": 11,
+      "total_results": 210,
+      "results": [
+        {
+          "id": 351389,
+          "title": "Água de Meninos – A Feira do Cinema Novo",
+          "original_title": "Água de Meninos – A Feira do Cinema Novo",
+          "release_date": "2012-06-11",
+          "poster_path": "/qrttkbcRIuDpoAbyqGG5mRpzXRp.jpg",
+          "popularity": 1.1721
+        },
+        {
+          "id": 296406,
+          "title": "Romance de Formação",
+          "original_title": "Romance de Formação",
+          "release_date": "2012-05-11",
+          "poster_path": "/eb0fkrd6hZAWZYZFJ6idbxL9kF5.jpg",
+          "popularity": 1.0552
+        },
+        {
+          "id": 267478,
+          "title": "Os Irmãos Roberto",
+          "original_title": "Os Irmãos Roberto",
+          "release_date": "2012-04-24",
+          "poster_path": null,
+          "popularity": 0.7764
+        },
+        {
+          "id": 470913,
+          "title": "O Roteirista",
+          "original_title": "O Roteirista",
+          "release_date": "2012-01-01",
+          "poster_path": "/8qAXoOnKn9VCT5GGO5qbvc43Fon.jpg",
+          "popularity": 1.57
+        },
+        {
+          "id": 256242,
+          "title": "Cortina de Fumaça",
+          "original_title": "Cortina de Fumaça",
+          "release_date": "2011-10-28",
+          "poster_path": "/vFQtralVNLc1KovPqhhjNPGbUsI.jpg",
+          "popularity": 0.5954
+        },
+        {
+          "id": 583703,
+          "title": "Marie Curie, au-delà du mythe",
+          "original_title": "Marie Curie, au-delà du mythe",
+          "release_date": "2011-10-15",
+          "poster_path": "/skEDyGOQ2zjdkcvrB26Ynvaaev3.jpg",
+          "popularity": 0.6076
+        },
+        {
+          "id": 395407,
+          "title": "Bruta Aventura em Versos",
+          "original_title": "Bruta Aventura em Versos",
+          "release_date": "2011-10-10",
+          "poster_path": "/6uljcF1dnpxivJgmIfs5hohVjxv.jpg",
+          "popularity": 0.6158
+        },
+        {
+          "id": 153412,
+          "title": "A Casa Azul de Frida Kahlo",
+          "original_title": "Chez Frida Kahlo",
+          "release_date": "2011-09-29",
+          "poster_path": "/bA4IjbAmBEmJOJTYWClWFtPImT9.jpg",
+          "popularity": 0.8319
+        },
+        {
+          "id": 773134,
+          "title": "Coração do Samba",
+          "original_title": "Coração do Samba",
+          "release_date": "2011-07-07",
+          "poster_path": "/aNmT3pBp7Vy2dBQuzaBLRkzWLIG.jpg",
+          "popularity": 0.8455
+        },
+        {
+          "id": 175375,
+          "title": "Vocacional: Uma Aventura Humana",
+          "original_title": "Vocacional: Uma Aventura Humana",
+          "release_date": "2011-07-07",
+          "poster_path": "/qoxK6d8Z69a9VtmCAgE1tzVLtaP.jpg",
+          "popularity": 0.7303
+        },
+        {
+          "id": 151516,
+          "title": "Diário de Uma Busca",
+          "original_title": "Diário de Uma Busca",
+          "release_date": "2011-06-22",
+          "poster_path": "/vTUHA4Rxb0Ta6bNppxl1fGJwcbp.jpg",
+          "popularity": 0.7756
+        },
+        {
+          "id": 79893,
+          "title": "Quebrando o Tabu",
+          "original_title": "Quebrando o Tabu",
+          "release_date": "2011-06-03",
+          "poster_path": "/70Z5561k6BExj7XkNrIvNtweMLy.jpg",
+          "popularity": 1.9772
+        },
+        {
+          "id": 57276,
+          "title": "Pina",
+          "original_title": "Pina",
+          "release_date": "2011-02-24",
+          "poster_path": "/cHNbFGbVpF39yoYa82r3MLYqFl7.jpg",
+          "popularity": 2.6457
+        },
+        {
+          "id": 238528,
+          "title": "Tancredo - A Travessia",
+          "original_title": "Tancredo - A Travessia",
+          "release_date": "2011-01-01",
+          "poster_path": "/n2jOPYPjbiZIMldbovYxJqaTuuW.jpg",
+          "popularity": 0.7657
+        },
+        {
+          "id": 851304,
+          "title": "A Ruptura Impressionista",
+          "original_title": "Le Scandale Impressionniste",
+          "release_date": "2010-09-13",
+          "poster_path": "/o1h9mSkEOQh8qgeYgtMDGFdi2u2.jpg",
+          "popularity": 0.7472
+        },
+        {
+          "id": 618823,
+          "title": "Augusto Boal e o Teatro do Oprimido",
+          "original_title": "Augusto Boal e o Teatro do Oprimido",
+          "release_date": "2010-03-04",
+          "poster_path": "/cFDEuSQWbYkh0H82eEfcRT5qPlL.jpg",
+          "popularity": 0.7874
+        },
+        {
+          "id": 305979,
+          "title": "Magritte, le jour et la nuit",
+          "original_title": "Magritte, le jour et la nuit",
+          "release_date": "2009-06-04",
+          "poster_path": "/cbeIV2B4K76hMOQu2cZ6PvovPv3.jpg",
+          "popularity": 0.9574
+        },
+        {
+          "id": 172293,
+          "title": "Palavra (En)Cantada",
+          "original_title": "Palavra (En)Cantada",
+          "release_date": "2009-03-13",
+          "poster_path": "/yJus0ZvjGOuPGx9SNqzwSHqDJaA.jpg",
+          "popularity": 0.8969
+        },
+        {
+          "id": 157291,
+          "title": "Utopia e Barbárie",
+          "original_title": "Utopia e Barbárie",
+          "release_date": "2009-01-10",
+          "poster_path": "/2NOHayZhy5oVgOvXoGBQtljkiTi.jpg",
+          "popularity": 0.7221
+        },
+        {
+          "id": 259560,
+          "title": "Chomsky & Cie",
+          "original_title": "Chomsky & Cie",
+          "release_date": "2008-11-26",
+          "poster_path": "/7OJskye8nBfLmlWB4fKSuY9R0VX.jpg",
+          "popularity": 1.676
+        }
+      ]
+    },
+    "/discover/movie?include_adult=false&language=pt-BR&page=10&sort_by=primary_release_date.desc&watch_region=BR&with_watch_monetization_types=undefined&with_watch_providers=2159": {
+      "page": 10,
+      "total_pages": 11,
+      "total_results": 210,
+      "results": [
+        {
+          "id": 147935,
+          "title": "Marisa Monte: Infinito ao Meu Redor",
+          "original_title": "Marisa Monte: Infinito ao Meu Redor",
+          "release_date": "2008-11-07",
+          "poster_path": "/aB79zRN33unbLXXEAEjcDk2C6tp.jpg",
+          "popularity": 0.8285
+        },
+        {
+          "id": 169275,
+          "title": "O Mistério do Samba",
+          "original_title": "O Mistério do Samba",
+          "release_date": "2008-09-05",
+          "poster_path": "/s2lS5pi8toAK9abaXn9USIApJCv.jpg",
+          "popularity": 1.5866
+        },
+        {
+          "id": 353780,
+          "title": "Condor",
+          "original_title": "Condor",
+          "release_date": "2007-10-02",
+          "poster_path": "/5MyWttDueNJE6jFGgyrQDTRYHoN.jpg",
+          "popularity": 0.6159
+        },
+        {
+          "id": 126043,
+          "title": "Cartola - Música para os Olhos",
+          "original_title": "Cartola - Música para os Olhos",
+          "release_date": "2007-04-06",
+          "poster_path": "/M60SG2QJ7Gf3vaMPmsfpe0BQHb.jpg",
+          "popularity": 1.2099
+        },
+        {
+          "id": 148183,
+          "title": "Oscar Niemeyer: A Vida é Um Sopro",
+          "original_title": "Oscar Niemeyer: A Vida é Um Sopro",
+          "release_date": "2007-01-14",
+          "poster_path": "/kdP8NL5wzkBsGo0DRzNV5EXvmQN.jpg",
+          "popularity": 1.2297
+        },
+        {
+          "id": 267329,
+          "title": "Hércules 56",
+          "original_title": "Hércules 56",
+          "release_date": "2006-11-28",
+          "poster_path": "/9KIW4CoLBDRNT5tRZWAPIfpyAnm.jpg",
+          "popularity": 0.9674
+        },
+        {
+          "id": 173722,
+          "title": "Serras da Desordem",
+          "original_title": "Serras da Desordem",
+          "release_date": "2006-03-28",
+          "poster_path": "/qjpCuaTuL3XpxVVvoqWhqxR2Rm9.jpg",
+          "popularity": 0.8248
+        },
+        {
+          "id": 68169,
+          "title": "Pelé Eterno",
+          "original_title": "Pelé Eterno",
+          "release_date": "2004-06-25",
+          "poster_path": "/qxg4t41bE9PmjLUXkkLb7irD7Wu.jpg",
+          "popularity": 1.2331
+        },
+        {
+          "id": 11358,
+          "title": "Com as Próprias Mãos",
+          "original_title": "Walking Tall",
+          "release_date": "2004-04-02",
+          "poster_path": "/mrLCQoUqDGoAxkbbJHvQAIBtmry.jpg",
+          "popularity": 6.8297
+        },
+        {
+          "id": 296397,
+          "title": "Recife/Sevilha, João Cabral de Melo Neto",
+          "original_title": "Recife/Sevilha, João Cabral de Melo Neto",
+          "release_date": "2003-11-06",
+          "poster_path": "/meHgXdFR1VU26Pgy6cQayATQ5GE.jpg",
+          "popularity": 1.2583
+        },
+        {
+          "id": 40680,
+          "title": "Tribalistas",
+          "original_title": "Tribalistas",
+          "release_date": "2002-11-05",
+          "poster_path": "/1TAh2e1OlE23vmkflPxOv11yVjo.jpg",
+          "popularity": 0.9202
+        },
+        {
+          "id": 260994,
+          "title": "Onde a Terra Acaba",
+          "original_title": "Onde a Terra Acaba",
+          "release_date": "2002-07-07",
+          "poster_path": "/mi6aPu0zTyu9BcP4lbalUmbMdFN.jpg",
+          "popularity": 1.1383
+        },
+        {
+          "id": 353089,
+          "title": "O Risco: Lúcio Costa e a Utopia Moderna",
+          "original_title": "O Risco: Lúcio Costa e a Utopia Moderna",
+          "release_date": "2002-07-01",
+          "poster_path": "/3Uh6w0lFF7xdHwACtmbDORv9K8H.jpg",
+          "popularity": 0.8078
+        },
+        {
+          "id": 291938,
+          "title": "Amyr Klink - Mar sem Fim",
+          "original_title": "Amyr Klink - Mar sem Fim",
+          "release_date": "2002-05-19",
+          "poster_path": "/scOOZrFsBesfs7ZCbuBastFd2ne.jpg",
+          "popularity": 0.5212
+        },
+        {
+          "id": 40500,
+          "title": "Marisa Monte: Memórias, Crônicas e Declarações de Amor",
+          "original_title": "Marisa Monte: Memórias, Crônicas e Declarações de Amor",
+          "release_date": "2001-12-06",
+          "poster_path": "/le1jazyCbkjnwphbiGiCi8PjnTD.jpg",
+          "popularity": 0.7861
+        },
+        {
+          "id": 361285,
+          "title": "Chico e as Cidades",
+          "original_title": "Chico e as Cidades",
+          "release_date": "1999-01-02",
+          "poster_path": "/4SkLHKdPMfQ4XeS0EJafMJhNz9b.jpg",
+          "popularity": 1.2118
+        },
+        {
+          "id": 283002,
+          "title": "Pierre Verger: Mensageiro Entre Dois Mundos",
+          "original_title": "Pierre Verger: Mensageiro Entre Dois Mundos",
+          "release_date": "1998-12-31",
+          "poster_path": "/gP8Bc6lWpDwxDu9NScEm3IZeOOv.jpg",
+          "popularity": 0.8613
+        },
+        {
+          "id": 147932,
+          "title": "Marisa Monte: Barulhinho Bom - Uma Viagem Musical",
+          "original_title": "Marisa Monte: Barulhinho Bom - Uma Viagem Musical",
+          "release_date": "1997-12-09",
+          "poster_path": "/rFn8G6mqej4xgJKmIxxmWRqov79.jpg",
+          "popularity": 0.7763
+        },
+        {
+          "id": 422968,
+          "title": "Dib",
+          "original_title": "Dib",
+          "release_date": "1997-01-02",
+          "poster_path": "/9FnG8gwWzjmTx96I7rpNc67O293.jpg",
+          "popularity": 0.882
+        },
+        {
+          "id": 269474,
+          "title": "Gilberto Gil: Tempo Rei",
+          "original_title": "Gilberto Gil: Tempo Rei",
+          "release_date": "1996-01-01",
+          "poster_path": "/zcI54dGgLNtUEHjrjXEb2jCatqp.jpg",
+          "popularity": 1.1187
+        }
+      ]
+    },
+    "/discover/movie?include_adult=false&language=pt-BR&page=11&sort_by=primary_release_date.desc&watch_region=BR&with_watch_monetization_types=undefined&with_watch_providers=2159": {
+      "page": 11,
+      "total_pages": 11,
+      "total_results": 210,
+      "results": [
+        {
+          "id": 1096783,
+          "title": "Lina Bo Bardi",
+          "original_title": "Lina Bo Bardi",
+          "release_date": "1993-08-16",
+          "poster_path": "/cp5IDR3f32BQRMy136AsahffcLV.jpg",
+          "popularity": 0.9321
+        },
+        {
+          "id": 149949,
+          "title": "Nina Simone, A lenda",
+          "original_title": "Nina Simone: La légende",
+          "release_date": "1992-06-13",
+          "poster_path": "/ehYdQtwcNLc0VEQwHtQAEPsWQn6.jpg",
+          "popularity": 1.4981
+        },
+        {
+          "id": 147934,
+          "title": "Marisa Monte: Mais",
+          "original_title": "Marisa Monte: Mais",
+          "release_date": "1991-10-27",
+          "poster_path": "/4ipQfcmoIPFj62rA36qHUG4PLxi.jpg",
+          "popularity": 1.219
+        },
+        {
+          "id": 211880,
+          "title": "Marisa Monte: MM ao Vivo",
+          "original_title": "Marisa Monte: MM ao Vivo",
+          "release_date": "1989-12-04",
+          "poster_path": "/m9yWuofGuES1usfjdGMsmgpqN2y.jpg",
+          "popularity": 0.9952
+        },
+        {
+          "id": 438789,
+          "title": "Ôrí",
+          "original_title": "Ôrí",
+          "release_date": "1989-09-28",
+          "poster_path": "/qavhdOojtIrISDJPPZOrvMMx0Le.jpg",
+          "popularity": 3.7288
+        },
+        {
+          "id": 86320,
+          "title": "Cabra Marcado Para Morrer",
+          "original_title": "Cabra Marcado Para Morrer",
+          "release_date": "1984-12-03",
+          "poster_path": "/fdll4h8DHM4W1AXDh44WlfvY1rC.jpg",
+          "popularity": 1.3851
+        },
+        {
+          "id": 272399,
+          "title": "Os Anos JK: Uma Trajetória Política",
+          "original_title": "Os Anos JK: Uma Trajetória Política",
+          "release_date": "1980-01-01",
+          "poster_path": "/daq7OuwrfFXDxuEw8Mn4iy7SsAG.jpg",
+          "popularity": 0.6131
+        },
+        {
+          "id": 324447,
+          "title": "Partido Alto",
+          "original_title": "Partido Alto",
+          "release_date": "1976-08-18",
+          "poster_path": "/f6n6Q67XDf248IMUi6Ff5saXqWH.jpg",
+          "popularity": 0.7066
+        },
+        {
+          "id": 328266,
+          "title": "Bethânia Bem de Perto: A Propósito de um Show",
+          "original_title": "Bethânia Bem de Perto: A Propósito de um Show",
+          "release_date": "1966-05-27",
+          "poster_path": "/89A66cXbYmrh66LaEEOtjaKdcf9.jpg",
+          "popularity": 0.6227
+        },
+        {
+          "id": 652960,
+          "title": "O Astronauta Tupy",
+          "original_title": "O Astronauta Tupy",
+          "release_date": "",
+          "poster_path": "/l67G104hAymgQFcgH5OgiwZXYEo.jpg",
+          "popularity": 0.4452
+        }
+      ]
+    },
+    "/movie/1568158?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1568158,
+      "title": "Carolina Maria de Jesus",
+      "original_title": "Carolina Maria de Jesus",
+      "release_date": "2026-11-19",
+      "poster_path": null,
+      "popularity": 1.1481,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Jeferson De"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2026
+    },
+    "/movie/1630527?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1630527,
+      "title": "Da Fome ao Sonho",
+      "original_title": "Da Fome ao Sonho",
+      "release_date": "2026-02-11",
+      "poster_path": "/rvxJou2HXEeG5VFYlHyNepfIFqv.jpg",
+      "popularity": 1.1751,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Paula Gaitán"
+          },
+          {
+            "job": "Director",
+            "name": "Eryk Rocha"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2026
+    },
+    "/movie/1608797?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1608797,
+      "title": "Groenlândia: O Eldorado do Gelo",
+      "original_title": "Groenland, L'Eldorado des glaces",
+      "release_date": "2025-12-23",
+      "poster_path": "/eyqqICems4onXWNSSZJWzER0jjg.jpg",
+      "popularity": 3.8693,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Jean-Yves Cauchard"
+          },
+          {
+            "job": "Director",
+            "name": "Vivien Meltz"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt39300785"
+      },
+      "earliest_release_year": 2025
+    },
+    "/movie/1594659?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1594659,
+      "title": "A Cidade que Ainda Sonha",
+      "original_title": "A Cidade que Ainda Sonha",
+      "release_date": "2025-12-08",
+      "poster_path": "/jV56uStfbLJTZHtXXWATlFVd9dC.jpg",
+      "popularity": 0.6045,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Marco Aurélio Ribeiro"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2025
+    },
+    "/movie/1543093?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1543093,
+      "title": "Cadernos Negros",
+      "original_title": "Cadernos Negros",
+      "release_date": "2025-10-19",
+      "poster_path": "/vFriEIlkWrHPgkNIRn1zze5fhsi.jpg",
+      "popularity": 1.7509,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Joel Zito Araújo"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt38514698"
+      },
+      "earliest_release_year": 2025
+    },
+    "/movie/1564399?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1564399,
+      "title": "Gilberto Gil: Tempo Rei - A Última Turnê",
+      "original_title": "Gilberto Gil: Tempo Rei - A Última Turnê",
+      "release_date": "2025-10-18",
+      "poster_path": "/4ULPePyuu1FRBzi6tJ6BoC7Hb62.jpg",
+      "popularity": 0.6921,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2025
+    },
+    "/movie/1460390?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1460390,
+      "title": "Cazuza: Boas Novas",
+      "original_title": "Cazuza: Boas Novas",
+      "release_date": "2025-07-17",
+      "poster_path": "/3K65Ikh2pe87GARhPXHlsDsKGqm.jpg",
+      "popularity": 1.2069,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Nilo Romero"
+          },
+          {
+            "job": "Director",
+            "name": "Roberto Moret"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt37172283"
+      },
+      "earliest_release_year": 2025
+    },
+    "/movie/1462357?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1462357,
+      "title": "Watoriki - Conversa com Davi Kopenawa",
+      "original_title": "Watoriki - Conversa com Davi Kopenawa",
+      "release_date": "2025-04-18",
+      "poster_path": "/qN1LHOOyuRoby0awMFXikDpRkcj.jpg",
+      "popularity": 1.2027,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Eryk Rocha"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2025
+    },
+    "/movie/1430149?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1430149,
+      "title": "We Want the Funk!",
+      "original_title": "We Want the Funk!",
+      "release_date": "2025-04-08",
+      "poster_path": "/hJtko6EIcE280ZdVnP358or870T.jpg",
+      "popularity": 2.0723,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Stanley Nelson"
+          },
+          {
+            "job": "Director",
+            "name": "Nicole London"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt36325769"
+      },
+      "earliest_release_year": 2025
+    },
+    "/movie/1459709?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1459709,
+      "title": "A Bahia Me Fez Assim",
+      "original_title": "A Bahia Me Fez Assim",
+      "release_date": "2025-04-04",
+      "poster_path": "/lLgRVHa0zk80ccdOosBJD5ndNFk.jpg",
+      "popularity": 0.753,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Sérgio Machado"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2025
+    },
+    "/movie/1451469?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1451469,
+      "title": "A Escrita Delas",
+      "original_title": "A Escrita Delas",
+      "release_date": "2025-03-27",
+      "poster_path": "/desFkXpwk3xuybIQKGcNG8EM9pb.jpg",
+      "popularity": 0.9464,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Vanessa de Araújo Souza"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2025
+    },
+    "/movie/1416427?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1416427,
+      "title": "O Outro Lado da Moeda",
+      "original_title": "O Outro Lado da Moeda",
+      "release_date": "2024-11-30",
+      "poster_path": "/dl8DWFVIMgKFWlIkmQ5unBXerro.jpg",
+      "popularity": 0.5226,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Rogério Pixote"
+          },
+          {
+            "job": "Director",
+            "name": "Lí­via Maria Cappelari"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2024
+    },
+    "/movie/1374404?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1374404,
+      "title": "O Menino d’Olho d’Água",
+      "original_title": "O Menino d’Olho d’Água",
+      "release_date": "2024-11-15",
+      "poster_path": "/2BR9gs2NxlEuI9EI9zmMvij0Ec3.jpg",
+      "popularity": 1.0484,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Carolina Sá"
+          },
+          {
+            "job": "Director",
+            "name": "Lírio Ferreira"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt32139294"
+      },
+      "earliest_release_year": 2024
+    },
+    "/movie/1304109?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1304109,
+      "title": "Sem Vergonha",
+      "original_title": "Sem Vergonha",
+      "release_date": "2024-10-20",
+      "poster_path": "/daJ0CYI3wiU75BEfchj2e5EAKAx.jpg",
+      "popularity": 2.1184,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Rafael Saar"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt31310289"
+      },
+      "earliest_release_year": 2024
+    },
+    "/movie/1361306?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1361306,
+      "title": "The Birth of H. Teixeira",
+      "original_title": "O Nascimento de H. Teixeira",
+      "release_date": "2024-10-03",
+      "poster_path": "/pL6VsNHUek68xAfCoEwCFfOZkRl.jpg",
+      "popularity": 0.6277,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Roberta Canuto"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt33723045"
+      },
+      "earliest_release_year": 2024
+    },
+    "/movie/1318389?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1318389,
+      "title": "Clarice Niskier: Teatro dos Pés à Cabeça",
+      "original_title": "Clarice Niskier: Teatro dos Pés à Cabeça",
+      "release_date": "2024-08-15",
+      "poster_path": "/cOQGZ8NNgZ2kFOrSV280I8Xu68Q.jpg",
+      "popularity": 1.3295,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Renata Paschoal"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt33505190"
+      },
+      "earliest_release_year": 2024
+    },
+    "/movie/1317993?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1317993,
+      "title": "Santos Dumont, O Céu na Cabeça",
+      "original_title": "Santos Dumont, O Céu na Cabeça",
+      "release_date": "2024-07-19",
+      "poster_path": "/l3rAcmDdVJpBmCAA7Y9r8c716oZ.jpg",
+      "popularity": 0.7073,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Eder Santos"
+          },
+          {
+            "job": "Director",
+            "name": "Monica Cerqueira"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2024
+    },
+    "/movie/1311806?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1311806,
+      "title": "Alternativos",
+      "original_title": "Alternativos",
+      "release_date": "2024-07-04",
+      "poster_path": "/saWtbgjfUPvYYYSGJWnI5JmI6up.jpg",
+      "popularity": 1.6777,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Adriano Espínola Filho"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2024
+    },
+    "/movie/1262161?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1262161,
+      "title": "Um Filme para Beatrice",
+      "original_title": "Um Filme para Beatrice",
+      "release_date": "2024-04-03",
+      "poster_path": "/sEbFZf3CXWw1HaFHR7DBDMNEp0j.jpg",
+      "popularity": 0.6497,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Helena Solberg"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt33815086"
+      },
+      "earliest_release_year": 2024
+    },
+    "/movie/1201537?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1201537,
+      "title": "Com as Próprias Mãos",
+      "original_title": "Com as Próprias Mãos",
+      "release_date": "2023-12-08",
+      "poster_path": "/lzZxuIXVSlsKrRVZVJbZgdwKPXq.jpg",
+      "popularity": 1.3881,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "José Francisco Tapajós"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2023
+    },
+    "/movie/1193638?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1193638,
+      "title": "Adriana Varejão: Entre Carnes e Mares",
+      "original_title": "Adriana Varejão: Entre Carnes e Mares",
+      "release_date": "2023-10-19",
+      "poster_path": "/7ACn0ihk9HFeKwVQM3UYzWmTrfT.jpg",
+      "popularity": 0.8566,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Andrucha Waddington"
+          },
+          {
+            "job": "Director",
+            "name": "Pedro Buarque de Hollanda"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt34378816"
+      },
+      "earliest_release_year": 2023
+    },
+    "/movie/1177238?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1177238,
+      "title": "Dois Sertões",
+      "original_title": "Dois Sertões",
+      "release_date": "2023-10-09",
+      "poster_path": "/gQZM4RPprGRONqILwKNiIN6wT4S.jpg",
+      "popularity": 1.2631,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Fabiana Leite"
+          },
+          {
+            "job": "Director",
+            "name": "Caio Resende"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2023
+    },
+    "/movie/1186666?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1186666,
+      "title": "Arte da Diplomacia",
+      "original_title": "Arte da Diplomacia",
+      "release_date": "2023-10-05",
+      "poster_path": "/bf91GylLaHsTNVB17shxxXrY0Pa.jpg",
+      "popularity": 0.8597,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Zeca Brito"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2023
+    },
+    "/movie/1177246?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1177246,
+      "title": "Mulheres Radicais",
+      "original_title": "Mulheres Radicais",
+      "release_date": "2023-10-05",
+      "poster_path": "/xo1kBd4srulvGU0yOCrJf9Vbrd.jpg",
+      "popularity": 0.7045,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Isabel Nascimento Silva"
+          },
+          {
+            "job": "Director",
+            "name": "Isabel de Luca"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt30767512"
+      },
+      "earliest_release_year": 2023
+    },
+    "/movie/1140562?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1140562,
+      "title": "Dolores Duran: O Coração da Noite",
+      "original_title": "Dolores Duran: O Coração da Noite",
+      "release_date": "2023-06-15",
+      "poster_path": "/4OPMWm4qVnAhfUKENngxe8cudxM.jpg",
+      "popularity": 1.0812,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Juliana Barauna"
+          },
+          {
+            "job": "Director",
+            "name": "Igor Miguel"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2023
+    },
+    "/movie/1141238?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1141238,
+      "title": "Chiquinha Gonzaga - Música Substantivo Feminino",
+      "original_title": "Chiquinha Gonzaga - Música Substantivo Feminino",
+      "release_date": "2023-06-14",
+      "poster_path": "/rTpMDIm54FPiSDPRhPYkDWQ4G1m.jpg",
+      "popularity": 0.7129,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Igor Miguel"
+          },
+          {
+            "job": "Director",
+            "name": "Juliana Barauna"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2023
+    },
+    "/movie/1135644?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1135644,
+      "title": "Semana Sem Fim",
+      "original_title": "Semana Sem Fim",
+      "release_date": "2023-06-06",
+      "poster_path": "/nJGL5wFssqdj9Es2rcODMTStImc.jpg",
+      "popularity": 1.2048,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Fabiana Werneck"
+          },
+          {
+            "job": "Director",
+            "name": "Marcelo Machado"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2023
+    },
+    "/movie/745885?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 745885,
+      "title": "Jair Rodrigues - Deixa Que Digam",
+      "original_title": "Jair Rodrigues - Deixa Que Digam",
+      "release_date": "2023-04-27",
+      "poster_path": "/Ay38DAnwjUzSbK3TI3SXpSCTJb.jpg",
+      "popularity": 0.915,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Rubens Rewald"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt13935904"
+      },
+      "earliest_release_year": 2020
+    },
+    "/movie/1033322?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1033322,
+      "title": "Biocêntricos",
+      "original_title": "Biocêntricos",
+      "release_date": "2023-03-16",
+      "poster_path": "/lP20tU0BDFHtaWjI6VuXiGH99ir.jpg",
+      "popularity": 1.5364,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Ataliba Benaim"
+          },
+          {
+            "job": "Director",
+            "name": "Fernanda Heinz Figueiredo"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt28536342"
+      },
+      "earliest_release_year": 2022
+    },
+    "/movie/783427?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 783427,
+      "title": "O Filme Perdido de Nuremberg",
+      "original_title": "Nuremberg : des images pour l'histoire",
+      "release_date": "2023-01-27",
+      "poster_path": "/okNiHkGMvlwAsG91BFJ97VwlbRx.jpg",
+      "popularity": 1.8445,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Jean-Christophe Klotz"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt13836144"
+      },
+      "earliest_release_year": 2021
+    },
+    "/movie/1474401?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1474401,
+      "title": "Fellini by Fellini",
+      "original_title": "Fellini by Fellini",
+      "release_date": "2023-01-01",
+      "poster_path": null,
+      "popularity": 0.7303,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2023
+    },
+    "/movie/1068034?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1068034,
+      "title": "De longe toda serra é azul",
+      "original_title": "De longe toda serra é azul",
+      "release_date": "2022-12-27",
+      "poster_path": "/5FylMnfBNg9VXcXo07sD5XotgzT.jpg",
+      "popularity": 0.6009,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Neto Borges"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt26342302"
+      },
+      "earliest_release_year": 2022
+    },
+    "/movie/1033349?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1033349,
+      "title": "Lupicínio Rodrigues: Confissões de um Sofredor",
+      "original_title": "Lupicínio Rodrigues: Confissões de um Sofredor",
+      "release_date": "2022-10-22",
+      "poster_path": "/tKtmKKn3mGYbkGy31ckTfJ1VjL8.jpg",
+      "popularity": 0.7323,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Alfredo Manevy"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt34459147"
+      },
+      "earliest_release_year": 2022
+    },
+    "/movie/1030583?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1030583,
+      "title": "Não é a Primeira Vez que Lutamos pelo Nosso Amor",
+      "original_title": "Não é a Primeira Vez que Lutamos pelo Nosso Amor",
+      "release_date": "2022-10-06",
+      "poster_path": "/w4baC0suE1ue3zQYbylKgSma7jf.jpg",
+      "popularity": 1.0398,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Luis Carlos de Alencar"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt27329068"
+      },
+      "earliest_release_year": 2022
+    },
+    "/movie/1150453?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1150453,
+      "title": "Verde-Esperanza: Aborto Legal na América Latina",
+      "original_title": "Verde-Esperanza: Aborto Legal na América Latina",
+      "release_date": "2022-09-22",
+      "poster_path": "/5UiCtxfU4jTKpNrwSObWp8hvwdw.jpg",
+      "popularity": 1.0116,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Maria Lutterbach"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2022
+    },
+    "/movie/1016206?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1016206,
+      "title": "Miúcha, a Voz da Bossa Nova",
+      "original_title": "Miúcha, a Voz da Bossa Nova",
+      "release_date": "2022-09-10",
+      "poster_path": "/uX2iZcu99kJ83900J6V6MHHNcYb.jpg",
+      "popularity": 0.9431,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Liliane Mutti"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt21956346"
+      },
+      "earliest_release_year": 2022
+    },
+    "/movie/952392?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 952392,
+      "title": "O Presidente Improvável",
+      "original_title": "O Presidente Improvável",
+      "release_date": "2022-03-31",
+      "poster_path": "/oug8RzS5stfwUi0rUIFvRGod1hn.jpg",
+      "popularity": 1.3022,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Belisario Franca"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt20301126"
+      },
+      "earliest_release_year": 2022
+    },
+    "/movie/1441687?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1441687,
+      "title": "Lobby do Batom",
+      "original_title": "Lobby do Batom",
+      "release_date": "2022-03-28",
+      "poster_path": "/sinVKUqq0r4sKIzCAgUKj8Z2QPt.jpg",
+      "popularity": 1.0904,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Gabriela Gastal"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt37848448"
+      },
+      "earliest_release_year": 2022
+    },
+    "/movie/938381?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 938381,
+      "title": "Melvin Van Peebles O Nascimento de um Heroi Negro",
+      "original_title": "Naissance d'un héros noir au cinéma : Sweet Sweetback",
+      "release_date": "2022-03-16",
+      "poster_path": "/nJuZ0M96oN2hXUsf0Ei0eWdMv7M.jpg",
+      "popularity": 0.9395,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Catherine Bernstein"
+          },
+          {
+            "job": "Director",
+            "name": "Martine Delumeau"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt15433482"
+      },
+      "earliest_release_year": 2022
+    },
+    "/movie/882829?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 882829,
+      "title": "Ziraldo: Era Uma Vez Um Menino",
+      "original_title": "Ziraldo: Era Uma Vez Um Menino",
+      "release_date": "2021-12-16",
+      "poster_path": "/f9yMYYCugtaT8i4HngnZK59rTcE.jpg",
+      "popularity": 0.9954,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Fabrizia Pinto"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt20564586"
+      },
+      "earliest_release_year": 2021
+    },
+    "/movie/1237219?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1237219,
+      "title": "Expedição Roosevelt Rondon",
+      "original_title": "Expedição Roosevelt Rondon",
+      "release_date": "2021-11-12",
+      "poster_path": "/hd8Wrtv3y2VOTjk40wsTfC1Tfz4.jpg",
+      "popularity": 0.5258,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2021
+    },
+    "/movie/900023?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 900023,
+      "title": "A Mãe de Todas as Lutas",
+      "original_title": "A Mãe de Todas as Lutas",
+      "release_date": "2021-11-06",
+      "poster_path": "/1AHVyjmjJKUIjryArHFWKoYCWpS.jpg",
+      "popularity": 0.6537,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Susanna Lira"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt13519428"
+      },
+      "earliest_release_year": 2021
+    },
+    "/movie/882994?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 882994,
+      "title": "Antígona 442 A.C.",
+      "original_title": "Antígona 442 A.C.",
+      "release_date": "2021-10-21",
+      "poster_path": "/ubcUwI6AyIFgzRF1FEgDfFuJwtO.jpg",
+      "popularity": 0.9353,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Maurício Farias"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt16951674"
+      },
+      "earliest_release_year": 2021
+    },
+    "/movie/920639?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 920639,
+      "title": "Romance de Formação",
+      "original_title": "Romance de Formação",
+      "release_date": "2021-09-23",
+      "poster_path": "/vEH7ADIWk6GGeLkqKgB6PApVoIZ.jpg",
+      "popularity": 0.5934,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Cauli Fernandes"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2021
+    },
+    "/movie/872197?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 872197,
+      "title": "Danças Negras",
+      "original_title": "Danças Negras",
+      "release_date": "2021-09-09",
+      "poster_path": "/47v2Hc9wFR46kVGsTMr172WGn4k.jpg",
+      "popularity": 2.2024,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Firmino Pitanga"
+          },
+          {
+            "job": "Director",
+            "name": "João Marcos Nascimento"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt16612032"
+      },
+      "earliest_release_year": 2021
+    },
+    "/movie/841986?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 841986,
+      "title": "Ventos Que Sopram Maranhão",
+      "original_title": "Ventos Que Sopram Maranhão",
+      "release_date": "2021-06-17",
+      "poster_path": "/nUhiwhJvBELOiigbf3xCTC8MDaF.jpg",
+      "popularity": 1.0314,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Neto Borges"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt14917992"
+      },
+      "earliest_release_year": 2021
+    },
+    "/movie/810210?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 810210,
+      "title": "Dois Tempos",
+      "original_title": "Dois Tempos",
+      "release_date": "2021-04-12",
+      "poster_path": "/auBZm1FMdwwAMmvNY1bOrZWaEQo.jpg",
+      "popularity": 2.1974,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Pablo Francischelli"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt14428040"
+      },
+      "earliest_release_year": 2021
+    },
+    "/movie/810213?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 810213,
+      "title": "Paulo César Pinheiro - Letra e Alma",
+      "original_title": "Paulo César Pinheiro - Letra e Alma",
+      "release_date": "2021-04-11",
+      "poster_path": "/vx2ck3JYWzJVScQOdNAnZWB4S2t.jpg",
+      "popularity": 0.9884,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Andrea Prates"
+          },
+          {
+            "job": "Director",
+            "name": "Cleisson Vidal"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt14438316"
+      },
+      "earliest_release_year": 2021
+    },
+    "/movie/808624?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 808624,
+      "title": "O Bom Cinema",
+      "original_title": "O Bom Cinema",
+      "release_date": "2021-03-18",
+      "poster_path": "/rKKZwBgmEO10efhYg4za3vzRRwo.jpg",
+      "popularity": 0.8404,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Eugênio Puppo"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt15727636"
+      },
+      "earliest_release_year": 2021
+    },
+    "/movie/801019?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 801019,
+      "title": "Depois da Primavera",
+      "original_title": "Depois da Primavera",
+      "release_date": "2021-02-27",
+      "poster_path": "/uU4gjSVJhbud3vXZFvLWeSqGg8y.jpg",
+      "popularity": 1.3905,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Pedro Rossi"
+          },
+          {
+            "job": "Director",
+            "name": "Isabel Joffily"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2021
+    },
+    "/movie/791389?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 791389,
+      "title": "Torquato, Imagem da Incompletude",
+      "original_title": "Torquato, Imagem da Incompletude",
+      "release_date": "2020-12-16",
+      "poster_path": "/wDv6FKwBDgbCYtBJr3FVQuQ35zG.jpg",
+      "popularity": 0.5856,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Guga Carvalho"
+          },
+          {
+            "job": "Director",
+            "name": "Danilo Carvalho"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt12714696"
+      },
+      "earliest_release_year": 2020
+    },
+    "/movie/931088?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 931088,
+      "title": "Festa de Iemanjá",
+      "original_title": "Festa de Iemanjá",
+      "release_date": "2020-11-20",
+      "poster_path": "/8h50YRDk0rPoBlfwbszZrh75OmT.jpg",
+      "popularity": 0.8372,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Fabíola Aquino"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2020
+    },
+    "/movie/752663?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 752663,
+      "title": "Todas as Melodias",
+      "original_title": "Todas as Melodias",
+      "release_date": "2020-10-22",
+      "poster_path": "/e0XTsdpZq9Uwflj0tSU9MjrwzJb.jpg",
+      "popularity": 1.081,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Mariana Marinho"
+          },
+          {
+            "job": "Director",
+            "name": "Viviane D'Avilla"
+          },
+          {
+            "job": "Director",
+            "name": "Marco Abujamra"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt13338422"
+      },
+      "earliest_release_year": 2020
+    },
+    "/movie/752657?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 752657,
+      "title": "Glauber, Claro",
+      "original_title": "Glauber, Claro",
+      "release_date": "2020-10-22",
+      "poster_path": "/iiUmR6SGCXuAwtanwFsC5g3dwk4.jpg",
+      "popularity": 2.1798,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "César Meneghetti"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt13219112"
+      },
+      "earliest_release_year": 2020
+    },
+    "/movie/689705?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 689705,
+      "title": "Kubrick por Kubrick",
+      "original_title": "Kubrick by Kubrick",
+      "release_date": "2020-10-22",
+      "poster_path": "/m4hC8loafr9Ch8ExF9Mibp2PRoD.jpg",
+      "popularity": 2.7347,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Grégory Monro"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt11905514"
+      },
+      "earliest_release_year": 2020
+    },
+    "/movie/745887?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 745887,
+      "title": "Os Quatro Paralamas",
+      "original_title": "Os Quatro Paralamas",
+      "release_date": "2020-09-26",
+      "poster_path": "/Aby3sHQM9G4ugY9rW5n3gzrXecJ.jpg",
+      "popularity": 0.8841,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Roberto Berliner"
+          },
+          {
+            "job": "Director",
+            "name": "Paschoal Samora"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt14356794"
+      },
+      "earliest_release_year": 2020
+    },
+    "/movie/745867?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 745867,
+      "title": "Atravessa a Vida",
+      "original_title": "Atravessa a Vida",
+      "release_date": "2020-09-25",
+      "poster_path": "/1uf9KjMhgmP6xcQ6tesVLjM95c7.jpg",
+      "popularity": 1.0078,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "João Jardim"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt11687852"
+      },
+      "earliest_release_year": 2020
+    },
+    "/movie/766685?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 766685,
+      "title": "Ney - À Flor da Pele",
+      "original_title": "Ney - À Flor da Pele",
+      "release_date": "2020-09-21",
+      "poster_path": "/rsMG00iyaLPl1aEAQmTb52nKjb4.jpg",
+      "popularity": 0.8755,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Felipe Nepomuceno"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt13197974"
+      },
+      "earliest_release_year": 2020
+    },
+    "/movie/742292?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 742292,
+      "title": "Count Basie: Through His Own Eyes",
+      "original_title": "Count Basie: Through His Own Eyes",
+      "release_date": "2020-09-13",
+      "poster_path": "/zCvOauKdLQPzYRApTzEafHJHAgb.jpg",
+      "popularity": 0.9565,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Jeremy Marre"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt11417720"
+      },
+      "earliest_release_year": 2020
+    },
+    "/movie/741213?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 741213,
+      "title": "Neojiba - Música Que Transforma",
+      "original_title": "Neojiba - Música Que Transforma",
+      "release_date": "2020-09-10",
+      "poster_path": "/s1ALoM4pBG6ir2iAqxwHP84FoEs.jpg",
+      "popularity": 0.8057,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "George Walker Torres"
+          },
+          {
+            "job": "Director",
+            "name": "Sérgio Machado"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt13141790"
+      },
+      "earliest_release_year": 2020
+    },
+    "/movie/741146?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 741146,
+      "title": "Garoto - Vivo Sonhando",
+      "original_title": "Garoto - Vivo Sonhando",
+      "release_date": "2020-09-10",
+      "poster_path": "/p3sdVGKZu2cnive65eU5EUSlOvh.jpg",
+      "popularity": 0.7169,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Rafael Veríssimo"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt18559616"
+      },
+      "earliest_release_year": 2020
+    },
+    "/movie/929009?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 929009,
+      "title": "O Cinema das Mulheres",
+      "original_title": "O Cinema das Mulheres",
+      "release_date": "2020-09-06",
+      "poster_path": "/y7JqMZwhdPLDrxAqd7z9ODpOcz5.jpg",
+      "popularity": 1.015,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Vanessa de Araújo Souza"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2020
+    },
+    "/movie/738739?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 738739,
+      "title": "You Tubers",
+      "original_title": "You Tubers",
+      "release_date": "2020-09-01",
+      "poster_path": "/6HZ3c3DMWzCtfeNajtYDjpnNekl.jpg",
+      "popularity": 1.634,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Sandra Werneck"
+          },
+          {
+            "job": "Director",
+            "name": "Bebeto Abrantes"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt13303296"
+      },
+      "earliest_release_year": 2020
+    },
+    "/movie/1311942?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1311942,
+      "title": "Cannabis: A História Através dos Tempos",
+      "original_title": "Cannabis: Through the Ages",
+      "release_date": "2020-08-25",
+      "poster_path": "/go15o6DPCucQy6hbqYC5WxU1oGb.jpg",
+      "popularity": 0.7052,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Piers Garland"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt14633438"
+      },
+      "earliest_release_year": 2020
+    },
+    "/movie/725486?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 725486,
+      "title": "Truffaut Segredos de um Cineasta",
+      "original_title": "Les secrets de François Truffaut",
+      "release_date": "2020-07-05",
+      "poster_path": "/yKa4EwDJRkajBRsfypdtTkdrHGd.jpg",
+      "popularity": 1.1456,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Grégory Draï"
+          },
+          {
+            "job": "Director",
+            "name": "Jérôme Bermyn"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2020
+    },
+    "/movie/1451547?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1451547,
+      "title": "Sobre Sonhos e Liberdade",
+      "original_title": "Sobre Sonhos e Liberdade",
+      "release_date": "2020-06-25",
+      "poster_path": "/h1YnoCJjWh7JYdN1Iq6DuHX5nYl.jpg",
+      "popularity": 0.4284,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": "tt12712236"
+      },
+      "earliest_release_year": 2020
+    },
+    "/movie/746124?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 746124,
+      "title": "O Índio Cor de Rosa Contra a Fera Invisível: A Peleja de Noel Nutels",
+      "original_title": "O Índio Cor de Rosa Contra a Fera Invisível: A Peleja de Noel Nutels",
+      "release_date": "2020-03-15",
+      "poster_path": "/lAmAyvrKvfkbDonZC758HwKVXIu.jpg",
+      "popularity": 0.8315,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Tiago Carvalho"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt12271116"
+      },
+      "earliest_release_year": 2020
+    },
+    "/movie/651898?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 651898,
+      "title": "Favela é Moda",
+      "original_title": "Favela é Moda",
+      "release_date": "2019-12-09",
+      "poster_path": "/h8sGa0SZ9en5PBg9AEveCSIzJWw.jpg",
+      "popularity": 0.8606,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Emílio Domingos"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt12273578"
+      },
+      "earliest_release_year": 2019
+    },
+    "/movie/651877?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 651877,
+      "title": "Movimentos do Invisível",
+      "original_title": "Movimentos do Invisível",
+      "release_date": "2019-12-09",
+      "poster_path": "/lEhx67gNBMeIKL3jEGUIoh2quZ2.jpg",
+      "popularity": 0.7462,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Flavia Guayer"
+          },
+          {
+            "job": "Director",
+            "name": "Leticia Monte"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt13251676"
+      },
+      "earliest_release_year": 2019
+    },
+    "/movie/651299?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 651299,
+      "title": "Dorivando Saravá, o Preto Que Virou Mar",
+      "original_title": "Dorivando Saravá, o Preto Que Virou Mar",
+      "release_date": "2019-11-29",
+      "poster_path": "/5eRLu0dFiSPGRBfuNdM3MCKcaYa.jpg",
+      "popularity": 0.7776,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Henrique Dantas"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt13099808"
+      },
+      "earliest_release_year": 2019
+    },
+    "/movie/638239?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 638239,
+      "title": "Pessoas - Contar para Viver",
+      "original_title": "Pessoas - Contar para Viver",
+      "release_date": "2019-10-24",
+      "poster_path": "/g9tZHrVRMzrvoCTTQQYna59Etuj.jpg",
+      "popularity": 1.1194,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Marco del Fiol"
+          },
+          {
+            "job": "Director",
+            "name": "Marcelo Machado"
+          },
+          {
+            "job": "Director",
+            "name": "Tatiana Toffoli"
+          },
+          {
+            "job": "Director",
+            "name": "Viviane Ferreira"
+          },
+          {
+            "job": "Director",
+            "name": "Pedro Cezar"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt11090990"
+      },
+      "earliest_release_year": 2019
+    },
+    "/movie/637613?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 637613,
+      "title": "O Mês Que Não Terminou",
+      "original_title": "O Mês Que Não Terminou",
+      "release_date": "2019-10-22",
+      "poster_path": "/fmEXAvVQeJWLWZbKCNcAPK99LCL.jpg",
+      "popularity": 0.723,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Francisco Bosco"
+          },
+          {
+            "job": "Director",
+            "name": "Raul Mourão"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt11689428"
+      },
+      "earliest_release_year": 2019
+    },
+    "/movie/637616?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 637616,
+      "title": "O Paradoxo da Democracia",
+      "original_title": "O Paradoxo da Democracia",
+      "release_date": "2019-10-17",
+      "poster_path": "/gQQPkFYR4w4gsgim6hwgSUOkYZX.jpg",
+      "popularity": 1.2732,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Belisario Franca"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt11235704"
+      },
+      "earliest_release_year": 2019
+    },
+    "/movie/627449?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 627449,
+      "title": "Uruguai na Vanguarda",
+      "original_title": "Uruguai na Vanguarda",
+      "release_date": "2019-09-19",
+      "poster_path": "/5LqF0PDg9mpYIUdeN4yQszwabQd.jpg",
+      "popularity": 0.756,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Marco Antonio Pereira"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2019
+    },
+    "/movie/752600?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 752600,
+      "title": "Soros",
+      "original_title": "Soros",
+      "release_date": "2019-08-31",
+      "poster_path": "/9RRtwWidZRoDaXhno2LmyDovzRm.jpg",
+      "popularity": 1.1121,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Jesse Dylan"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt12913884"
+      },
+      "earliest_release_year": 2019
+    },
+    "/movie/935695?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 935695,
+      "title": "Samba Junino – De Porta Em Porta",
+      "original_title": "Samba Junino – De Porta Em Porta",
+      "release_date": "2019-08-08",
+      "poster_path": "/oPcG9g44kMNTLOsO9bxTJgEpVEj.jpg",
+      "popularity": 0.8438,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Fabíola Aquino"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2019
+    },
+    "/movie/624635?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 624635,
+      "title": "Bob Fosse: It's Showtime!",
+      "original_title": "Bob Fosse: It's Showtime!",
+      "release_date": "2019-08-03",
+      "poster_path": "/lomhum5148r509ct0qSXDycKqxk.jpg",
+      "popularity": 1.2038,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Lucia Helenka"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt10326262"
+      },
+      "earliest_release_year": 2019
+    },
+    "/movie/733709?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 733709,
+      "title": "O Método",
+      "original_title": "O Método",
+      "release_date": "2019-07-10",
+      "poster_path": "/okYtQgJiVCcSyinavVIznAdbXKu.jpg",
+      "popularity": 0.8285,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Carlos Roberto Franke"
+          },
+          {
+            "job": "Director",
+            "name": "Liliana Sulzbach"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt10596876"
+      },
+      "earliest_release_year": 2019
+    },
+    "/movie/734668?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 734668,
+      "title": "Ibiúna, Primavera Brasileira",
+      "original_title": "Ibiúna, Primavera Brasileira",
+      "release_date": "2019-06-20",
+      "poster_path": "/2vluF4SGnCSihbTUEvsfWhL6uTD.jpg",
+      "popularity": 0.5415,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Silvio Tendler"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt11764736"
+      },
+      "earliest_release_year": 2019
+    },
+    "/movie/607947?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 607947,
+      "title": "Alceu Valença - Na Embolada do Tempo",
+      "original_title": "Alceu Valença - Na Embolada do Tempo",
+      "release_date": "2019-06-14",
+      "poster_path": "/52PyW8IieIuj7QInfpvgDYg0t2e.jpg",
+      "popularity": 1.2203,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Paola Vieira"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt12733660"
+      },
+      "earliest_release_year": 2019
+    },
+    "/movie/791410?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 791410,
+      "title": "Fake News - Made in Brazil",
+      "original_title": "Fake News - Made in Brazil",
+      "release_date": "2019-06-11",
+      "poster_path": "/rvnOjkeWKxg9dXj849K2mfj4r2E.jpg",
+      "popularity": 0.6038,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Hermano Beaumont"
+          },
+          {
+            "job": "Director",
+            "name": "Andre Fran"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt9327710"
+      },
+      "earliest_release_year": 2019
+    },
+    "/movie/601613?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 601613,
+      "title": "Banquete Coutinho",
+      "original_title": "Banquete Coutinho",
+      "release_date": "2019-06-05",
+      "poster_path": "/aiQEAQsq5H8AJ5GDIdKi6UcOsP4.jpg",
+      "popularity": 0.6193,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Josafá Veloso"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt10372816"
+      },
+      "earliest_release_year": 2019
+    },
+    "/movie/743785?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 743785,
+      "title": "Your Turn",
+      "original_title": "Your Turn",
+      "release_date": "2019-05-24",
+      "poster_path": "/tW2BfQuWwkghjut4OINn3jK7qT1.jpg",
+      "popularity": 1.3805,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Greta Makena Gibson"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt9642484"
+      },
+      "earliest_release_year": 2019
+    },
+    "/movie/555799?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 555799,
+      "title": "Marcia Haydée: Uma Vida Pela Dança",
+      "original_title": "Marcia Haydée: Uma Vida Pela Dança",
+      "release_date": "2019-04-18",
+      "poster_path": "/3stl0LvE1GuR0PIJ5Wxob3T58dv.jpg",
+      "popularity": 1.9775,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Daniela Kallmann"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt11626768"
+      },
+      "earliest_release_year": 2019
+    },
+    "/movie/573503?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 573503,
+      "title": "Meu Amigo Fela",
+      "original_title": "Meu Amigo Fela",
+      "release_date": "2019-01-26",
+      "poster_path": "/k1fIr6nTPaoct8VQEElHwpLBRRx.jpg",
+      "popularity": 1.2144,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Joel Zito Araújo"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt9736160"
+      },
+      "earliest_release_year": 2019
+    },
+    "/movie/555816?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 555816,
+      "title": "Zuza Homem de Jazz",
+      "original_title": "Zuza Homem de Jazz",
+      "release_date": "2018-11-30",
+      "poster_path": "/5c5jbmRqoolkVqjQdFSnDtd70J1.jpg",
+      "popularity": 0.7033,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Janaina Dalri"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt10880830"
+      },
+      "earliest_release_year": 2018
+    },
+    "/movie/542480?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 542480,
+      "title": "Excelentíssimos",
+      "original_title": "Excelentíssimos",
+      "release_date": "2018-11-22",
+      "poster_path": "/5o0SMnTONlx3qAHCkItm1F1Wv0E.jpg",
+      "popularity": 1.1529,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Douglas Duarte"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt9046772"
+      },
+      "earliest_release_year": 2018
+    },
+    "/movie/633997?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 633997,
+      "title": "Erlon Chaves: O Maestro do Veneno",
+      "original_title": "Erlon Chaves: O Maestro do Veneno",
+      "release_date": "2018-11-20",
+      "poster_path": "/oPNbQRoY065nU3R9prnVO1NE904.jpg",
+      "popularity": 1.5663,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Alessandro Gamo"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2018
+    },
+    "/movie/555812?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 555812,
+      "title": "Tá Rindo de Quê? Humor e Ditadura",
+      "original_title": "Tá Rindo de Quê? Humor e Ditadura",
+      "release_date": "2018-11-09",
+      "poster_path": "/5HYq86yGCD2EDoEY7CsNFfPCCkb.jpg",
+      "popularity": 1.418,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Cláudio Manoel"
+          },
+          {
+            "job": "Director",
+            "name": "Alvaro Campos"
+          },
+          {
+            "job": "Director",
+            "name": "Alê Braga"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2018
+    },
+    "/movie/555810?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 555810,
+      "title": "Rindo à Toa: Humor Sem Limites",
+      "original_title": "Rindo à Toa: Humor Sem Limites",
+      "release_date": "2018-11-09",
+      "poster_path": "/6T2HQavaxwShOXgBZxLbZQViSUW.jpg",
+      "popularity": 1.3246,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Alvaro Campos"
+          },
+          {
+            "job": "Director",
+            "name": "Alê Braga"
+          },
+          {
+            "job": "Director",
+            "name": "Cláudio Manoel"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt17320922"
+      },
+      "earliest_release_year": 2018
+    },
+    "/movie/554976?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 554976,
+      "title": "Clementina",
+      "original_title": "Clementina",
+      "release_date": "2018-11-03",
+      "poster_path": "/pAv95gMY8SDyrCgi49VOMjkc567.jpg",
+      "popularity": 1.9929,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Ana Rieper"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt13297320"
+      },
+      "earliest_release_year": 2018
+    },
+    "/movie/614842?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 614842,
+      "title": "As mil mulheres",
+      "original_title": "As mil mulheres",
+      "release_date": "2018-10-24",
+      "poster_path": "/fSxTOuWvmh8mWluwfAfegm6iA5u.jpg",
+      "popularity": 0.6639,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Rita Toledo"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt8372336"
+      },
+      "earliest_release_year": 2018
+    },
+    "/movie/555430?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 555430,
+      "title": "Com a Palavra, Arnaldo Antunes",
+      "original_title": "Com a Palavra, Arnaldo Antunes",
+      "release_date": "2018-10-19",
+      "poster_path": "/ylHkmOKJwV1g5NKV4JKgfxqsnTB.jpg",
+      "popularity": 1.5023,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Marcelo Machado"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt10865226"
+      },
+      "earliest_release_year": 2018
+    },
+    "/movie/554036?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 554036,
+      "title": "A Última Abolição",
+      "original_title": "A Última Abolição",
+      "release_date": "2018-10-18",
+      "poster_path": "/6vchlq87tC5P3MTZaqJlwvY8ZLS.jpg",
+      "popularity": 0.8892,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Alice Gomes"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt9149314"
+      },
+      "earliest_release_year": 2018
+    },
+    "/movie/544491?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 544491,
+      "title": "Orin: Música Para os Orixás",
+      "original_title": "Orin: Música Para os Orixás",
+      "release_date": "2018-09-12",
+      "poster_path": "/bksWi3Bk5Akt2ShC100fEcSozud.jpg",
+      "popularity": 1.564,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Henrique Duarte"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2018
+    },
+    "/movie/712940?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 712940,
+      "title": "Candeia",
+      "original_title": "Candeia",
+      "release_date": "2018-07-16",
+      "poster_path": "/sJjUk5d5Pum3CL0QBFR5dTzHbvb.jpg",
+      "popularity": 0.8528,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Luiz Antonio Pilar"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt13185652"
+      },
+      "earliest_release_year": 2018
+    },
+    "/movie/522868?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 522868,
+      "title": "Bergman: 100 Anos",
+      "original_title": "Bergman - ett år, ett liv",
+      "release_date": "2018-07-12",
+      "poster_path": "/29n7iICJFwKnNr3ZiwUUtRXYMuT.jpg",
+      "popularity": 2.2456,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Jane Magnusson"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt6109168"
+      },
+      "earliest_release_year": 2018
+    },
+    "/movie/435681?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 435681,
+      "title": "Onde Está Você, João Gilberto?",
+      "original_title": "Where Are You, João Gilberto?",
+      "release_date": "2018-05-05",
+      "poster_path": "/4Q80bIyy3ZRa5ais4MO3ByDQRTO.jpg",
+      "popularity": 0.8949,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Georges Gachot"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt8297816"
+      },
+      "earliest_release_year": 2018
+    },
+    "/movie/515190?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 515190,
+      "title": "O Desmonte do Monte",
+      "original_title": "O Desmonte do Monte",
+      "release_date": "2018-03-30",
+      "poster_path": "/kYt45V9W9tUUyWNdQUOyoX7p2Gb.jpg",
+      "popularity": 0.8027,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Sinai Sganzerla"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt8752502"
+      },
+      "earliest_release_year": 2018
+    },
+    "/movie/480242?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 480242,
+      "title": "Piripkura",
+      "original_title": "Piripkura",
+      "release_date": "2018-03-01",
+      "poster_path": "/mFt7rO2d0ODgU7JlVfng0psWksZ.jpg",
+      "popularity": 1.6451,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Mariana Oliva"
+          },
+          {
+            "job": "Director",
+            "name": "Renata Terra"
+          },
+          {
+            "job": "Director",
+            "name": "Bruno Jorge"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt8041618"
+      },
+      "earliest_release_year": 2017
+    },
+    "/movie/726572?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 726572,
+      "title": "Som, Sol & Surf - Saquarema",
+      "original_title": "Som, Sol & Surf - Saquarema",
+      "release_date": "2018-01-02",
+      "poster_path": "/wdrhko3z6R4YRVJ9orKaNpHdKyE.jpg",
+      "popularity": 1.0727,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Helio Pitanga"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2018
+    },
+    "/movie/1416448?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1416448,
+      "title": "Carolina Maria de Jesus",
+      "original_title": "Carolina Maria de Jesus",
+      "release_date": "2018-01-01",
+      "poster_path": "/pJPAsS0GHQOZSUCTK7m25oCw8R3.jpg",
+      "popularity": 0.7854,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Vanessa de Araújo Souza"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2018
+    },
+    "/movie/487460?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 487460,
+      "title": "Maria: Não Esqueça Que Eu Venho dos Trópicos",
+      "original_title": "Maria: Não Esqueça Que Eu Venho dos Trópicos",
+      "release_date": "2017-11-16",
+      "poster_path": "/hI1lZYI1fHIddg8JtgFYM5fyfZj.jpg",
+      "popularity": 0.8019,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Francisco C. Martins"
+          },
+          {
+            "job": "Director",
+            "name": "Ícaro Martins"
+          },
+          {
+            "job": "Director",
+            "name": "Elisa Gomes"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt5181270"
+      },
+      "earliest_release_year": 2017
+    },
+    "/movie/441498?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 441498,
+      "title": "No Intenso Agora",
+      "original_title": "No Intenso Agora",
+      "release_date": "2017-11-09",
+      "poster_path": "/oQooO01POzU5suQjFFflTBdzan3.jpg",
+      "popularity": 1.2797,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "João Moreira Salles"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt6532954"
+      },
+      "earliest_release_year": 2017
+    },
+    "/movie/548265?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 548265,
+      "title": "Exu Rei - Abdias do Nascimento",
+      "original_title": "Exu Rei - Abdias do Nascimento",
+      "release_date": "2017-10-18",
+      "poster_path": "/jb39YV60n7wEiVBb4IBemjelHQI.jpg",
+      "popularity": 0.9253,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Bárbara Vento"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2017
+    },
+    "/movie/480540?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 480540,
+      "title": "Clara Estrela",
+      "original_title": "Clara Estrela",
+      "release_date": "2017-10-17",
+      "poster_path": "/26VSsSrH0zNob4gRQuCGMZabJmY.jpg",
+      "popularity": 2.0415,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Rodrigo Alzuguir"
+          },
+          {
+            "job": "Director",
+            "name": "Susanna Lira"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt7144786"
+      },
+      "earliest_release_year": 2017
+    },
+    "/movie/480706?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 480706,
+      "title": "Soldados do Araguaia",
+      "original_title": "Soldados do Araguaia",
+      "release_date": "2017-10-11",
+      "poster_path": "/ap8kC7g8qsO3PIaITmJu9squMvD.jpg",
+      "popularity": 0.89,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Belisario Franca"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt6791332"
+      },
+      "earliest_release_year": 2017
+    },
+    "/movie/480519?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 480519,
+      "title": "Paulo Autran – O Senhor dos Palcos",
+      "original_title": "Paulo Autran – O Senhor dos Palcos",
+      "release_date": "2017-10-10",
+      "poster_path": "/wUWRWwSMAFY2nqOsXN31PuWCyHl.jpg",
+      "popularity": 0.8421,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Marco Abujamra"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt12749372"
+      },
+      "earliest_release_year": 2017
+    },
+    "/movie/479563?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 479563,
+      "title": "Henfil",
+      "original_title": "Henfil",
+      "release_date": "2017-10-06",
+      "poster_path": "/1QJhtj8iqn9cvjuOTHheQ9R7yww.jpg",
+      "popularity": 1.6092,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Angela Zoé"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt7487560"
+      },
+      "earliest_release_year": 2017
+    },
+    "/movie/479487?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 479487,
+      "title": "Ferrante Fever",
+      "original_title": "Ferrante Fever",
+      "release_date": "2017-10-02",
+      "poster_path": "/broPZaY0TBo61IdCTcnRi8h3jwK.jpg",
+      "popularity": 1.1866,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Giacomo Durzi"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt6136430"
+      },
+      "earliest_release_year": 2017
+    },
+    "/movie/481573?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 481573,
+      "title": "Gutenberg e o Nascimento da Impressão",
+      "original_title": "Gutenberg : l'aventure de l'imprimerie",
+      "release_date": "2017-09-25",
+      "poster_path": "/o0Fwqj99FDawUCbpBbpyBDGEnHk.jpg",
+      "popularity": 1.11,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Marc Jampolsky"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt6023730"
+      },
+      "earliest_release_year": 2016
+    },
+    "/movie/576050?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 576050,
+      "title": "Agatha Christie contre Hercule Poirot : Qui a tué Roger Ackroyd ?",
+      "original_title": "Agatha Christie contre Hercule Poirot : Qui a tué Roger Ackroyd ?",
+      "release_date": "2017-09-06",
+      "poster_path": "/bGTW9d2iJHyFI5hNZgQAcoIv4fz.jpg",
+      "popularity": 1.3079,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Jean-Christophe Klotz"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt7339552"
+      },
+      "earliest_release_year": 2017
+    },
+    "/movie/646036?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 646036,
+      "title": "O Pessoal é Político",
+      "original_title": "O Pessoal é Político",
+      "release_date": "2017-09-05",
+      "poster_path": "/mijdpo9l5RUiP1n9tJFSAZdRZsa.jpg",
+      "popularity": 0.7463,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Vanessa de Araújo Souza"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt13632184"
+      },
+      "earliest_release_year": 2017
+    },
+    "/movie/805300?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 805300,
+      "title": "Ailton Krenak: O Sonho da Pedra",
+      "original_title": "Ailton Krenak: O Sonho da Pedra",
+      "release_date": "2017-07-20",
+      "poster_path": "/w2CHrmLle0AoqsarLmt2pdoaYR6.jpg",
+      "popularity": 0.9435,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Marco Altberg"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2017
+    },
+    "/movie/675248?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 675248,
+      "title": "David Hockney - Tempo Recuperado",
+      "original_title": "David Hockney - Die wiedergefundene Zeit",
+      "release_date": "2017-07-16",
+      "poster_path": "/z4q9cwgJb0h1uBSOmhUHbHj3ty5.jpg",
+      "popularity": 1.1957,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Michael Trabitzsch"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt11718074"
+      },
+      "earliest_release_year": 2017
+    },
+    "/movie/451813?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 451813,
+      "title": "Cidades Fantasmas",
+      "original_title": "Cidades Fantasmas",
+      "release_date": "2017-07-15",
+      "poster_path": "/g8WUcuU0B0MAantv06T3kbdrcIK.jpg",
+      "popularity": 1.6176,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Tyrell Spencer"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt7323460"
+      },
+      "earliest_release_year": 2017
+    },
+    "/movie/721295?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 721295,
+      "title": "Zélia - Memórias de Amor",
+      "original_title": "Zélia - Memórias de Amor",
+      "release_date": "2017-06-14",
+      "poster_path": "/ttVbSskaTVw910FmxiHLDWgaIYk.jpg",
+      "popularity": 0.7776,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Carla Laudari"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt6826556"
+      },
+      "earliest_release_year": 2017
+    },
+    "/movie/481887?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 481887,
+      "title": "Tudo é Projeto",
+      "original_title": "Tudo é Projeto",
+      "release_date": "2017-06-13",
+      "poster_path": "/4qpxwZqKuI1TUturFq6wai5KaO6.jpg",
+      "popularity": 0.984,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Joana Mendes da Rocha"
+          },
+          {
+            "job": "Director",
+            "name": "Patricia Rubano"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt7514536"
+      },
+      "earliest_release_year": 2017
+    },
+    "/movie/573871?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 573871,
+      "title": "Rodin e a porta do inferno",
+      "original_title": "La Turbulence Rodin",
+      "release_date": "2017-04-02",
+      "poster_path": "/7t0V4T2dtuodxzcBXJZ6RxvcE8G.jpg",
+      "popularity": 1.152,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Claire Duguet"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt6370506"
+      },
+      "earliest_release_year": 2017
+    },
+    "/movie/516494?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 516494,
+      "title": "Meu Corpo, Minha Vida",
+      "original_title": "Meu Corpo, Minha Vida",
+      "release_date": "2017-03-30",
+      "poster_path": "/bqIE9k9G0CLLwax9p70INVOP6ML.jpg",
+      "popularity": 0.5974,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Helena Solberg"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2017
+    },
+    "/movie/439296?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 439296,
+      "title": "Guarnieri",
+      "original_title": "Guarnieri",
+      "release_date": "2017-01-28",
+      "poster_path": "/h1h2bChPIUJYOTP2gAz1SqulctC.jpg",
+      "popularity": 5.3978,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Francisco Guarnieri"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt6217248"
+      },
+      "earliest_release_year": 2017
+    },
+    "/movie/772507?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 772507,
+      "title": "Do Jazz ao Samba",
+      "original_title": "Do Jazz ao Samba",
+      "release_date": "2017-01-01",
+      "poster_path": "/7j1ZwPTzsY86w7rocmLFNpOS7Fb.jpg",
+      "popularity": 0.7561,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Bruno Veiga Valentim"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt11222164"
+      },
+      "earliest_release_year": 2017
+    },
+    "/movie/478652?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 478652,
+      "title": "Karingana - Licença para contar",
+      "original_title": "Karingana - Licença para contar",
+      "release_date": "2017-01-01",
+      "poster_path": "/rvYWP9Xdj0QOpREwEuIjinE9ED7.jpg",
+      "popularity": 1.1309,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Mônica Monteiro"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt12378482"
+      },
+      "earliest_release_year": 2017
+    },
+    "/movie/502338?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 502338,
+      "title": "A Terceira Margem",
+      "original_title": "A Terceira Margem",
+      "release_date": "2016-11-02",
+      "poster_path": "/8nkQQPvGnFj81o5JNhAWrAOFWAA.jpg",
+      "popularity": 0.8312,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Fabian Remy"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt5660124"
+      },
+      "earliest_release_year": 2016
+    },
+    "/movie/411003?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 411003,
+      "title": "Lumiere: A Aventura Começa",
+      "original_title": "Lumière ! L'aventure commence",
+      "release_date": "2016-10-03",
+      "poster_path": "/kSSQQWuCApk6SsDDtzjOLjCSZuZ.jpg",
+      "popularity": 1.9733,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Thierry Frémaux"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt5954462"
+      },
+      "earliest_release_year": 2016
+    },
+    "/movie/535149?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 535149,
+      "title": "As Incríveis Artimanhas da Nuvem Cigana",
+      "original_title": "As Incríveis Artimanhas da Nuvem Cigana",
+      "release_date": "2016-08-13",
+      "poster_path": "/jl8ZcbhO22jsU4g8Vq1diDCMdc8.jpg",
+      "popularity": 0.6324,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Paola Vieira"
+          },
+          {
+            "job": "Director",
+            "name": "Claudio Lobato"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt5909684"
+      },
+      "earliest_release_year": 2016
+    },
+    "/movie/434949?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 434949,
+      "title": "Bowie: The Man Who Changed the World",
+      "original_title": "Bowie: The Man Who Changed the World",
+      "release_date": "2016-05-09",
+      "poster_path": "/okiUq69MB9Wgj9fNE0u4RWCGus3.jpg",
+      "popularity": 1.4113,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Sonia Anderson"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt5598234"
+      },
+      "earliest_release_year": 2016
+    },
+    "/movie/461178?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 461178,
+      "title": "Cacaso na Corda Bamba",
+      "original_title": "Cacaso na Corda Bamba",
+      "release_date": "2016-04-10",
+      "poster_path": "/1Bzhm1eE472AwroPNvZCHp3IP2f.jpg",
+      "popularity": 0.8116,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "José Joaquim Salles"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt7051016"
+      },
+      "earliest_release_year": 2016
+    },
+    "/movie/846670?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 846670,
+      "title": "Sergio Britto – O Mestre dos Palcos",
+      "original_title": "Sergio Britto – O Mestre dos Palcos",
+      "release_date": "2016-01-01",
+      "poster_path": "/l0UWx9jS74qZPDdSHqdeHIqqQWD.jpg",
+      "popularity": 0.8677,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Rozane Braga"
+          },
+          {
+            "job": "Director",
+            "name": "Vince Tigre"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2016
+    },
+    "/movie/386332?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 386332,
+      "title": "Born Free - Filhos da Revolução",
+      "original_title": "Born Free - Filhos da Revolução",
+      "release_date": "2015-11-20",
+      "poster_path": "/szyetfM9HLz9JDYFASO9knWSb7O.jpg",
+      "popularity": 1.2366,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Bernardo Rebello"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt29619906"
+      },
+      "earliest_release_year": 2015
+    },
+    "/movie/361474?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 361474,
+      "title": "Gaga, o Amor pela Dança",
+      "original_title": "מיסטר גאגא",
+      "release_date": "2015-10-29",
+      "poster_path": "/297K0wrWBmiy6mwyF2fknHNfyT6.jpg",
+      "popularity": 2.0081,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "תומר הימן"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt3412684"
+      },
+      "earliest_release_year": 2015
+    },
+    "/movie/359808?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 359808,
+      "title": "Damas do Samba",
+      "original_title": "Damas do Samba",
+      "release_date": "2015-09-17",
+      "poster_path": "/wfigxbq5uNtuOE7k8UQLzQCcuNy.jpg",
+      "popularity": 1.103,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Susanna Lira"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt3249176"
+      },
+      "earliest_release_year": 2015
+    },
+    "/movie/360113?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 360113,
+      "title": "Um Filme de Cinema",
+      "original_title": "Um Filme de Cinema",
+      "release_date": "2015-09-15",
+      "poster_path": "/pAa5mRyiZLaukORuF30rnkO6t7F.jpg",
+      "popularity": 1.325,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Walter Carvalho"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt6412648"
+      },
+      "earliest_release_year": 2015
+    },
+    "/movie/347098?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 347098,
+      "title": "Vilanova Artigas: O Arquiteto e a Luz",
+      "original_title": "Vilanova Artigas: O Arquiteto e a Luz",
+      "release_date": "2015-06-25",
+      "poster_path": "/mk4mLJ8DnJ4G19Fze1olYPfUHjl.jpg",
+      "popularity": 0.5477,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Pedro Gorski"
+          },
+          {
+            "job": "Director",
+            "name": "Laura Artigas"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt4822652"
+      },
+      "earliest_release_year": 2015
+    },
+    "/movie/461597?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 461597,
+      "title": "Diego Velázquez - Realismo Selvagem",
+      "original_title": "Diego Velázquez ou le Réalisme Sauvage",
+      "release_date": "2015-03-19",
+      "poster_path": "/mKH1edyc9kf404VTMIQ8jxW76NM.jpg",
+      "popularity": 0.7282,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Karim Aïnouz"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt4559468"
+      },
+      "earliest_release_year": 2015
+    },
+    "/movie/610146?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 610146,
+      "title": "Bergman",
+      "original_title": "Bergman",
+      "release_date": "2015-03-15",
+      "poster_path": null,
+      "popularity": 0.9355,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Jaakko Pallasvuo"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2015
+    },
+    "/movie/298340?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 298340,
+      "title": "Brincante",
+      "original_title": "Brincante",
+      "release_date": "2014-11-20",
+      "poster_path": "/eumbcsSqufnCzjIJkZirR7JDfPp.jpg",
+      "popularity": 1.2776,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Walter Carvalho"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt3847420"
+      },
+      "earliest_release_year": 2014
+    },
+    "/movie/334152?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 334152,
+      "title": "Democracia em Preto e Branco",
+      "original_title": "Democracia em Preto e Branco",
+      "release_date": "2014-10-18",
+      "poster_path": "/ls69cDVmbREn9VYcTJslRYSY72n.jpg",
+      "popularity": 0.8173,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Pedro Asbeg"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt4633984"
+      },
+      "earliest_release_year": 2014
+    },
+    "/movie/297140?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 297140,
+      "title": "Marisa Monte: Verdade, Uma Ilusão",
+      "original_title": "Marisa Monte: Verdade, Uma Ilusão",
+      "release_date": "2014-10-12",
+      "poster_path": "/jyq9jcCHhtYGMg73cj9ISWUdA5i.jpg",
+      "popularity": 1.0303,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Cláudio Torres"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt30833441"
+      },
+      "earliest_release_year": 2014
+    },
+    "/movie/704780?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 704780,
+      "title": "Jacques Derrida: O Filósofo da Desconstrução",
+      "original_title": "Jacques Derrida, le courage de la pensée",
+      "release_date": "2014-10-08",
+      "poster_path": "/3ZoYpfVx06AWHluFfjS14PoCtay.jpg",
+      "popularity": 0.7628,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Virginie Linhart"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt4359648"
+      },
+      "earliest_release_year": 2014
+    },
+    "/movie/265297?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 265297,
+      "title": "O Sal da Terra",
+      "original_title": "Le sel de la terre",
+      "release_date": "2014-08-29",
+      "poster_path": "/co47qUCNSa3LIPWwNcqq0PGhnJJ.jpg",
+      "popularity": 3.9925,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Juliano Ribeiro Salgado"
+          },
+          {
+            "job": "Director",
+            "name": "Wim Wenders"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt3674140"
+      },
+      "earliest_release_year": 2014
+    },
+    "/movie/280759?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 280759,
+      "title": "Bernardes",
+      "original_title": "Bernardes",
+      "release_date": "2014-06-26",
+      "poster_path": "/irSj2FqQS0tTMubLhVNPaSqRVV6.jpg",
+      "popularity": 1.2865,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Paulo de Barros"
+          },
+          {
+            "job": "Director",
+            "name": "Gustavo Gama Rodrigues"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt5831162"
+      },
+      "earliest_release_year": 2014
+    },
+    "/movie/330666?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 330666,
+      "title": "Foucault contra ele mesmo",
+      "original_title": "Foucault contre lui même",
+      "release_date": "2014-06-18",
+      "poster_path": "/lQvA1guddWl05dP9Hk4JWrCHdJ0.jpg",
+      "popularity": 2.4709,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "François Caillat"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt4319088"
+      },
+      "earliest_release_year": 2014
+    },
+    "/movie/263976?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 263976,
+      "title": "O Mercado de Notícias",
+      "original_title": "O Mercado de Notícias",
+      "release_date": "2014-04-09",
+      "poster_path": "/2AqzCDINCgteHYhFaKXklLSDAwH.jpg",
+      "popularity": 0.6739,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Jorge Furtado"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt3661594"
+      },
+      "earliest_release_year": 2014
+    },
+    "/movie/250784?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 250784,
+      "title": "Sobre a Violência",
+      "original_title": "Om våld",
+      "release_date": "2014-01-17",
+      "poster_path": "/fAPh3e3WXMu6YaYHbufLngxsmt1.jpg",
+      "popularity": 1.1722,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Göran Olsson"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt3263690"
+      },
+      "earliest_release_year": 2014
+    },
+    "/movie/821370?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 821370,
+      "title": "Éramos Todos Loucos",
+      "original_title": "Éramos Todos Loucos",
+      "release_date": "2014-01-01",
+      "poster_path": "/lfVAzMYxoV5wyPl0BmUrGca9i0A.jpg",
+      "popularity": 0.9626,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Rita Carvana"
+          },
+          {
+            "job": "Director",
+            "name": "Pedro Carvana"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt13281490"
+      },
+      "earliest_release_year": 2014
+    },
+    "/movie/235453?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 235453,
+      "title": "Sobral: O Homem Que Não Tinha Preço",
+      "original_title": "Sobral: O Homem Que Não Tinha Preço",
+      "release_date": "2013-11-01",
+      "poster_path": "/63HZNGvKOr4BPN3WoLOeJURC12i.jpg",
+      "popularity": 0.6867,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Paula Fiuza"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt6450018"
+      },
+      "earliest_release_year": 2013
+    },
+    "/movie/534299?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 534299,
+      "title": "Mário Lago",
+      "original_title": "Mário Lago",
+      "release_date": "2013-10-05",
+      "poster_path": "/uzz8Oxjdfq1nQVnlKWXtLkVCxz1.jpg",
+      "popularity": 0.9494,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Marco Abujamra"
+          },
+          {
+            "job": "Director",
+            "name": "Markão Oliveira"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt5847954"
+      },
+      "earliest_release_year": 2013
+    },
+    "/movie/198950?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 198950,
+      "title": "A Alma da Gente",
+      "original_title": "A Alma da Gente",
+      "release_date": "2013-04-07",
+      "poster_path": "/iFJM9qPrKjidEE6rTBg32YATPvM.jpg",
+      "popularity": 0.9656,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Helena Solberg"
+          },
+          {
+            "job": "Director",
+            "name": "David Meyer"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt3174300"
+      },
+      "earliest_release_year": 2013
+    },
+    "/movie/783348?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 783348,
+      "title": "500 - Os bebês roubados pela ditadura argentina",
+      "original_title": "500 - Os bebês roubados pela ditadura argentina",
+      "release_date": "2013-01-23",
+      "poster_path": "/d8BcqTidjBVkIONudrIqgOEoVQ9.jpg",
+      "popularity": 0.8783,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Alexandre Valenti"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt2855652"
+      },
+      "earliest_release_year": 2013
+    },
+    "/movie/466439?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 466439,
+      "title": "O Prólogo",
+      "original_title": "O Prólogo",
+      "release_date": "2013-01-01",
+      "poster_path": "/u2r0L2mvZGgjpFvmgndtkxnu26j.jpg",
+      "popularity": 1.6276,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Gabriel F. Marinho"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt3513072"
+      },
+      "earliest_release_year": 2013
+    },
+    "/movie/128190?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 128190,
+      "title": "O Guia Pervertido da Ideologia",
+      "original_title": "The Pervert's Guide to Ideology",
+      "release_date": "2012-11-15",
+      "poster_path": "/lgStDDSyHCMlwYbtGpcwNTZsPcW.jpg",
+      "popularity": 1.5241,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Sophie Fiennes"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt2152198"
+      },
+      "earliest_release_year": 2012
+    },
+    "/movie/263839?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 263839,
+      "title": "Francisco Brennand",
+      "original_title": "Francisco Brennand",
+      "release_date": "2012-10-20",
+      "poster_path": "/ydObLDDRwCC1r4zlseKfQp31fia.jpg",
+      "popularity": 1.8878,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Mariana Brennand"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt2217022"
+      },
+      "earliest_release_year": 2012
+    },
+    "/movie/121983?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 121983,
+      "title": "Libertem Angela Davis",
+      "original_title": "Free Angela and All Political Prisoners",
+      "release_date": "2012-09-09",
+      "poster_path": "/rmDXXMSCdM3pMcNMbaUSLP2EIn.jpg",
+      "popularity": 1.5567,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Shola Lynch"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt2350432"
+      },
+      "earliest_release_year": 2012
+    },
+    "/movie/351389?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 351389,
+      "title": "Água de Meninos – A Feira do Cinema Novo",
+      "original_title": "Água de Meninos – A Feira do Cinema Novo",
+      "release_date": "2012-06-11",
+      "poster_path": "/qrttkbcRIuDpoAbyqGG5mRpzXRp.jpg",
+      "popularity": 1.1721,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Fabíola Aquino"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt12749330"
+      },
+      "earliest_release_year": 2012
+    },
+    "/movie/296406?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 296406,
+      "title": "Romance de Formação",
+      "original_title": "Romance de Formação",
+      "release_date": "2012-05-11",
+      "poster_path": "/eb0fkrd6hZAWZYZFJ6idbxL9kF5.jpg",
+      "popularity": 1.0552,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Julia De Simone"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2011
+    },
+    "/movie/267478?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 267478,
+      "title": "Os Irmãos Roberto",
+      "original_title": "Os Irmãos Roberto",
+      "release_date": "2012-04-24",
+      "poster_path": null,
+      "popularity": 0.7764,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Tiago Arakilian"
+          },
+          {
+            "job": "Director",
+            "name": "Ivana Mendes"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt2322475"
+      },
+      "earliest_release_year": 2012
+    },
+    "/movie/470913?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 470913,
+      "title": "O Roteirista",
+      "original_title": "O Roteirista",
+      "release_date": "2012-01-01",
+      "poster_path": "/8qAXoOnKn9VCT5GGO5qbvc43Fon.jpg",
+      "popularity": 1.57,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Lucas Paraizo"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2012
+    },
+    "/movie/256242?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 256242,
+      "title": "Cortina de Fumaça",
+      "original_title": "Cortina de Fumaça",
+      "release_date": "2011-10-28",
+      "poster_path": "/vFQtralVNLc1KovPqhhjNPGbUsI.jpg",
+      "popularity": 0.5954,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Rodrigo Mac Niven"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt2393761"
+      },
+      "earliest_release_year": 2011
+    },
+    "/movie/583703?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 583703,
+      "title": "Marie Curie, au-delà du mythe",
+      "original_title": "Marie Curie, au-delà du mythe",
+      "release_date": "2011-10-15",
+      "poster_path": "/skEDyGOQ2zjdkcvrB26Ynvaaev3.jpg",
+      "popularity": 0.6076,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Michel Vuillermet"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt2069049"
+      },
+      "earliest_release_year": 2011
+    },
+    "/movie/395407?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 395407,
+      "title": "Bruta Aventura em Versos",
+      "original_title": "Bruta Aventura em Versos",
+      "release_date": "2011-10-10",
+      "poster_path": "/6uljcF1dnpxivJgmIfs5hohVjxv.jpg",
+      "popularity": 0.6158,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Letícia Simões"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt2173017"
+      },
+      "earliest_release_year": 2011
+    },
+    "/movie/153412?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 153412,
+      "title": "A Casa Azul de Frida Kahlo",
+      "original_title": "Chez Frida Kahlo",
+      "release_date": "2011-09-29",
+      "poster_path": "/bA4IjbAmBEmJOJTYWClWFtPImT9.jpg",
+      "popularity": 0.8319,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Xavier Villetard"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt2075138"
+      },
+      "earliest_release_year": 2011
+    },
+    "/movie/773134?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 773134,
+      "title": "Coração do Samba",
+      "original_title": "Coração do Samba",
+      "release_date": "2011-07-07",
+      "poster_path": "/aNmT3pBp7Vy2dBQuzaBLRkzWLIG.jpg",
+      "popularity": 0.8455,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Theresa Jessouroun"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt13357472"
+      },
+      "earliest_release_year": 2011
+    },
+    "/movie/175375?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 175375,
+      "title": "Vocacional: Uma Aventura Humana",
+      "original_title": "Vocacional: Uma Aventura Humana",
+      "release_date": "2011-07-07",
+      "poster_path": "/qoxK6d8Z69a9VtmCAgE1tzVLtaP.jpg",
+      "popularity": 0.7303,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Toni Venturi"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt4094882"
+      },
+      "earliest_release_year": 2011
+    },
+    "/movie/79893?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 79893,
+      "title": "Quebrando o Tabu",
+      "original_title": "Quebrando o Tabu",
+      "release_date": "2011-06-03",
+      "poster_path": "/70Z5561k6BExj7XkNrIvNtweMLy.jpg",
+      "popularity": 1.9772,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Fernando Grostein Andrade"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt1951090"
+      },
+      "earliest_release_year": 2011
+    },
+    "/movie/57276?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 57276,
+      "title": "Pina",
+      "original_title": "Pina",
+      "release_date": "2011-02-24",
+      "poster_path": "/cHNbFGbVpF39yoYa82r3MLYqFl7.jpg",
+      "popularity": 2.6457,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Wim Wenders"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt1440266"
+      },
+      "earliest_release_year": 2011
+    },
+    "/movie/238528?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 238528,
+      "title": "Tancredo - A Travessia",
+      "original_title": "Tancredo - A Travessia",
+      "release_date": "2011-01-01",
+      "poster_path": "/n2jOPYPjbiZIMldbovYxJqaTuuW.jpg",
+      "popularity": 0.7657,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Silvio Tendler"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt6627334"
+      },
+      "earliest_release_year": 2011
+    },
+    "/movie/851304?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 851304,
+      "title": "A Ruptura Impressionista",
+      "original_title": "Le Scandale Impressionniste",
+      "release_date": "2010-09-13",
+      "poster_path": "/o1h9mSkEOQh8qgeYgtMDGFdi2u2.jpg",
+      "popularity": 0.7472,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "François Lévy-Kuentz"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt1720143"
+      },
+      "earliest_release_year": 2010
+    },
+    "/movie/618823?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 618823,
+      "title": "Augusto Boal e o Teatro do Oprimido",
+      "original_title": "Augusto Boal e o Teatro do Oprimido",
+      "release_date": "2010-03-04",
+      "poster_path": "/cFDEuSQWbYkh0H82eEfcRT5qPlL.jpg",
+      "popularity": 0.7874,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Zelito Viana"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt8467790"
+      },
+      "earliest_release_year": 2010
+    },
+    "/movie/305979?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 305979,
+      "title": "Magritte, le jour et la nuit",
+      "original_title": "Magritte, le jour et la nuit",
+      "release_date": "2009-06-04",
+      "poster_path": "/cbeIV2B4K76hMOQu2cZ6PvovPv3.jpg",
+      "popularity": 0.9574,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Henri de Gerlache"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt1440244"
+      },
+      "earliest_release_year": 2009
+    },
+    "/movie/172293?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 172293,
+      "title": "Palavra (En)Cantada",
+      "original_title": "Palavra (En)Cantada",
+      "release_date": "2009-03-13",
+      "poster_path": "/yJus0ZvjGOuPGx9SNqzwSHqDJaA.jpg",
+      "popularity": 0.8969,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Helena Solberg"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt1312241"
+      },
+      "earliest_release_year": 2009
+    },
+    "/movie/157291?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 157291,
+      "title": "Utopia e Barbárie",
+      "original_title": "Utopia e Barbárie",
+      "release_date": "2009-01-10",
+      "poster_path": "/2NOHayZhy5oVgOvXoGBQtljkiTi.jpg",
+      "popularity": 0.7221,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Silvio Tendler"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt3515418"
+      },
+      "earliest_release_year": 2009
+    },
+    "/movie/259560?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 259560,
+      "title": "Chomsky & Cie",
+      "original_title": "Chomsky & Cie",
+      "release_date": "2008-11-26",
+      "poster_path": "/7OJskye8nBfLmlWB4fKSuY9R0VX.jpg",
+      "popularity": 1.676,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Olivier Azam"
+          },
+          {
+            "job": "Director",
+            "name": "Daniel Mermet"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt1333068"
+      },
+      "earliest_release_year": 2008
+    },
+    "/movie/147935?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 147935,
+      "title": "Marisa Monte: Infinito ao Meu Redor",
+      "original_title": "Marisa Monte: Infinito ao Meu Redor",
+      "release_date": "2008-11-07",
+      "poster_path": "/aB79zRN33unbLXXEAEjcDk2C6tp.jpg",
+      "popularity": 0.8285,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Vicente Kubrusly"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2008
+    },
+    "/movie/169275?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 169275,
+      "title": "O Mistério do Samba",
+      "original_title": "O Mistério do Samba",
+      "release_date": "2008-09-05",
+      "poster_path": "/s2lS5pi8toAK9abaXn9USIApJCv.jpg",
+      "popularity": 1.5866,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Carolina Jabor"
+          },
+          {
+            "job": "Director",
+            "name": "Lula Buarque de Hollanda"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt1275952"
+      },
+      "earliest_release_year": 2008
+    },
+    "/movie/353780?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 353780,
+      "title": "Condor",
+      "original_title": "Condor",
+      "release_date": "2007-10-02",
+      "poster_path": "/5MyWttDueNJE6jFGgyrQDTRYHoN.jpg",
+      "popularity": 0.6159,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Roberto Mader"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt1828155"
+      },
+      "earliest_release_year": 2007
+    },
+    "/movie/148183?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 148183,
+      "title": "Oscar Niemeyer: A Vida é Um Sopro",
+      "original_title": "Oscar Niemeyer: A Vida é Um Sopro",
+      "release_date": "2007-01-14",
+      "poster_path": "/kdP8NL5wzkBsGo0DRzNV5EXvmQN.jpg",
+      "popularity": 1.2297,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Fabiano Maciel"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt1023136"
+      },
+      "earliest_release_year": 2007
+    },
+    "/movie/267329?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 267329,
+      "title": "Hércules 56",
+      "original_title": "Hércules 56",
+      "release_date": "2006-11-28",
+      "poster_path": "/9KIW4CoLBDRNT5tRZWAPIfpyAnm.jpg",
+      "popularity": 0.9674,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Sílvio Da-Rin"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0933036"
+      },
+      "earliest_release_year": 2006
+    },
+    "/movie/68169?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 68169,
+      "title": "Pelé Eterno",
+      "original_title": "Pelé Eterno",
+      "release_date": "2004-06-25",
+      "poster_path": "/qxg4t41bE9PmjLUXkkLb7irD7Wu.jpg",
+      "popularity": 1.2331,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Anibal Massaini Neto"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0420066"
+      },
+      "earliest_release_year": 2004
+    },
+    "/movie/11358?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 11358,
+      "title": "Com as Próprias Mãos",
+      "original_title": "Walking Tall",
+      "release_date": "2004-04-02",
+      "poster_path": "/mrLCQoUqDGoAxkbbJHvQAIBtmry.jpg",
+      "popularity": 6.8297,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Kevin Bray"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0351977"
+      },
+      "earliest_release_year": 2004
+    },
+    "/movie/296397?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 296397,
+      "title": "Recife/Sevilha, João Cabral de Melo Neto",
+      "original_title": "Recife/Sevilha, João Cabral de Melo Neto",
+      "release_date": "2003-11-06",
+      "poster_path": "/meHgXdFR1VU26Pgy6cQayATQ5GE.jpg",
+      "popularity": 1.2583,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Bebeto Abrantes"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt14781672"
+      },
+      "earliest_release_year": 2003
+    },
+    "/movie/40680?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 40680,
+      "title": "Tribalistas",
+      "original_title": "Tribalistas",
+      "release_date": "2002-11-05",
+      "poster_path": "/1TAh2e1OlE23vmkflPxOv11yVjo.jpg",
+      "popularity": 0.9202,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Guilherme Ramalho"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0374291"
+      },
+      "earliest_release_year": 2002
+    },
+    "/movie/260994?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 260994,
+      "title": "Onde a Terra Acaba",
+      "original_title": "Onde a Terra Acaba",
+      "release_date": "2002-07-07",
+      "poster_path": "/mi6aPu0zTyu9BcP4lbalUmbMdFN.jpg",
+      "popularity": 1.1383,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Sérgio Machado"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0311599"
+      },
+      "earliest_release_year": 2002
+    },
+    "/movie/353089?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 353089,
+      "title": "O Risco: Lúcio Costa e a Utopia Moderna",
+      "original_title": "O Risco: Lúcio Costa e a Utopia Moderna",
+      "release_date": "2002-07-01",
+      "poster_path": "/3Uh6w0lFF7xdHwACtmbDORv9K8H.jpg",
+      "popularity": 0.8078,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Geraldo Motta Filho"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0378666"
+      },
+      "earliest_release_year": 2002
+    },
+    "/movie/291938?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 291938,
+      "title": "Amyr Klink - Mar sem Fim",
+      "original_title": "Amyr Klink - Mar sem Fim",
+      "release_date": "2002-05-19",
+      "poster_path": "/scOOZrFsBesfs7ZCbuBastFd2ne.jpg",
+      "popularity": 0.5212,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Breno Silveira"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt1252262"
+      },
+      "earliest_release_year": 2002
+    },
+    "/movie/40500?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 40500,
+      "title": "Marisa Monte: Memórias, Crônicas e Declarações de Amor",
+      "original_title": "Marisa Monte: Memórias, Crônicas e Declarações de Amor",
+      "release_date": "2001-12-06",
+      "poster_path": "/le1jazyCbkjnwphbiGiCi8PjnTD.jpg",
+      "popularity": 0.7861,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Lula Buarque de Hollanda"
+          },
+          {
+            "job": "Director",
+            "name": "Cláudio Torres"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0391323"
+      },
+      "earliest_release_year": 2001
+    },
+    "/movie/361285?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 361285,
+      "title": "Chico e as Cidades",
+      "original_title": "Chico e as Cidades",
+      "release_date": "1999-01-02",
+      "poster_path": "/4SkLHKdPMfQ4XeS0EJafMJhNz9b.jpg",
+      "popularity": 1.2118,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "José Henrique Fonseca"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0409815"
+      },
+      "earliest_release_year": 1999
+    },
+    "/movie/283002?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 283002,
+      "title": "Pierre Verger: Mensageiro Entre Dois Mundos",
+      "original_title": "Pierre Verger: Mensageiro Entre Dois Mundos",
+      "release_date": "1998-12-31",
+      "poster_path": "/gP8Bc6lWpDwxDu9NScEm3IZeOOv.jpg",
+      "popularity": 0.8613,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Lula Buarque de Hollanda"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0219249"
+      },
+      "earliest_release_year": 1998
+    },
+    "/movie/147932?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 147932,
+      "title": "Marisa Monte: Barulhinho Bom - Uma Viagem Musical",
+      "original_title": "Marisa Monte: Barulhinho Bom - Uma Viagem Musical",
+      "release_date": "1997-12-09",
+      "poster_path": "/rFn8G6mqej4xgJKmIxxmWRqov79.jpg",
+      "popularity": 0.7763,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Lula Buarque de Hollanda"
+          },
+          {
+            "job": "Director",
+            "name": "Cláudio Torres"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt10575534"
+      },
+      "earliest_release_year": 1997
+    },
+    "/movie/422968?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 422968,
+      "title": "Dib",
+      "original_title": "Dib",
+      "release_date": "1997-01-02",
+      "poster_path": "/9FnG8gwWzjmTx96I7rpNc67O293.jpg",
+      "popularity": 0.882,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Márcia Derraik"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0322019"
+      },
+      "earliest_release_year": 1997
+    },
+    "/movie/269474?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 269474,
+      "title": "Gilberto Gil: Tempo Rei",
+      "original_title": "Gilberto Gil: Tempo Rei",
+      "release_date": "1996-01-01",
+      "poster_path": "/zcI54dGgLNtUEHjrjXEb2jCatqp.jpg",
+      "popularity": 1.1187,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Lula Buarque de Hollanda"
+          },
+          {
+            "job": "Director",
+            "name": "Andrucha Waddington"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt1252389"
+      },
+      "earliest_release_year": 1996
+    },
+    "/movie/1096783?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1096783,
+      "title": "Lina Bo Bardi",
+      "original_title": "Lina Bo Bardi",
+      "release_date": "1993-08-16",
+      "poster_path": "/cp5IDR3f32BQRMy136AsahffcLV.jpg",
+      "popularity": 0.9321,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Aurélio Michiles"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt22056196"
+      },
+      "earliest_release_year": 1993
+    },
+    "/movie/149949?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 149949,
+      "title": "Nina Simone, A lenda",
+      "original_title": "Nina Simone: La légende",
+      "release_date": "1992-06-13",
+      "poster_path": "/ehYdQtwcNLc0VEQwHtQAEPsWQn6.jpg",
+      "popularity": 1.4981,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Frank Lords"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0381450"
+      },
+      "earliest_release_year": 1992
+    },
+    "/movie/147934?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 147934,
+      "title": "Marisa Monte: Mais",
+      "original_title": "Marisa Monte: Mais",
+      "release_date": "1991-10-27",
+      "poster_path": "/4ipQfcmoIPFj62rA36qHUG4PLxi.jpg",
+      "popularity": 1.219,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Arthur Fontes"
+          },
+          {
+            "job": "Director",
+            "name": "Lula Buarque de Hollanda"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0482237"
+      },
+      "earliest_release_year": 1991
+    },
+    "/movie/211880?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 211880,
+      "title": "Marisa Monte: MM ao Vivo",
+      "original_title": "Marisa Monte: MM ao Vivo",
+      "release_date": "1989-12-04",
+      "poster_path": "/m9yWuofGuES1usfjdGMsmgpqN2y.jpg",
+      "popularity": 0.9952,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Walter Salles"
+          },
+          {
+            "job": "Director",
+            "name": "Nelson Motta"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0996465"
+      },
+      "earliest_release_year": 1989
+    },
+    "/movie/438789?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 438789,
+      "title": "Ôrí",
+      "original_title": "Ôrí",
+      "release_date": "1989-09-28",
+      "poster_path": "/qavhdOojtIrISDJPPZOrvMMx0Le.jpg",
+      "popularity": 3.7288,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Raquel Gerber"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0374103"
+      },
+      "earliest_release_year": 1989
+    },
+    "/movie/272399?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 272399,
+      "title": "Os Anos JK: Uma Trajetória Política",
+      "original_title": "Os Anos JK: Uma Trajetória Política",
+      "release_date": "1980-01-01",
+      "poster_path": "/daq7OuwrfFXDxuEw8Mn4iy7SsAG.jpg",
+      "popularity": 0.6131,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Silvio Tendler"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0270833"
+      },
+      "earliest_release_year": 1980
+    },
+    "/movie/328266?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 328266,
+      "title": "Bethânia Bem de Perto: A Propósito de um Show",
+      "original_title": "Bethânia Bem de Perto: A Propósito de um Show",
+      "release_date": "1966-05-27",
+      "poster_path": "/89A66cXbYmrh66LaEEOtjaKdcf9.jpg",
+      "popularity": 0.6227,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Eduardo Escorel"
+          },
+          {
+            "job": "Director",
+            "name": "Júlio Bressane"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0360421"
+      },
+      "earliest_release_year": 1966
+    },
+    "/movie/652960?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 652960,
+      "title": "O Astronauta Tupy",
+      "original_title": "O Astronauta Tupy",
+      "release_date": "",
+      "poster_path": "/l67G104hAymgQFcgH5OgiwZXYEo.jpg",
+      "popularity": 0.4452,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": null
     }
   }
 }

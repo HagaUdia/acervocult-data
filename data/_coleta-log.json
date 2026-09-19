@@ -1,39 +1,84 @@
 {
   "runs": [
     {
-      "startedAt": "2026-09-19T12:50:25.831Z",
-      "finishedAt": "2026-09-19T12:52:54.925Z",
+      "startedAt": "2026-09-19T14:02:01.412Z",
+      "finishedAt": "2026-09-19T14:02:01.453Z",
       "only": [
-        "libreflix"
+        "curtaon"
       ],
       "results": [
         {
-          "source": "libreflix",
-          "label": "[C] Libreflix",
-          "method": "listagens+fichas",
+          "source": "curtaon",
+          "label": "[C] Curta! On",
+          "method": "tmdb-provedor",
           "status": "ok",
           "attempts": [
             {
-              "method": "listagens+fichas",
-              "count": 5,
-              "ms": 149030,
+              "method": "api-descoberta",
+              "count": 0,
+              "ms": 1,
+              "error": "sem API descoberta — preencha \"curtaon\" em collector/sources/_apis-descobertas.json (ver _apis-descobertas.md)"
+            },
+            {
+              "method": "tmdb-provedor",
+              "count": 210,
+              "ms": 25,
               "error": null
             }
           ],
           "stats": {
-            "coletados": 5,
-            "validos": 5,
-            "revisao": 0,
+            "coletados": 210,
+            "validos": 209,
+            "revisao": 1,
             "novos": 0,
-            "atualizados": 5,
+            "atualizados": 209,
             "completados": 0,
-            "total": 160,
-            "tmdb_matched": 3,
-            "tmdb_unmatched": 2
+            "total": 209,
+            "tmdb_matched": 210,
+            "tmdb_unmatched": 0
           },
-          "warnings": [
-            "coleta trouxe 5 itens contra 160 no acervo (possível paginação incompleta)"
-          ]
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "startedAt": "2026-09-19T14:00:33.320Z",
+      "finishedAt": "2026-09-19T14:00:33.352Z",
+      "only": [
+        "curtaon"
+      ],
+      "results": [
+        {
+          "source": "curtaon",
+          "label": "[C] Curta! On",
+          "method": "tmdb-provedor",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "api-descoberta",
+              "count": 0,
+              "ms": 1,
+              "error": "sem API descoberta — preencha \"curtaon\" em collector/sources/_apis-descobertas.json (ver _apis-descobertas.md)"
+            },
+            {
+              "method": "tmdb-provedor",
+              "count": 210,
+              "ms": 16,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 210,
+            "validos": 209,
+            "revisao": 1,
+            "novos": 209,
+            "atualizados": 0,
+            "completados": 0,
+            "total": 209,
+            "tmdb_matched": 210,
+            "tmdb_unmatched": 0
+          },
+          "warnings": []
         }
       ]
     },
