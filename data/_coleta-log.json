@@ -1,0 +1,912 @@
+{
+  "runs": [
+    {
+      "startedAt": "2026-09-19T12:50:25.831Z",
+      "finishedAt": "2026-09-19T12:52:54.925Z",
+      "only": [
+        "libreflix"
+      ],
+      "results": [
+        {
+          "source": "libreflix",
+          "label": "[C] Libreflix",
+          "method": "listagens+fichas",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "listagens+fichas",
+              "count": 5,
+              "ms": 149030,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 5,
+            "validos": 5,
+            "revisao": 0,
+            "novos": 0,
+            "atualizados": 5,
+            "completados": 0,
+            "total": 160,
+            "tmdb_matched": 3,
+            "tmdb_unmatched": 2
+          },
+          "warnings": [
+            "coleta trouxe 5 itens contra 160 no acervo (possível paginação incompleta)"
+          ]
+        }
+      ]
+    },
+    {
+      "startedAt": "2026-09-19T04:28:58.979Z",
+      "finishedAt": "2026-09-19T05:03:04.517Z",
+      "only": null,
+      "results": [
+        {
+          "source": "belasartes",
+          "label": "[C] Belas Artes à La Carte",
+          "method": "tmdb-provedor",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "api-descoberta",
+              "count": 0,
+              "ms": 0,
+              "error": "sem API descoberta — preencha \"belasartes\" em collector/sources/_apis-descobertas.json (ver _apis-descobertas.md)"
+            },
+            {
+              "method": "tmdb-provedor",
+              "count": 587,
+              "ms": 20,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 587,
+            "validos": 587,
+            "revisao": 1,
+            "novos": 1,
+            "atualizados": 586,
+            "completados": 0,
+            "total": 587,
+            "tmdb_matched": 587,
+            "tmdb_unmatched": 0
+          },
+          "warnings": []
+        },
+        {
+          "source": "filmicca",
+          "label": "[C] Filmicca",
+          "method": "ssr-magine + tmdb-provedor",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "api-descoberta",
+              "count": 0,
+              "ms": 0,
+              "error": "sem API descoberta — preencha \"filmicca\" em collector/sources/_apis-descobertas.json (ver _apis-descobertas.md)"
+            },
+            {
+              "method": "ssr-magine",
+              "count": 132,
+              "ms": 8467,
+              "error": null
+            },
+            {
+              "method": "tmdb-provedor",
+              "count": 600,
+              "ms": 1,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 732,
+            "validos": 732,
+            "revisao": 0,
+            "novos": 600,
+            "atualizados": 132,
+            "completados": 0,
+            "total": 633,
+            "tmdb_matched": 718,
+            "tmdb_unmatched": 14
+          },
+          "warnings": []
+        },
+        {
+          "source": "reservaimovision",
+          "label": "[C] Reserva Imovision",
+          "method": "tmdb-provedor",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "sitemap+fichas",
+              "count": 0,
+              "ms": 1449166,
+              "error": "nenhuma ficha abriu (770 recusadas) — a plataforma bloqueia este IP"
+            },
+            {
+              "method": "api-descoberta",
+              "count": 0,
+              "ms": 1,
+              "error": "sem API descoberta — preencha \"reservaimovision\" em collector/sources/_apis-descobertas.json (ver _apis-descobertas.md)"
+            },
+            {
+              "method": "tmdb-provedor",
+              "count": 199,
+              "ms": 1,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 199,
+            "validos": 199,
+            "revisao": 0,
+            "novos": 199,
+            "atualizados": 0,
+            "completados": 0,
+            "total": 199,
+            "tmdb_matched": 199,
+            "tmdb_unmatched": 0
+          },
+          "warnings": []
+        },
+        {
+          "source": "telabrasil",
+          "label": "[C] Tela Brasil",
+          "method": null,
+          "status": "sem-dados",
+          "attempts": [
+            {
+              "method": "carga-manual",
+              "count": 0,
+              "ms": 0,
+              "error": "sem carga manual — peça a relação de obras pelo Fala.BR e grave em data/_manual/telabrasil.csv"
+            }
+          ],
+          "stats": {
+            "coletados": 0,
+            "acervo": 0
+          },
+          "warnings": []
+        },
+        {
+          "source": "itaucultural",
+          "label": "[C] Itaú Cultural",
+          "method": "browser+colecoes",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "browser+colecoes",
+              "count": 254,
+              "ms": 50280,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 254,
+            "validos": 254,
+            "revisao": 0,
+            "novos": 0,
+            "atualizados": 254,
+            "completados": 0,
+            "total": 253,
+            "tmdb_matched": 204,
+            "tmdb_unmatched": 50
+          },
+          "warnings": []
+        },
+        {
+          "source": "oldflix",
+          "label": "[C] Oldflix",
+          "method": "tmdb-provedor",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "tmdb-provedor",
+              "count": 866,
+              "ms": 1,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 866,
+            "validos": 865,
+            "revisao": 1,
+            "novos": 0,
+            "atualizados": 865,
+            "completados": 0,
+            "total": 865,
+            "tmdb_matched": 866,
+            "tmdb_unmatched": 0
+          },
+          "warnings": []
+        },
+        {
+          "source": "libreflix",
+          "label": "[C] Libreflix",
+          "method": "listagens+fichas",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "listagens+fichas",
+              "count": 160,
+              "ms": 460129,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 160,
+            "validos": 160,
+            "revisao": 0,
+            "novos": 0,
+            "atualizados": 160,
+            "completados": 0,
+            "total": 160,
+            "tmdb_matched": 147,
+            "tmdb_unmatched": 13
+          },
+          "warnings": []
+        },
+        {
+          "source": "spcineplay",
+          "label": "[C] Spcine Play",
+          "method": null,
+          "status": "sem-dados",
+          "attempts": [
+            {
+              "method": "api-descoberta",
+              "count": 0,
+              "ms": 0,
+              "error": "sem API descoberta — preencha \"spcineplay\" em collector/sources/_apis-descobertas.json (ver _apis-descobertas.md)"
+            },
+            {
+              "method": "tmdb-provedor",
+              "count": 0,
+              "ms": 1,
+              "error": "nenhum provedor do TMDB bate com Spcine Play / Spcine em BR"
+            },
+            {
+              "method": "carga-manual",
+              "count": 0,
+              "ms": 0,
+              "error": "sem carga manual (data/_manual/spcineplay.csv)"
+            }
+          ],
+          "stats": {
+            "coletados": 0,
+            "acervo": 0
+          },
+          "warnings": []
+        },
+        {
+          "source": "curtaon",
+          "label": "[C] Curta! On",
+          "method": null,
+          "status": "sem-dados",
+          "attempts": [
+            {
+              "method": "api-descoberta",
+              "count": 0,
+              "ms": 0,
+              "error": "sem API descoberta — preencha \"curtaon\" em collector/sources/_apis-descobertas.json (ver _apis-descobertas.md)"
+            },
+            {
+              "method": "sitemap-tamandua",
+              "count": 0,
+              "ms": 0,
+              "error": "método pelo sitemap desligado (defina CURTAON_SITEMAP=1 para usar)"
+            }
+          ],
+          "stats": {
+            "coletados": 0,
+            "acervo": 0
+          },
+          "warnings": []
+        },
+        {
+          "source": "mubi",
+          "label": "[C] Mubi",
+          "method": "tmdb-provedor",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "tmdb-provedor",
+              "count": 588,
+              "ms": 1,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 588,
+            "validos": 588,
+            "revisao": 0,
+            "novos": 0,
+            "atualizados": 588,
+            "completados": 0,
+            "total": 588,
+            "tmdb_matched": 588,
+            "tmdb_unmatched": 0
+          },
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "startedAt": "2026-09-19T03:40:27.927Z",
+      "finishedAt": "2026-09-19T04:20:53.568Z",
+      "only": null,
+      "results": [
+        {
+          "source": "belasartes",
+          "label": "[C] Belas Artes à La Carte",
+          "method": "tmdb-provedor",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "api-descoberta",
+              "count": 0,
+              "ms": 0,
+              "error": "sem API descoberta — preencha \"belasartes\" em collector/sources/_apis-descobertas.json (ver _apis-descobertas.md)"
+            },
+            {
+              "method": "tmdb-provedor",
+              "count": 587,
+              "ms": 3906,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 587,
+            "validos": 586,
+            "revisao": 1,
+            "novos": 586,
+            "atualizados": 0,
+            "completados": 0,
+            "total": 586,
+            "tmdb_matched": 586,
+            "tmdb_unmatched": 0
+          },
+          "warnings": []
+        },
+        {
+          "source": "filmicca",
+          "label": "[C] Filmicca",
+          "method": "ssr-magine",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "api-descoberta",
+              "count": 0,
+              "ms": 0,
+              "error": "sem API descoberta — preencha \"filmicca\" em collector/sources/_apis-descobertas.json (ver _apis-descobertas.md)"
+            },
+            {
+              "method": "ssr-magine",
+              "count": 132,
+              "ms": 8694,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 132,
+            "validos": 132,
+            "revisao": 0,
+            "novos": 72,
+            "atualizados": 60,
+            "completados": 53,
+            "total": 132,
+            "tmdb_matched": 118,
+            "tmdb_unmatched": 14
+          },
+          "warnings": []
+        },
+        {
+          "source": "reservaimovision",
+          "label": "[C] Reserva Imovision",
+          "method": "sitemap+fichas",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "sitemap+fichas",
+              "count": 770,
+              "ms": 1546985,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 770,
+            "validos": 0,
+            "revisao": 770,
+            "novos": 0,
+            "atualizados": 0,
+            "completados": 0,
+            "total": 0,
+            "tmdb_matched": 0,
+            "tmdb_unmatched": 0
+          },
+          "warnings": []
+        },
+        {
+          "source": "telabrasil",
+          "label": "[C] Tela Brasil",
+          "method": null,
+          "status": "sem-dados",
+          "attempts": [
+            {
+              "method": "carga-manual",
+              "count": 0,
+              "ms": 0,
+              "error": "sem carga manual — peça a relação de obras pelo Fala.BR e grave em data/_manual/telabrasil.csv"
+            }
+          ],
+          "stats": {
+            "coletados": 0,
+            "acervo": 0
+          },
+          "warnings": []
+        },
+        {
+          "source": "itaucultural",
+          "label": "[C] Itaú Cultural",
+          "method": "browser+colecoes",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "browser+colecoes",
+              "count": 254,
+              "ms": 50584,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 254,
+            "validos": 254,
+            "revisao": 0,
+            "novos": 194,
+            "atualizados": 60,
+            "completados": 19,
+            "total": 254,
+            "tmdb_matched": 204,
+            "tmdb_unmatched": 50
+          },
+          "warnings": []
+        },
+        {
+          "source": "oldflix",
+          "label": "[C] Oldflix",
+          "method": "tmdb-provedor",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "tmdb-provedor",
+              "count": 866,
+              "ms": 5436,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 866,
+            "validos": 865,
+            "revisao": 1,
+            "novos": 865,
+            "atualizados": 0,
+            "completados": 0,
+            "total": 865,
+            "tmdb_matched": 865,
+            "tmdb_unmatched": 0
+          },
+          "warnings": []
+        },
+        {
+          "source": "libreflix",
+          "label": "[C] Libreflix",
+          "method": "listagens+fichas",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "listagens+fichas",
+              "count": 160,
+              "ms": 458798,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 160,
+            "validos": 160,
+            "revisao": 0,
+            "novos": 100,
+            "atualizados": 60,
+            "completados": 53,
+            "total": 160,
+            "tmdb_matched": 147,
+            "tmdb_unmatched": 13
+          },
+          "warnings": []
+        },
+        {
+          "source": "spcineplay",
+          "label": "[C] Spcine Play",
+          "method": null,
+          "status": "sem-dados",
+          "attempts": [
+            {
+              "method": "api-descoberta",
+              "count": 0,
+              "ms": 0,
+              "error": "sem API descoberta — preencha \"spcineplay\" em collector/sources/_apis-descobertas.json (ver _apis-descobertas.md)"
+            },
+            {
+              "method": "tmdb-provedor",
+              "count": 0,
+              "ms": 1,
+              "error": "nenhum provedor do TMDB bate com Spcine Play / Spcine em BR"
+            },
+            {
+              "method": "carga-manual",
+              "count": 0,
+              "ms": 0,
+              "error": "sem carga manual (data/_manual/spcineplay.csv)"
+            }
+          ],
+          "stats": {
+            "coletados": 0,
+            "acervo": 0
+          },
+          "warnings": []
+        },
+        {
+          "source": "curtaon",
+          "label": "[C] Curta! On",
+          "method": null,
+          "status": "sem-dados",
+          "attempts": [
+            {
+              "method": "api-descoberta",
+              "count": 0,
+              "ms": 0,
+              "error": "sem API descoberta — preencha \"curtaon\" em collector/sources/_apis-descobertas.json (ver _apis-descobertas.md)"
+            },
+            {
+              "method": "sitemap-tamandua",
+              "count": 0,
+              "ms": 0,
+              "error": "método pelo sitemap desligado (defina CURTAON_SITEMAP=1 para usar)"
+            }
+          ],
+          "stats": {
+            "coletados": 0,
+            "acervo": 0
+          },
+          "warnings": []
+        },
+        {
+          "source": "mubi",
+          "label": "[C] Mubi",
+          "method": "tmdb-provedor",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "tmdb-provedor",
+              "count": 588,
+              "ms": 3567,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 588,
+            "validos": 588,
+            "revisao": 0,
+            "novos": 588,
+            "atualizados": 0,
+            "completados": 0,
+            "total": 588,
+            "tmdb_matched": 588,
+            "tmdb_unmatched": 0
+          },
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "startedAt": "2026-09-19T03:38:13.846Z",
+      "finishedAt": "2026-09-19T03:39:16.894Z",
+      "only": [
+        "itaucultural"
+      ],
+      "results": [
+        {
+          "source": "itaucultural",
+          "label": "[C] Itaú Cultural",
+          "method": "browser+colecoes",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "browser+colecoes",
+              "count": 40,
+              "ms": 10310,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 40,
+            "validos": 40,
+            "revisao": 0,
+            "novos": 0,
+            "atualizados": 40,
+            "completados": 4,
+            "total": 60,
+            "tmdb_matched": 35,
+            "tmdb_unmatched": 5
+          },
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "startedAt": "2026-09-19T03:31:55.521Z",
+      "finishedAt": "2026-09-19T03:33:04.837Z",
+      "only": [
+        "itaucultural"
+      ],
+      "results": [
+        {
+          "source": "itaucultural",
+          "label": "[C] Itaú Cultural",
+          "method": "browser+colecoes",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "browser+colecoes",
+              "count": 40,
+              "ms": 9971,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 40,
+            "validos": 40,
+            "revisao": 0,
+            "novos": 0,
+            "atualizados": 40,
+            "completados": 35,
+            "total": 60,
+            "tmdb_matched": 35,
+            "tmdb_unmatched": 5
+          },
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "startedAt": "2026-09-19T02:52:49.425Z",
+      "finishedAt": "2026-09-19T02:55:20.079Z",
+      "only": [
+        "libreflix"
+      ],
+      "results": [
+        {
+          "source": "libreflix",
+          "label": "[C] Libreflix",
+          "method": "listagens+fichas",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "listagens+fichas",
+              "count": 5,
+              "ms": 150642,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 5,
+            "validos": 5,
+            "revisao": 0,
+            "novos": 0,
+            "atualizados": 5,
+            "completados": 0,
+            "total": 60,
+            "tmdb_matched": 0,
+            "tmdb_unmatched": 0
+          },
+          "warnings": [
+            "coleta trouxe 5 itens contra 60 no acervo (possível paginação incompleta)"
+          ]
+        }
+      ]
+    },
+    {
+      "startedAt": "2026-09-19T02:06:46.543Z",
+      "finishedAt": "2026-09-19T02:08:10.493Z",
+      "only": [
+        "reservaimovision"
+      ],
+      "results": [
+        {
+          "source": "reservaimovision",
+          "label": "[C] Reserva Imovision",
+          "method": "sitemap+fichas",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "sitemap+fichas",
+              "count": 40,
+              "ms": 83930,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 40,
+            "validos": 0,
+            "revisao": 40,
+            "novos": 0,
+            "atualizados": 0,
+            "completados": 0,
+            "total": 0,
+            "tmdb_matched": 0,
+            "tmdb_unmatched": 0
+          },
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "startedAt": "2026-09-19T02:04:48.543Z",
+      "finishedAt": "2026-09-19T02:05:14.067Z",
+      "only": [
+        "libreflix"
+      ],
+      "results": [
+        {
+          "source": "libreflix",
+          "label": "[C] Libreflix",
+          "method": "listagens+fichas",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "listagens+fichas",
+              "count": 10,
+              "ms": 25500,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 10,
+            "validos": 10,
+            "revisao": 0,
+            "novos": 0,
+            "atualizados": 10,
+            "completados": 0,
+            "total": 60,
+            "tmdb_matched": 0,
+            "tmdb_unmatched": 0
+          },
+          "warnings": [
+            "coleta trouxe 10 itens contra 60 no acervo (possível paginação incompleta)"
+          ]
+        }
+      ]
+    },
+    {
+      "startedAt": "2026-09-19T01:56:26.587Z",
+      "finishedAt": "2026-09-19T02:04:22.338Z",
+      "only": [
+        "libreflix",
+        "itaucultural",
+        "filmicca",
+        "reservaimovision"
+      ],
+      "results": [
+        {
+          "source": "filmicca",
+          "label": "[C] Filmicca",
+          "method": "ssr-magine",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "api-descoberta",
+              "count": 0,
+              "ms": 1,
+              "error": "sem API descoberta — preencha \"filmicca\" em collector/sources/_apis-descobertas.json (ver _apis-descobertas.md)"
+            },
+            {
+              "method": "ssr-magine",
+              "count": 60,
+              "ms": 11848,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 60,
+            "validos": 60,
+            "revisao": 0,
+            "novos": 60,
+            "atualizados": 0,
+            "completados": 0,
+            "total": 60,
+            "tmdb_matched": 0,
+            "tmdb_unmatched": 0
+          },
+          "warnings": []
+        },
+        {
+          "source": "reservaimovision",
+          "label": "[C] Reserva Imovision",
+          "method": "sitemap+fichas",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "sitemap+fichas",
+              "count": 60,
+              "ms": 123982,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 60,
+            "validos": 3,
+            "revisao": 57,
+            "novos": 3,
+            "atualizados": 0,
+            "completados": 0,
+            "total": 3,
+            "tmdb_matched": 0,
+            "tmdb_unmatched": 0
+          },
+          "warnings": []
+        },
+        {
+          "source": "itaucultural",
+          "label": "[C] Itaú Cultural",
+          "method": "browser+colecoes",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "browser+colecoes",
+              "count": 60,
+              "ms": 51127,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 60,
+            "validos": 60,
+            "revisao": 0,
+            "novos": 60,
+            "atualizados": 0,
+            "completados": 0,
+            "total": 60,
+            "tmdb_matched": 0,
+            "tmdb_unmatched": 0
+          },
+          "warnings": []
+        },
+        {
+          "source": "libreflix",
+          "label": "[C] Libreflix",
+          "method": "listagens+fichas",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "listagens+fichas",
+              "count": 60,
+              "ms": 288757,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 60,
+            "validos": 60,
+            "revisao": 0,
+            "novos": 60,
+            "atualizados": 0,
+            "completados": 0,
+            "total": 60,
+            "tmdb_matched": 0,
+            "tmdb_unmatched": 0
+          },
+          "warnings": []
+        }
+      ]
+    }
+  ]
+}
