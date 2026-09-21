@@ -314746,6 +314746,853 @@
         "imdb_id": null
       },
       "earliest_release_year": 1894
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=O Crepúsculo&region=BR&year=1990": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 2,
+      "results": [
+        {
+          "id": 110379,
+          "title": "O Crepúsculo",
+          "original_title": "Szürkület",
+          "release_date": "1990-09-28",
+          "poster_path": "/5bq1wLDzIJHAdKQYYEmz0Qdmcg2.jpg",
+          "popularity": 2.7112
+        },
+        {
+          "id": 599,
+          "title": "Crepúsculo dos Deuses",
+          "original_title": "Sunset Boulevard",
+          "release_date": "1950-09-05",
+          "poster_path": "/6QF7eBOqANsxj7QdIMRCEyUHW3F.jpg",
+          "popularity": 13.2472
+        }
+      ]
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Ruído Exterior&region=BR&year=2021": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 799441,
+          "title": "Ruído Exterior",
+          "original_title": "Outside Noise",
+          "release_date": "2022-06-29",
+          "poster_path": "/mZSh4RcKZMgMrgNDKy3U5BVHvgi.jpg",
+          "popularity": 1.209
+        }
+      ]
+    },
+    "/movie/799441?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 799441,
+      "title": "Ruído Exterior",
+      "original_title": "Outside Noise",
+      "release_date": "2022-06-29",
+      "poster_path": "/mZSh4RcKZMgMrgNDKy3U5BVHvgi.jpg",
+      "popularity": 1.209,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Ted Fendt"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt11807866"
+      },
+      "earliest_release_year": 2021
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Crescente&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 5,
+      "results": [
+        {
+          "id": 1754942,
+          "title": "Crescente",
+          "original_title": "Crescente",
+          "release_date": "2026-08-22",
+          "poster_path": "/9xCYIhxn4r6iNKVVgY7g5bFGYFC.jpg",
+          "popularity": 3.5961
+        },
+        {
+          "id": 895557,
+          "title": "Trava Minguante, Trava Crescente",
+          "original_title": "Trava Minguante, Trava Crescente",
+          "release_date": "2020-12-07",
+          "poster_path": "/5brNOvyJphR0SYdeISUOvhZAVFi.jpg",
+          "popularity": 0.8712
+        },
+        {
+          "id": 18861,
+          "title": "Naruto: Guardiões do Reino da Lua Crescente",
+          "original_title": "劇場版 NARUTO -ナルト- 大興奮!みかづき島のアニマル騒動だってばよ",
+          "release_date": "2021-12-10",
+          "poster_path": "/2wwVFqDULo63dxQGp4jOKzClIGt.jpg",
+          "popularity": 7.9172
+        },
+        {
+          "id": 1657527,
+          "title": "Lua Crescente - Curta Motivo",
+          "original_title": "Lua Crescente - Curta Motivo",
+          "release_date": "",
+          "poster_path": "/v0tYxVxHndavEPDfB4BPr6JqduU.jpg",
+          "popularity": 0.4649
+        },
+        {
+          "id": 1300377,
+          "title": "Círculos Crescentes",
+          "original_title": "Círculos Crescentes",
+          "release_date": "2024-06-26",
+          "poster_path": "/vUYngqXmVvoJQHLtue1xImvzI7S.jpg",
+          "popularity": 1.5199
+        }
+      ]
+    },
+    "/movie/1754942?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1754942,
+      "title": "Crescente",
+      "original_title": "Crescente",
+      "release_date": "2026-08-22",
+      "poster_path": "/9xCYIhxn4r6iNKVVgY7g5bFGYFC.jpg",
+      "popularity": 3.5961,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Maurício Moraes"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2026
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Caracóis&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 3,
+      "results": [
+        {
+          "id": 202570,
+          "title": "Caracóis na Chuva",
+          "original_title": "שבלולים בגשם",
+          "release_date": "2013-06-20",
+          "poster_path": "/qMmGdptJ4bpRF3LtWbKqdkJEvkI.jpg",
+          "popularity": 1.8701
+        },
+        {
+          "id": 1098923,
+          "title": "Caracois",
+          "original_title": "Caracois",
+          "release_date": "2010-01-01",
+          "poster_path": "/nTfv8z4R3v7IM1m0zweoXtGmSOQ.jpg",
+          "popularity": 2.1039
+        },
+        {
+          "id": 116351,
+          "title": "Os Caracóis",
+          "original_title": "Les escargots",
+          "release_date": "1966-05-31",
+          "poster_path": "/nL1xIqxvbUeAyFxmo4YKAvdVQtl.jpg",
+          "popularity": 2.0021
+        }
+      ]
+    },
+    "/movie/1098923?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1098923,
+      "title": "Caracois",
+      "original_title": "Caracois",
+      "release_date": "2010-01-01",
+      "poster_path": "/nTfv8z4R3v7IM1m0zweoXtGmSOQ.jpg",
+      "popularity": 2.1039,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Luis Téllez Ibarra"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2010
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=A ascensão da cigarra&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1612740,
+          "title": "The Ascension of the Cicada",
+          "original_title": "A Ascensão da Cigarra",
+          "release_date": "2026-01-08",
+          "poster_path": "/i0PFsk0kerbDIvdIOdQc9OO7gmG.jpg",
+          "popularity": 1.4549
+        }
+      ]
+    },
+    "/movie/1612740?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1612740,
+      "title": "The Ascension of the Cicada",
+      "original_title": "A Ascensão da Cigarra",
+      "release_date": "2026-01-08",
+      "poster_path": "/i0PFsk0kerbDIvdIOdQc9OO7gmG.jpg",
+      "popularity": 1.4549,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Ana Clara Ribeiro"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2026
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Beira&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 4,
+      "total_results": 75,
+      "results": [
+        {
+          "id": 322740,
+          "title": "Beira-Mar",
+          "original_title": "Beira-Mar",
+          "release_date": "2015-06-21",
+          "poster_path": "/7RGHChP3CB033cIMOZYp2Dx3pQg.jpg",
+          "popularity": 3.2939
+        },
+        {
+          "id": 334541,
+          "title": "Manchester à Beira-Mar",
+          "original_title": "Manchester by the Sea",
+          "release_date": "2017-01-19",
+          "poster_path": "/cy7fOIXX0MO2HXnTE3Lf0NwjQfN.jpg",
+          "popularity": 15.0478
+        },
+        {
+          "id": 2654,
+          "title": "À Beira da Loucura",
+          "original_title": "In the Mouth of Madness",
+          "release_date": "1995-03-31",
+          "poster_path": "/6lpT7W9yvtCAmHQc4CnmnqtaYB0.jpg",
+          "popularity": 7.5441
+        },
+        {
+          "id": 910,
+          "title": "À Beira do Abismo",
+          "original_title": "The Big Sleep",
+          "release_date": "1946-08-22",
+          "poster_path": "/rbiRKne6wUzZtBQBBrp4muu0Bsr.jpg",
+          "popularity": 8.1831
+        },
+        {
+          "id": 950398,
+          "title": "Beira",
+          "original_title": "Beira",
+          "release_date": "1950-12-31",
+          "poster_path": null,
+          "popularity": 1.3622
+        },
+        {
+          "id": 509374,
+          "title": "Beira",
+          "original_title": "Beira",
+          "release_date": "2018-03-08",
+          "poster_path": "/x1oKkUB4BlGZk2mUTV3y7Js7nDB.jpg",
+          "popularity": 0.435
+        },
+        {
+          "id": 49527,
+          "title": "À Beira do Abismo",
+          "original_title": "Man on a Ledge",
+          "release_date": "2012-01-27",
+          "poster_path": "/s7kxuu7tLVQJsLdZhhXRfGXpWBa.jpg",
+          "popularity": 11.9675
+        },
+        {
+          "id": 1405409,
+          "title": "Beira Douro",
+          "original_title": "Beira Douro",
+          "release_date": "2024-07-20",
+          "poster_path": "/w19RtxA4XK3UUNGTiRJshRdYKUp.jpg",
+          "popularity": 1.4872
+        },
+        {
+          "id": 1250538,
+          "title": "Avenida Beira-Mar",
+          "original_title": "Avenida Beira-Mar",
+          "release_date": "2024-11-21",
+          "poster_path": "/70RAQHJmLq8DslAkmjhJO4Ht3DT.jpg",
+          "popularity": 1.2426
+        },
+        {
+          "id": 66212,
+          "title": "Na Beira do Abismo",
+          "original_title": "執法先鋒",
+          "release_date": "1986-11-27",
+          "poster_path": "/rfqlLgWyySZtZyuKxhC0jaDtzFd.jpg",
+          "popularity": 2.6044
+        },
+        {
+          "id": 1227387,
+          "title": "Beira-mar",
+          "original_title": "Beira-mar",
+          "release_date": "2023-11-30",
+          "poster_path": "/d6WPrbVwdoyNU0TOizyMM2uWg6A.jpg",
+          "popularity": 1.3215
+        },
+        {
+          "id": 314385,
+          "title": "À Beira Mar",
+          "original_title": "By the Sea",
+          "release_date": "2015-11-13",
+          "poster_path": "/wHQtVyC7NmetAnRtQijS47VcgWk.jpg",
+          "popularity": 6.3256
+        },
+        {
+          "id": 129697,
+          "title": "À Beira do Caminho",
+          "original_title": "À Beira do Caminho",
+          "release_date": "2012-08-10",
+          "poster_path": "/129HeJ7FIrMtDyUgtV8PVEO5SlJ.jpg",
+          "popularity": 1.2844
+        },
+        {
+          "id": 964391,
+          "title": "Beira-mar",
+          "original_title": "Beira-mar",
+          "release_date": "2019-12-27",
+          "poster_path": "/k2HukCbnYLG57jmr9GKRvaBH6i2.jpg",
+          "popularity": 0.4464
+        },
+        {
+          "id": 1689369,
+          "title": "BEIRA-MAR",
+          "original_title": "BEIRA-MAR",
+          "release_date": "2026-03-19",
+          "poster_path": "/a4Q0QHl8rz3aYScaveZEi3gsFc6.jpg",
+          "popularity": 2.0222
+        },
+        {
+          "id": 850099,
+          "title": "À Beira da Extinção",
+          "original_title": "Risen",
+          "release_date": "2021-08-20",
+          "poster_path": "/p0ui8pWEhARQyFK8XkZ0azf1qSl.jpg",
+          "popularity": 3.4802
+        },
+        {
+          "id": 228283,
+          "title": "As Mulheres da Beira",
+          "original_title": "As Mulheres da Beira",
+          "release_date": "1923-04-02",
+          "poster_path": "/rsqsSoaht0BOtFTqGNMGRAG6UIi.jpg",
+          "popularity": 1.4069
+        },
+        {
+          "id": 91683,
+          "title": "A Beira da Loucura",
+          "original_title": "Edge of Sanity",
+          "release_date": "1989-04-14",
+          "poster_path": "/dNsHnJulEgVGqqARv2i2sJTMH8v.jpg",
+          "popularity": 1.8562
+        },
+        {
+          "id": 302,
+          "title": "Swimming Pool: À Beira da Piscina",
+          "original_title": "Swimming Pool",
+          "release_date": "2003-05-21",
+          "poster_path": "/uF2evDwmm7WswpcjGKAULdM0Lxs.jpg",
+          "popularity": 7.0773
+        },
+        {
+          "id": 1418397,
+          "title": "À Beira do Cais",
+          "original_title": "À Beira do Cais",
+          "release_date": "2026-12-05",
+          "poster_path": "/xb5mF3wzdP5fEdjTBPDTiJy2Ie0.jpg",
+          "popularity": 1.3171
+        }
+      ]
+    },
+    "/movie/950398?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 950398,
+      "title": "Beira",
+      "original_title": "Beira",
+      "release_date": "1950-12-31",
+      "poster_path": null,
+      "popularity": 1.3622,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Felipe de Solms"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0131964"
+      },
+      "earliest_release_year": 1950
+    },
+    "/movie/509374?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 509374,
+      "title": "Beira",
+      "original_title": "Beira",
+      "release_date": "2018-03-08",
+      "poster_path": "/x1oKkUB4BlGZk2mUTV3y7Js7nDB.jpg",
+      "popularity": 0.435,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Douglas Farias"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2018
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Dois passos&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 7,
+      "results": [
+        {
+          "id": 788581,
+          "title": "Dois Passos",
+          "original_title": "Dois Passos",
+          "release_date": "2021-01-20",
+          "poster_path": "/b11os1sFrpjOS2tsB2EESnkDeHo.jpg",
+          "popularity": 1.7992
+        },
+        {
+          "id": 1770619,
+          "title": "Dois passos a frente",
+          "original_title": "Dois passos a frente",
+          "release_date": "2026-08-21",
+          "poster_path": "/u2Mcgq4L6KriMst0rIgjVCSw1k6.jpg",
+          "popularity": 0.4255
+        },
+        {
+          "id": 1193130,
+          "title": "A Dois Passos do Paraíso",
+          "original_title": "A Dois Passos do Paraíso",
+          "release_date": "2013-04-07",
+          "poster_path": null,
+          "popularity": 0.4693
+        },
+        {
+          "id": 938287,
+          "title": "Dois passos na mesma poça",
+          "original_title": "Dois passos na mesma poça",
+          "release_date": "",
+          "poster_path": "/eJd9Na8nRNU04SrRmHFaZPpJPfZ.jpg",
+          "popularity": 0.6695
+        },
+        {
+          "id": 60647,
+          "title": "A Dois Passos da Forca",
+          "original_title": "Good Day for a Hanging",
+          "release_date": "1959-01-01",
+          "poster_path": "/aFuuHwlCrsj4xFXu0CBH6fpOUY4.jpg",
+          "popularity": 2.7967
+        },
+        {
+          "id": 1127375,
+          "title": "A Dois Passos do Assassino",
+          "original_title": "The Notorious Finster",
+          "release_date": "2026-04-22",
+          "poster_path": "/xbBpMvfntGLYSQ3MJ39cOt5NGgD.jpg",
+          "popularity": 0.9872
+        },
+        {
+          "id": 159014,
+          "title": "A Um Passo do Estrelato",
+          "original_title": "20 Feet from Stardom",
+          "release_date": "2013-06-14",
+          "poster_path": "/nCqVpHwdVcaCJ8dS4Ms6zWzXhKt.jpg",
+          "popularity": 2.3185
+        }
+      ]
+    },
+    "/movie/788581?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 788581,
+      "title": "Dois Passos",
+      "original_title": "Dois Passos",
+      "release_date": "2021-01-20",
+      "poster_path": "/b11os1sFrpjOS2tsB2EESnkDeHo.jpg",
+      "popularity": 1.7992,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Matheus Carniel"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt27860458"
+      },
+      "earliest_release_year": 2021
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Hacker Leonilia&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1539677,
+          "title": "Hacker Leonilia",
+          "original_title": "Hacker Leonilia",
+          "release_date": "2025-09-18",
+          "poster_path": "/4qBc6v5V0UZdYzhRzNukG1MHZH9.jpg",
+          "popularity": 2.8324
+        }
+      ]
+    },
+    "/movie/1539677?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1539677,
+      "title": "Hacker Leonilia",
+      "original_title": "Hacker Leonilia",
+      "release_date": "2025-09-18",
+      "poster_path": "/4qBc6v5V0UZdYzhRzNukG1MHZH9.jpg",
+      "popularity": 2.8324,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Gustavo Fontele Dourado"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt3671640"
+      },
+      "earliest_release_year": 2025
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Esperança&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 9,
+      "total_results": 173,
+      "results": [
+        {
+          "id": 1747263,
+          "title": "Esperança",
+          "original_title": "Esperança",
+          "release_date": "2026-08-10",
+          "poster_path": "/d0M6IVgeq4v0uzqQuywb7XCOEq8.jpg",
+          "popularity": 4.8328
+        },
+        {
+          "id": 255709,
+          "title": "Esperança",
+          "original_title": "소원",
+          "release_date": "2013-10-02",
+          "poster_path": "/m16XObBrqvhX895iwWzZ9Gi7cWY.jpg",
+          "popularity": 13.2466
+        },
+        {
+          "id": 9693,
+          "title": "Filhos da Esperança",
+          "original_title": "Children of Men",
+          "release_date": "2006-12-08",
+          "poster_path": "/BHTzFqP7hrjicDiSYf6wtS8Xb7.jpg",
+          "popularity": 19.1313
+        },
+        {
+          "id": 131631,
+          "title": "Jogos Vorazes: A Esperança - Parte 1",
+          "original_title": "The Hunger Games: Mockingjay - Part 1",
+          "release_date": "2014-11-19",
+          "poster_path": "/hekpVNWOROZm57RS4OLW0ySkxx9.jpg",
+          "popularity": 39.5655
+        },
+        {
+          "id": 1228547,
+          "title": "Comitiva Esperança",
+          "original_title": "Comitiva Esperança",
+          "release_date": "1985-01-01",
+          "poster_path": "/sVOczCQLBYZGQxYr0P2mAlTBJ7q.jpg",
+          "popularity": 1.3555
+        },
+        {
+          "id": 329610,
+          "title": "Bar Esperança",
+          "original_title": "Bar Esperança",
+          "release_date": "1983-05-19",
+          "poster_path": "/cs0LPj2a6YonVYUJBDj6F9gu5rS.jpg",
+          "popularity": 1.3598
+        },
+        {
+          "id": 131634,
+          "title": "Jogos Vorazes: A Esperança - O Final",
+          "original_title": "The Hunger Games: Mockingjay - Part 2",
+          "release_date": "2015-11-19",
+          "poster_path": "/5KSQkozSelQj6bq8NCKtINvsSSj.jpg",
+          "popularity": 26.1217
+        },
+        {
+          "id": 760342,
+          "title": "Esperança",
+          "original_title": "Esperança",
+          "release_date": "2019-06-23",
+          "poster_path": "/kGzlgr2QAgwUnE9Rn3k5RmXYU5S.jpg",
+          "popularity": 1.7151
+        },
+        {
+          "id": 657885,
+          "title": "Esperança",
+          "original_title": "Esperança",
+          "release_date": "2014-09-07",
+          "poster_path": "/bqoj1VQa0rpxQHdBMu9NYTrdSU4.jpg",
+          "popularity": 2.2492
+        },
+        {
+          "id": 1196186,
+          "title": "Circo Esperança",
+          "original_title": "Circo Esperança",
+          "release_date": "2021-12-04",
+          "poster_path": "/EvNykt7Y7s4zXkdSGEaQb3DbAb.jpg",
+          "popularity": 1.732
+        },
+        {
+          "id": 827529,
+          "title": "Uma Gota de Esperança",
+          "original_title": "Uma Gota de Esperança",
+          "release_date": "2021-05-07",
+          "poster_path": "/43PfIx3oQVsVJIQM6pdCBKTyBNu.jpg",
+          "popularity": 0.9236
+        },
+        {
+          "id": 1576071,
+          "title": "Esperança",
+          "original_title": "Esperança",
+          "release_date": "",
+          "poster_path": null,
+          "popularity": 0.4425
+        },
+        {
+          "id": 921,
+          "title": "A Luta pela Esperança",
+          "original_title": "Cinderella Man",
+          "release_date": "2005-06-02",
+          "poster_path": "/rztLamF4cfaPxvIzqllaxe9e3S.jpg",
+          "popularity": 10.7725
+        },
+        {
+          "id": 1264433,
+          "title": "Sucata Esperança",
+          "original_title": "Sucata Esperança",
+          "release_date": "",
+          "poster_path": null,
+          "popularity": 1.5303
+        },
+        {
+          "id": 960960,
+          "title": "Clara Esperança",
+          "original_title": "Clara Esperança",
+          "release_date": "2022-04-01",
+          "poster_path": "/9dmWpzQFYQZMTIOyk0T3ALQQtya.jpg",
+          "popularity": 3.2932
+        },
+        {
+          "id": 1524841,
+          "title": "Eterna Esperança",
+          "original_title": "Eterna Esperança",
+          "release_date": "1940-11-23",
+          "poster_path": "/q2GsYwkNM85YOfdQRDS45tlsWet.jpg",
+          "popularity": 1.5804
+        },
+        {
+          "id": 1663907,
+          "title": "Esperança Equilibrista",
+          "original_title": "Esperança Equilibrista",
+          "release_date": "2026-03-17",
+          "poster_path": null,
+          "popularity": 0.4516
+        },
+        {
+          "id": 864492,
+          "title": "Esperança 1770",
+          "original_title": "Esperança 1770",
+          "release_date": "2021-08-20",
+          "poster_path": "/ebquMPB1VjCzqM5Vbit4vSQutkF.jpg",
+          "popularity": 0.6026
+        },
+        {
+          "id": 544381,
+          "title": "Um Fio de Esperança: Independência ou Guerra no Saara Ocidental",
+          "original_title": "Um fio de esperança",
+          "release_date": "2017-06-06",
+          "poster_path": "/byxfPRiEnRQQNywUFc4bXBQM3A6.jpg",
+          "popularity": 1.3704
+        },
+        {
+          "id": 733783,
+          "title": "A Esperança não morre",
+          "original_title": "A Esperança não morre",
+          "release_date": "2017-08-18",
+          "poster_path": "/iAsroJM0WIPYdvitD54sIo2pV2k.jpg",
+          "popularity": 0.5563
+        }
+      ]
+    },
+    "/movie/255709?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 255709,
+      "title": "Esperança",
+      "original_title": "소원",
+      "release_date": "2013-10-02",
+      "poster_path": "/m16XObBrqvhX895iwWzZ9Gi7cWY.jpg",
+      "popularity": 13.2466,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "이준익"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt3153634"
+      },
+      "earliest_release_year": 2013
+    },
+    "/movie/1747263?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1747263,
+      "title": "Esperança",
+      "original_title": "Esperança",
+      "release_date": "2026-07-16",
+      "poster_path": "/d0M6IVgeq4v0uzqQuywb7XCOEq8.jpg",
+      "popularity": 4.8328,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Amora Moreira"
+          },
+          {
+            "job": "Director",
+            "name": "Marcelo Pereira"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt43753798"
+      },
+      "earliest_release_year": 2026
+    },
+    "/movie/657885?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 657885,
+      "title": "Esperança",
+      "original_title": "Esperança",
+      "release_date": "2014-09-07",
+      "poster_path": "/bqoj1VQa0rpxQHdBMu9NYTrdSU4.jpg",
+      "popularity": 2.2492,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Nathan Cragun"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt3498018"
+      },
+      "earliest_release_year": 2014
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Nosso tempero&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1688886,
+          "title": "Nosso Tempero",
+          "original_title": "Nosso Tempero",
+          "release_date": "2026-06-03",
+          "poster_path": "/tMUNEBD1is9fLO2PVw7S1cfXjOs.jpg",
+          "popularity": 1.1366
+        }
+      ]
+    },
+    "/movie/1688886?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1688886,
+      "title": "Nosso Tempero",
+      "original_title": "Nosso Tempero",
+      "release_date": "2026-06-03",
+      "poster_path": "/tMUNEBD1is9fLO2PVw7S1cfXjOs.jpg",
+      "popularity": 1.1366,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Alunos e alunas da Escola Municipal João Victor"
+          },
+          {
+            "job": "Director",
+            "name": "Equipe Animazul"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2026
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Poronga&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1768854,
+          "title": "Poronga",
+          "original_title": "Poronga",
+          "release_date": "",
+          "poster_path": "/lBrVolT1MGBU4I5FsJ781E2LWpf.jpg",
+          "popularity": 0.8397
+        }
+      ]
+    },
+    "/movie/1768854?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1768854,
+      "title": "Poronga",
+      "original_title": "Poronga",
+      "release_date": "",
+      "poster_path": "/lBrVolT1MGBU4I5FsJ781E2LWpf.jpg",
+      "popularity": 0.8397,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Rafael Rogante"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": null
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Rios de memórias&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
     }
   }
 }
