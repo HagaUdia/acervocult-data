@@ -1,0 +1,3182 @@
+{
+  "id": "tiradentes",
+  "label": "Mostra de Cinema de Tiradentes",
+  "kind": "festival",
+  "updated_at": "2026-09-28T11:26:30.375Z",
+  "editions": [
+    {
+      "year": 2026,
+      "edition": "29ª Mostra Tiradentes (2026)",
+      "source_url": "https://mostratiradentes.com.br",
+      "first_seen": "2026-09-28T11:26:30.375Z",
+      "films": [
+        {
+          "name": "A Voz da Virgem",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Pedro Almeida"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "aurora",
+              "label": "Aurora",
+              "result": "selected"
+            }
+          ],
+          "key": "t:a-voz-da-virgem",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Obeso Mórbido",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Diego Bauer"
+          ],
+          "people": [],
+          "year_hint": 2026,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "aurora",
+              "label": "Aurora",
+              "result": "selected"
+            }
+          ],
+          "key": "t:obeso-morbido",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "para os guardados",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Desali",
+            "Rafael Rocha"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "aurora",
+              "label": "Aurora",
+              "result": "selected"
+            }
+          ],
+          "key": "t:para-os-guardados",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Politiktok",
+          "original_name": "Politiktok",
+          "year": 2026,
+          "director": [
+            "Álvaro Andrade Alves"
+          ],
+          "imdb_id": "tt40187063",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "aurora",
+              "label": "Aurora",
+              "result": "selected"
+            }
+          ],
+          "key": "tt40187063",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Sabes de mim, agora esqueça",
+          "original_name": "Sabes de Mim, Agora Esqueça",
+          "year": 2026,
+          "director": [
+            "Denise Vieira"
+          ],
+          "imdb_id": "tt43159594",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "aurora",
+              "label": "Aurora",
+              "result": "selected"
+            }
+          ],
+          "key": "tt43159594",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Vulgo Jenny",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Viviane Goulart"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "aurora",
+              "label": "Aurora",
+              "result": "selected"
+            }
+          ],
+          "key": "t:vulgo-jenny",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Antes do Nome",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Luiz Pretti"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "autorias",
+              "label": "Autorias",
+              "result": "selected"
+            }
+          ],
+          "key": "t:antes-do-nome",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Aurora",
+          "original_name": "Aurora",
+          "year": 2025,
+          "director": [
+            "João Vieira Torres"
+          ],
+          "imdb_id": "tt11947514",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "autorias",
+              "label": "Autorias",
+              "result": "selected"
+            }
+          ],
+          "key": "tt11947514",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Estopim",
+          "original_name": "Estopim",
+          "year": 2026,
+          "director": [
+            "Tiago A. Neves"
+          ],
+          "imdb_id": "tt39328589",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "autorias",
+              "label": "Autorias",
+              "result": "selected"
+            }
+          ],
+          "key": "tt39328589",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Uma Baleia pode ser dilacerada como uma escola de samba",
+          "original_name": "Uma Baleia Pode Ser Dilacerada Como Uma Escola De Samba",
+          "year": 2025,
+          "director": [
+            "Felipe Bragança",
+            "Marina Meliande"
+          ],
+          "imdb_id": "tt37362541",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "autorias",
+              "label": "Autorias",
+              "result": "selected"
+            }
+          ],
+          "key": "tt37362541",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "OCIDENTE",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Leonardo Sette"
+          ],
+          "people": [],
+          "year_hint": 2008,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "classicos-de-tiradentes",
+              "label": "Clássicos de Tiradentes",
+              "result": "selected"
+            }
+          ],
+          "key": "t:ocidente",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "AMASSUNU – O RUÍDO DAS ÁGUAS",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Juliana Boechat",
+            "Venusto"
+          ],
+          "people": [],
+          "year_hint": 2026,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "embraturlab",
+              "label": "EmbraturLAB",
+              "result": "selected"
+            }
+          ],
+          "key": "t:amassunu-o-ruido-das-aguas",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "BEIRA",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Marcela Bonfim"
+          ],
+          "people": [],
+          "year_hint": 2026,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "embraturlab",
+              "label": "EmbraturLAB",
+              "result": "selected"
+            }
+          ],
+          "key": "t:beira",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "BICI",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Otoniel Oliveira"
+          ],
+          "people": [],
+          "year_hint": 2026,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "embraturlab",
+              "label": "EmbraturLAB",
+              "result": "selected"
+            }
+          ],
+          "key": "t:bici",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "O RETORNO",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "César Meneghetti",
+            "Mario Gianni"
+          ],
+          "people": [],
+          "year_hint": 2026,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "embraturlab",
+              "label": "EmbraturLAB",
+              "result": "selected"
+            }
+          ],
+          "key": "t:o-retorno",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "TE VEJO NA PRÓXIMA SAÍDA DO BOI",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Keila Sankofa - DaVárzea das Artes"
+          ],
+          "people": [],
+          "year_hint": 2026,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "embraturlab",
+              "label": "EmbraturLAB",
+              "result": "selected"
+            }
+          ],
+          "key": "t:te-vejo-na-proxima-saida-do-boi",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "A praga do resíduo verde",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Ramon Coutinho"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "foco",
+              "label": "Foco",
+              "result": "selected"
+            }
+          ],
+          "key": "t:a-praga-do-residuo-verde",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Caldeirão",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Oliveira Júnior",
+            "Milena Rocha",
+            "Weslley Oliveira"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "foco",
+              "label": "Foco",
+              "result": "selected"
+            }
+          ],
+          "key": "t:caldeirao",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Cavalo Serpente",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Priscila Smiths"
+          ],
+          "people": [],
+          "year_hint": 2026,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "foco",
+              "label": "Foco",
+              "result": "selected"
+            }
+          ],
+          "key": "t:cavalo-serpente",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Cinema Moderno",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Felipe André Silva"
+          ],
+          "people": [],
+          "year_hint": 2026,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "foco",
+              "label": "Foco",
+              "result": "selected"
+            }
+          ],
+          "key": "t:cinema-moderno",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "CRASH",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "GABRIELA MUREB"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "foco",
+              "label": "Foco",
+              "result": "selected"
+            },
+            {
+              "id": "formacao",
+              "label": "Formação",
+              "result": "selected"
+            }
+          ],
+          "key": "t:crash",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Entrevista com Fantasmas",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "LK"
+          ],
+          "people": [],
+          "year_hint": 2026,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "foco",
+              "label": "Foco",
+              "result": "selected"
+            }
+          ],
+          "key": "t:entrevista-com-fantasmas",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Grão",
+          "original_name": "Grão",
+          "year": 2026,
+          "director": [
+            "Gianluca Cozza",
+            "Leonardo da Rosa"
+          ],
+          "imdb_id": "tt39690702",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "foco",
+              "label": "Foco",
+              "result": "selected"
+            }
+          ],
+          "key": "tt39690702",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Kakxop pahok: as crianças cegas",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Cassiano MaxakaliCharles Bicalho"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "foco",
+              "label": "Foco",
+              "result": "selected"
+            }
+          ],
+          "key": "t:kakxop-pahok-as-criancas-cegas",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Lendas da Noite",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Olavo Toledo"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "foco",
+              "label": "Foco",
+              "result": "selected"
+            }
+          ],
+          "key": "t:lendas-da-noite",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Matanga",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Rebeca Francoff"
+          ],
+          "people": [],
+          "year_hint": 2026,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "foco",
+              "label": "Foco",
+              "result": "selected"
+            }
+          ],
+          "key": "t:matanga",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "O ponto do mel",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Mirian Oliveira",
+            "Pedro Lessa"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "foco",
+              "label": "Foco",
+              "result": "selected"
+            }
+          ],
+          "key": "t:o-ponto-do-mel",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Outros Santos",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Jorge Polo",
+            "Guilherme Souza"
+          ],
+          "people": [],
+          "year_hint": 2026,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "foco",
+              "label": "Foco",
+              "result": "selected"
+            }
+          ],
+          "key": "t:outros-santos",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "sem título # 10 : ao re dor do amor",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Carlos Adriano"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "foco",
+              "label": "Foco",
+              "result": "selected"
+            }
+          ],
+          "key": "t:sem-titulo-10-ao-re-dor-do-amor",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "AGULHA",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Luisa Maciel"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "formacao",
+              "label": "Formação",
+              "result": "selected"
+            }
+          ],
+          "key": "t:agulha",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Ballena",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Ricardo Monteiro"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "formacao",
+              "label": "Formação",
+              "result": "selected"
+            }
+          ],
+          "key": "t:ballena",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Cafezinho",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "João Bonfim",
+            "Pedro Silva"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "formacao",
+              "label": "Formação",
+              "result": "selected"
+            }
+          ],
+          "key": "t:cafezinho",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "De Barriga pra Cima",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Equipe IMA (Beatriz Lindenberg",
+            "Cintya Ferreira",
+            "Marcia Medeiros",
+            "Mariana de Lima)",
+            "Moradores da Comunidade Quilombola de Monte Alegre (Cachoeiro do Itapemirim)"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "formacao",
+              "label": "Formação",
+              "result": "selected"
+            }
+          ],
+          "key": "t:de-barriga-pra-cima",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Diálogo Bulbul",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Bruno Churuska",
+            "Gledson Augusto",
+            "Nicole Mendes",
+            "Yan Altino",
+            "Zimá Domingos"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "formacao",
+              "label": "Formação",
+              "result": "selected"
+            }
+          ],
+          "key": "t:dialogo-bulbul",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Hipo Campo",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Caco Tavaris"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "formacao",
+              "label": "Formação",
+              "result": "selected"
+            }
+          ],
+          "key": "t:hipo-campo",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Mande me avisar se é em casa ou na igreja",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Rafael Waltrick"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "formacao",
+              "label": "Formação",
+              "result": "selected"
+            }
+          ],
+          "key": "t:mande-me-avisar-se-e-em-casa-ou-na-igreja",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Na estação das mangas, ela alimenta o bairro inteiro",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Carlos Dias Oliveira",
+            "Lino Fly",
+            "Tiago Coutinho",
+            "Yan Tavares"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "formacao",
+              "label": "Formação",
+              "result": "selected"
+            }
+          ],
+          "key": "t:na-estacao-das-mangas-ela-alimenta-o-bairro-inteiro",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "O tempo que me resta",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Chico Tales",
+            "Mariana Camurça"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "formacao",
+              "label": "Formação",
+              "result": "selected"
+            }
+          ],
+          "key": "t:o-tempo-que-me-resta",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Saudades Perdularia",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Manu Zilveti"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "formacao",
+              "label": "Formação",
+              "result": "selected"
+            }
+          ],
+          "key": "t:saudades-perdularia",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Trincheiras",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Lucas da Rocha",
+            "Maria Clara Almeida"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "formacao",
+              "label": "Formação",
+              "result": "selected"
+            }
+          ],
+          "key": "t:trincheiras",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Urticária Incandescente",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Augusto A. Sauandaj"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "formacao",
+              "label": "Formação",
+              "result": "selected"
+            }
+          ],
+          "key": "t:urticaria-incandescente",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "VAMPIRO",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Nolí Levi",
+            "Emilly Guilherme"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "formacao",
+              "label": "Formação",
+              "result": "selected"
+            }
+          ],
+          "key": "t:vampiro",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Vinte Vinte Quatro",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Davi Pieri"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "formacao",
+              "label": "Formação",
+              "result": "selected"
+            }
+          ],
+          "key": "t:vinte-vinte-quatro",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Amuleto",
+          "original_name": "Amuleto",
+          "year": 2025,
+          "director": [
+            "Igor Barradas",
+            "Heraldo HB"
+          ],
+          "imdb_id": "tt38496374",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "invencao",
+              "label": "Invenção",
+              "result": "selected"
+            }
+          ],
+          "key": "tt38496374",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Sessão Sem Diálogo",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Miguel Clark",
+            "Joana Liberato",
+            "Hannah Maia",
+            "Bruno Lisboa",
+            "João Pedro Faro"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "invencao",
+              "label": "Invenção",
+              "result": "selected"
+            }
+          ],
+          "key": "t:sessao-sem-dialogo",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Abraços",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "BARCABOGANTE"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "mostrinha",
+              "label": "Mostrinha",
+              "result": "selected"
+            }
+          ],
+          "key": "t:abracos",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Antes d’eu era nós",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Lila Thevenom",
+            "Raquel Deliberador"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "mostrinha",
+              "label": "Mostrinha",
+              "result": "selected"
+            }
+          ],
+          "key": "t:antes-deu-era-nos",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Carrinho de Rolimã – Uma aventura em Alta Velocidade",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Rafael Nzinga"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "mostrinha",
+              "label": "Mostrinha",
+              "result": "selected"
+            }
+          ],
+          "key": "t:carrinho-de-rolima-uma-aventura-em-alta-velocidade",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Natureza",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Sheila Rodrigues",
+            "Jaqueline Lopes Diniz"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "mostrinha",
+              "label": "Mostrinha",
+              "result": "selected"
+            }
+          ],
+          "key": "t:natureza",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Pelo que Foi",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Julia Leite",
+            "Luís Eduardo Fanzeres",
+            "Marcela Lesniczki",
+            "Rafael Sabioni"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "mostrinha",
+              "label": "Mostrinha",
+              "result": "selected"
+            }
+          ],
+          "key": "t:pelo-que-foi",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Amante Difícil",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "João Pedro Faro"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "olhos-livres",
+              "label": "Olhos Livres",
+              "result": "selected"
+            }
+          ],
+          "key": "t:amante-dificil",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "ANISTIA 79",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Anita Leandro"
+          ],
+          "people": [],
+          "year_hint": 2026,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "olhos-livres",
+              "label": "Olhos Livres",
+              "result": "selected"
+            }
+          ],
+          "key": "t:anistia-79",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Ao Sabor das Cinzas",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Taciano Valério"
+          ],
+          "people": [],
+          "year_hint": 2026,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "olhos-livres",
+              "label": "Olhos Livres",
+              "result": "selected"
+            }
+          ],
+          "key": "t:ao-sabor-das-cinzas",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "As Florestas da Noite",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Priscyla Bettim",
+            "Renato Coelho"
+          ],
+          "people": [],
+          "year_hint": 2026,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "olhos-livres",
+              "label": "Olhos Livres",
+              "result": "selected"
+            }
+          ],
+          "key": "t:as-florestas-da-noite",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Meu Tio da Câmera",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Bernard Lessa"
+          ],
+          "people": [],
+          "year_hint": 2026,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "olhos-livres",
+              "label": "Olhos Livres",
+              "result": "selected"
+            }
+          ],
+          "key": "t:meu-tio-da-camera",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "O Enigma de S.",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Gustavo de Mattos Jahn"
+          ],
+          "people": [],
+          "year_hint": 2026,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "olhos-livres",
+              "label": "Olhos Livres",
+              "result": "selected"
+            }
+          ],
+          "key": "t:o-enigma-de-s",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Tannhäuser",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Vinícius Romero"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "olhos-livres",
+              "label": "Olhos Livres",
+              "result": "selected"
+            }
+          ],
+          "key": "t:tannhauser",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Ajude os menor",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Janderson Felipe",
+            "Lucas Litrento"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "panorama",
+              "label": "Panorama",
+              "result": "selected"
+            }
+          ],
+          "key": "t:ajude-os-menor",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Do Caldeirão da Santa Cruz do Deserto",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Weyna Macedo",
+            "Lucas Parente",
+            "Adeciany Castro",
+            "Mariana Smith"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "panorama",
+              "label": "Panorama",
+              "result": "selected"
+            }
+          ],
+          "key": "t:do-caldeirao-da-santa-cruz-do-deserto",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Lomba do pinheiro",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Iuri Minfroy"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "panorama",
+              "label": "Panorama",
+              "result": "selected"
+            }
+          ],
+          "key": "t:lomba-do-pinheiro",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Maira Porongyta – o aviso do céu",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Kujãesage Kaiabi"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "ic-play",
+              "label": "IC Play",
+              "result": "selected"
+            }
+          ],
+          "key": "t:maira-porongyta-o-aviso-do-ceu",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Nevrose",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Ana do Carmo"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "panorama",
+              "label": "Panorama",
+              "result": "selected"
+            }
+          ],
+          "key": "t:nevrose",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Tião Personal Dancer",
+          "original_name": "Tião Personal Dancer",
+          "year": 2026,
+          "director": [
+            "Aristótelis Tothi"
+          ],
+          "imdb_id": "tt43679305",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "panorama",
+              "label": "Panorama",
+              "result": "selected"
+            }
+          ],
+          "key": "tt43679305",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Trem da Onze",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Izabelli Campanelli"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "panorama",
+              "label": "Panorama",
+              "result": "selected"
+            }
+          ],
+          "key": "t:trem-da-onze",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Um Oceano Inteiro",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Bruna Dias",
+            "Carine Fiúza"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "panorama",
+              "label": "Panorama",
+              "result": "selected"
+            }
+          ],
+          "key": "t:um-oceano-inteiro",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Windows 51",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Sandro Garcia"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "panorama",
+              "label": "Panorama",
+              "result": "selected"
+            }
+          ],
+          "key": "t:windows-51",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Americana",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Agarb Braga"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "ic-play",
+              "label": "IC Play",
+              "result": "selected"
+            }
+          ],
+          "key": "t:americana",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Boca",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Giuliana Zamprogno"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "praca-curtas",
+              "label": "Praça Curtas",
+              "result": "selected"
+            }
+          ],
+          "key": "t:boca",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Confluência dos Olhos D’Água",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Keila-Sankofa"
+          ],
+          "people": [],
+          "year_hint": 2026,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "praca-curtas",
+              "label": "Praça Curtas",
+              "result": "selected"
+            }
+          ],
+          "key": "t:confluencia-dos-olhos-dagua",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Eu Volto pra Te Buscar",
+          "original_name": "Eu Volto pra Te Buscar",
+          "year": 2025,
+          "director": [
+            "Roger Bravo"
+          ],
+          "imdb_id": "tt39315940",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "praca-curtas",
+              "label": "Praça Curtas",
+              "result": "selected"
+            }
+          ],
+          "key": "tt39315940",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Faísca",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Barbara Matias Kariri"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "praca-curtas",
+              "label": "Praça Curtas",
+              "result": "selected"
+            }
+          ],
+          "key": "t:faisca",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Fronteriza",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Nay Mendl",
+            "Rosa Caldeira"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "praca-curtas",
+              "label": "Praça Curtas",
+              "result": "selected"
+            }
+          ],
+          "key": "t:fronteriza",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Gilson de Souza – Na Corda Bamba",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Brunno Alexandre"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "praca-curtas",
+              "label": "Praça Curtas",
+              "result": "selected"
+            }
+          ],
+          "key": "t:gilson-de-souza-na-corda-bamba",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Hacker Leonilia",
+          "original_name": "Hacker Leonilia",
+          "year": 2025,
+          "director": [
+            "Gustavo Fontele Dourado"
+          ],
+          "imdb_id": "tt3671640",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "praca-curtas",
+              "label": "Praça Curtas",
+              "result": "selected"
+            }
+          ],
+          "key": "tt3671640",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Nosso Amigo Romário",
+          "original_name": "Nosso Amigo Romário",
+          "year": 2026,
+          "director": [
+            "Antonio Pedroni"
+          ],
+          "imdb_id": "tt39602836",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "praca-curtas",
+              "label": "Praça Curtas",
+              "result": "selected"
+            }
+          ],
+          "key": "tt39602836",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Os Ursos e Nós",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Maria Acselrad"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "praca-curtas",
+              "label": "Praça Curtas",
+              "result": "selected"
+            }
+          ],
+          "key": "t:os-ursos-e-nos",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Para não ser levada por qualquer ventania",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Eleonora Loner"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "praca-curtas",
+              "label": "Praça Curtas",
+              "result": "selected"
+            }
+          ],
+          "key": "t:para-nao-ser-levada-por-qualquer-ventania",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "RECIFE TEM UM CORAÇÃO",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Rodrigo Sena"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "praca-curtas",
+              "label": "Praça Curtas",
+              "result": "selected"
+            }
+          ],
+          "key": "t:recife-tem-um-coracao",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Roteiro para uma fuga",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Priscila Nascimento"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "praca-curtas",
+              "label": "Praça Curtas",
+              "result": "selected"
+            }
+          ],
+          "key": "t:roteiro-para-uma-fuga",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Um certo cinema brasileiro",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Fábio Rogério"
+          ],
+          "people": [],
+          "year_hint": 2026,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "praca-curtas",
+              "label": "Praça Curtas",
+              "result": "selected"
+            }
+          ],
+          "key": "t:um-certo-cinema-brasileiro",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Dolores",
+          "original_name": "Dolores",
+          "year": 2025,
+          "director": [
+            "Maria Clara Escobar",
+            "Marcelo Gomes"
+          ],
+          "imdb_id": "tt38037175",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "praca-longas",
+              "label": "Praça Longas",
+              "result": "selected"
+            }
+          ],
+          "key": "tt38037175",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Herança de Narcisa",
+          "original_name": "Herança de Narcisa",
+          "year": 2025,
+          "director": [
+            "Clarissa Appelt",
+            "Daniel Dias"
+          ],
+          "imdb_id": "tt38503912",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "praca-longas",
+              "label": "Praça Longas",
+              "result": "selected"
+            }
+          ],
+          "key": "tt38503912",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Ladeiras da Memória – Paisagens do Clube da Esquina",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Raabe Andrade",
+            "Daniel Caetano"
+          ],
+          "people": [],
+          "year_hint": 2026,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "praca-longas",
+              "label": "Praça Longas",
+              "result": "selected"
+            }
+          ],
+          "key": "t:ladeiras-da-memoria-paisagens-do-clube-da-esquina",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "O ÚLTIMO EPISÓDIO",
+          "original_name": "O Último Episódio",
+          "year": 2025,
+          "director": [
+            "Maurílio Martins"
+          ],
+          "imdb_id": "tt14797230",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "praca-longas",
+              "label": "Praça Longas",
+              "result": "selected"
+            }
+          ],
+          "key": "tt14797230",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Pequenas Criaturas",
+          "original_name": "Pequenas Criaturas",
+          "year": 2025,
+          "director": [
+            "Anne Pinheiro Guimarães"
+          ],
+          "imdb_id": "tt31709080",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "praca-longas",
+              "label": "Praça Longas",
+              "result": "selected"
+            }
+          ],
+          "key": "tt31709080",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Querido Mundo",
+          "original_name": "Querido Mundo",
+          "year": 2025,
+          "director": [
+            "Miguel Falabella",
+            "Hsu Chien Hsin"
+          ],
+          "imdb_id": "tt30818243",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "praca-longas",
+              "label": "Praça Longas",
+              "result": "selected"
+            }
+          ],
+          "key": "tt30818243",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "A Morte da Aparição",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Lila S."
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "soberania-imaginativa-panorama",
+              "label": "Soberania Imaginativa/Panorama",
+              "result": "selected"
+            }
+          ],
+          "key": "t:a-morte-da-aparicao",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Mãe Santíssima",
+          "original_name": "Mãe Santíssima",
+          "year": 2026,
+          "director": [
+            "Buca Dantas"
+          ],
+          "imdb_id": "tt39467833",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "soberania-imaginativa-panorama",
+              "label": "Soberania Imaginativa/Panorama",
+              "result": "selected"
+            }
+          ],
+          "key": "tt39467833",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Memorial dos Metacarpos",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Maria Rita Moreira"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "soberania-imaginativa-panorama",
+              "label": "Soberania Imaginativa/Panorama",
+              "result": "selected"
+            }
+          ],
+          "key": "t:memorial-dos-metacarpos",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Mydzé",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Memorial Isú-Kariri",
+            "Unides contra a colonização: muitos olhos",
+            "um só coração"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "soberania-imaginativa-panorama",
+              "label": "Soberania Imaginativa/Panorama",
+              "result": "selected"
+            }
+          ],
+          "key": "t:mydze",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Pânico na Praia Vermelha",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Marcos Gabriel Faria"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "soberania-imaginativa-panorama",
+              "label": "Soberania Imaginativa/Panorama",
+              "result": "selected"
+            }
+          ],
+          "key": "t:panico-na-praia-vermelha",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Pequeno Jogo",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Sofia Tomic"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "soberania-imaginativa-panorama",
+              "label": "Soberania Imaginativa/Panorama",
+              "result": "selected"
+            }
+          ],
+          "key": "t:pequeno-jogo",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Vigília Noturna",
+          "original_name": "Vigília Noturna",
+          "year": 2025,
+          "director": [
+            "Diego Robert"
+          ],
+          "imdb_id": "tt43680047",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "soberania-imaginativa-panorama",
+              "label": "Soberania Imaginativa/Panorama",
+              "result": "selected"
+            }
+          ],
+          "key": "tt43680047",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Vim e irei como uma profecia",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Fábio Rogério"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "soberania-imaginativa-panorama",
+              "label": "Soberania Imaginativa/Panorama",
+              "result": "selected"
+            }
+          ],
+          "key": "t:vim-e-irei-como-uma-profecia",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Vulto Sagrado",
+          "original_name": "Vulto Sagrado",
+          "year": 2026,
+          "director": [
+            "Daniel Caetano"
+          ],
+          "imdb_id": "tt44914809",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "soberania-imaginativa-panorama",
+              "label": "Soberania Imaginativa/Panorama",
+              "result": "selected"
+            }
+          ],
+          "key": "tt44914809",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Kastora dos Anjos",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Theo Guarnieri"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "territorio-mineiro",
+              "label": "Território Mineiro",
+              "result": "selected"
+            }
+          ],
+          "key": "t:kastora-dos-anjos",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Cordões e Sinos de Além-mar",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Yuji Kodato",
+            "Jeremias Brasileiro"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "territorio-mineiro",
+              "label": "Território Mineiro",
+              "result": "selected"
+            }
+          ],
+          "key": "t:cordoes-e-sinos-de-alem-mar",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Dentro do meu peito mora um cão",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Gabriel Afonso"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "territorio-mineiro",
+              "label": "Território Mineiro",
+              "result": "selected"
+            }
+          ],
+          "key": "t:dentro-do-meu-peito-mora-um-cao",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Mazinho do Trompete",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Mayara Mascarenhas"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "territorio-mineiro",
+              "label": "Território Mineiro",
+              "result": "selected"
+            }
+          ],
+          "key": "t:mazinho-do-trompete",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Minhocuçu",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Leonardo Branco",
+            "Lucas Campos"
+          ],
+          "people": [],
+          "year_hint": 2026,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "territorio-mineiro",
+              "label": "Território Mineiro",
+              "result": "selected"
+            }
+          ],
+          "key": "t:minhocucu",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "O tempo da farinha",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Daniela Paoliello"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "territorio-mineiro",
+              "label": "Território Mineiro",
+              "result": "selected"
+            }
+          ],
+          "key": "t:o-tempo-da-farinha",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Sete Luas Distantes",
+          "original_name": "Sete Luas Distantes",
+          "year": 2025,
+          "director": [
+            "Alexandre Kröner Moreira"
+          ],
+          "imdb_id": "tt38708476",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "territorio-mineiro",
+              "label": "Território Mineiro",
+              "result": "selected"
+            }
+          ],
+          "key": "tt38708476",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "SOM João del-Rei (SOMJDR)",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Rabay Artemídia",
+            "Joan Román"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "territorio-mineiro",
+              "label": "Território Mineiro",
+              "result": "selected"
+            }
+          ],
+          "key": "t:som-joao-del-rei-somjdr",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "ANÁLIA",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Elizabeth Ramos",
+            "Vitória Iabrudi"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "valores",
+              "label": "Valores",
+              "result": "selected"
+            }
+          ],
+          "key": "t:analia",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "CORES DE LAURA",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Elizabeth Ramos",
+            "Vitória Iabrudi"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "valores",
+              "label": "Valores",
+              "result": "selected"
+            }
+          ],
+          "key": "t:cores-de-laura",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "DOIS TONS DE PRETA",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Elizabeth Ramos",
+            "Vitória Iabrudi"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "valores",
+              "label": "Valores",
+              "result": "selected"
+            },
+            {
+              "id": "curtas-das-vertentes",
+              "label": "Curtas das Vertentes",
+              "result": "selected"
+            }
+          ],
+          "key": "t:dois-tons-de-preta",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "O trilho invisível do tempo",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Luísa Meinberg",
+            "Jardel Santos"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "valores",
+              "label": "Valores",
+              "result": "selected"
+            }
+          ],
+          "key": "t:o-trilho-invisivel-do-tempo",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Atravessa minha carne",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Marcela Borela"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "autorias",
+              "label": "Autorias",
+              "result": "selected"
+            }
+          ],
+          "key": "t:atravessa-minha-carne",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "A Fuga, a Raiva, a Dança, a Bunda, a Boca, a Calma, a Vida da Mulher Gorila",
+          "original_name": "A Fuga, a Raiva, a Danca, a Bunda, a Boca, a Calma, a Vida da Mulher Gorila",
+          "year": 2009,
+          "director": [
+            "Felipe Bragança",
+            "Marina Meliande"
+          ],
+          "imdb_id": "tt1483734",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "classicos-de-tiradentes",
+              "label": "Clássicos de Tiradentes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt1483734",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Comunhão",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Pétala Lopes"
+          ],
+          "people": [],
+          "year_hint": 2026,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "panorama",
+              "label": "Panorama",
+              "result": "selected"
+            }
+          ],
+          "key": "t:comunhao",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Palco Cama",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Jura Capela"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "ic-play",
+              "label": "IC Play",
+              "result": "selected"
+            }
+          ],
+          "key": "t:palco-cama",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Banzeiro e Maresia",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Pablo Monteiro"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "praca-curtas",
+              "label": "Praça Curtas",
+              "result": "selected"
+            }
+          ],
+          "key": "t:banzeiro-e-maresia",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Sérgio Mamberti – Memórias do Brasil",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Evaldo Mocarzel"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "vertentes",
+              "label": "Vertentes",
+              "result": "selected"
+            }
+          ],
+          "key": "t:sergio-mamberti-memorias-do-brasil",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "QUINZE",
+          "original_name": "Quinze",
+          "year": 2014,
+          "director": [
+            "Maurílio Martins"
+          ],
+          "imdb_id": "tt7308818",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "homenagem",
+              "label": "Homenagem",
+              "result": "selected"
+            }
+          ],
+          "key": "tt7308818",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Yvy Mbyte – em busca do centro da Terra",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Gildo Gomes",
+            "Araci da Silva"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "panorama",
+              "label": "Panorama",
+              "result": "selected"
+            }
+          ],
+          "key": "t:yvy-mbyte-em-busca-do-centro-da-terra",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "#SalveRosa",
+          "original_name": "#SalveRosa",
+          "year": 2025,
+          "director": [
+            "Susanna Lira"
+          ],
+          "imdb_id": "tt32221511",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "homenagem",
+              "label": "Homenagem",
+              "result": "selected"
+            }
+          ],
+          "key": "tt32221511",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Curva acentuada",
+          "original_name": "Curva Acentuada",
+          "year": 2026,
+          "director": [
+            "Leon Sampaio"
+          ],
+          "imdb_id": "tt39796744",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "panorama",
+              "label": "Panorama",
+              "result": "selected"
+            }
+          ],
+          "key": "tt39796744",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "ROMANCE",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "KARINE TELES"
+          ],
+          "people": [],
+          "year_hint": 2023,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "homenagem",
+              "label": "Homenagem",
+              "result": "selected"
+            }
+          ],
+          "key": "t:romance",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "A Lama da Mãe Morta",
+          "original_name": "A Lama da Mãe Morta",
+          "year": 2023,
+          "director": [
+            "Camilo Pellegrini"
+          ],
+          "imdb_id": "tt29234342",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "homenagem",
+              "label": "Homenagem",
+              "result": "selected"
+            }
+          ],
+          "key": "tt29234342",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "O fantasma da ópera",
+          "original_name": "O Fantasma da Ópera",
+          "year": 2026,
+          "director": [
+            "Júlio Bressane",
+            "Rodrigo Lima"
+          ],
+          "imdb_id": "tt43730542",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "filme-de-abertura",
+              "label": "Filme de Abertura",
+              "result": "selected"
+            }
+          ],
+          "key": "tt43730542",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Otimismo",
+          "original_name": "Otimismo",
+          "year": 2015,
+          "director": [
+            "Karine Teles"
+          ],
+          "imdb_id": "tt7605016",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "homenagem",
+              "label": "Homenagem",
+              "result": "selected"
+            }
+          ],
+          "key": "tt7605016",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Copacabana, 4 de maio",
+          "original_name": "Copacabana, 4 de Maio",
+          "year": 2025,
+          "director": [
+            "Allan Ribeiro"
+          ],
+          "imdb_id": "tt38515170",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "filme-de-encerramento",
+              "label": "Filme de Encerramento",
+              "result": "selected"
+            }
+          ],
+          "key": "tt38515170",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Que Horas Ela Volta",
+          "original_name": "Que Horas Ela Volta?",
+          "year": 2015,
+          "director": [
+            "Anna Muylaert"
+          ],
+          "imdb_id": "tt3742378",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "homenagem",
+              "label": "Homenagem",
+              "result": "selected"
+            }
+          ],
+          "key": "tt3742378",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Riscado",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Gustavo Pizzo"
+          ],
+          "people": [],
+          "year_hint": 2010,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "homenagem",
+              "label": "Homenagem",
+              "result": "selected"
+            }
+          ],
+          "key": "t:riscado",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "O Agente Secreto",
+          "original_name": "O Agente Secreto",
+          "year": 2025,
+          "director": [
+            "Kleber Mendonça Filho"
+          ],
+          "imdb_id": "tt27847051",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "vertentes",
+              "label": "Vertentes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt27847051",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Papaya",
+          "original_name": "Papaya",
+          "year": 2025,
+          "director": [
+            "Priscilla Kellen"
+          ],
+          "imdb_id": "tt38350704",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "mostrinha",
+              "label": "Mostrinha",
+              "result": "selected"
+            }
+          ],
+          "key": "tt38350704",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Tiradentes: Joia do Barroco Mineiro",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Otávio di Toledo"
+          ],
+          "people": [],
+          "year_hint": 2026,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "valores",
+              "label": "Valores",
+              "result": "selected"
+            }
+          ],
+          "key": "t:tiradentes-joia-do-barroco-mineiro",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "A Cabeça pensa onde os pés pisam",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Evanize Sydow",
+            "Américo Freire"
+          ],
+          "people": [],
+          "year_hint": 2024,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "sessao-debate",
+              "label": "Sessão Debate",
+              "result": "selected"
+            }
+          ],
+          "key": "t:a-cabeca-pensa-onde-os-pes-pisam",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "D.P.A. 4 – O Fantástico Reino de Ondion",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Mauro Lima"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "mostrinha",
+              "label": "Mostrinha",
+              "result": "selected"
+            }
+          ],
+          "key": "t:d-p-a-4-o-fantastico-reino-de-ondion",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "DESATINO BARROCO",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Aissa Zaar",
+            "ILO"
+          ],
+          "people": [],
+          "year_hint": 2024,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-das-vertentes",
+              "label": "Curtas das Vertentes",
+              "result": "selected"
+            }
+          ],
+          "key": "t:desatino-barroco",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "UM TALVEZ EM TIRADENTES",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Amaury Bassi"
+          ],
+          "people": [],
+          "year_hint": 2021,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-das-vertentes",
+              "label": "Curtas das Vertentes",
+              "result": "selected"
+            }
+          ],
+          "key": "t:um-talvez-em-tiradentes",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "CERAMISTAS DO ELVAS",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Elizabeth Ramos",
+            "Vitória Iabrudi"
+          ],
+          "people": [],
+          "year_hint": 2023,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-das-vertentes",
+              "label": "Curtas das Vertentes",
+              "result": "selected"
+            }
+          ],
+          "key": "t:ceramistas-do-elvas",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "A BALEIA MÁGICA",
+          "original_name": "A Baleia Mágica",
+          "year": 2022,
+          "director": [
+            "Douglas Alves Ferreira"
+          ],
+          "imdb_id": "tt27573949",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "cine-expressao",
+              "label": "Cine-Expressão",
+              "result": "selected"
+            }
+          ],
+          "key": "tt27573949",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "SOBRE AMIZADE E BICICLETAS",
+          "original_name": "Sobre Amizade e Bicicletas",
+          "year": 2022,
+          "director": [
+            "Julia Vidal"
+          ],
+          "imdb_id": "tt28338337",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "cine-expressao",
+              "label": "Cine-Expressão",
+              "result": "selected"
+            }
+          ],
+          "key": "tt28338337",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "MENINO GEPETO",
+          "original_name": "Menino Gepeto",
+          "year": 2025,
+          "director": [
+            "Claudio Constantino Barbosa",
+            "Rafael Guimarães"
+          ],
+          "imdb_id": "tt35149222",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "cine-expressao",
+              "label": "Cine-Expressão",
+              "result": "selected"
+            }
+          ],
+          "key": "tt35149222",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "SUPER-HERÓIS",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Rafael de Andrade"
+          ],
+          "people": [],
+          "year_hint": 2022,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "cine-expressao",
+              "label": "Cine-Expressão",
+              "result": "selected"
+            }
+          ],
+          "key": "t:super-herois",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "MÃOS DE VENTO E OLHOS DE DENTRO",
+          "original_name": "Mãos de Vento e Olhos de Dentro",
+          "year": 2008,
+          "director": [
+            "Susanna Lira"
+          ],
+          "imdb_id": "tt3068338",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "cine-expressao",
+              "label": "Cine-Expressão",
+              "result": "selected"
+            }
+          ],
+          "key": "tt3068338",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "ELEFANTE AZUL",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Duda Glod",
+            "Brenda Olga"
+          ],
+          "people": [],
+          "year_hint": 2024,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "cine-expressao",
+              "label": "Cine-Expressão",
+              "result": "selected"
+            }
+          ],
+          "key": "t:elefante-azul",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "PORQUE SOU DIFERENTE",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Luís Navarro"
+          ],
+          "people": [],
+          "year_hint": 2024,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "cine-expressao",
+              "label": "Cine-Expressão",
+              "result": "selected"
+            }
+          ],
+          "key": "t:porque-sou-diferente",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "PASSA A BOLA",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Guilherme Herrera Falchi"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "cine-expressao",
+              "label": "Cine-Expressão",
+              "result": "selected"
+            }
+          ],
+          "key": "t:passa-a-bola",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "RUA DESCALÇA",
+          "original_name": "Rua Descalça",
+          "year": 1971,
+          "director": [
+            "J.B. Tanko"
+          ],
+          "imdb_id": "tt0201030",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "sessao-memoria-viva",
+              "label": "Sessão Memória Viva",
+              "result": "selected"
+            }
+          ],
+          "key": "tt0201030",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "MULHERES DO ALTO",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Camila Zivian"
+          ],
+          "people": [],
+          "year_hint": 2016,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "sessao-cinema-que-transforma",
+              "label": "SESSÃO CINEMA QUE TRANSFORMA",
+              "result": "selected"
+            }
+          ],
+          "key": "t:mulheres-do-alto",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "MILTON BITUCA NASCIMENTO",
+          "original_name": "Milton Bituca Nascimento",
+          "year": 2025,
+          "director": [
+            "Flavia Moraes"
+          ],
+          "imdb_id": "tt36286848",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "sessao-de-encerramento",
+              "label": "Sessão de Encerramento",
+              "result": "selected"
+            }
+          ],
+          "key": "tt36286848",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "TOCAR",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Mulheres do Projeto Toque de Mãos"
+          ],
+          "people": [],
+          "year_hint": 2023,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "sessao-cinema-que-transforma",
+              "label": "SESSÃO CINEMA QUE TRANSFORMA",
+              "result": "selected"
+            }
+          ],
+          "key": "t:tocar",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5536 @@
+{
+  "id": "mardelplata",
+  "label": "Festival de Mar del Plata",
+  "kind": "festival",
+  "updated_at": "2026-09-28T11:26:30.375Z",
+  "editions": [
+    {
+      "year": 2023,
+      "edition": "Festival Internacional de Cine de Mar del Plata 2023",
+      "source_url": "https://es.wikipedia.org/wiki/Festival_Internacional_de_Cine_de_Mar_del_Plata_2023",
+      "first_seen": "2026-09-28T11:26:30.375Z",
+      "films": [
+        {
+          "name": "Animal / Humano",
+          "original_name": "Animal/Humano",
+          "year": 2023,
+          "director": [
+            "Alessandro Pugno"
+          ],
+          "imdb_id": "tt12307270",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia Internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt12307270",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Arthur & Diana",
+          "original_name": "Arthur & Diana",
+          "year": 2023,
+          "director": [
+            "Sara Summa"
+          ],
+          "imdb_id": "tt28660113",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia Internacional",
+              "result": "selected"
+            },
+            {
+              "id": "premio-premio-astor-piazzolla-a-la-mejor-interpretacion",
+              "label": "Prêmio: Premio Astor Piazzolla a la mejor interpretación",
+              "result": "winner"
+            }
+          ],
+          "key": "tt28660113",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Elena Knows",
+          "original_name": "Elena sabe",
+          "year": 2023,
+          "director": [
+            "Anahí Berneri"
+          ],
+          "imdb_id": "tt28081899",
+          "wikidata_id": "Q123283839",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia Internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt28081899",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Motherland",
+          "original_name": "Kinra",
+          "year": 2023,
+          "director": [
+            "Marco Panatonic"
+          ],
+          "imdb_id": "tt29931968",
+          "wikidata_id": "Q123478188",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia Internacional",
+              "result": "selected"
+            },
+            {
+              "id": "premio-premio-astor-piazzolla-al-mejor-largometraje",
+              "label": "Prêmio: Premio Astor Piazzolla al mejor largometraje",
+              "result": "winner"
+            }
+          ],
+          "key": "tt29931968",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "LaRoy",
+          "original_name": "LaRoy, Texas",
+          "year": 2023,
+          "director": [
+            "Shane Atkinson"
+          ],
+          "imdb_id": "tt20102596",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia Internacional",
+              "result": "selected"
+            },
+            {
+              "id": "premio-premio-astor-piazzolla-al-mejor-guion",
+              "label": "Prêmio: Premio Astor Piazzolla al mejor guion",
+              "result": "winner"
+            }
+          ],
+          "key": "tt20102596",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Las almas",
+          "original_name": "Las almas",
+          "year": 2023,
+          "director": [
+            "Laura Basombrio"
+          ],
+          "imdb_id": "tt30006586",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia Internacional",
+              "result": "selected"
+            },
+            {
+              "id": "premio-premio-astor-piazzolla-a-la-mejor-direccion",
+              "label": "Prêmio: Premio Astor Piazzolla a la mejor dirección",
+              "result": "winner"
+            }
+          ],
+          "key": "tt30006586",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Mimang",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Kim Tae-yang"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia Internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "t:mimang",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "I Don't Expect Anyone to Believe Me",
+          "original_name": "No voy a pedirle a nadie que me crea",
+          "year": 2023,
+          "director": [
+            "Fernando Frías de la Parra"
+          ],
+          "imdb_id": "tt21738294",
+          "wikidata_id": "Q123399819",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia Internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt21738294",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "A Boat Departed from Me Taking Me Away",
+          "original_name": "Partió de mí un barco llevándome",
+          "year": 2023,
+          "director": [
+            "Cecilia Kang"
+          ],
+          "imdb_id": "tt29961381",
+          "wikidata_id": "Q134617349",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia Internacional",
+              "result": "selected"
+            },
+            {
+              "id": "premio-premio-astor-piazzolla-especial-del-jurado",
+              "label": "Prêmio: Premio Astor Piazzolla especial del jurado",
+              "result": "winner"
+            },
+            {
+              "id": "premio-premio-del-publico",
+              "label": "Prêmio: Premio del público",
+              "result": "winner"
+            }
+          ],
+          "key": "tt29961381",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Seagrass",
+          "original_name": "Seagrass",
+          "year": 2023,
+          "director": [
+            "Meredith Hama-Brown"
+          ],
+          "imdb_id": "tt23642420",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia Internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt23642420",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "UBU",
+          "original_name": "UBU",
+          "year": 2023,
+          "director": [
+            "Paulo Abreu"
+          ],
+          "imdb_id": "tt27141031",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia Internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt27141031",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Crowrã",
+          "original_name": "A Flor do Buriti",
+          "year": 2023,
+          "director": [
+            "Renée Nader Messora",
+            "João Salaviza"
+          ],
+          "imdb_id": "tt27502245",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-latinoamericana",
+              "label": "Competencia Latinoamericana",
+              "result": "selected"
+            }
+          ],
+          "key": "tt27502245",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "The Castle",
+          "original_name": "El castillo",
+          "year": 2023,
+          "director": [
+            "Martín Benchimol"
+          ],
+          "imdb_id": "tt22120686",
+          "wikidata_id": "Q115726461",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-latinoamericana",
+              "label": "Competencia Latinoamericana",
+              "result": "selected"
+            }
+          ],
+          "key": "tt22120686",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "The Other Son",
+          "original_name": "El otro hijo",
+          "year": 2023,
+          "director": [
+            "Juan Sebastián Quebrada"
+          ],
+          "imdb_id": "tt22024112",
+          "wikidata_id": "Q121523387",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-latinoamericana",
+              "label": "Competencia Latinoamericana",
+              "result": "selected"
+            }
+          ],
+          "key": "tt22024112",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "A Ravaging Wind",
+          "original_name": "El viento que arrasa",
+          "year": 2023,
+          "director": [
+            "Paula Hernández"
+          ],
+          "imdb_id": "tt15475536",
+          "wikidata_id": "Q121367999",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-latinoamericana",
+              "label": "Competencia Latinoamericana",
+              "result": "selected"
+            }
+          ],
+          "key": "tt15475536",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Las cosas indefinidas",
+          "original_name": "Las cosas indefinidas",
+          "year": 2023,
+          "director": [
+            "María Aparicio"
+          ],
+          "imdb_id": "tt28632082",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-latinoamericana",
+              "label": "Competencia Latinoamericana",
+              "result": "selected"
+            }
+          ],
+          "key": "tt28632082",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Llaki",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Diego Revollo"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "competencia-latinoamericana",
+              "label": "Competencia Latinoamericana",
+              "result": "selected"
+            }
+          ],
+          "key": "t:llaki",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "The Settlers",
+          "original_name": "Los colonos",
+          "year": 2023,
+          "director": [
+            "Felipe Gálvez Haberle"
+          ],
+          "imdb_id": "tt10370812",
+          "wikidata_id": "Q118877515",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-latinoamericana",
+              "label": "Competencia Latinoamericana",
+              "result": "selected"
+            }
+          ],
+          "key": "tt10370812",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "O dia que te conheci",
+          "original_name": "O Dia que te Conheci",
+          "year": 2023,
+          "director": [
+            "André Novais Oliveira"
+          ],
+          "imdb_id": "tt30005147",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-latinoamericana",
+              "label": "Competencia Latinoamericana",
+              "result": "selected"
+            },
+            {
+              "id": "premio-mencion-especial",
+              "label": "Prêmio: Mención especial",
+              "result": "winner"
+            }
+          ],
+          "key": "tt30005147",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Otro sol",
+          "original_name": "Otro Sol",
+          "year": 2023,
+          "director": [
+            "Francisco Rodriguez Teare"
+          ],
+          "imdb_id": "tt26172954",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-latinoamericana",
+              "label": "Competencia Latinoamericana",
+              "result": "selected"
+            },
+            {
+              "id": "premio-premio-astor-piazzolla-al-mejor-largometraje",
+              "label": "Prêmio: Premio Astor Piazzolla al mejor largometraje",
+              "result": "winner"
+            }
+          ],
+          "key": "tt26172954",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "The Klezmer Project",
+          "original_name": "Adentro mío estoy bailando",
+          "year": 2023,
+          "director": [
+            "Leandro Koch",
+            "Paloma Schachmann"
+          ],
+          "imdb_id": "tt26448952",
+          "wikidata_id": "Q116386970",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-argentina",
+              "label": "Competencia Argentina",
+              "result": "selected"
+            },
+            {
+              "id": "premio-premio-astor-piazzolla-al-mejor-largometraje",
+              "label": "Prêmio: Premio Astor Piazzolla al mejor largometraje",
+              "result": "winner"
+            }
+          ],
+          "key": "tt26448952",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Alemania",
+          "original_name": "Alemania",
+          "year": 2023,
+          "director": [
+            "María Zanetti"
+          ],
+          "imdb_id": "tt15475516",
+          "wikidata_id": "Q121531895",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-argentina",
+              "label": "Competencia Argentina",
+              "result": "selected"
+            }
+          ],
+          "key": "tt15475516",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Clara Gets Lost in the Woods",
+          "original_name": "Clara se pierde en el bosque",
+          "year": 2023,
+          "director": [
+            "Camila Fabbri"
+          ],
+          "imdb_id": "tt28291179",
+          "wikidata_id": "Q121704175",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-argentina",
+              "label": "Competencia Argentina",
+              "result": "selected"
+            }
+          ],
+          "key": "tt28291179",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "El empresario",
+          "original_name": "El empresario",
+          "year": 2023,
+          "director": [
+            "Germán Scelso"
+          ],
+          "imdb_id": "tt29922277",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-argentina",
+              "label": "Competencia Argentina",
+              "result": "selected"
+            }
+          ],
+          "key": "tt29922277",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Elda y los monstruos",
+          "original_name": "Elda y los monstruos",
+          "year": 2023,
+          "director": [
+            "Nicolás Herzog"
+          ],
+          "imdb_id": "tt29961408",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-argentina",
+              "label": "Competencia Argentina",
+              "result": "selected"
+            }
+          ],
+          "key": "tt29961408",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "La gruta continua",
+          "original_name": "La gruta continua",
+          "year": 2023,
+          "director": [
+            "Julián D'Angiolillo"
+          ],
+          "imdb_id": "tt30005230",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-argentina",
+              "label": "Competencia Argentina",
+              "result": "selected"
+            }
+          ],
+          "key": "tt30005230",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "La mujer hormiga",
+          "original_name": "La mujer hormiga",
+          "year": 2023,
+          "director": [
+            "Betania Cappato",
+            "Adrián Suárez"
+          ],
+          "imdb_id": "tt30007717",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-argentina",
+              "label": "Competencia Argentina",
+              "result": "selected"
+            }
+          ],
+          "key": "tt30007717",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Lagunas",
+          "original_name": "Lagunas",
+          "year": 2023,
+          "director": [
+            "Federico Cardone"
+          ],
+          "imdb_id": "tt29886225",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-argentina",
+              "label": "Competencia Argentina",
+              "result": "selected"
+            }
+          ],
+          "key": "tt29886225",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Lava 2 (El nuevo Show del Narciso)",
+          "original_name": "Lava 2 (El nuevo show del Narciso)",
+          "year": 2023,
+          "director": [
+            "Ayar Blasco"
+          ],
+          "imdb_id": "tt30006504",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-argentina",
+              "label": "Competencia Argentina",
+              "result": "selected"
+            }
+          ],
+          "key": "tt30006504",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "The Major Tones",
+          "original_name": "Los tonos mayores",
+          "year": 2023,
+          "director": [
+            "Ingrid Pokropek"
+          ],
+          "imdb_id": "tt29427529",
+          "wikidata_id": "Q124005927",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-argentina",
+              "label": "Competencia Argentina",
+              "result": "selected"
+            }
+          ],
+          "key": "tt29427529",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Vera and the Pleasure of Others",
+          "original_name": "Vera y el placer de los otros",
+          "year": 2023,
+          "director": [
+            "Romina Tamburello",
+            "Federico Actis"
+          ],
+          "imdb_id": "tt26733463",
+          "wikidata_id": "Q131841871",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-argentina",
+              "label": "Competencia Argentina",
+              "result": "selected"
+            },
+            {
+              "id": "premio-premio-jose-martinez-suarez-a-la-mejor-direccion",
+              "label": "Prêmio: Premio José Martínez Suárez a la mejor dirección",
+              "result": "winner"
+            }
+          ],
+          "key": "tt26733463",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Bloom",
+          "original_name": "Bloom",
+          "year": 2023,
+          "director": [
+            "Samuel M. Delgado",
+            "Helena Girón"
+          ],
+          "imdb_id": "tt29336291",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "competencia-estados-alterados",
+              "label": "Competencia Estados Alterados",
+              "result": "selected"
+            }
+          ],
+          "key": "tt29336291",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "The Human Surge 3",
+          "original_name": "El auge del humano 3",
+          "year": 2023,
+          "director": [
+            "Eduardo Williams"
+          ],
+          "imdb_id": "tt28293875",
+          "wikidata_id": "Q121391717",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-estados-alterados",
+              "label": "Competencia Estados Alterados",
+              "result": "selected"
+            }
+          ],
+          "key": "tt28293875",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "El polvo",
+          "original_name": "El polvo",
+          "year": 2023,
+          "director": [
+            "Nicolas Torchinsky"
+          ],
+          "imdb_id": "tt13217600",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-estados-alterados",
+              "label": "Competencia Estados Alterados",
+              "result": "selected"
+            }
+          ],
+          "key": "tt13217600",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Youth (Spring)",
+          "original_name": "Qingchun",
+          "year": 2023,
+          "director": [
+            "Wang Bing"
+          ],
+          "imdb_id": "tt8469104",
+          "wikidata_id": "Q117706339",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-estados-alterados",
+              "label": "Competencia Estados Alterados",
+              "result": "selected"
+            }
+          ],
+          "key": "tt8469104",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Lo que los humanos ven como sangre los jaguares ven como chicha",
+          "original_name": "Lo Que Los Humanos Ven Como Sangre Los Jaguares Ven Como Chicha",
+          "year": 2023,
+          "director": [
+            "Luciana Decker Orozco"
+          ],
+          "imdb_id": "tt29931993",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "competencia-estados-alterados",
+              "label": "Competencia Estados Alterados",
+              "result": "selected"
+            }
+          ],
+          "key": "tt29931993",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Malqueridas",
+          "original_name": "Malqueridas",
+          "year": 2023,
+          "director": [
+            "Tana Gilbert"
+          ],
+          "imdb_id": "tt28516806",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-estados-alterados",
+              "label": "Competencia Estados Alterados",
+              "result": "selected"
+            },
+            {
+              "id": "premio-premio-astor-piazzolla-a-mejor-pelicula",
+              "label": "Prêmio: Premio Astor Piazzolla a mejor película",
+              "result": "winner"
+            }
+          ],
+          "key": "tt28516806",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Mast-del",
+          "original_name": "Mast-del",
+          "year": 2023,
+          "director": [
+            "Maryam Tafakory"
+          ],
+          "imdb_id": "tt27770035",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "competencia-estados-alterados",
+              "label": "Competencia Estados Alterados",
+              "result": "selected"
+            },
+            {
+              "id": "premio-mencion-especial",
+              "label": "Prêmio: Mención especial",
+              "result": "winner"
+            }
+          ],
+          "key": "tt27770035",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Night Walk",
+          "original_name": "Night Walk",
+          "year": 2023,
+          "director": [
+            "Sohn Koo-Yong"
+          ],
+          "imdb_id": "tt28678342",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-estados-alterados",
+              "label": "Competencia Estados Alterados",
+              "result": "selected"
+            }
+          ],
+          "key": "tt28678342",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Perdiendo la fe",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Martha Mechow"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "competencia-estados-alterados",
+              "label": "Competencia Estados Alterados",
+              "result": "selected"
+            }
+          ],
+          "key": "t:perdiendo-la-fe",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Orlando, ma biographie politique",
+          "original_name": "Orlando, ma biographie politique",
+          "year": 2023,
+          "director": [
+            "Paul B. Preciado"
+          ],
+          "imdb_id": "tt26448981",
+          "wikidata_id": "Q116741022",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-estados-alterados",
+              "label": "Competencia Estados Alterados",
+              "result": "selected"
+            },
+            {
+              "id": "premio-mencion-especial",
+              "label": "Prêmio: Mención especial",
+              "result": "winner"
+            }
+          ],
+          "key": "tt26448981",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Foremost by Night",
+          "original_name": "Sobre todo de noche",
+          "year": 2023,
+          "director": [
+            "Víctor Iriarte"
+          ],
+          "imdb_id": "tt21882016",
+          "wikidata_id": "Q121071213",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-estados-alterados",
+              "label": "Competencia Estados Alterados",
+              "result": "selected"
+            }
+          ],
+          "key": "tt21882016",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "La noche del minotauro",
+          "original_name": null,
+          "year": null,
+          "director": [],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "premio-premio-astor-piazzolla-al-mejor-cortometraje",
+              "label": "Prêmio: Premio Astor Piazzolla al mejor cortometraje",
+              "result": "winner"
+            }
+          ],
+          "key": "t:la-noche-del-minotauro",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Nueva esperanza",
+          "original_name": null,
+          "year": null,
+          "director": [],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "premio-mencion-especial",
+              "label": "Prêmio: Mención especial",
+              "result": "winner"
+            }
+          ],
+          "key": "t:nueva-esperanza",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Especies de compañía",
+          "original_name": null,
+          "year": null,
+          "director": [],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "premio-premio-astor-piazzolla-al-mejor-cortometraje",
+              "label": "Prêmio: Premio Astor Piazzolla al mejor cortometraje",
+              "result": "winner"
+            }
+          ],
+          "key": "t:especies-de-compania",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "edition": "Festival Internacional de Cine de Mar del Plata 2022",
+      "source_url": "https://es.wikipedia.org/wiki/Festival_Internacional_de_Cine_de_Mar_del_Plata_2022",
+      "first_seen": "2026-09-28T11:26:30.375Z",
+      "films": [
+        {
+          "name": "Money Exchange",
+          "original_name": "Cambio cambio",
+          "year": 2022,
+          "director": [
+            "Lautaro García Candela"
+          ],
+          "imdb_id": "tt23036566",
+          "wikidata_id": "Q115248241",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia Internacional",
+              "result": "selected"
+            },
+            {
+              "id": "premio-mencion-especial",
+              "label": "Prêmio: Mención Especial",
+              "result": "winner"
+            }
+          ],
+          "key": "tt23036566",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "The Face of the Jellyfish",
+          "original_name": "El rostro de la medusa",
+          "year": 2022,
+          "director": [
+            "Melisa Liebenthal"
+          ],
+          "imdb_id": "tt23036290",
+          "wikidata_id": "Q115248349",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia Internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt23036290",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "How to Blow Up a Pipeline",
+          "original_name": "How to Blow Up a Pipeline",
+          "year": 2022,
+          "director": [
+            "Daniel Goldhaber"
+          ],
+          "imdb_id": "tt21440780",
+          "wikidata_id": "Q113757659",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia Internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt21440780",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "The Woman from Uruguay",
+          "original_name": "La uruguaya",
+          "year": 2022,
+          "director": [
+            "Ana García Blaya"
+          ],
+          "imdb_id": "tt14731294",
+          "wikidata_id": "Q107105769",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia Internacional",
+              "result": "selected"
+            },
+            {
+              "id": "premio-premio-astor-piazzolla-a-la-mejor-direccion",
+              "label": "Prêmio: Premio Astor Piazzolla a la Mejor Dirección",
+              "result": "winner"
+            }
+          ],
+          "key": "tt14731294",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Wolf and Dog",
+          "original_name": "Lobo e Cão",
+          "year": 2022,
+          "director": [
+            "Cláudia Varejão"
+          ],
+          "imdb_id": "tt21838736",
+          "wikidata_id": "Q113635595",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia Internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt21838736",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "The Ones from Below",
+          "original_name": "Los de Abajo",
+          "year": 2022,
+          "director": [
+            "Alejandro Quiroga"
+          ],
+          "imdb_id": "tt10427666",
+          "wikidata_id": "Q115259566",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia Internacional",
+              "result": "selected"
+            },
+            {
+              "id": "premio-premio-astor-piazzolla-a-la-mejor-interpretacion",
+              "label": "Prêmio: Premio Astor Piazzolla a la Mejor Interpretación",
+              "result": "winner"
+            }
+          ],
+          "key": "tt10427666",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "O trio em mi bemol",
+          "original_name": "O Trio em Mi Bemol",
+          "year": 2022,
+          "director": [
+            "Rita Azevedo Gomes"
+          ],
+          "imdb_id": "tt17555654",
+          "wikidata_id": "Q115274787",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia Internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt17555654",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Retreat",
+          "original_name": "Réduit",
+          "year": 2022,
+          "director": [
+            "Leon Schwitter"
+          ],
+          "imdb_id": "tt12923754",
+          "wikidata_id": "Q115274874",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia Internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt12923754",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Bittersweet Rain",
+          "original_name": "Saudade fez Morada aqui Dentro",
+          "year": 2022,
+          "director": [
+            "Haroldo Borges"
+          ],
+          "imdb_id": "tt23036540",
+          "wikidata_id": "Q115283929",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia Internacional",
+              "result": "selected"
+            },
+            {
+              "id": "premio-premio-astor-piazzolla-al-mejor-largometraje",
+              "label": "Prêmio: Premio Astor Piazzolla al Mejor Largometraje",
+              "result": "winner"
+            },
+            {
+              "id": "premio-mencion-especial",
+              "label": "Prêmio: Mención Especial",
+              "result": "winner"
+            }
+          ],
+          "key": "tt23036540",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "So Much Tenderness",
+          "original_name": "So Much Tenderness",
+          "year": 2022,
+          "director": [
+            "Lina Rodríguez"
+          ],
+          "imdb_id": "tt16022080",
+          "wikidata_id": "Q113997780",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia Internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt16022080",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "There There",
+          "original_name": "There There",
+          "year": 2022,
+          "director": [
+            "Andrew Bujalski"
+          ],
+          "imdb_id": "tt19796976",
+          "wikidata_id": "Q115289986",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia Internacional",
+              "result": "selected"
+            },
+            {
+              "id": "premio-premio-astor-piazzolla-al-mejor-guion",
+              "label": "Prêmio: Premio Astor Piazzolla al Mejor Guion",
+              "result": "winner"
+            }
+          ],
+          "key": "tt19796976",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Three Brothers",
+          "original_name": "Tres hermanos",
+          "year": 2022,
+          "director": [
+            "Francisco Joaquín Paparella"
+          ],
+          "imdb_id": "tt7512876",
+          "wikidata_id": "Q115248380",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia Internacional",
+              "result": "selected"
+            },
+            {
+              "id": "premio-premio-astor-piazzolla-premio-especial-del-jurado",
+              "label": "Prêmio: Premio Astor Piazzolla - Premio Especial del Jurado",
+              "result": "winner"
+            }
+          ],
+          "key": "tt7512876",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Amigas en un camino de campo",
+          "original_name": "Amigas en un camino de campo",
+          "year": 2022,
+          "director": [
+            "Santiago Loza"
+          ],
+          "imdb_id": "tt21922404",
+          "wikidata_id": "Q115314008",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-latinoamericana",
+              "label": "Competencia Latinoamericana",
+              "result": "selected"
+            }
+          ],
+          "key": "tt21922404",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Anhell69",
+          "original_name": "Anhell69",
+          "year": 2022,
+          "director": [
+            "Theo Montoya"
+          ],
+          "imdb_id": "tt21364460",
+          "wikidata_id": "Q113630933",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-latinoamericana",
+              "label": "Competencia Latinoamericana",
+              "result": "selected"
+            },
+            {
+              "id": "premio-mencion-especial",
+              "label": "Prêmio: Mención Especial",
+              "result": "winner"
+            }
+          ],
+          "key": "tt21364460",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "El Visitante",
+          "original_name": "El Visitante",
+          "year": 2022,
+          "director": [
+            "Martín Boulocq"
+          ],
+          "imdb_id": "tt12065036",
+          "wikidata_id": "Q115314075",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-latinoamericana",
+              "label": "Competencia Latinoamericana",
+              "result": "selected"
+            }
+          ],
+          "key": "tt12065036",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Errante. La conquista del hogar",
+          "original_name": "Errante. La conquista del hogar",
+          "year": 2022,
+          "director": [
+            "Adriana Lestido"
+          ],
+          "imdb_id": "tt27470863",
+          "wikidata_id": "Q115314080",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-latinoamericana",
+              "label": "Competencia Latinoamericana",
+              "result": "selected"
+            }
+          ],
+          "key": "tt27470863",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Huesera: The Bone Woman",
+          "original_name": "Huesera",
+          "year": 2022,
+          "director": [
+            "Michelle Garza Cervera"
+          ],
+          "imdb_id": "tt11718516",
+          "wikidata_id": "Q112939380",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-latinoamericana",
+              "label": "Competencia Latinoamericana",
+              "result": "selected"
+            }
+          ],
+          "key": "tt11718516",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Mato seco em chamas",
+          "original_name": "Mato Seco em Chamas",
+          "year": 2022,
+          "director": [
+            "Adirley Queirós",
+            "Joana Pimenta"
+          ],
+          "imdb_id": "tt17550726",
+          "wikidata_id": "Q110910146",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-latinoamericana",
+              "label": "Competencia Latinoamericana",
+              "result": "selected"
+            },
+            {
+              "id": "premio-premio-especial-del-jurado",
+              "label": "Prêmio: Premio Especial del Jurado",
+              "result": "winner"
+            }
+          ],
+          "key": "tt17550726",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Notes For a Film",
+          "original_name": "Notas para una película",
+          "year": 2023,
+          "director": [
+            "Ignacio Agüero"
+          ],
+          "imdb_id": "tt23769836",
+          "wikidata_id": "Q115314091",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-latinoamericana",
+              "label": "Competencia Latinoamericana",
+              "result": "selected"
+            }
+          ],
+          "key": "tt23769836",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "I Have Electric Dreams",
+          "original_name": "Tengo sueños eléctricos",
+          "year": 2022,
+          "director": [
+            "Valentina Maurel"
+          ],
+          "imdb_id": "tt21227238",
+          "wikidata_id": "Q113507592",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-latinoamericana",
+              "label": "Competencia Latinoamericana",
+              "result": "selected"
+            }
+          ],
+          "key": "tt21227238",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Tinnitus",
+          "original_name": "Tinnitus",
+          "year": 2022,
+          "director": [
+            "Gregorio Graziosi"
+          ],
+          "imdb_id": "tt12530402",
+          "wikidata_id": "Q115314097",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-latinoamericana",
+              "label": "Competencia Latinoamericana",
+              "result": "selected"
+            }
+          ],
+          "key": "tt12530402",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Trenque Lauquen",
+          "original_name": "Trenque Lauquen",
+          "year": 2022,
+          "director": [
+            "Laura Citarella"
+          ],
+          "imdb_id": "tt21378968",
+          "wikidata_id": "Q114874089",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-latinoamericana",
+              "label": "Competencia Latinoamericana",
+              "result": "selected"
+            },
+            {
+              "id": "premio-premio-astor-piazzolla-al-mejor-largometraje",
+              "label": "Prêmio: Premio Astor Piazzolla al Mejor Largometraje",
+              "result": "winner"
+            },
+            {
+              "id": "premio-premio-alta-definicion-argentina-a-la-mejor-pelicula-de-la-competencia-latinoamericana",
+              "label": "Prêmio: Premio Alta Definición Argentina a la Mejor Película de la Competencia Latinoamericana",
+              "result": "winner"
+            }
+          ],
+          "key": "tt21378968",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Búfalo",
+          "original_name": "Búfalo",
+          "year": 2022,
+          "director": [
+            "Nicanor Loreti"
+          ],
+          "imdb_id": "tt23036044",
+          "wikidata_id": "Q115515329",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-argentina",
+              "label": "Competencia Argentina",
+              "result": "selected"
+            }
+          ],
+          "key": "tt23036044",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Love Will Come as a Forestal Fire",
+          "original_name": "El amor vendrá como un incendio forestal",
+          "year": 2022,
+          "director": [
+            "Laura Spiner"
+          ],
+          "imdb_id": "tt23035786",
+          "wikidata_id": "Q115515371",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-argentina",
+              "label": "Competencia Argentina",
+              "result": "selected"
+            }
+          ],
+          "key": "tt23035786",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Long Time No Sleep",
+          "original_name": "Hace mucho que no duermo",
+          "year": 2022,
+          "director": [
+            "Agustín Godoy"
+          ],
+          "imdb_id": "tt23036192",
+          "wikidata_id": "Q116440928",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-argentina",
+              "label": "Competencia Argentina",
+              "result": "selected"
+            }
+          ],
+          "key": "tt23036192",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Herbaria",
+          "original_name": "Herbaria",
+          "year": 2022,
+          "director": [
+            "Leandro Listorti"
+          ],
+          "imdb_id": "tt11537034",
+          "wikidata_id": "Q116447816",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-argentina",
+              "label": "Competencia Argentina",
+              "result": "selected"
+            },
+            {
+              "id": "premio-premio-jose-martinez-suarez-a-la-mejor-direccion",
+              "label": "Prêmio: Premio José Martínez Suárez a la Mejor Dirección",
+              "result": "winner"
+            }
+          ],
+          "key": "tt11537034",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Juana Banana",
+          "original_name": "Juana banana",
+          "year": 2022,
+          "director": [
+            "Matías Szulanski"
+          ],
+          "imdb_id": "tt22855212",
+          "wikidata_id": "Q116447831",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-argentina",
+              "label": "Competencia Argentina",
+              "result": "selected"
+            }
+          ],
+          "key": "tt22855212",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Luminum",
+          "original_name": "Luminum",
+          "year": 2022,
+          "director": [
+            "Maximiliano Schonfeld"
+          ],
+          "imdb_id": "tt10665972",
+          "wikidata_id": "Q116447836",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-argentina",
+              "label": "Competencia Argentina",
+              "result": "selected"
+            }
+          ],
+          "key": "tt10665972",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Náufrago",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Martín Farina",
+            "Willy Villalobos"
+          ],
+          "people": [
+            "Martín Farina",
+            "Willy Villalobos"
+          ],
+          "imdb_id": null,
+          "wikidata_id": "Q120416087",
+          "type": null,
+          "categories": [
+            {
+              "id": "competencia-argentina",
+              "label": "Competencia Argentina",
+              "result": "selected"
+            }
+          ],
+          "key": "wd:Q120416087",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "About The Clouds",
+          "original_name": "Sobre las nubes",
+          "year": 2022,
+          "director": [
+            "María Aparicio"
+          ],
+          "imdb_id": "tt21282334",
+          "wikidata_id": "Q116447858",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-argentina",
+              "label": "Competencia Argentina",
+              "result": "selected"
+            },
+            {
+              "id": "premio-premio-astor-piazzolla-al-mejor-largometraje",
+              "label": "Prêmio: Premio Astor Piazzolla al Mejor Largometraje",
+              "result": "winner"
+            },
+            {
+              "id": "premio-premio-banco-nacion-lahaye-media-y-pomeranec-sonido-al-mejor-largometraje-argentino",
+              "label": "Prêmio: Premio Banco Nación, Lahaye Media y Pomeranec Sonido al Mejor Largometraje Argentino",
+              "result": "winner"
+            }
+          ],
+          "key": "tt21282334",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "I promise you a long friendship",
+          "original_name": "Te prometo una larga amistad",
+          "year": 2022,
+          "director": [
+            "Jimena Repetto"
+          ],
+          "imdb_id": "tt23036408",
+          "wikidata_id": "Q116447866",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-argentina",
+              "label": "Competencia Argentina",
+              "result": "selected"
+            }
+          ],
+          "key": "tt23036408",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "A Woman Escapes",
+          "original_name": "A Woman Escapes",
+          "year": 2022,
+          "director": [
+            "Sofia Bohdanowicz",
+            "Blake Williams",
+            "Burak Çevik"
+          ],
+          "imdb_id": "tt21087416",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-estados-alterados",
+              "label": "Competencia Estados Alterados",
+              "result": "selected"
+            }
+          ],
+          "key": "tt21087416",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Afterwater",
+          "original_name": "Afterwater",
+          "year": 2022,
+          "director": [
+            "Dane Komljen"
+          ],
+          "imdb_id": "tt12386022",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-estados-alterados",
+              "label": "Competencia Estados Alterados",
+              "result": "selected"
+            }
+          ],
+          "key": "tt12386022",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Filme Particular",
+          "original_name": "Filme Particular",
+          "year": 2022,
+          "director": [
+            "Janaína Nagata"
+          ],
+          "imdb_id": "tt27901830",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-estados-alterados",
+              "label": "Competencia Estados Alterados",
+              "result": "selected"
+            },
+            {
+              "id": "premio-mencion-especial",
+              "label": "Prêmio: Mención Especial",
+              "result": "winner"
+            }
+          ],
+          "key": "tt27901830",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Fogo-Fátuo",
+          "original_name": "Fogo-Fátuo",
+          "year": 2022,
+          "director": [
+            "João Pedro Rodrigues"
+          ],
+          "imdb_id": "tt11460816",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-estados-alterados",
+              "label": "Competencia Estados Alterados",
+              "result": "selected"
+            }
+          ],
+          "key": "tt11460816",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Human Flowers of Flesh",
+          "original_name": "Human Flowers of Flesh",
+          "year": 2022,
+          "director": [
+            "Helena Wittmann"
+          ],
+          "imdb_id": "tt13846508",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-estados-alterados",
+              "label": "Competencia Estados Alterados",
+              "result": "selected"
+            }
+          ],
+          "key": "tt13846508",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Geographies of Solitude' '",
+          "original_name": "Geographies of Solitude",
+          "year": 2022,
+          "director": [
+            "Jacquelyn Mills"
+          ],
+          "imdb_id": "tt11398152",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-estados-alterados",
+              "label": "Competencia Estados Alterados",
+              "result": "selected"
+            },
+            {
+              "id": "premio-premio-astor-piazzolla-a-mejor-pelicula",
+              "label": "Prêmio: Premio Astor Piazzolla a Mejor Película",
+              "result": "winner"
+            },
+            {
+              "id": "premio-premio-mubi-a-la-mejor-pelicula",
+              "label": "Prêmio: Premio MUBI a la Mejor Película",
+              "result": "winner"
+            }
+          ],
+          "key": "tt11398152",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Lockdown Diaries",
+          "original_name": "Lockdown Diaries",
+          "year": 2022,
+          "director": [
+            "Jeff Zorrilla"
+          ],
+          "imdb_id": "tt23477298",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-estados-alterados",
+              "label": "Competencia Estados Alterados",
+              "result": "selected"
+            }
+          ],
+          "key": "tt23477298",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Manuale di cinematografia per dilettanti – Vol. I",
+          "original_name": "Manuale di cinematografia per dilettanti - Vol. I",
+          "year": 2022,
+          "director": [
+            "Federico Di Corato"
+          ],
+          "imdb_id": "tt21920828",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "competencia-estados-alterados",
+              "label": "Competencia Estados Alterados",
+              "result": "selected"
+            }
+          ],
+          "key": "tt21920828",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Maria Schneider, 1983",
+          "original_name": "Maria Schneider, 1983",
+          "year": 2022,
+          "director": [
+            "Elisabeth Subrin"
+          ],
+          "imdb_id": "tt19889104",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "competencia-estados-alterados",
+              "label": "Competencia Estados Alterados",
+              "result": "selected"
+            }
+          ],
+          "key": "tt19889104",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "The Newest Olds",
+          "original_name": "The Newest Olds",
+          "year": 2022,
+          "director": [
+            "Pablo Mazzolo"
+          ],
+          "imdb_id": "tt18228088",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "competencia-estados-alterados",
+              "label": "Competencia Estados Alterados",
+              "result": "selected"
+            },
+            {
+              "id": "premio-mencion-especial",
+              "label": "Prêmio: Mención Especial",
+              "result": "winner"
+            }
+          ],
+          "key": "tt18228088",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "The Plains",
+          "original_name": "The Plains",
+          "year": 2022,
+          "director": [
+            "David Easteal"
+          ],
+          "imdb_id": "tt15567198",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-estados-alterados",
+              "label": "Competencia Estados Alterados",
+              "result": "selected"
+            }
+          ],
+          "key": "tt15567198",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Vía negativa",
+          "original_name": "Vía negativa",
+          "year": 2022,
+          "director": [
+            "Alan Martín Segal"
+          ],
+          "imdb_id": "tt21290858",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-estados-alterados",
+              "label": "Competencia Estados Alterados",
+              "result": "selected"
+            }
+          ],
+          "key": "tt21290858",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "As bestas",
+          "original_name": "As bestas",
+          "year": 2022,
+          "director": [
+            "Rodrigo Sorogoyen"
+          ],
+          "imdb_id": "tt15006566",
+          "wikidata_id": "Q108919489",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "autoras-y-autores",
+              "label": "Autoras y Autores",
+              "result": "selected"
+            }
+          ],
+          "key": "tt15006566",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Boy from Heaven",
+          "original_name": "Walad min al-Janna",
+          "year": 2022,
+          "director": [
+            "Tarik Saleh"
+          ],
+          "imdb_id": "tt15452062",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "autoras-y-autores",
+              "label": "Autoras y Autores",
+              "result": "selected"
+            }
+          ],
+          "key": "tt15452062",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Camarera de piso",
+          "original_name": "Camarera de Piso",
+          "year": 2022,
+          "director": [
+            "Lucrecia Martel"
+          ],
+          "imdb_id": "tt23773946",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "autoras-y-autores",
+              "label": "Autoras y Autores",
+              "result": "selected"
+            }
+          ],
+          "key": "tt23773946",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Coma (filme de 2022)",
+          "original_name": "Coma",
+          "year": 2022,
+          "director": [
+            "Bertrand Bonello"
+          ],
+          "imdb_id": "tt17308130",
+          "wikidata_id": "Q110854546",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "autoras-y-autores",
+              "label": "Autoras y Autores",
+              "result": "selected"
+            }
+          ],
+          "key": "tt17308130",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Don Juan",
+          "original_name": "Don Juan",
+          "year": 2022,
+          "director": [
+            "Serge Bozon"
+          ],
+          "imdb_id": "tt14590650",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "autoras-y-autores",
+              "label": "Autoras y Autores",
+              "result": "selected"
+            }
+          ],
+          "key": "tt14590650",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "The Menu",
+          "original_name": "The Menu",
+          "year": 2022,
+          "director": [
+            "Mark Mylod"
+          ],
+          "imdb_id": "tt9764362",
+          "wikidata_id": "Q108444804",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "autoras-y-autores",
+              "label": "Autoras y Autores",
+              "result": "selected"
+            }
+          ],
+          "key": "tt9764362",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "The Wonder",
+          "original_name": "The Wonder",
+          "year": 2022,
+          "director": [
+            "Sebastián Lelio"
+          ],
+          "imdb_id": "tt9288822",
+          "wikidata_id": "Q113331181",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "autoras-y-autores",
+              "label": "Autoras y Autores",
+              "result": "selected"
+            }
+          ],
+          "key": "tt9288822",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "El sembrador de estrellas",
+          "original_name": "El sembrador de estrellas",
+          "year": 2022,
+          "director": [
+            "Lois Patiño"
+          ],
+          "imdb_id": "tt17068762",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "autoras-y-autores",
+              "label": "Autoras y Autores",
+              "result": "selected"
+            }
+          ],
+          "key": "tt17068762",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Império da Luz",
+          "original_name": "Empire of Light",
+          "year": 2022,
+          "director": [
+            "Sam Mendes"
+          ],
+          "imdb_id": "tt14402146",
+          "wikidata_id": "Q110876878",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "autoras-y-autores",
+              "label": "Autoras y Autores",
+              "result": "selected"
+            }
+          ],
+          "key": "tt14402146",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "La reina desnuda",
+          "original_name": "La reina desnuda",
+          "year": 2023,
+          "director": [
+            "José Celestino Campusano"
+          ],
+          "imdb_id": "tt26761140",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "autoras-y-autores",
+              "label": "Autoras y Autores",
+              "result": "selected"
+            }
+          ],
+          "key": "tt26761140",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Le pupille",
+          "original_name": "Le pupille",
+          "year": 2022,
+          "director": [
+            "Alice Rohrwacher"
+          ],
+          "imdb_id": "tt20215392",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "autoras-y-autores",
+              "label": "Autoras y Autores",
+              "result": "selected"
+            }
+          ],
+          "key": "tt20215392",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Lynch",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Alexandre O. Philippe"
+          ],
+          "people": [
+            "Alexandre O. Philippe"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "autoras-y-autores",
+              "label": "Autoras y Autores",
+              "result": "selected"
+            }
+          ],
+          "key": "t:lynch",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "No Bears",
+          "original_name": "Khers nist",
+          "year": 2022,
+          "director": [
+            "Jafar Panahi"
+          ],
+          "imdb_id": "tt20205236",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "autoras-y-autores",
+              "label": "Autoras y Autores",
+              "result": "selected"
+            }
+          ],
+          "key": "tt20205236",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Pacifiction",
+          "original_name": "Pacifiction",
+          "year": 2022,
+          "director": [
+            "Albert Serra"
+          ],
+          "imdb_id": "tt13702796",
+          "wikidata_id": "Q111686259",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "autoras-y-autores",
+              "label": "Autoras y Autores",
+              "result": "selected"
+            }
+          ],
+          "key": "tt13702796",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "SINFON14",
+          "original_name": "Sinfon14",
+          "year": 2022,
+          "director": [
+            "Raúl Perrone"
+          ],
+          "imdb_id": "tt28306765",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "autoras-y-autores",
+              "label": "Autoras y Autores",
+              "result": "selected"
+            }
+          ],
+          "key": "tt28306765",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Tales of the Purple House",
+          "original_name": "Tales of the Purple House",
+          "year": 2022,
+          "director": [
+            "Abbas Fahdel"
+          ],
+          "imdb_id": "tt21226698",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "autoras-y-autores",
+              "label": "Autoras y Autores",
+              "result": "selected"
+            }
+          ],
+          "key": "tt21226698",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "You Have to Come and See It",
+          "original_name": "Tenéis que venir a verla",
+          "year": 2022,
+          "director": [
+            "Jonás Trueba"
+          ],
+          "imdb_id": "tt14766636",
+          "wikidata_id": "Q112872032",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "autoras-y-autores",
+              "label": "Autoras y Autores",
+              "result": "selected"
+            }
+          ],
+          "key": "tt14766636",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "One Year, One Night",
+          "original_name": "Un año, una noche",
+          "year": 2022,
+          "director": [
+            "Isaki Lacuesta"
+          ],
+          "imdb_id": "tt14104600",
+          "wikidata_id": "Q108490145",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "autoras-y-autores",
+              "label": "Autoras y Autores",
+              "result": "selected"
+            }
+          ],
+          "key": "tt14104600",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Un beau matin",
+          "original_name": "Un beau matin",
+          "year": 2022,
+          "director": [
+            "Mia Hansen-Løve"
+          ],
+          "imdb_id": "tt13482828",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "autoras-y-autores",
+              "label": "Autoras y Autores",
+              "result": "selected"
+            }
+          ],
+          "key": "tt13482828",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Vera",
+          "original_name": "Vera",
+          "year": 2022,
+          "director": [
+            "Tizza Covi",
+            "Rainer Frimmel"
+          ],
+          "imdb_id": "tt21377368",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "autoras-y-autores",
+              "label": "Autoras y Autores",
+              "result": "selected"
+            }
+          ],
+          "key": "tt21377368",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Walk Up",
+          "original_name": "Tab",
+          "year": 2022,
+          "director": [
+            "Hong Sang-soo"
+          ],
+          "imdb_id": "tt21404804",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "autoras-y-autores",
+              "label": "Autoras y Autores",
+              "result": "selected"
+            }
+          ],
+          "key": "tt21404804",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Alcarràs",
+          "original_name": "Alcarràs",
+          "year": 2022,
+          "director": [
+            "Carla Simón Pipó"
+          ],
+          "imdb_id": "tt11930126",
+          "wikidata_id": "Q110622667",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "nuevas-autoras-nuevos-autores",
+              "label": "Nuevas Autoras - Nuevos Autores",
+              "result": "selected"
+            }
+          ],
+          "key": "tt11930126",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "El veterano",
+          "original_name": "El veterano",
+          "year": 2022,
+          "director": [
+            "Jerónimo Rodríguez"
+          ],
+          "imdb_id": "tt17555674",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "nuevas-autoras-nuevos-autores",
+              "label": "Nuevas Autoras - Nuevos Autores",
+              "result": "selected"
+            }
+          ],
+          "key": "tt17555674",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "I Love My Dad",
+          "original_name": "I Love My Dad",
+          "year": 2022,
+          "director": [
+            "James Morosini"
+          ],
+          "imdb_id": "tt14935966",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "nuevas-autoras-nuevos-autores",
+              "label": "Nuevas Autoras - Nuevos Autores",
+              "result": "selected"
+            }
+          ],
+          "key": "tt14935966",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "La nuit du 12",
+          "original_name": "La nuit du 12",
+          "year": 2022,
+          "director": [
+            "Dominik Moll"
+          ],
+          "imdb_id": "tt16953666",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "nuevas-autoras-nuevos-autores",
+              "label": "Nuevas Autoras - Nuevos Autores",
+              "result": "selected"
+            }
+          ],
+          "key": "tt16953666",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Living",
+          "original_name": "Living",
+          "year": 2022,
+          "director": [
+            "Oliver Hermanus"
+          ],
+          "imdb_id": "tt9051908",
+          "wikidata_id": "Q107304169",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "nuevas-autoras-nuevos-autores",
+              "label": "Nuevas Autoras - Nuevos Autores",
+              "result": "selected"
+            }
+          ],
+          "key": "tt9051908",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Matadero",
+          "original_name": "Matadero",
+          "year": 2022,
+          "director": [
+            "Santiago Fillol"
+          ],
+          "imdb_id": "tt12390388",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "nuevas-autoras-nuevos-autores",
+              "label": "Nuevas Autoras - Nuevos Autores",
+              "result": "selected"
+            }
+          ],
+          "key": "tt12390388",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Queens of the Qing Dinasty",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Ashley McKenzie"
+          ],
+          "people": [
+            "Ashley McKenzie"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "nuevas-autoras-nuevos-autores",
+              "label": "Nuevas Autoras - Nuevos Autores",
+              "result": "selected"
+            }
+          ],
+          "key": "t:queens-of-the-qing-dinasty",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "The Five Devils",
+          "original_name": "Les cinq diables",
+          "year": 2022,
+          "director": [
+            "Léa Mysius"
+          ],
+          "imdb_id": "tt13391708",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "nuevas-autoras-nuevos-autores",
+              "label": "Nuevas Autoras - Nuevos Autores",
+              "result": "selected"
+            }
+          ],
+          "key": "tt13391708",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Unrest",
+          "original_name": "Unrueh",
+          "year": 2022,
+          "director": [
+            "Cyril Schäublin"
+          ],
+          "imdb_id": "tt11409736",
+          "wikidata_id": "Q110928697",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "nuevas-autoras-nuevos-autores",
+              "label": "Nuevas Autoras - Nuevos Autores",
+              "result": "selected"
+            }
+          ],
+          "key": "tt11409736",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "A Bit of Light",
+          "original_name": "A Bit of Light",
+          "year": 2022,
+          "director": [
+            "Stephen Moyer"
+          ],
+          "imdb_id": "tt15662700",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "galas",
+              "label": "Galas",
+              "result": "selected"
+            }
+          ],
+          "key": "tt15662700",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Ardiente paciencia",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Rodrigo Sepúlveda"
+          ],
+          "people": [
+            "Rodrigo Sepúlveda"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "galas",
+              "label": "Galas",
+              "result": "selected"
+            }
+          ],
+          "key": "t:ardiente-paciencia",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "The Tangalanga Method",
+          "original_name": "El método Tangalanga",
+          "year": 2022,
+          "director": [
+            "Mateo Bendesky"
+          ],
+          "imdb_id": "tt23036332",
+          "wikidata_id": "Q117354252",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "galas",
+              "label": "Galas",
+              "result": "selected"
+            }
+          ],
+          "key": "tt23036332",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "The Parties",
+          "original_name": "Las fiestas",
+          "year": 2022,
+          "director": [
+            "Ignacio Rogers"
+          ],
+          "imdb_id": "tt23036164",
+          "wikidata_id": "Q117360542",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "galas",
+              "label": "Galas",
+              "result": "selected"
+            }
+          ],
+          "key": "tt23036164",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Sublime",
+          "original_name": "Sublime",
+          "year": 2022,
+          "director": [
+            "Mariano Biasin"
+          ],
+          "imdb_id": "tt14927880",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "galas",
+              "label": "Galas",
+              "result": "selected"
+            }
+          ],
+          "key": "tt14927880",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Ánima",
+          "original_name": null,
+          "year": null,
+          "director": [],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "premio-premio-astor-piazzolla-al-mejor-cortometraje",
+              "label": "Prêmio: Premio Astor Piazzolla al Mejor Cortometraje",
+              "result": "winner"
+            }
+          ],
+          "key": "t:anima",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "El silencio de los niños",
+          "original_name": null,
+          "year": null,
+          "director": [],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "premio-mencion-especial",
+              "label": "Prêmio: Mención Especial",
+              "result": "winner"
+            }
+          ],
+          "key": "t:el-silencio-de-los-ninos",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Carne de Dios",
+          "original_name": null,
+          "year": null,
+          "director": [],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "premio-premio-astor-piazzolla-al-mejor-cortometraje",
+              "label": "Prêmio: Premio Astor Piazzolla al Mejor Cortometraje",
+              "result": "winner"
+            },
+            {
+              "id": "premio-premio-banco-nacion-lahaye-media-y-pomeranec-sonido-al-mejor-cortometraje-argentino",
+              "label": "Prêmio: Premio Banco Nación, Lahaye Media y Pomeranec Sonido al Mejor Cortometraje Argentino",
+              "result": "winner"
+            }
+          ],
+          "key": "t:carne-de-dios",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Plata o mierda",
+          "original_name": null,
+          "year": null,
+          "director": [],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "premio-premio-astor-piazzolla-al-mejor-proyecto",
+              "label": "Prêmio: Premio Astor Piazzolla al Mejor Proyecto",
+              "result": "winner"
+            },
+            {
+              "id": "premio-premio-banco-nacion-cinecolor-y-cono-del-silencio-al-mejor-proyecto-en-transito",
+              "label": "Prêmio: Premio Banco Nación, Cinecolor y Cono del Silencio al Mejor proyecto en tránsito",
+              "result": "winner"
+            }
+          ],
+          "key": "t:plata-o-mierda",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Punku",
+          "original_name": null,
+          "year": null,
+          "director": [],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "premio-mencion-especial",
+              "label": "Prêmio: Mención Especial",
+              "result": "winner"
+            }
+          ],
+          "key": "t:punku",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Sombra grande",
+          "original_name": null,
+          "year": null,
+          "director": [],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "premio-mencion-especial",
+              "label": "Prêmio: Mención Especial",
+              "result": "winner"
+            }
+          ],
+          "key": "t:sombra-grande",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "edition": "Festival Internacional de Cine de Mar del Plata 2021",
+      "source_url": "https://es.wikipedia.org/wiki/Festival_Internacional_de_Cine_de_Mar_del_Plata_2021",
+      "first_seen": "2026-09-28T11:26:30.375Z",
+      "films": [
+        {
+          "name": "Petite Maman",
+          "original_name": "Petite maman",
+          "year": 2021,
+          "director": [
+            "Céline Sciamma"
+          ],
+          "imdb_id": "tt13204490",
+          "wikidata_id": "Q105438136",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt13204490",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "What Do We See When We Look at the Sky ?",
+          "original_name": "Ras vkhedavt, rodesac cas vukurebt?",
+          "year": 2021,
+          "director": [
+            "Aleksandre Koberidze"
+          ],
+          "imdb_id": "tt14035154",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            },
+            {
+              "id": "premio-premios",
+              "label": "Prêmio: Premios",
+              "result": "winner"
+            }
+          ],
+          "key": "tt14035154",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "The Girl and the Spider",
+          "original_name": "Das Mädchen und die Spinne",
+          "year": 2021,
+          "director": [
+            "Ramon Zürcher",
+            "Silvan Zürcher"
+          ],
+          "imdb_id": "tt11967484",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            },
+            {
+              "id": "premio-premios",
+              "label": "Prêmio: Premios",
+              "result": "winner"
+            }
+          ],
+          "key": "tt11967484",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Diários de Otsoga",
+          "original_name": "Diários de Otsoga",
+          "year": 2021,
+          "director": [
+            "Maureen Fazendeiro",
+            "Miguel Gomes"
+          ],
+          "imdb_id": "tt14812778",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            },
+            {
+              "id": "premio-premios",
+              "label": "Prêmio: Premios",
+              "result": "winner"
+            }
+          ],
+          "key": "tt14812778",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Kim Min-young of the Report Card",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Lim Jisun"
+          ],
+          "people": [
+            "Lim Jisun"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "t:kim-min-young-of-the-report-card",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Hit the Road",
+          "original_name": "Jaddeh khaki",
+          "year": 2021,
+          "director": [
+            "Panah Panahi"
+          ],
+          "imdb_id": "tt14812782",
+          "wikidata_id": "Q108300151",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt14812782",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Re Granchio",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Alessio Rigo de Righi y Matteo Zoppis"
+          ],
+          "people": [
+            "Alessio Rigo de Righi y Matteo Zoppis"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "t:re-granchio",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "The Sacred Spirit",
+          "original_name": "Espíritu sagrado",
+          "year": 2021,
+          "director": [
+            "Chema García Ibarra"
+          ],
+          "imdb_id": "tt13841874",
+          "wikidata_id": "Q109918319",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt13841874",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Who's Stopping Us",
+          "original_name": "Quién lo impide",
+          "year": 2021,
+          "director": [
+            "Jonás Trueba"
+          ],
+          "imdb_id": "tt15398166",
+          "wikidata_id": "Q110101985",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            },
+            {
+              "id": "premio-premios",
+              "label": "Prêmio: Premios",
+              "result": "winner"
+            }
+          ],
+          "key": "tt15398166",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Hellbender",
+          "original_name": "Hellbender",
+          "year": 2021,
+          "director": [
+            "John Adams",
+            "Zelda Adams",
+            "Toby Poser"
+          ],
+          "imdb_id": "tt14905650",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt14905650",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "El Otro Tom",
+          "original_name": "El otro Tom",
+          "year": 2021,
+          "director": [
+            "Rodrigo Plá",
+            "Laura Santullo"
+          ],
+          "imdb_id": "tt9056484",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt9056484",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Hit the Road (película)|Hit the Road",
+          "original_name": null,
+          "year": null,
+          "director": [],
+          "people": [
+            "Panah Panahi"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "premio-premios",
+              "label": "Prêmio: Premios",
+              "result": "winner"
+            }
+          ],
+          "key": "t:hit-the-road-pelicula-hit-the-road",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "edition": "Festival Internacional de Cine de Mar del Plata 2020",
+      "source_url": "https://es.wikipedia.org/wiki/Festival_Internacional_de_Cine_de_Mar_del_Plata_2020",
+      "first_seen": "2026-09-28T11:26:30.375Z",
+      "films": [
+        {
+          "name": "Adiós a la memoria",
+          "original_name": "Adiós a la memoria",
+          "year": 2020,
+          "director": [
+            "Nicolás Prividera"
+          ],
+          "imdb_id": "tt12292258",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            },
+            {
+              "id": "premio",
+              "label": "Premio",
+              "result": "selected"
+            }
+          ],
+          "key": "tt12292258",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "We Will Never Die",
+          "original_name": "Nosotros nunca moriremos",
+          "year": 2020,
+          "director": [
+            "Eduardo Crespo"
+          ],
+          "imdb_id": "tt12835240",
+          "wikidata_id": "Q124610711",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            },
+            {
+              "id": "otorgantes",
+              "label": "Otorgantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt12835240",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Shiva Baby",
+          "original_name": "Shiva Baby",
+          "year": 2020,
+          "director": [
+            "Emma Seligman"
+          ],
+          "imdb_id": "tt11317142",
+          "wikidata_id": "Q98078759",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            },
+            {
+              "id": "otorgantes",
+              "label": "Otorgantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt11317142",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "The Year of Discovery",
+          "original_name": "El año del descubrimiento",
+          "year": 2020,
+          "director": [
+            "Luis López Carrasco"
+          ],
+          "imdb_id": "tt11572530",
+          "wikidata_id": "Q86443992",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            },
+            {
+              "id": "premio",
+              "label": "Premio",
+              "result": "selected"
+            }
+          ],
+          "key": "tt11572530",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Seize printemps",
+          "original_name": "Seize printemps",
+          "year": 2020,
+          "director": [
+            "Suzanne Lindon"
+          ],
+          "imdb_id": "tt12444426",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt12444426",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Moving on",
+          "original_name": "Nam-mae-wui yeo-reum-bam",
+          "year": 2019,
+          "director": [
+            "Yoon Dan-bi"
+          ],
+          "imdb_id": "tt12840926",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            },
+            {
+              "id": "premio",
+              "label": "Premio",
+              "result": "selected"
+            }
+          ],
+          "key": "tt12840926",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Red Post on Escher Street",
+          "original_name": "Esshâ-dôri no akai posuto",
+          "year": 2020,
+          "director": [
+            "Sion Sono"
+          ],
+          "imdb_id": "tt13245934",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt13245934",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Isabella",
+          "original_name": "Isabella",
+          "year": 2020,
+          "director": [
+            "Matías Piñeiro"
+          ],
+          "imdb_id": "tt11638956",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            },
+            {
+              "id": "premio",
+              "label": "Premio",
+              "result": "selected"
+            }
+          ],
+          "key": "tt11638956",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "One in a Thousand",
+          "original_name": "Las mil y una",
+          "year": 2020,
+          "director": [
+            "Clarisa Navas"
+          ],
+          "imdb_id": "tt11747286",
+          "wikidata_id": "Q84318952",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            },
+            {
+              "id": "otorgantes",
+              "label": "Otorgantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt11747286",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Sophie Jones",
+          "original_name": "Sophie Jones",
+          "year": 2020,
+          "director": [
+            "Jessie Barr"
+          ],
+          "imdb_id": "tt8170506",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt8170506",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Tragic Jungle",
+          "original_name": "Selva trágica",
+          "year": 2020,
+          "director": [
+            "Yulene Olaizola"
+          ],
+          "imdb_id": "tt12792598",
+          "wikidata_id": "Q107095586",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            },
+            {
+              "id": "otorgantes",
+              "label": "Otorgantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt12792598",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Window Boy Would Also Like to Have a Submarine",
+          "original_name": "Window Boy Would Also Like to Have a Submarine",
+          "year": 2020,
+          "director": [
+            "Alex Piperno"
+          ],
+          "imdb_id": "tt2456492",
+          "wikidata_id": "Q119686520",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt2456492",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Los conductos",
+          "original_name": "Los conductos",
+          "year": 2020,
+          "director": [
+            "Camilo Restrepo"
+          ],
+          "imdb_id": "tt11652808",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            },
+            {
+              "id": "premio",
+              "label": "Premio",
+              "result": "selected"
+            },
+            {
+              "id": "patrocinadores",
+              "label": "Patrocinadores",
+              "result": "selected"
+            }
+          ],
+          "key": "tt11652808",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Red Screening",
+          "original_name": "Al morir la matinée",
+          "year": 2020,
+          "director": [
+            "Maximiliano Contenti"
+          ],
+          "imdb_id": "tt13049760",
+          "wikidata_id": "Q104903957",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt13049760",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Quiet",
+          "original_name": "Piola",
+          "year": 2019,
+          "director": [
+            "Luis Pérez García"
+          ],
+          "imdb_id": "tt10035478",
+          "wikidata_id": "Q106425215",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt10035478",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "La escuela del bosque",
+          "original_name": "La Escuela Del Bosque",
+          "year": 2020,
+          "director": [
+            "Gonzalo Castro"
+          ],
+          "imdb_id": "tt13515532",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt13515532",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "The Calm After the Storm",
+          "original_name": "Como el cielo después de llover",
+          "year": 2020,
+          "director": [
+            "Mercedes Gaviria"
+          ],
+          "imdb_id": "tt12209212",
+          "wikidata_id": "Q105080449",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            },
+            {
+              "id": "premio",
+              "label": "Premio",
+              "result": "selected"
+            }
+          ],
+          "key": "tt12209212",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Mascarados",
+          "original_name": "Mascarados",
+          "year": 2020,
+          "director": [
+            "Henrique Borela",
+            "Marcela Borela"
+          ],
+          "imdb_id": "tt11705758",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            },
+            {
+              "id": "premio",
+              "label": "Premio",
+              "result": "selected"
+            }
+          ],
+          "key": "tt11705758",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Fauna",
+          "original_name": "Fauna",
+          "year": 2020,
+          "director": [
+            "Nicolás Pereda"
+          ],
+          "imdb_id": "tt12801798",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            },
+            {
+              "id": "premio",
+              "label": "Premio",
+              "result": "selected"
+            },
+            {
+              "id": "otorgantes",
+              "label": "Otorgantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt12801798",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Panquiaco",
+          "original_name": "Panquiaco",
+          "year": 2020,
+          "director": [
+            "Ana Elena Tejera"
+          ],
+          "imdb_id": "tt11447764",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            },
+            {
+              "id": "otorgantes",
+              "label": "Otorgantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt11447764",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "La sangre en el ojo",
+          "original_name": "La sangre en el ojo",
+          "year": 2020,
+          "director": [
+            "Toia Bonino"
+          ],
+          "imdb_id": "tt13524696",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            },
+            {
+              "id": "otorgantes",
+              "label": "Otorgantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt13524696",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "The Frogs",
+          "original_name": "Las ranas",
+          "year": 2020,
+          "director": [
+            "Edgardo Castro"
+          ],
+          "imdb_id": "tt13540924",
+          "wikidata_id": "Q124808777",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            },
+            {
+              "id": "premio",
+              "label": "Premio",
+              "result": "selected"
+            }
+          ],
+          "key": "tt13540924",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Un cuerpo estalló en mil pedazos",
+          "original_name": "Un cuerpo estalló en mil pedazos",
+          "year": 2020,
+          "director": [
+            "Martín Sappia"
+          ],
+          "imdb_id": "tt13506386",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt13506386",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "1982",
+          "original_name": "1982",
+          "year": 2025,
+          "director": [
+            "García JC"
+          ],
+          "imdb_id": "tt37676300",
+          "wikidata_id": "Q135932603",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt37676300",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "La historia de lo oculto",
+          "original_name": "Historia de lo Oculto",
+          "year": 2020,
+          "director": [
+            "Cristian Ponce"
+          ],
+          "imdb_id": "tt11310884",
+          "wikidata_id": "Q108911761",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            },
+            {
+              "id": "premio",
+              "label": "Premio",
+              "result": "selected"
+            },
+            {
+              "id": "otorgantes",
+              "label": "Otorgantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt11310884",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Esquirlas",
+          "original_name": "Esquirlas",
+          "year": 2020,
+          "director": [
+            "Natalia Garayalde"
+          ],
+          "imdb_id": "tt11287096",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            },
+            {
+              "id": "premio",
+              "label": "Premio",
+              "result": "selected"
+            },
+            {
+              "id": "otorgantes",
+              "label": "Otorgantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt11287096",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Las motitos",
+          "original_name": "Lxs chicxs de las motitos",
+          "year": 2020,
+          "director": [
+            "Inés María Barrionuevo",
+            "Gabriela Vidal"
+          ],
+          "imdb_id": "tt10472290",
+          "wikidata_id": "Q124612209",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            },
+            {
+              "id": "otorgantes",
+              "label": "Otorgantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt10472290",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Mamá, mamá, mamá",
+          "original_name": "Mamá, mamá, mamá",
+          "year": 2020,
+          "director": [
+            "Sol Berruezo Pichon-Riviére"
+          ],
+          "imdb_id": "tt11657892",
+          "wikidata_id": "Q84763102",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt11657892",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "A Common Crime",
+          "original_name": "Un crimen común",
+          "year": 2020,
+          "director": [
+            "Francisco Márquez"
+          ],
+          "imdb_id": "tt11732324",
+          "wikidata_id": "Q85850158",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            },
+            {
+              "id": "otorgantes",
+              "label": "Otorgantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt11732324",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "El tiempo perdido",
+          "original_name": "El tiempo perdido",
+          "year": 2020,
+          "director": [
+            "María Alvarez"
+          ],
+          "imdb_id": "tt13455816",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            },
+            {
+              "id": "premio",
+              "label": "Premio",
+              "result": "selected"
+            },
+            {
+              "id": "patrocinadores",
+              "label": "Patrocinadores",
+              "result": "selected"
+            }
+          ],
+          "key": "tt13455816",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Correspondencia",
+          "original_name": "Correspondencia",
+          "year": 2020,
+          "director": [
+            "Carla Simón",
+            "Dominga Sotomayor"
+          ],
+          "imdb_id": "tt12185614",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            },
+            {
+              "id": "premio",
+              "label": "Premio",
+              "result": "selected"
+            }
+          ],
+          "key": "tt12185614",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Colección privada",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Elena Duque"
+          ],
+          "people": [
+            "Elena Duque"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            }
+          ],
+          "key": "t:coleccion-privada",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "En la era",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Manuela De Laborde"
+          ],
+          "people": [
+            "Manuela De Laborde"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            }
+          ],
+          "key": "t:en-la-era",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Vitória",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Ricardo Alves"
+          ],
+          "people": [
+            "Ricardo Alves"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            }
+          ],
+          "key": "t:vitoria",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Revelaciones",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Juan Soto Taborda"
+          ],
+          "people": [
+            "Juan Soto Taborda"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            }
+          ],
+          "key": "t:revelaciones",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Obachan",
+          "original_name": "Obachan",
+          "year": 2020,
+          "director": [
+            "Nicolasa Ruiz"
+          ],
+          "imdb_id": "tt16246814",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt16246814",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Luz distante - Capítulo 1 - Les desventurades",
+          "original_name": "Luz Distante: Capítulo 1 - Les desventurades",
+          "year": 2020,
+          "director": [
+            "Santiago Reale"
+          ],
+          "imdb_id": "tt13302768",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt13302768",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Los primos esperan",
+          "original_name": "Los primos esperan",
+          "year": 2020,
+          "director": [
+            "Marina Nerea Malchiodi"
+          ],
+          "imdb_id": "tt35521775",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt35521775",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Los arcontes",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Natalia Labaké",
+            "Agustina Pérez Rial"
+          ],
+          "people": [
+            "Natalia Labaké",
+            "Agustina Pérez Rial"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            }
+          ],
+          "key": "t:los-arcontes",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Las sombras",
+          "original_name": "Las Sombras",
+          "year": 2020,
+          "director": [
+            "Paulo Pécora"
+          ],
+          "imdb_id": "tt16982336",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt16982336",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Las credenciales",
+          "original_name": "Las Credenciales",
+          "year": 2020,
+          "director": [
+            "Manuel Ferrari"
+          ],
+          "imdb_id": "tt14160212",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt14160212",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Desaparición incompleta",
+          "original_name": "Desaparición Incompleta",
+          "year": 2020,
+          "director": [
+            "Alan Martín Segal"
+          ],
+          "imdb_id": "tt33498526",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt33498526",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Hi, Sweety",
+          "original_name": "Hi Sweety",
+          "year": 2020,
+          "director": [
+            "Celeste Prezioso"
+          ],
+          "imdb_id": "tt15568908",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt15568908",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Homenaje a la obra de Philip Henry Gosse",
+          "original_name": "Homenaje a la obra de Philip Henry Gosse",
+          "year": 2020,
+          "director": [
+            "Pablo Martín Weber"
+          ],
+          "imdb_id": "tt13526906",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            },
+            {
+              "id": "premio",
+              "label": "Premio",
+              "result": "selected"
+            },
+            {
+              "id": "patrocinadores",
+              "label": "Patrocinadores",
+              "result": "selected"
+            }
+          ],
+          "key": "tt13526906",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Look Then Below",
+          "original_name": "Look Then Below",
+          "year": 2019,
+          "director": [
+            "Ben Rivers"
+          ],
+          "imdb_id": "tt11842810",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt11842810",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Domovine",
+          "original_name": "Domovine",
+          "year": 2020,
+          "director": [
+            "Jelena Maksimovic"
+          ],
+          "imdb_id": "tt12625100",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt12625100",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Heliconia",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Paula Rodríguez Polanco"
+          ],
+          "people": [
+            "Paula Rodríguez Polanco"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            },
+            {
+              "id": "premio",
+              "label": "Premio",
+              "result": "selected"
+            }
+          ],
+          "key": "t:heliconia",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "El tango del viudo y su espejo deformante",
+          "original_name": "El tango del viudo y su espejo deformante",
+          "year": 2020,
+          "director": [
+            "Raúl Ruiz"
+          ],
+          "imdb_id": "tt0062336",
+          "wikidata_id": "Q136805570",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt0062336",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Deja que las luces de alejen",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Javier Favot"
+          ],
+          "people": [
+            "Javier Favot"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            }
+          ],
+          "key": "t:deja-que-las-luces-de-alejen",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Cartas de una fanática de Whistler a un fanático de Conrad",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Claudia Carreño Gajardo"
+          ],
+          "people": [
+            "Claudia Carreño Gajardo"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            }
+          ],
+          "key": "t:cartas-de-una-fanatica-de-whistler-a-un-fanatico-de-conrad",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "A Storm Was Coming",
+          "original_name": "Anunciaron tormenta",
+          "year": 2020,
+          "director": [
+            "Javier Fernández Vázquez"
+          ],
+          "imdb_id": "tt11772420",
+          "wikidata_id": "Q106817675",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt11772420",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "The Exit of the Trains",
+          "original_name": "Iesirea trenurilor din gara",
+          "year": 2020,
+          "director": [
+            "Adrian Cioflâncã",
+            "Radu Jude"
+          ],
+          "imdb_id": "tt11777952",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt11777952",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Río Turbio",
+          "original_name": "Río turbio",
+          "year": 2020,
+          "director": [
+            "Tatiana Mazú González"
+          ],
+          "imdb_id": "tt13416976",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt13416976",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "No existen treinta y seis maneras de mostrar cómo un hombre se sube a un caballo",
+          "original_name": "No existen treinta y seis maneras de mostrar cómo un hombre se sube a un caballo",
+          "year": 2020,
+          "director": [
+            "Nicolás Zukerfeld"
+          ],
+          "imdb_id": "tt13075922",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt13075922",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Mes chers espions",
+          "original_name": "Mes chers espions",
+          "year": 2020,
+          "director": [
+            "Vladimir Léon"
+          ],
+          "imdb_id": "tt12100410",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            },
+            {
+              "id": "premio",
+              "label": "Premio",
+              "result": "selected"
+            }
+          ],
+          "key": "tt12100410",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Lúa vermella",
+          "original_name": "Lúa vermella",
+          "year": 2020,
+          "director": [
+            "Lois Patiño"
+          ],
+          "imdb_id": "tt11950836",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "participantes",
+              "label": "Participantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt11950836",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Morichales",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Chris Gude"
+          ],
+          "people": [
+            "Chris Gude"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "premio",
+              "label": "Premio",
+              "result": "selected"
+            },
+            {
+              "id": "patrocinadores",
+              "label": "Patrocinadores",
+              "result": "selected"
+            }
+          ],
+          "key": "t:morichales",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Las ranas Las ranas",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Mención especial"
+          ],
+          "people": [
+            "Edgardo Castro",
+            "Asociación de Cronistas Cinematográficos de Argentina || Mención especial || Edgardo Castro ||"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "otorgantes",
+              "label": "Otorgantes",
+              "result": "selected"
+            }
+          ],
+          "key": "t:las-ranas-las-ranas",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Julieta y la luna",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Primer Premio"
+          ],
+          "people": [
+            "Milena Castro Etcheberry"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "otorgantes",
+              "label": "Otorgantes",
+              "result": "selected"
+            }
+          ],
+          "key": "t:julieta-y-la-luna",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Pasadas por agua",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Segundo Premio"
+          ],
+          "people": [
+            "Rodrigo Gastiaburo Estigarribia"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "otorgantes",
+              "label": "Otorgantes",
+              "result": "selected"
+            }
+          ],
+          "key": "t:pasadas-por-agua",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Distanciades",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Mención Honorífica"
+          ],
+          "people": [
+            "Paula Arancibia Bravo"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "otorgantes",
+              "label": "Otorgantes",
+              "result": "selected"
+            }
+          ],
+          "key": "t:distanciades",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "The Siamese Bond",
+          "original_name": "Las Siamesas",
+          "year": 2020,
+          "director": [
+            "Paula Hernández"
+          ],
+          "imdb_id": "tt13528580",
+          "wikidata_id": "Q106149469",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "otorgantes",
+              "label": "Otorgantes",
+              "result": "selected"
+            }
+          ],
+          "key": "tt13528580",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "edition": "Festival Internacional de Cine de Mar del Plata 2019",
+      "source_url": "https://es.wikipedia.org/wiki/Festival_Internacional_de_Cine_de_Mar_del_Plata_2019",
+      "first_seen": "2026-09-28T11:26:30.375Z",
+      "films": [
+        {
+          "name": "A Vida Invisível",
+          "original_name": "A Vida Invisível de Eurídice Gusmão",
+          "year": 2019,
+          "director": [
+            "Karim Aïnouz"
+          ],
+          "imdb_id": "tt6390668",
+          "wikidata_id": "Q64166529",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt6390668",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Black Magic for White Boys",
+          "original_name": "Black Magic for White Boys",
+          "year": 2017,
+          "director": [
+            "Onur Tukel"
+          ],
+          "imdb_id": "tt6626040",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt6626040",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "El cuidado de los otros",
+          "original_name": "El cuidado de los otros",
+          "year": 2019,
+          "director": [
+            "Mariano González"
+          ],
+          "imdb_id": "tt9881924",
+          "wikidata_id": "Q137272684",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt9881924",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "I Was at Home, but",
+          "original_name": "Ich war zuhause, aber",
+          "year": 2019,
+          "director": [
+            "Angela Schanelec"
+          ],
+          "imdb_id": "tt7760890",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt7760890",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "The August Virgin",
+          "original_name": "La virgen de agosto",
+          "year": 2019,
+          "director": [
+            "Jonás Trueba"
+          ],
+          "imdb_id": "tt8343886",
+          "wikidata_id": "Q79416724",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt8343886",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Les Enfants d'Isadora",
+          "original_name": "Les enfants d'Isadora",
+          "year": 2019,
+          "director": [
+            "Damien Manivel"
+          ],
+          "imdb_id": "tt10444992",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt10444992",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "The Sleepwalkers",
+          "original_name": "Los sonámbulos",
+          "year": 2019,
+          "director": [
+            "Paula Hernández"
+          ],
+          "imdb_id": "tt10899680",
+          "wikidata_id": "Q103828580",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt10899680",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "O que arde",
+          "original_name": "O que arde",
+          "year": 2019,
+          "director": [
+            "Óliver Laxe"
+          ],
+          "imdb_id": "tt8212958",
+          "wikidata_id": "Q63254980",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt8212958",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "The Lunchroom",
+          "original_name": "Planta permanente",
+          "year": 2019,
+          "director": [
+            "Ezequiel Radusky"
+          ],
+          "imdb_id": "tt11306358",
+          "wikidata_id": "Q106153794",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt11306358",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Scattered Night",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Kim Sol",
+            "Lee Jihyoung"
+          ],
+          "people": [
+            "Kim Sol",
+            "Lee Jihyoung"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "t:scattered-night",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "South Mountain",
+          "original_name": "South Mountain",
+          "year": 2019,
+          "director": [
+            "Hilary Brougher"
+          ],
+          "imdb_id": "tt8987558",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt8987558",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Vitalina Varela",
+          "original_name": "Vitalina Varela",
+          "year": 2019,
+          "director": [
+            "Pedro Costa"
+          ],
+          "imdb_id": "tt8241872",
+          "wikidata_id": "Q66501208",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt8241872",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "A febre",
+          "original_name": "A Febre",
+          "year": 2019,
+          "director": [
+            "Maya Da-Rin"
+          ],
+          "imdb_id": "tt10603466",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt10603466",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Nunca subí al Provincia",
+          "original_name": null,
+          "year": null,
+          "director": [],
+          "people": [
+            "Ignacio Agüero"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "t:nunca-subi-al-provincia",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Plano controle",
+          "original_name": "Plano Controle",
+          "year": 2019,
+          "director": [
+            "Juliana Antunes"
+          ],
+          "imdb_id": "tt13276450",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt13276450",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Angélica",
+          "original_name": "Angélica",
+          "year": 2019,
+          "director": [
+            "Delfina Castagnino"
+          ],
+          "imdb_id": "tt11204896",
+          "wikidata_id": "Q106153780",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "premio",
+              "label": "Premio",
+              "result": "selected"
+            }
+          ],
+          "key": "tt11204896",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Maternal",
+          "original_name": "Maternal",
+          "year": 2019,
+          "director": [
+            "Maura Delpero"
+          ],
+          "imdb_id": "tt10658248",
+          "wikidata_id": "Q78614221",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "premio",
+              "label": "Premio",
+              "result": "selected"
+            },
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt10658248",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Playback. Ensayo de una despedida",
+          "original_name": "Playback. Ensayo de una despedida",
+          "year": 2019,
+          "director": [
+            "Agustina Comedi"
+          ],
+          "imdb_id": "tt11879572",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "premio",
+              "label": "Premio",
+              "result": "selected"
+            },
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt11879572",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Las poetas visitan a Juana Bignozzi",
+          "original_name": null,
+          "year": null,
+          "director": [],
+          "people": [
+            "Laura Citarella",
+            "Mercedes Halfon"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "premio",
+              "label": "Premio",
+              "result": "selected"
+            }
+          ],
+          "key": "t:las-poetas-visitan-a-juana-bignozzi",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Mato seco em chamas",
+          "original_name": null,
+          "year": null,
+          "director": [],
+          "people": [
+            "Joana Pimenta",
+            "Adirley Queirós"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "t:mato-seco-em-chamas",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Una película elegante",
+          "original_name": null,
+          "year": null,
+          "director": [],
+          "people": [
+            "Lorena Best"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "t:una-pelicula-elegante",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "L’île aux Oiseaux",
+          "original_name": "L'Île aux oiseaux",
+          "year": 2019,
+          "director": [
+            "Sérgio Da Costa",
+            "Maya Kosa"
+          ],
+          "imdb_id": "tt10662466",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt10662466",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Longa noite",
+          "original_name": "Longa noite",
+          "year": 2019,
+          "director": [
+            "Eloy Enciso"
+          ],
+          "imdb_id": "tt10660156",
+          "wikidata_id": "Q85966619",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt10660156",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Satori Sur",
+          "original_name": "Satori Sur",
+          "year": 2019,
+          "director": [
+            "Federico Rotstein"
+          ],
+          "imdb_id": "tt13674636",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt13674636",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Um filme de verão",
+          "original_name": "Um Filme de Verão",
+          "year": 2019,
+          "director": [
+            "Jo Serfaty"
+          ],
+          "imdb_id": "tt9409886",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt9409886",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "La última marcha",
+          "original_name": "La Última Marcha",
+          "year": 2018,
+          "director": [
+            "Ivo Aichenbaum",
+            "Jhon Martínez"
+          ],
+          "imdb_id": "tt12988162",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt12988162",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "La botera",
+          "original_name": "La botera",
+          "year": 2019,
+          "director": [
+            "Sabrina Blanco"
+          ],
+          "imdb_id": "tt11504976",
+          "wikidata_id": "Q106514956",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt11504976",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "The Good Intentions",
+          "original_name": "Las buenas intenciones",
+          "year": 2019,
+          "director": [
+            "Ana García Blaya"
+          ],
+          "imdb_id": "tt10888554",
+          "wikidata_id": "Q67200587",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt10888554",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Sirena",
+          "original_name": "Sirena",
+          "year": 2019,
+          "director": [
+            "Carlos Piñeiro"
+          ],
+          "imdb_id": "tt9051942",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt9051942",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Play Back. Ensayo de una despedida",
+          "original_name": null,
+          "year": null,
+          "director": [],
+          "people": [
+            "Fondo Nacional de las Artes",
+            "Agustina Comedi",
+            "Fondo Nacional de las Artes || Mejor Cortometraje Argentino || Agustina Comedi || ||"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "t:play-back-ensayo-de-una-despedida",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Pinbal",
+          "original_name": null,
+          "year": null,
+          "director": [],
+          "people": [
+            "Nicanor Loreti"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "t:pinbal",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Venezia",
+          "original_name": "Venezia",
+          "year": 2019,
+          "director": [
+            "Rodrigo Guerrero"
+          ],
+          "imdb_id": "tt8910770",
+          "wikidata_id": "Q106582584",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt8910770",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Lemebel",
+          "original_name": "Lemebel",
+          "year": 2019,
+          "director": [
+            "Joanna Reposi Garibaldi"
+          ],
+          "imdb_id": "tt9654050",
+          "wikidata_id": "Q96387246",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt9654050",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "For the Money",
+          "original_name": "Por el dinero",
+          "year": 2019,
+          "director": [
+            "Alejo Moguillansky"
+          ],
+          "imdb_id": "tt10228188",
+          "wikidata_id": "Q65066166",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt10228188",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "The Returned",
+          "original_name": "Los que vuelven",
+          "year": 2019,
+          "director": [
+            "Laura Casabé"
+          ],
+          "imdb_id": "tt11205014",
+          "wikidata_id": "Q124615382",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt11205014",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "edition": "Festival Internacional de Cine de Mar del Plata 2018",
+      "source_url": "https://es.wikipedia.org/wiki/Festival_Internacional_de_Cine_de_Mar_del_Plata_2018",
+      "first_seen": "2026-09-28T11:26:30.375Z",
+      "films": [
+        {
+          "name": "Chuva é Cantoria na Aldeia dos Mortos",
+          "original_name": "Chuva é Cantoria na Aldeia dos Mortos",
+          "year": 2018,
+          "director": [
+            "Renée Nader Messora",
+            "João Salaviza"
+          ],
+          "imdb_id": "tt8423962",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            },
+            {
+              "id": "premio-premio-especial-del-jurado",
+              "label": "Prêmio: Premio Especial del Jurado",
+              "result": "winner"
+            }
+          ],
+          "key": "tt8423962",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "In Fabric",
+          "original_name": "In Fabric",
+          "year": 2018,
+          "director": [
+            "Peter Strickland"
+          ],
+          "imdb_id": "tt7464188",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt7464188",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Belmonte",
+          "original_name": "Belmonte",
+          "year": 2018,
+          "director": [
+            "Federico Veiroj"
+          ],
+          "imdb_id": "tt8846072",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            },
+            {
+              "id": "premio-mejor-guion",
+              "label": "Prêmio: Mejor Guion",
+              "result": "winner"
+            }
+          ],
+          "key": "tt8846072",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "A Portuguesa",
+          "original_name": "A Portuguesa",
+          "year": 2018,
+          "director": [
+            "Rita Azevedo Gomes"
+          ],
+          "imdb_id": "tt7746590",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt7746590",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Yara",
+          "original_name": "Yara",
+          "year": 2018,
+          "director": [
+            "Abbas Fahdel"
+          ],
+          "imdb_id": "tt7614016",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt7614016",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Cassandro, El Exótico !",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Marie Losier"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "t:cassandro-el-exotico",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Skate Kitchen",
+          "original_name": "Skate Kitchen",
+          "year": 2018,
+          "director": [
+            "Crystal Moselle"
+          ],
+          "imdb_id": "tt7545566",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt7545566",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "What You Gonna Do When the World's on Fire?",
+          "original_name": "What You Gonna Do When the World's on Fire?",
+          "year": 2018,
+          "director": [
+            "Roberto Minervini"
+          ],
+          "imdb_id": "tt8747596",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            },
+            {
+              "id": "premio-mejor-director",
+              "label": "Prêmio: Mejor Director",
+              "result": "winner"
+            },
+            {
+              "id": "premio-mejor-actriz",
+              "label": "Prêmio: Mejor Actriz",
+              "result": "winner"
+            }
+          ],
+          "key": "tt8747596",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Between Two Waters",
+          "original_name": "Entre dos aguas",
+          "year": 2018,
+          "director": [
+            "Isaki Lacuesta"
+          ],
+          "imdb_id": "tt6157294",
+          "wikidata_id": "Q56816671",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            },
+            {
+              "id": "premio-mejor-pelicula",
+              "label": "Prêmio: Mejor Película",
+              "result": "winner"
+            },
+            {
+              "id": "premio-mejor-actor",
+              "label": "Prêmio: Mejor Actor",
+              "result": "winner"
+            }
+          ],
+          "key": "tt6157294",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Vendrán las lluvias suaves",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Iván Fund"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "t:vendran-las-lluvias-suaves",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Morra, Monstro, Morra",
+          "original_name": "Muere, monstruo, muere",
+          "year": 2018,
+          "director": [
+            "Alejandro Fadel"
+          ],
+          "imdb_id": "tt8311792",
+          "wikidata_id": "Q52015100",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            }
+          ],
+          "key": "tt8311792",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "If Beale Street Could Talk",
+          "original_name": "If Beale Street Could Talk",
+          "year": 2018,
+          "director": [
+            "Barry Jenkins"
+          ],
+          "imdb_id": "tt7125860",
+          "wikidata_id": "Q38685547",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "competencia-internacional",
+              "label": "Competencia internacional",
+              "result": "selected"
+            },
+            {
+              "id": "premio-premio-del-publico",
+              "label": "Prêmio: Premio del Público",
+              "result": "winner"
+            }
+          ],
+          "key": "tt7125860",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        }
+      ]
+    }
+  ]
+}

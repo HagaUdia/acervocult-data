@@ -1,0 +1,3688 @@
+{
+  "id": "gramado",
+  "label": "Festival de Gramado",
+  "kind": "festival",
+  "updated_at": "2026-09-28T11:26:30.375Z",
+  "editions": [
+    {
+      "year": 2026,
+      "edition": "Festival de Gramado 2026; Festival de Gramado 2026 (site oficial)",
+      "source_url": "https://pt.wikipedia.org/wiki/Festival_de_Gramado_2026",
+      "first_seen": "2026-09-28T11:26:30.375Z",
+      "films": [
+        {
+          "name": "Só os Loucos Sabem",
+          "original_name": "Se Não Eu, Quem Vai Fazer Você Feliz?",
+          "year": 2026,
+          "director": [
+            "Felipe Novaes",
+            "Hugo Prata"
+          ],
+          "imdb_id": "tt38871721",
+          "wikidata_id": "Q141108476",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longas-metragens-brasileiros",
+              "label": "Longas-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-longas-metragens-brasileiros",
+              "label": "Mostra de Longas-Metragens Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "tt38871721",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Feito Pipa",
+          "original_name": "Feito Pipa",
+          "year": 2026,
+          "director": [
+            "Allan Deberton"
+          ],
+          "imdb_id": "tt11826250",
+          "wikidata_id": "Q137886911",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longas-metragens-brasileiros",
+              "label": "Longas-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-longas-metragens-brasileiros",
+              "label": "Mostra de Longas-Metragens Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "tt11826250",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Justino - Nos Bastidores do Reino",
+          "original_name": "Justino - Nos Bastidores do Reino",
+          "year": 2026,
+          "director": [
+            "José Eduardo Belmonte"
+          ],
+          "imdb_id": "tt43694434",
+          "wikidata_id": "Q140524491",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longas-metragens-brasileiros",
+              "label": "Longas-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-longas-metragens-brasileiros",
+              "label": "Mostra de Longas-Metragens Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "tt43694434",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Leite em Pó",
+          "original_name": "Leite em Pó",
+          "year": 2026,
+          "director": [
+            "Carlos Segundo"
+          ],
+          "imdb_id": "tt32838389",
+          "wikidata_id": "Q141108484",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longas-metragens-brasileiros",
+              "label": "Longas-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-longas-metragens-brasileiros",
+              "label": "Mostra de Longas-Metragens Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "tt32838389",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Nosso Segredo",
+          "original_name": "Nosso segredo",
+          "year": 2026,
+          "director": [
+            "Grace Passô"
+          ],
+          "imdb_id": "tt39382724",
+          "wikidata_id": "Q138381624",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longas-metragens-brasileiros",
+              "label": "Longas-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-longas-metragens-brasileiros",
+              "label": "Mostra de Longas-Metragens Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "tt39382724",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Pele de Rinoceronte",
+          "original_name": "Pele de Rinoceronte",
+          "year": 2026,
+          "director": [
+            "Marcello Ludwig Maia"
+          ],
+          "imdb_id": "tt43694433",
+          "wikidata_id": "Q140488861",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longas-metragens-brasileiros",
+              "label": "Longas-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-longas-metragens-brasileiros",
+              "label": "Mostra de Longas-Metragens Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "tt43694433",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Afrontosa",
+          "original_name": "Afrontosa",
+          "year": 2026,
+          "director": [
+            "Julio Matos",
+            "Coraci Ruiz"
+          ],
+          "imdb_id": "tt39313451",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longas-metragens-documentais",
+              "label": "Longas-Metragens Documentais",
+              "result": "selected"
+            },
+            {
+              "id": "longas-metragens-documentais-brasileiros",
+              "label": "Longas-metragens Documentais Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "tt39313451",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Empeleitada",
+          "original_name": "Empeleitada",
+          "year": 2026,
+          "director": [
+            "Sérgio Borges",
+            "Chico Ludermir",
+            "Micaele Xukuru"
+          ],
+          "imdb_id": "tt43694435",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longas-metragens-documentais",
+              "label": "Longas-Metragens Documentais",
+              "result": "selected"
+            },
+            {
+              "id": "longas-metragens-documentais-brasileiros",
+              "label": "Longas-metragens Documentais Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "tt43694435",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Gonzaguinha, da Maior Liberdade",
+          "original_name": "Gonzaguinha - Da Maior Liberdade",
+          "year": 2026,
+          "director": [
+            "Susanna Lira"
+          ],
+          "imdb_id": "tt43044711",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longas-metragens-documentais",
+              "label": "Longas-Metragens Documentais",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-longas-metragens-documentais",
+              "label": "Mostra de Longas-Metragens Documentais",
+              "result": "selected"
+            },
+            {
+              "id": "longas-metragens-documentais-brasileiros",
+              "label": "Longas-metragens Documentais Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "tt43044711",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "O Projeto",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Sabrina Fidalgo"
+          ],
+          "people": [
+            "Sabrina Fidalgo"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "longas-metragens-documentais",
+              "label": "Longas-Metragens Documentais",
+              "result": "selected"
+            },
+            {
+              "id": "longas-metragens-documentais-brasileiros",
+              "label": "Longas-metragens Documentais Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "t:o-projeto",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "A História Mais Triste do Mundo",
+          "original_name": "A História Mais Triste do Mundo",
+          "year": 2026,
+          "director": [
+            "Hique Montanari"
+          ],
+          "imdb_id": "tt44618403",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longas-metragens-gauchos",
+              "label": "Longas-Metragens Gaúchos",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-longas-metragens-gauchos",
+              "label": "Mostra de Longas-Metragens Gaúchos",
+              "result": "selected"
+            },
+            {
+              "id": "longas-metragens-gauchos-mostra-sedac-iecine",
+              "label": "Longas-metragens Gaúchos (Mostra Sedac/Iecine)",
+              "result": "selected"
+            }
+          ],
+          "key": "tt44618403",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Darcy Fagundes meu Famoso Pai Desconhecido",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Luciane Fagundes"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "longas-metragens-gauchos",
+              "label": "Longas-Metragens Gaúchos",
+              "result": "selected"
+            },
+            {
+              "id": "longas-metragens-gauchos-mostra-sedac-iecine",
+              "label": "Longas-metragens Gaúchos (Mostra Sedac/Iecine)",
+              "result": "selected"
+            }
+          ],
+          "key": "t:darcy-fagundes-meu-famoso-pai-desconhecido",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Filhas da Lua",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Tatiana Sager"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "longas-metragens-gauchos",
+              "label": "Longas-Metragens Gaúchos",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-longas-metragens-gauchos",
+              "label": "Mostra de Longas-Metragens Gaúchos",
+              "result": "selected"
+            },
+            {
+              "id": "longas-metragens-gauchos-mostra-sedac-iecine",
+              "label": "Longas-metragens Gaúchos (Mostra Sedac/Iecine)",
+              "result": "selected"
+            }
+          ],
+          "key": "t:filhas-da-lua",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Morro da Cruz - Memória Popular",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Crystom Afronário"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "longas-metragens-gauchos",
+              "label": "Longas-Metragens Gaúchos",
+              "result": "selected"
+            },
+            {
+              "id": "longas-metragens-gauchos-mostra-sedac-iecine",
+              "label": "Longas-metragens Gaúchos (Mostra Sedac/Iecine)",
+              "result": "selected"
+            }
+          ],
+          "key": "t:morro-da-cruz-memoria-popular",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Remanente - Voltagem",
+          "original_name": "Remanente: Voltagem",
+          "year": 2026,
+          "director": [
+            "Kapel Furman"
+          ],
+          "imdb_id": "tt40386560",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longas-metragens-gauchos",
+              "label": "Longas-Metragens Gaúchos",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-longas-metragens-gauchos",
+              "label": "Mostra de Longas-Metragens Gaúchos",
+              "result": "selected"
+            },
+            {
+              "id": "longas-metragens-gauchos-mostra-sedac-iecine",
+              "label": "Longas-metragens Gaúchos (Mostra Sedac/Iecine)",
+              "result": "selected"
+            }
+          ],
+          "key": "tt40386560",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "A Menina que Queria Ser Pedra",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Jackson Abacatu"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-curtas-metragens-brasileiros",
+              "label": "Mostra de Curtas-Metragens Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "t:a-menina-que-queria-ser-pedra",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "As Gêmeas",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Vanessa Aguiar"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "t:as-gemeas",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Divino: Sua Alma, Sua Lente",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Clea Torres",
+            "Gilson Costa"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-curtas-metragens-brasileiros",
+              "label": "Mostra de Curtas-Metragens Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "t:divino-sua-alma-sua-lente",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Fúrias",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Nica Maleoa"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-curtas-metragens-brasileiros",
+              "label": "Mostra de Curtas-Metragens Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "t:furias",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Graxa e o Zepelim",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Camilo Soares"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-curtas-metragens-brasileiros",
+              "label": "Mostra de Curtas-Metragens Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "t:graxa-e-o-zepelim",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Maior que a Casa Toda",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Fabiano Barros",
+            "Neto Cavalcanti"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "t:maior-que-a-casa-toda",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Mulher Papaya",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Camila Tarifa"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-curtas-metragens-brasileiros",
+              "label": "Mostra de Curtas-Metragens Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "t:mulher-papaya",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Pão Doce",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Wesley Gabriel Silva Santos"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-curtas-metragens-brasileiros",
+              "label": "Mostra de Curtas-Metragens Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "t:pao-doce",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Pique-Pega",
+          "original_name": "Pique-Pega",
+          "year": 2026,
+          "director": [
+            "Mia Lima Rocha"
+          ],
+          "imdb_id": "tt42273615",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-curtas-metragens-brasileiros",
+              "label": "Mostra de Curtas-Metragens Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "tt42273615",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Revelação",
+          "original_name": "Mo shi lu",
+          "year": 2024,
+          "director": [
+            "Gabriela I. Gaia"
+          ],
+          "people": [],
+          "imdb_id": "tt28419037",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-curtas-metragens-brasileiros",
+              "label": "Mostra de Curtas-Metragens Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "tt28419037",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Shibal",
+          "original_name": "Shibal",
+          "year": 2026,
+          "director": [
+            "João Rubio Rubinato"
+          ],
+          "imdb_id": "tt39402287",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-curtas-metragens-brasileiros",
+              "label": "Mostra de Curtas-Metragens Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "tt39402287",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Um Passeio",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Thalles Cabral",
+            "Fernanda Rocha"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-curtas-metragens-brasileiros",
+              "label": "Mostra de Curtas-Metragens Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "t:um-passeio",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "[a completar]",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "[a completar]"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos",
+              "label": "Curtas-Metragens Gaúchos",
+              "result": "selected"
+            }
+          ],
+          "key": "t:a-completar",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Antártida",
+          "original_name": "Antártida",
+          "year": 2026,
+          "director": [
+            "Bruno Safadi"
+          ],
+          "imdb_id": "tt5691086",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "filme-de-abertura-hors-concours",
+              "label": "Filme de Abertura (Hors-Concours)",
+              "result": "selected"
+            }
+          ],
+          "key": "tt5691086",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "La Perra",
+          "original_name": "La perra",
+          "year": 2026,
+          "director": [
+            "Dominga Sotomayor"
+          ],
+          "imdb_id": "tt38468551",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "filme-de-encerramento-hors-concours",
+              "label": "Filme de Encerramento (Hors-Concours)",
+              "result": "selected"
+            }
+          ],
+          "key": "tt38468551",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Emergência 53",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Andrucha Waddington",
+            "Claudio Torres",
+            "Pedro Waddington",
+            "Rebeca Diniz"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "sessoes-especiais",
+              "label": "Sessões Especiais",
+              "result": "selected"
+            }
+          ],
+          "key": "t:emergencia-53",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Grenal — O Maior Clássico das Américas",
+          "original_name": "Grenal - O Maior Clássico das Américas",
+          "year": 2026,
+          "director": [
+            "Tatiana Sager",
+            "Belisario Franca"
+          ],
+          "imdb_id": "tt44889945",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "sessoes-especiais",
+              "label": "Sessões Especiais",
+              "result": "selected"
+            }
+          ],
+          "key": "tt44889945",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Santiago",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Henrique de Freitas Lima"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "sessoes-especiais",
+              "label": "Sessões Especiais",
+              "result": "selected"
+            }
+          ],
+          "key": "t:santiago",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Dream Team",
+          "original_name": "Dream Team",
+          "year": 2026,
+          "director": [
+            "Jonas Karasek"
+          ],
+          "imdb_id": "tt38840762",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "sessoes-especiais",
+              "label": "Sessões Especiais",
+              "result": "selected"
+            }
+          ],
+          "key": "tt38840762",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Anita",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Wardal"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "sessoes-especiais",
+              "label": "Sessões Especiais",
+              "result": "selected"
+            }
+          ],
+          "key": "t:anita",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Era Uma Vez Minha 1ª Vez",
+          "original_name": "Era Uma Vez Minha 1ª Vez",
+          "year": 2026,
+          "director": [
+            "Claudia Castro"
+          ],
+          "imdb_id": "tt39796908",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "sessoes-especiais",
+              "label": "Sessões Especiais",
+              "result": "selected"
+            }
+          ],
+          "key": "tt39796908",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "DPA 4 – O Fantástico Reino de Ondion",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Mauro Lima"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "mostra-infantil-petrobras",
+              "label": "Mostra Infantil Petrobras",
+              "result": "selected"
+            }
+          ],
+          "key": "t:dpa-4-o-fantastico-reino-de-ondion",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Anacleto, o Balão",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Carol Sakura",
+            "Walkir Fernandes"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "mostra-infantil-petrobras",
+              "label": "Mostra Infantil Petrobras",
+              "result": "selected"
+            }
+          ],
+          "key": "t:anacleto-o-balao",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Maréu",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Nicole Schlegel"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "mostra-infantil-petrobras",
+              "label": "Mostra Infantil Petrobras",
+              "result": "selected"
+            }
+          ],
+          "key": "t:mareu",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Os Novos Brinquedos de Lupita",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Gus Rodrigues"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "mostra-infantil-petrobras",
+              "label": "Mostra Infantil Petrobras",
+              "result": "selected"
+            }
+          ],
+          "key": "t:os-novos-brinquedos-de-lupita",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "O Tubarão Martelo e os Habitantes do Fundo do Mar",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Cláudio Fraga",
+            "Carlos Magalhães"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "mostra-infantil-petrobras",
+              "label": "Mostra Infantil Petrobras",
+              "result": "selected"
+            }
+          ],
+          "key": "t:o-tubarao-martelo-e-os-habitantes-do-fundo-do-mar",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Turma do Folclore em: Os Protetores da Natureza",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Guilherme Lage Marques",
+            "Rafael Matinata Béber"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "mostra-infantil-petrobras",
+              "label": "Mostra Infantil Petrobras",
+              "result": "selected"
+            }
+          ],
+          "key": "t:turma-do-folclore-em-os-protetores-da-natureza",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Até que a Música Pare",
+          "original_name": "Até que a Música Pare",
+          "year": 2023,
+          "director": [
+            "Cristiane Oliveira"
+          ],
+          "imdb_id": "tt29808331",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "mostra-sedac-de-cinema-acessivel",
+              "label": "Mostra Sedac de Cinema Acessível",
+              "result": "selected"
+            }
+          ],
+          "key": "tt29808331",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Bio: Construindo uma Vida",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Carlos Gerbase"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "mostra-sedac-de-cinema-acessivel",
+              "label": "Mostra Sedac de Cinema Acessível",
+              "result": "selected"
+            }
+          ],
+          "key": "t:bio-construindo-uma-vida",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Sobreviventes do Pampa",
+          "original_name": "Sobreviventes do Pampa",
+          "year": 2023,
+          "director": [
+            "Rogério Rodrigues"
+          ],
+          "imdb_id": "tt33428591",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "mostra-sedac-de-cinema-acessivel",
+              "label": "Mostra Sedac de Cinema Acessível",
+              "result": "selected"
+            }
+          ],
+          "key": "tt33428591",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "O Acumulador de Memórias",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Camisla"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos-premio-assembleia-legislativa",
+              "label": "Curtas-metragens Gaúchos (Prêmio Assembleia Legislativa)",
+              "result": "selected"
+            }
+          ],
+          "key": "t:o-acumulador-de-memorias",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Banho Maria",
+          "original_name": "Banho Maria",
+          "year": 2026,
+          "director": [
+            "Gabriel Faccini"
+          ],
+          "imdb_id": "tt42092568",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos-premio-assembleia-legislativa",
+              "label": "Curtas-metragens Gaúchos (Prêmio Assembleia Legislativa)",
+              "result": "selected"
+            }
+          ],
+          "key": "tt42092568",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Batidão de Botas",
+          "original_name": null,
+          "year": null,
+          "director": [],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos-premio-assembleia-legislativa",
+              "label": "Curtas-metragens Gaúchos (Prêmio Assembleia Legislativa)",
+              "result": "selected"
+            }
+          ],
+          "key": "t:batidao-de-botas",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Braço Forte",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Rubens Fabrício Anzolin",
+            "João Fernando Chagas"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos-premio-assembleia-legislativa",
+              "label": "Curtas-metragens Gaúchos (Prêmio Assembleia Legislativa)",
+              "result": "selected"
+            }
+          ],
+          "key": "t:braco-forte",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Claudete",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Gabriela Kopp"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos-premio-assembleia-legislativa",
+              "label": "Curtas-metragens Gaúchos (Prêmio Assembleia Legislativa)",
+              "result": "selected"
+            }
+          ],
+          "key": "t:claudete",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Coisa Ruim",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Lucas Tergolina"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos-premio-assembleia-legislativa",
+              "label": "Curtas-metragens Gaúchos (Prêmio Assembleia Legislativa)",
+              "result": "selected"
+            }
+          ],
+          "key": "t:coisa-ruim",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Drunken Car",
+          "original_name": "Drunken Car",
+          "year": 2025,
+          "director": [
+            "Brunella Martina"
+          ],
+          "imdb_id": "tt37802502",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos-premio-assembleia-legislativa",
+              "label": "Curtas-metragens Gaúchos (Prêmio Assembleia Legislativa)",
+              "result": "selected"
+            }
+          ],
+          "key": "tt37802502",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Elisete Tem Que Casar!",
+          "original_name": "Elisete Must Get Married!",
+          "year": 2027,
+          "director": [
+            "Gaby Buffon"
+          ],
+          "imdb_id": "tt42022527",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos-premio-assembleia-legislativa",
+              "label": "Curtas-metragens Gaúchos (Prêmio Assembleia Legislativa)",
+              "result": "selected"
+            }
+          ],
+          "key": "tt42022527",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Estátuas Também Morrem?",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Thais Fernandes"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos-premio-assembleia-legislativa",
+              "label": "Curtas-metragens Gaúchos (Prêmio Assembleia Legislativa)",
+              "result": "selected"
+            }
+          ],
+          "key": "t:estatuas-tambem-morrem",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Grão",
+          "original_name": "Grão",
+          "year": 2026,
+          "director": [
+            "Gianluca Cozza",
+            "Leonardo da Rosa"
+          ],
+          "imdb_id": "tt39690702",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos-premio-assembleia-legislativa",
+              "label": "Curtas-metragens Gaúchos (Prêmio Assembleia Legislativa)",
+              "result": "selected"
+            }
+          ],
+          "key": "tt39690702",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Manjericão",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Raphaela Serafim Maciel",
+            "Eric Pauli"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos-premio-assembleia-legislativa",
+              "label": "Curtas-metragens Gaúchos (Prêmio Assembleia Legislativa)",
+              "result": "selected"
+            }
+          ],
+          "key": "t:manjericao",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Mizandrika",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Kali Breder"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos-premio-assembleia-legislativa",
+              "label": "Curtas-metragens Gaúchos (Prêmio Assembleia Legislativa)",
+              "result": "selected"
+            }
+          ],
+          "key": "t:mizandrika",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Procura-se Ator",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Airton Tomazzoni",
+            "Laura Lautert"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos-premio-assembleia-legislativa",
+              "label": "Curtas-metragens Gaúchos (Prêmio Assembleia Legislativa)",
+              "result": "selected"
+            }
+          ],
+          "key": "t:procura-se-ator",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Raidinalha",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Marco Arruda"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos-premio-assembleia-legislativa",
+              "label": "Curtas-metragens Gaúchos (Prêmio Assembleia Legislativa)",
+              "result": "selected"
+            }
+          ],
+          "key": "t:raidinalha",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "O Retorno",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Cesar Meneghetti",
+            "Mario Gianni"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos-premio-assembleia-legislativa",
+              "label": "Curtas-metragens Gaúchos (Prêmio Assembleia Legislativa)",
+              "result": "selected"
+            }
+          ],
+          "key": "t:o-retorno",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Terra Bruta",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Allan Riggs",
+            "Guilherme Suman"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos-premio-assembleia-legislativa",
+              "label": "Curtas-metragens Gaúchos (Prêmio Assembleia Legislativa)",
+              "result": "selected"
+            }
+          ],
+          "key": "t:terra-bruta",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "O Véu",
+          "original_name": "O Véu",
+          "year": 2025,
+          "director": [
+            "Gabriel Motta"
+          ],
+          "imdb_id": "tt37844422",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos-premio-assembleia-legislativa",
+              "label": "Curtas-metragens Gaúchos (Prêmio Assembleia Legislativa)",
+              "result": "selected"
+            }
+          ],
+          "key": "tt37844422",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "edition": "Festival de Gramado 2025",
+      "source_url": "https://pt.wikipedia.org/wiki/Festival_de_Gramado_2025",
+      "first_seen": "2026-09-28T11:26:30.375Z",
+      "films": [
+        {
+          "name": "A Natureza das Coisas Invisíveis",
+          "original_name": "A Natureza das Coisas Invisíveis",
+          "year": 2025,
+          "director": [
+            "Rafaela Camelo"
+          ],
+          "imdb_id": "tt35051106",
+          "wikidata_id": "Q131460340",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longas-metragens-brasileiros",
+              "label": "Longas-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-longas-metragens-brasileiros",
+              "label": "Mostra de Longas-Metragens Brasileiros:",
+              "result": "selected"
+            }
+          ],
+          "key": "tt35051106",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Cinco Tipos de Medo",
+          "original_name": "Cinco Tipos de Medo",
+          "year": 2025,
+          "director": [
+            "Bruno Bini"
+          ],
+          "imdb_id": "tt29701448",
+          "wikidata_id": "Q133809719",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longas-metragens-brasileiros",
+              "label": "Longas-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-longas-metragens-brasileiros",
+              "label": "Mostra de Longas-Metragens Brasileiros:",
+              "result": "selected"
+            }
+          ],
+          "key": "tt29701448",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Nó",
+          "original_name": "Nó",
+          "year": 2025,
+          "director": [
+            "Lais Melo"
+          ],
+          "imdb_id": "tt28439261",
+          "wikidata_id": "Q135484432",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longas-metragens-brasileiros",
+              "label": "Longas-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-longas-metragens-brasileiros",
+              "label": "Mostra de Longas-Metragens Brasileiros:",
+              "result": "selected"
+            }
+          ],
+          "key": "tt28439261",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Papagaios",
+          "original_name": "Papagaios",
+          "year": 2025,
+          "director": [
+            "Douglas Soares"
+          ],
+          "imdb_id": "tt6802432",
+          "wikidata_id": "Q135475264",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longas-metragens-brasileiros",
+              "label": "Longas-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-longas-metragens-brasileiros",
+              "label": "Mostra de Longas-Metragens Brasileiros:",
+              "result": "selected"
+            }
+          ],
+          "key": "tt6802432",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Querido Mundo",
+          "original_name": "Querido Mundo",
+          "year": 2025,
+          "director": [
+            "Miguel Falabella",
+            "Hsu Chien Hsin"
+          ],
+          "imdb_id": "tt30818243",
+          "wikidata_id": "Q135400523",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longas-metragens-brasileiros",
+              "label": "Longas-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-longas-metragens-brasileiros",
+              "label": "Mostra de Longas-Metragens Brasileiros:",
+              "result": "selected"
+            }
+          ],
+          "key": "tt30818243",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Sonhar com Leões",
+          "original_name": "Sonhar com Leões",
+          "year": 2024,
+          "director": [
+            "Paolo Marinou-Blanco"
+          ],
+          "imdb_id": "tt15063134",
+          "wikidata_id": "Q135400524",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longas-metragens-brasileiros",
+              "label": "Longas-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-longas-metragens-brasileiros",
+              "label": "Mostra de Longas-Metragens Brasileiros:",
+              "result": "selected"
+            }
+          ],
+          "key": "tt15063134",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Lendo o Mundo",
+          "original_name": "Lendo o Mundo",
+          "year": 2025,
+          "director": [
+            "Irís de Oliveira",
+            "Catherine Murphy"
+          ],
+          "imdb_id": "tt38781197",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longas-metragens-documentais",
+              "label": "Longas-Metragens Documentais",
+              "result": "selected"
+            }
+          ],
+          "key": "tt38781197",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Os Avós",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Ana Ligia Pimentel"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "longas-metragens-documentais",
+              "label": "Longas-Metragens Documentais",
+              "result": "selected"
+            }
+          ],
+          "key": "t:os-avos",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Para Vigo me Voy",
+          "original_name": "Para Vigo Me Voy!",
+          "year": 2025,
+          "director": [
+            "Lírio Ferreira",
+            "Karen Harley"
+          ],
+          "imdb_id": "tt36959167",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longas-metragens-documentais",
+              "label": "Longas-Metragens Documentais",
+              "result": "selected"
+            }
+          ],
+          "key": "tt36959167",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Até Onde a Vista Alcança",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Alice Villela",
+            "Hidalgo Romero"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "longas-metragens-documentais",
+              "label": "Longas-Metragens Documentais",
+              "result": "selected"
+            }
+          ],
+          "key": "t:ate-onde-a-vista-alcanca",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Bicho Monstro",
+          "original_name": "Bicho Monstro",
+          "year": 2024,
+          "director": [
+            "Germano de Oliveira"
+          ],
+          "imdb_id": "tt34007208",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longas-metragens-gauchos",
+              "label": "Longas-Metragens Gaúchos",
+              "result": "selected"
+            }
+          ],
+          "key": "tt34007208",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Passaporte Memória",
+          "original_name": "Passaporte Memória",
+          "year": 2025,
+          "director": [
+            "Decio Antunes"
+          ],
+          "imdb_id": "tt36223051",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longas-metragens-gauchos",
+              "label": "Longas-Metragens Gaúchos",
+              "result": "selected"
+            }
+          ],
+          "key": "tt36223051",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Quando a Gente Menina Cresce",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Neli Mombelli"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "longas-metragens-gauchos",
+              "label": "Longas-Metragens Gaúchos",
+              "result": "selected"
+            }
+          ],
+          "key": "t:quando-a-gente-menina-cresce",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Rua do Pescador, nº 6",
+          "original_name": "Rua do Pescador, nº6",
+          "year": 2025,
+          "director": [
+            "Bárbara Paz"
+          ],
+          "imdb_id": "tt37195794",
+          "wikidata_id": "Q135478991",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longas-metragens-gauchos",
+              "label": "Longas-Metragens Gaúchos",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-longas-metragens-gauchos",
+              "label": "Mostra de Longas-Metragens Gaúchos",
+              "result": "selected"
+            }
+          ],
+          "key": "tt37195794",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Uma em Mil",
+          "original_name": "Uma em Mil",
+          "year": 2025,
+          "director": [
+            "Jonatas Rubert",
+            "Tiago Rubert"
+          ],
+          "imdb_id": "tt38503972",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longas-metragens-gauchos",
+              "label": "Longas-Metragens Gaúchos",
+              "result": "selected"
+            }
+          ],
+          "key": "tt38503972",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Aconteceu a Luz da Lua",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Crystom Afronário"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "t:aconteceu-a-luz-da-lua",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Boiuna",
+          "original_name": "Boiuna",
+          "year": 2025,
+          "director": [
+            "Adriana de Faria"
+          ],
+          "imdb_id": "tt43499376",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "tt43499376",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Cabeça de Boi",
+          "original_name": "Cabeça de Boi",
+          "year": 2025,
+          "director": [
+            "Lucas Zacarias"
+          ],
+          "imdb_id": "tt37801309",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "tt37801309",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "FrutaFizz",
+          "original_name": "FrutaFizz",
+          "year": 2025,
+          "director": [
+            "Kauan Okuma Bueno"
+          ],
+          "imdb_id": "tt38390435",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "tt38390435",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Jacaré",
+          "original_name": "Jacaré",
+          "year": 2025,
+          "director": [
+            "Victor Quintanilha"
+          ],
+          "imdb_id": "tt36334803",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "tt36334803",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Jeguatá Xirê",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Alan Alves-Brito",
+            "Ana Moura",
+            "Marcelo Freire"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "t:jeguata-xire",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "O Mapa em que Estão Meus Pés",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Luciano Pedro Jr."
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": "Q135971289",
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-curtas-metragens-brasileiros",
+              "label": "Mostra de Curtas-Metragens Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "wd:Q135971289",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Na Volta Eu Te Encontro",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Urânia Munzanzu"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "t:na-volta-eu-te-encontro",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "As Musas",
+          "original_name": "As Musas",
+          "year": 2025,
+          "director": [
+            "Rosa Fernan"
+          ],
+          "imdb_id": "tt36936323",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "tt36936323",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Quando Eu For Grande",
+          "original_name": "Quando Eu for Grande?",
+          "year": 2025,
+          "director": [
+            "Mano Cappu"
+          ],
+          "imdb_id": "tt37676794",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "tt37676794",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Réquiem Para Moïse",
+          "original_name": "Réquiem para Moïse",
+          "year": 2025,
+          "director": [
+            "Caio Barretto Briso",
+            "Susanna Lira"
+          ],
+          "imdb_id": "tt38748965",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "tt38748965",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Samba Infinito",
+          "original_name": "Samba Infinito",
+          "year": 2025,
+          "director": [
+            "Leonardo Martinelli"
+          ],
+          "imdb_id": "tt36844384",
+          "wikidata_id": "Q134360589",
+          "type": "short",
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-curtas-metragens-brasileiros",
+              "label": "Mostra de Curtas-Metragens Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "tt36844384",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Nhemongarai",
+          "original_name": "Nhemongarai",
+          "year": 2025,
+          "director": [
+            "Hopi Chapman",
+            "Jorge Morinico"
+          ],
+          "imdb_id": "tt37429132",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos",
+              "label": "Curtas-Metragens Gaúchos",
+              "result": "selected"
+            }
+          ],
+          "key": "tt37429132",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Fuá – O Sonho",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Viviane Jag Fej Farias",
+            "Amallia Brandolff"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos",
+              "label": "Curtas-Metragens Gaúchos",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-curtas-metragens-gauchos",
+              "label": "Mostra de Curtas-Metragens Gaúchos:",
+              "result": "selected"
+            }
+          ],
+          "key": "t:fua-o-sonho",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Estudos Sobre a Vida em Rede",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Tuane Eggers"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos",
+              "label": "Curtas-Metragens Gaúchos",
+              "result": "selected"
+            }
+          ],
+          "key": "t:estudos-sobre-a-vida-em-rede",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Mãe da Manhã",
+          "original_name": "Mother of Dawn",
+          "year": 2025,
+          "director": [
+            "Clara Trevisan"
+          ],
+          "imdb_id": "tt36042489",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos",
+              "label": "Curtas-Metragens Gaúchos",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-curtas-metragens-gauchos",
+              "label": "Mostra de Curtas-Metragens Gaúchos:",
+              "result": "selected"
+            }
+          ],
+          "key": "tt36042489",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "E Depois de Fevereiro",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Crystom Afronário"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos",
+              "label": "Curtas-Metragens Gaúchos",
+              "result": "selected"
+            }
+          ],
+          "key": "t:e-depois-de-fevereiro",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "A Sinaleira Amarela",
+          "original_name": "A Sinaleira Amarela",
+          "year": 2025,
+          "director": [
+            "Guilherme Carravetta De Carli"
+          ],
+          "imdb_id": "tt37545106",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos",
+              "label": "Curtas-Metragens Gaúchos",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-curtas-metragens-gauchos",
+              "label": "Mostra de Curtas-Metragens Gaúchos:",
+              "result": "selected"
+            }
+          ],
+          "key": "tt37545106",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Gambá",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Maciel Fischer"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos",
+              "label": "Curtas-Metragens Gaúchos",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-curtas-metragens-gauchos",
+              "label": "Mostra de Curtas-Metragens Gaúchos:",
+              "result": "selected"
+            }
+          ],
+          "key": "t:gamba",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Bom dia, Maika!",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Eddy Ramos"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos",
+              "label": "Curtas-Metragens Gaúchos",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-curtas-metragens-gauchos",
+              "label": "Mostra de Curtas-Metragens Gaúchos:",
+              "result": "selected"
+            }
+          ],
+          "key": "t:bom-dia-maika",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Quando Começa a Chover o Coração Bate Mais Forte",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Mirian Fichtner"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos",
+              "label": "Curtas-Metragens Gaúchos",
+              "result": "selected"
+            }
+          ],
+          "key": "t:quando-comeca-a-chover-o-coracao-bate-mais-forte",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Trapo",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "João Chimendes"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos",
+              "label": "Curtas-Metragens Gaúchos",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-curtas-metragens-gauchos",
+              "label": "Mostra de Curtas-Metragens Gaúchos:",
+              "result": "selected"
+            }
+          ],
+          "key": "t:trapo",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "O Correspondente",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Thali Bartikoski",
+            "Bruno Barcelos"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos",
+              "label": "Curtas-Metragens Gaúchos",
+              "result": "selected"
+            }
+          ],
+          "key": "t:o-correspondente",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "O Pintor",
+          "original_name": "Paint",
+          "year": 2023,
+          "director": [
+            "Victor Castilhos"
+          ],
+          "people": [],
+          "imdb_id": "tt14472156",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos",
+              "label": "Curtas-Metragens Gaúchos",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-curtas-metragens-gauchos",
+              "label": "Mostra de Curtas-Metragens Gaúchos:",
+              "result": "selected"
+            }
+          ],
+          "key": "tt14472156",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "O Jogo",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Alexandre Mattos Meireles",
+            "Chico Maximila"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos",
+              "label": "Curtas-Metragens Gaúchos",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-curtas-metragens-gauchos",
+              "label": "Mostra de Curtas-Metragens Gaúchos:",
+              "result": "selected"
+            }
+          ],
+          "key": "t:o-jogo",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Safira, o Mar e a Vida",
+          "original_name": "Safira, o Mar e a Vida",
+          "year": 2025,
+          "director": [
+            "Luiz Fonseca"
+          ],
+          "imdb_id": "tt35837371",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos",
+              "label": "Curtas-Metragens Gaúchos",
+              "result": "selected"
+            }
+          ],
+          "key": "tt35837371",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Roxo Lilás Violeta",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Theo Tajes"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos",
+              "label": "Curtas-Metragens Gaúchos",
+              "result": "selected"
+            }
+          ],
+          "key": "t:roxo-lilas-violeta",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Enfim S.O.S.",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Zaracla"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos",
+              "label": "Curtas-Metragens Gaúchos",
+              "result": "selected"
+            }
+          ],
+          "key": "t:enfim-s-o-s",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Imigrante/Habitante",
+          "original_name": "Imigrante/Habitante",
+          "year": 2025,
+          "director": [
+            "Cassio Tolpolar"
+          ],
+          "imdb_id": "tt38645730",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos",
+              "label": "Curtas-Metragens Gaúchos",
+              "result": "selected"
+            },
+            {
+              "id": "mostra-de-curtas-metragens-gauchos",
+              "label": "Mostra de Curtas-Metragens Gaúchos:",
+              "result": "selected"
+            }
+          ],
+          "key": "tt38645730",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Perro!",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Aleksia Dias",
+            "João Pedro Fiuza"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos",
+              "label": "Curtas-Metragens Gaúchos",
+              "result": "selected"
+            }
+          ],
+          "key": "t:perro",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Suprêmes",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Audrey Estrougo"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "mostra-de-cinema-frances",
+              "label": "Mostra de Cinema Francês",
+              "result": "selected"
+            }
+          ],
+          "key": "t:supremes",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Chien de la Casse",
+          "original_name": "Chien de la casse",
+          "year": 2023,
+          "director": [
+            "Jean-Baptiste Durand"
+          ],
+          "imdb_id": "tt18550220",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "mostra-de-cinema-frances",
+              "label": "Mostra de Cinema Francês",
+              "result": "selected"
+            }
+          ],
+          "key": "tt18550220",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Les Pires",
+          "original_name": "Les pires",
+          "year": 2022,
+          "director": [
+            "Lise Akoka",
+            "Romane Gueret"
+          ],
+          "imdb_id": "tt19719862",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "mostra-de-cinema-frances",
+              "label": "Mostra de Cinema Francês",
+              "result": "selected"
+            }
+          ],
+          "key": "tt19719862",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Le Mohican",
+          "original_name": "Le Mohican",
+          "year": 2024,
+          "director": [
+            "Frédéric Farrucci"
+          ],
+          "imdb_id": "tt33030107",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "mostra-de-cinema-frances",
+              "label": "Mostra de Cinema Francês",
+              "result": "selected"
+            }
+          ],
+          "key": "tt33030107",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "edition": "Festival de Gramado 2024",
+      "source_url": "https://pt.wikipedia.org/wiki/Festival_de_Gramado_2024",
+      "first_seen": "2026-09-28T11:26:30.375Z",
+      "films": [
+        {
+          "name": "Pasárgada",
+          "original_name": "Pasárgada",
+          "year": 2024,
+          "director": [
+            "Dira Paes"
+          ],
+          "imdb_id": "tt28090410",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longa-metragens-brasileiros",
+              "label": "Longa-Metragens Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "tt28090410",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Oeste Outra Vez",
+          "original_name": "Oeste Outra Vez",
+          "year": 2024,
+          "director": [
+            "Erico Rassi"
+          ],
+          "imdb_id": "tt12636944",
+          "wikidata_id": "Q133626949",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longa-metragens-brasileiros",
+              "label": "Longa-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "premio-melhor-filme",
+              "label": "Prêmio: Melhor filme",
+              "result": "winner"
+            },
+            {
+              "id": "premio-melhor-fotografia",
+              "label": "Prêmio: Melhor fotografia",
+              "result": "winner"
+            },
+            {
+              "id": "premio-melhor-ator-coadjuvante",
+              "label": "Prêmio: Melhor ator coadjuvante",
+              "result": "winner"
+            }
+          ],
+          "key": "tt12636944",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "O Clube das Mulheres de Negócios",
+          "original_name": "O Clube das Mulheres de Negócios",
+          "year": 2024,
+          "director": [
+            "Anna Muylaert"
+          ],
+          "imdb_id": "tt13866660",
+          "wikidata_id": "Q123003226",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longa-metragens-brasileiros",
+              "label": "Longa-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "premio-premio-especial-do-juri",
+              "label": "Prêmio: Prêmio especial do júri",
+              "result": "winner"
+            }
+          ],
+          "key": "tt13866660",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Filhos do Mangue",
+          "original_name": "Filhos do Mangue",
+          "year": 2024,
+          "director": [
+            "Eliane Caffé"
+          ],
+          "imdb_id": "tt27903446",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longa-metragens-brasileiros",
+              "label": "Longa-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "premio-melhor-direcao",
+              "label": "Prêmio: Melhor direção",
+              "result": "winner"
+            },
+            {
+              "id": "premio-melhor-atriz-coadjuvante",
+              "label": "Prêmio: Melhor atriz coadjuvante",
+              "result": "winner"
+            }
+          ],
+          "key": "tt27903446",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Estômago 2: O Poderoso Chef",
+          "original_name": "Estômago II: O Poderoso Chef",
+          "year": 2024,
+          "director": [
+            "Marcos Jorge"
+          ],
+          "imdb_id": "tt28281591",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longa-metragens-brasileiros",
+              "label": "Longa-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "premio-melhor-ator",
+              "label": "Prêmio: Melhor ator",
+              "result": "winner"
+            },
+            {
+              "id": "premio-melhor-roteiro",
+              "label": "Prêmio: Melhor roteiro",
+              "result": "winner"
+            },
+            {
+              "id": "premio-melhor-direcao-de-arte",
+              "label": "Prêmio: Melhor direção de arte",
+              "result": "winner"
+            },
+            {
+              "id": "premio-melhor-trilha-musical",
+              "label": "Prêmio: Melhor trilha musical",
+              "result": "winner"
+            },
+            {
+              "id": "premio-juri-popular",
+              "label": "Prêmio: Júri popular",
+              "result": "winner"
+            }
+          ],
+          "key": "tt28281591",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Cidade; Campo",
+          "original_name": "Cidade; Campo",
+          "year": 2024,
+          "director": [
+            "Juliana Rojas"
+          ],
+          "imdb_id": "tt30858110",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longa-metragens-brasileiros",
+              "label": "Longa-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "premio-melhor-atriz",
+              "label": "Prêmio: Melhor atriz",
+              "result": "winner"
+            },
+            {
+              "id": "premio-melhor-filme-de-longa-metragem-brasileiro",
+              "label": "Prêmio: Melhor filme de longa-metragem brasileiro",
+              "result": "winner"
+            }
+          ],
+          "key": "tt30858110",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Barba Ensopada de Sangue",
+          "original_name": "Barba Ensopada de Sangue",
+          "year": 2024,
+          "director": [
+            "Aly Muritiba"
+          ],
+          "imdb_id": "tt19049226",
+          "wikidata_id": "Q130642111",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longa-metragens-brasileiros",
+              "label": "Longa-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "premio-melhor-montagem",
+              "label": "Prêmio: Melhor montagem",
+              "result": "winner"
+            }
+          ],
+          "key": "tt19049226",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Poemaria",
+          "original_name": "Poemaria",
+          "year": 2024,
+          "director": [
+            "Davi Kinski"
+          ],
+          "imdb_id": "tt16912666",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longas-metragens-documentais",
+              "label": "Longas-Metragens Documentais",
+              "result": "selected"
+            }
+          ],
+          "key": "tt16912666",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Toquinho Maravilhoso",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Alejandro Berger Parrado"
+          ],
+          "people": [
+            "São Paulo"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "longas-metragens-documentais",
+              "label": "Longas-Metragens Documentais",
+              "result": "selected"
+            }
+          ],
+          "key": "t:toquinho-maravilhoso",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Mestras",
+          "original_name": "Mestras",
+          "year": 2024,
+          "director": [
+            "Aila",
+            "Roberta Carvalho"
+          ],
+          "imdb_id": "tt33288128",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longas-metragens-documentais",
+              "label": "Longas-Metragens Documentais",
+              "result": "selected"
+            }
+          ],
+          "key": "tt33288128",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Velho Chico, A Alma do Povo Xokó",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Caco Souza"
+          ],
+          "people": [
+            "Sergipe"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "longas-metragens-documentais",
+              "label": "Longas-Metragens Documentais",
+              "result": "selected"
+            }
+          ],
+          "key": "t:velho-chico-a-alma-do-povo-xoko",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Clarice Nisker: Teatros dos Pés à Cabeça",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Renata Paschoal"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "longas-metragens-documentais",
+              "label": "Longas-Metragens Documentais",
+              "result": "selected"
+            }
+          ],
+          "key": "t:clarice-nisker-teatros-dos-pes-a-cabeca",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Memórias de um Esclerosado",
+          "original_name": "Memórias de Um Esclerosado",
+          "year": 2024,
+          "director": [
+            "Rafael Corrêa",
+            "Thais Fernandes"
+          ],
+          "imdb_id": "tt34797030",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longas-metragens-gauchos",
+              "label": "Longas-Metragens Gaúchos",
+              "result": "selected"
+            }
+          ],
+          "key": "tt34797030",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Infinimundo",
+          "original_name": "InfiniMundo",
+          "year": 2024,
+          "director": [
+            "Bruno Martins",
+            "Diego Müller"
+          ],
+          "imdb_id": "tt33265448",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longas-metragens-gauchos",
+              "label": "Longas-Metragens Gaúchos",
+              "result": "selected"
+            }
+          ],
+          "key": "tt33265448",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Até Que a Música Pare",
+          "original_name": "Até que a Música Pare",
+          "year": 2023,
+          "director": [
+            "Cristiane Oliveira"
+          ],
+          "imdb_id": "tt29808331",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longas-metragens-gauchos",
+              "label": "Longas-Metragens Gaúchos",
+              "result": "selected"
+            }
+          ],
+          "key": "tt29808331",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "A Transformação de Canuto",
+          "original_name": "Canuto's Transformation",
+          "year": 2023,
+          "director": [
+            "Ernesto de Carvalho",
+            "Ariel Kuaray Ortega"
+          ],
+          "imdb_id": "tt30110906",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longas-metragens-gauchos",
+              "label": "Longas-Metragens Gaúchos",
+              "result": "selected"
+            }
+          ],
+          "key": "tt30110906",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Um Corpo Só",
+          "original_name": "Um Corpo Só",
+          "year": 2024,
+          "director": [
+            "Cacá Nazario"
+          ],
+          "imdb_id": "tt40105974",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "longas-metragens-gauchos",
+              "label": "Longas-Metragens Gaúchos",
+              "result": "selected"
+            }
+          ],
+          "key": "tt40105974",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "A Casa Amarela",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Adriel Nizer"
+          ],
+          "people": [
+            "Paraná"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "premio-melhor-roteiro",
+              "label": "Prêmio: Melhor roteiro",
+              "result": "winner"
+            }
+          ],
+          "key": "t:a-casa-amarela",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "A Menina E O Pote",
+          "original_name": "A Menina e o Pote",
+          "year": 2024,
+          "director": [
+            "Valentina Homem",
+            "Tati Bond"
+          ],
+          "imdb_id": "tt32146261",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "premio-melhor-desenho-de-som",
+              "label": "Prêmio: Melhor desenho de som",
+              "result": "winner"
+            }
+          ],
+          "key": "tt32146261",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Ana Cecília",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Julia Regis"
+          ],
+          "people": [
+            "Rio Grande Do Sul"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "premio-juri-popular",
+              "label": "Prêmio: Júri popular",
+              "result": "winner"
+            }
+          ],
+          "key": "t:ana-cecilia",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Castanho",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Adanilo"
+          ],
+          "people": [
+            "Amazonas"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "t:castanho",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Fenda",
+          "original_name": "Fenda",
+          "year": 2024,
+          "director": [
+            "Lis Paim"
+          ],
+          "imdb_id": "tt34873220",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "premio-melhor-atriz",
+              "label": "Prêmio: Melhor atriz",
+              "result": "winner"
+            },
+            {
+              "id": "premio-melhor-filme-de-curtas-metragens-nacionais",
+              "label": "Prêmio: Melhor filme de curtas-metragens nacionais",
+              "result": "winner"
+            }
+          ],
+          "key": "tt34873220",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Maputo",
+          "original_name": "Maputo",
+          "year": 2024,
+          "director": [
+            "Lucas Abrahão"
+          ],
+          "imdb_id": "tt29118174",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "premio-melhor-direcao",
+              "label": "Prêmio: Melhor direção",
+              "result": "winner"
+            },
+            {
+              "id": "premio-melhor-direcao-de-arte",
+              "label": "Prêmio: Melhor direção de arte",
+              "result": "winner"
+            },
+            {
+              "id": "premio-premio-canal-brasil-de-curtas",
+              "label": "Prêmio: Prêmio Canal Brasil de Curtas",
+              "result": "winner"
+            },
+            {
+              "id": "premio-mencao-honrosa",
+              "label": "Prêmio: Menção honrosa",
+              "result": "winner"
+            }
+          ],
+          "key": "tt29118174",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Movimentos Migratórios",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Rogério Cathalá"
+          ],
+          "people": [
+            "Bahia"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "t:movimentos-migratorios",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Navio",
+          "original_name": "Navio",
+          "year": 2023,
+          "director": [
+            "Alice Carvalho",
+            "Larinha R. Dantas",
+            "Vitória Real"
+          ],
+          "imdb_id": "tt27101728",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "premio-mencao-honrosa",
+              "label": "Prêmio: Menção honrosa",
+              "result": "winner"
+            }
+          ],
+          "key": "tt27101728",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Pastrana",
+          "original_name": "Pastrana",
+          "year": 2023,
+          "director": [
+            "Melissa Brogni",
+            "Gabriel Motta"
+          ],
+          "imdb_id": "tt30495099",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "curtas-metragens-gauchos",
+              "label": "Curtas-Metragens Gaúchos",
+              "result": "selected"
+            },
+            {
+              "id": "premio-melhor-filme",
+              "label": "Prêmio: Melhor filme",
+              "result": "winner"
+            },
+            {
+              "id": "premio-melhor-fotografia",
+              "label": "Prêmio: Melhor fotografia",
+              "result": "winner"
+            },
+            {
+              "id": "premio-melhor-montagem",
+              "label": "Prêmio: Melhor montagem",
+              "result": "winner"
+            }
+          ],
+          "key": "tt30495099",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Ponto e Vírgula",
+          "original_name": "Ponto e Virgula",
+          "year": 2024,
+          "director": [
+            "Thiago Kistenmacker"
+          ],
+          "imdb_id": "tt33089883",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "premio-melhor-ator",
+              "label": "Prêmio: Melhor ator",
+              "result": "winner"
+            },
+            {
+              "id": "premio-melhor-trilha-musical",
+              "label": "Prêmio: Melhor trilha musical",
+              "result": "winner"
+            },
+            {
+              "id": "premio-premio-especial-do-juri",
+              "label": "Prêmio: Prêmio especial do júri",
+              "result": "winner"
+            }
+          ],
+          "key": "tt33089883",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Ressaca",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Pedro Estrada"
+          ],
+          "people": [
+            "Minas Gerais"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "premio-mencao-honrosa",
+              "label": "Prêmio: Menção honrosa",
+              "result": "winner"
+            }
+          ],
+          "key": "t:ressaca",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Via Sacra",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "João Campos"
+          ],
+          "people": [
+            "Distrito Federal"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-brasileiros",
+              "label": "Curtas-Metragens Brasileiros",
+              "result": "selected"
+            },
+            {
+              "id": "premio-mencao-honrosa",
+              "label": "Prêmio: Menção honrosa",
+              "result": "winner"
+            }
+          ],
+          "key": "t:via-sacra",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "A um Gole da Eternidade",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Camila de Moraes",
+            "Paulo Ricardo de Moraes"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos",
+              "label": "Curtas-Metragens Gaúchos",
+              "result": "selected"
+            }
+          ],
+          "key": "t:a-um-gole-da-eternidade",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Natal",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Alan Orlando"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos",
+              "label": "Curtas-Metragens Gaúchos",
+              "result": "selected"
+            }
+          ],
+          "key": "t:natal",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Cassino",
+          "original_name": "Cassino",
+          "year": 2024,
+          "director": [
+            "Gianluca Cozza"
+          ],
+          "imdb_id": "tt34935671",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos",
+              "label": "Curtas-Metragens Gaúchos",
+              "result": "selected"
+            }
+          ],
+          "key": "tt34935671",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Zagêro",
+          "original_name": "Zagêro",
+          "year": 2024,
+          "director": [
+            "Victor Di Marco",
+            "Marcio Picoli"
+          ],
+          "imdb_id": "tt38946696",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos",
+              "label": "Curtas-Metragens Gaúchos",
+              "result": "selected"
+            }
+          ],
+          "key": "tt38946696",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Janeiro",
+          "original_name": "Janeiro",
+          "year": 2024,
+          "director": [
+            "Boca Migotto"
+          ],
+          "imdb_id": "tt33298995",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos",
+              "label": "Curtas-Metragens Gaúchos",
+              "result": "selected"
+            }
+          ],
+          "key": "tt33298995",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Correnteza",
+          "original_name": "Correnteza",
+          "year": 2024,
+          "director": [
+            "Diego Müller"
+          ],
+          "imdb_id": "tt39579075",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos",
+              "label": "Curtas-Metragens Gaúchos",
+              "result": "selected"
+            }
+          ],
+          "key": "tt39579075",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Não Tem Mar Nessa Cidade",
+          "original_name": "Não Tem Mar Nessa Cidade",
+          "year": 2024,
+          "director": [
+            "Manu Zilveti"
+          ],
+          "imdb_id": "tt32370481",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos",
+              "label": "Curtas-Metragens Gaúchos",
+              "result": "selected"
+            }
+          ],
+          "key": "tt32370481",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Chibo",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Gabriela Poester",
+            "Henrique Lahude"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos",
+              "label": "Curtas-Metragens Gaúchos",
+              "result": "selected"
+            }
+          ],
+          "key": "t:chibo",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Flor",
+          "original_name": "Flor",
+          "year": 2024,
+          "director": [
+            "Joana Bernardes"
+          ],
+          "imdb_id": "tt43232674",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos",
+              "label": "Curtas-Metragens Gaúchos",
+              "result": "selected"
+            }
+          ],
+          "key": "tt43232674",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Viagem Para Salvador",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "João Pedro Fiuza"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos",
+              "label": "Curtas-Metragens Gaúchos",
+              "result": "selected"
+            }
+          ],
+          "key": "t:viagem-para-salvador",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Posso Contar nos Dedods",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Victória Kaminski"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos",
+              "label": "Curtas-Metragens Gaúchos",
+              "result": "selected"
+            }
+          ],
+          "key": "t:posso-contar-nos-dedods",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Entrega",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Luiz Azambuja",
+            "Pedro Pesser"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos",
+              "label": "Curtas-Metragens Gaúchos",
+              "result": "selected"
+            }
+          ],
+          "key": "t:entrega",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Noz Pecã",
+          "original_name": "Noz Pecã",
+          "year": 2024,
+          "director": [
+            "Aline Gutierres"
+          ],
+          "imdb_id": "tt43730088",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos",
+              "label": "Curtas-Metragens Gaúchos",
+              "result": "selected"
+            }
+          ],
+          "key": "tt43730088",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Está Tudo Bem",
+          "original_name": "Está Tudo Bem",
+          "year": 2024,
+          "director": [
+            "Rodrigo Herzog"
+          ],
+          "imdb_id": "tt31631589",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos",
+              "label": "Curtas-Metragens Gaúchos",
+              "result": "selected"
+            }
+          ],
+          "key": "tt31631589",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Envergo Mas Não Quebro",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Tatiana Sager"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "curtas-metragens-gauchos",
+              "label": "Curtas-Metragens Gaúchos",
+              "result": "selected"
+            }
+          ],
+          "key": "t:envergo-mas-nao-quebro",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Clarice Niskier: Teatro dos pés à Cabeça",
+          "original_name": "Clarice Niskier: Teatro dos Pés à Cabeça",
+          "year": 2024,
+          "director": [
+            "Renata Paschoal"
+          ],
+          "imdb_id": "tt33505190",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "premio-longas-metragens-documentais",
+              "label": "Prêmio: Longas-metragens Documentais",
+              "result": "winner"
+            }
+          ],
+          "key": "tt33505190",
+          "first_seen": "2026-09-28T11:26:30.375Z"
+        }
+      ]
+    }
+  ]
+}
