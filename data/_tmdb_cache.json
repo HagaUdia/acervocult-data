@@ -315593,6 +315593,613 @@
       "total_pages": 1,
       "total_results": 0,
       "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=E La Nave Va&region=BR&year=1983": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 5622,
+          "title": "E La Nave Va",
+          "original_title": "E la nave va",
+          "release_date": "1983-10-07",
+          "poster_path": "/1RwUXKwrTZCeQC53LWKrdqsGAJf.jpg",
+          "popularity": 3.5668
+        }
+      ]
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=As Pequenas Margaridas&region=BR&year=1966": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 46919,
+          "title": "As Pequenas Margaridas",
+          "original_title": "Sedmikrásky",
+          "release_date": "1966-12-30",
+          "poster_path": "/eGofFNiE5K8p2XEXC6SrnnM8dE3.jpg",
+          "popularity": 4.575
+        }
+      ]
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Moolaadé&region=BR&year=2004": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 39504,
+          "title": "Moolaadé",
+          "original_title": "Moolaadé",
+          "release_date": "2004-08-04",
+          "poster_path": "/9S7lWdLExHw6LP3Vq7smiyGY5MR.jpg",
+          "popularity": 1.6742
+        }
+      ]
+    },
+    "/movie/39504?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 39504,
+      "title": "Moolaadé",
+      "original_title": "Moolaadé",
+      "release_date": "2004-08-04",
+      "poster_path": "/9S7lWdLExHw6LP3Vq7smiyGY5MR.jpg",
+      "popularity": 1.6742,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Ousmane Sembène"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0416991"
+      },
+      "earliest_release_year": 2004
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Frantz Fanon - Pele Negra, Máscara Branca&region=BR&year=1995": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Frantz Fanon - Pele Negra, Máscara Branca&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=3000 Noites&region=BR&year=2015": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=3000 Noites&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=A Galinha&region=BR&year=2014": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 3,
+      "results": [
+        {
+          "id": 7443,
+          "title": "A Fuga das Galinhas",
+          "original_title": "Chicken Run",
+          "release_date": "2000-12-22",
+          "poster_path": "/hp5shw8xyuYId322rT9am3HrKCQ.jpg",
+          "popularity": 16.0931
+        },
+        {
+          "id": 289354,
+          "title": "Galinha Pintadinha 4",
+          "original_title": "Galinha Pintadinha 4",
+          "release_date": "2014-08-29",
+          "poster_path": "/8lAOuS7QCT2jxWJbxNN7i1PTAdH.jpg",
+          "popularity": 0.8358
+        },
+        {
+          "id": 89623,
+          "title": "Lifi, uma Galinha na Selva",
+          "original_title": "마당을 나온 암탉",
+          "release_date": "2011-11-21",
+          "poster_path": "/8oPQ8MbgMKxKSNWguOPSDcvyQP6.jpg",
+          "popularity": 3.07
+        }
+      ]
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Magrela&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Quando abandonamos a humanidade, o que resta de nós?&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1724226,
+          "title": "Quando abandonamos a humanidade, o que resta de nós?",
+          "original_title": "Quando abandonamos a humanidade, o que resta de nós?",
+          "release_date": "2026-07-23",
+          "poster_path": "/gp6aWnpfAViCOndPRc3i9EE6PSj.jpg",
+          "popularity": 1.0125
+        }
+      ]
+    },
+    "/movie/1724226?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1724226,
+      "title": "Quando abandonamos a humanidade, o que resta de nós?",
+      "original_title": "Quando abandonamos a humanidade, o que resta de nós?",
+      "release_date": "2026-07-23",
+      "poster_path": "/gp6aWnpfAViCOndPRc3i9EE6PSj.jpg",
+      "popularity": 1.0125,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Vita Pereira"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2026
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Roteiro para uma fuga&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1764232,
+          "title": "Roteiro para uma fuga",
+          "original_title": "Roteiro para uma fuga",
+          "release_date": "2025-10-15",
+          "poster_path": "/7KZLKacSWJf27Vy2lkOMw4rg00x.jpg",
+          "popularity": 0.4852
+        }
+      ]
+    },
+    "/movie/1764232?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1764232,
+      "title": "Roteiro para uma fuga",
+      "original_title": "Roteiro para uma fuga",
+      "release_date": "",
+      "poster_path": "/7KZLKacSWJf27Vy2lkOMw4rg00x.jpg",
+      "popularity": 0.4852,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Priscila Nascimento"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2025
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=De volta ao começo&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1709107,
+          "title": "De Volta ao Começo",
+          "original_title": "De Volta ao Começo",
+          "release_date": "2026-05-19",
+          "poster_path": "/bKHHMKDQIgFiGHotZWx6tHImpR4.jpg",
+          "popularity": 0.9682
+        }
+      ]
+    },
+    "/movie/1709107?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1709107,
+      "title": "De Volta ao Começo",
+      "original_title": "De Volta ao Começo",
+      "release_date": "2026-05-19",
+      "poster_path": "/bKHHMKDQIgFiGHotZWx6tHImpR4.jpg",
+      "popularity": 0.9682,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Sérgio Santos Barroso"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2026
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Frutinha&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 2,
+      "results": [
+        {
+          "id": 1103455,
+          "title": "Frutinha",
+          "original_title": "Frutinha",
+          "release_date": "2023-03-01",
+          "poster_path": "/mhqeQfSok4kVsatpUJv06oHAHMk.jpg",
+          "popularity": 1.9267
+        },
+        {
+          "id": 1633409,
+          "title": "Frutinha",
+          "original_title": "Frutinha",
+          "release_date": "2026-02-10",
+          "poster_path": "/xo7VCNU3YVFRQN97LexgUxPpA46.jpg",
+          "popularity": 1.1646
+        }
+      ]
+    },
+    "/movie/1103455?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1103455,
+      "title": "Frutinha",
+      "original_title": "Frutinha",
+      "release_date": "2023-03-01",
+      "poster_path": "/mhqeQfSok4kVsatpUJv06oHAHMk.jpg",
+      "popularity": 1.9267,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Fernando Grisi"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt31863982"
+      },
+      "earliest_release_year": 2023
+    },
+    "/movie/1633409?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1633409,
+      "title": "Frutinha",
+      "original_title": "Frutinha",
+      "release_date": "2026-02-10",
+      "poster_path": "/xo7VCNU3YVFRQN97LexgUxPpA46.jpg",
+      "popularity": 1.1646,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Giovanni Ojeda"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt39796739"
+      },
+      "earliest_release_year": 2026
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Como ler o vento&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1483129,
+          "title": "Como Ler o Vento",
+          "original_title": "Como Ler o Vento",
+          "release_date": "2025-05-14",
+          "poster_path": "/vS0QmxGw0wefK1C0NSbTH01DM9N.jpg",
+          "popularity": 1.0636
+        }
+      ]
+    },
+    "/movie/1483129?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1483129,
+      "title": "Como Ler o Vento",
+      "original_title": "Como Ler o Vento",
+      "release_date": "2025-05-14",
+      "poster_path": "/vS0QmxGw0wefK1C0NSbTH01DM9N.jpg",
+      "popularity": 1.0636,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Bernardo Ale Abinader"
+          },
+          {
+            "job": "Director",
+            "name": "Sharon Hakim"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2025
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Tarde dentro da tarde&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1780013,
+          "title": "Tarde Dentro da Tarde",
+          "original_title": "Tarde Dentro da Tarde",
+          "release_date": "",
+          "poster_path": "/ogDcIOQSS63Obra0sxA4WoRLf3m.jpg",
+          "popularity": 0.1687
+        }
+      ]
+    },
+    "/movie/1780013?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1780013,
+      "title": "Tarde Dentro da Tarde",
+      "original_title": "Tarde Dentro da Tarde",
+      "release_date": "",
+      "poster_path": "/ogDcIOQSS63Obra0sxA4WoRLf3m.jpg",
+      "popularity": 0.1687,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Rafael Ramos"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": null
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Minha tia Suzi&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1738073,
+          "title": "Minha Tia Suzi",
+          "original_title": "Minha Tia Suzi",
+          "release_date": "2026-02-26",
+          "poster_path": "/zoXWzduZccP20d8P16j5tjUXVG0.jpg",
+          "popularity": 0.7542
+        }
+      ]
+    },
+    "/movie/1738073?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1738073,
+      "title": "Minha Tia Suzi",
+      "original_title": "Minha Tia Suzi",
+      "release_date": "2026-02-26",
+      "poster_path": "/zoXWzduZccP20d8P16j5tjUXVG0.jpg",
+      "popularity": 0.7542,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Tatiana Horevicht"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt38514383"
+      },
+      "earliest_release_year": 2026
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Flores secas&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 2,
+      "results": [
+        {
+          "id": 762318,
+          "title": "Flores Secas",
+          "original_title": "Flores Secas",
+          "release_date": "2017-06-12",
+          "poster_path": "/wrrToo9fwW2i96xSSBIPr9RRwKt.jpg",
+          "popularity": 2.6145
+        },
+        {
+          "id": 1774059,
+          "title": "Flores Secas",
+          "original_title": "Flores Secas",
+          "release_date": "2025-03-02",
+          "poster_path": "/3Vo8xORpce5wC4yC4eGSDr9vT4n.jpg",
+          "popularity": 4.1076
+        }
+      ]
+    },
+    "/movie/1774059?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1774059,
+      "title": "Flores Secas",
+      "original_title": "Flores Secas",
+      "release_date": "2025-03-02",
+      "poster_path": "/3Vo8xORpce5wC4yC4eGSDr9vT4n.jpg",
+      "popularity": 4.1076,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Arnaldo Barreto"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2025
+    },
+    "/movie/762318?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 762318,
+      "title": "Flores Secas",
+      "original_title": "Flores Secas",
+      "release_date": "2017-06-12",
+      "poster_path": "/wrrToo9fwW2i96xSSBIPr9RRwKt.jpg",
+      "popularity": 2.6145,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Julia Gorgulho"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt6807686"
+      },
+      "earliest_release_year": 2017
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Por onde você vai&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1725155,
+          "title": "Por onde você vai",
+          "original_title": "Por onde você vai",
+          "release_date": "2026-09-24",
+          "poster_path": "/zBQUE8WXYwymKXRIzkNyabHjXRO.jpg",
+          "popularity": 2.3478
+        }
+      ]
+    },
+    "/movie/1725155?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1725155,
+      "title": "Por onde você vai",
+      "original_title": "Por onde você vai",
+      "release_date": "2026-09-24",
+      "poster_path": "/zBQUE8WXYwymKXRIzkNyabHjXRO.jpg",
+      "popularity": 2.3478,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Bruma de Sá"
+          },
+          {
+            "job": "Director",
+            "name": "Mauro Gruber"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2026
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Te vejo na próxima saída do boi&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Não é sobre pastéis&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1490824,
+          "title": "Não é sobre pastéis",
+          "original_title": "Não é sobre pastéis",
+          "release_date": "2025-05-31",
+          "poster_path": "/xVAjN9IQsuOALz6gIdpcpupmgvL.jpg",
+          "popularity": 0.6822
+        }
+      ]
+    },
+    "/movie/1490824?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1490824,
+      "title": "Não é sobre pastéis",
+      "original_title": "Não é sobre pastéis",
+      "release_date": "2025-05-31",
+      "poster_path": "/xVAjN9IQsuOALz6gIdpcpupmgvL.jpg",
+      "popularity": 0.6822,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Tiago Ribeiro"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2025
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Umassuma – lascas de memórias&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=O olhar de Antônio&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 2,
+      "results": [
+        {
+          "id": 1637497,
+          "title": "O Olhar de Antonio",
+          "original_title": "O Olhar de Antonio",
+          "release_date": "2026-03-02",
+          "poster_path": "/yu2NJjOvFkpRLZ49KmA3jazSjst.jpg",
+          "popularity": 0.605
+        },
+        {
+          "id": 927827,
+          "title": "António Coimbra de Matos: O Olhar Nos Outros",
+          "original_title": "António Coimbra de Matos: O Olhar Nos Outros",
+          "release_date": "2022-01-05",
+          "poster_path": "/ar3VcIZPOW4ERBACKUuq0FH3Fw1.jpg",
+          "popularity": 0.9975
+        }
+      ]
+    },
+    "/movie/1637497?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1637497,
+      "title": "O Olhar de Antonio",
+      "original_title": "O Olhar de Antonio",
+      "release_date": "2026-03-02",
+      "poster_path": "/yu2NJjOvFkpRLZ49KmA3jazSjst.jpg",
+      "popularity": 0.605,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Gloria Albues"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2026
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Cabeça de martelo&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=O léxico de Solange Pessoa&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
     }
   }
 }
