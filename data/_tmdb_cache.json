@@ -316200,6 +316200,493 @@
       "total_pages": 1,
       "total_results": 0,
       "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Ataques Psicotrônicos&region=BR&year=2024": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1361490,
+          "title": "Ataques Psicotrônicos",
+          "original_title": "Ataques Psicotrônicos",
+          "release_date": "2024-10-30",
+          "poster_path": "/r0L7U5dDHE3N1yGihvzZlwON9Bv.jpg",
+          "popularity": 2.627
+        }
+      ]
+    },
+    "/movie/1361490?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1361490,
+      "title": "Ataques Psicotrônicos",
+      "original_title": "Ataques Psicotrônicos",
+      "release_date": "2024-10-30",
+      "poster_path": "/r0L7U5dDHE3N1yGihvzZlwON9Bv.jpg",
+      "popularity": 2.627,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Calebe Lopes"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2024
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Os Filhos do Medo&region=BR&year=1979": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 28942,
+          "title": "Os Filhos do Medo",
+          "original_title": "The Brood",
+          "release_date": "1979-10-17",
+          "poster_path": "/utNPvjWoIYqFdkHqYVG1e2DfsGU.jpg",
+          "popularity": 4.6959
+        }
+      ]
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=O Estranho&region=BR&year=2023": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 5,
+      "results": [
+        {
+          "id": 1074731,
+          "title": "O Estranho",
+          "original_title": "O Estranho",
+          "release_date": "2024-06-20",
+          "poster_path": "/yuV9eprDTTyBvMtuYaZQ4BY4ldw.jpg",
+          "popularity": 0.8201
+        },
+        {
+          "id": 9479,
+          "title": "O Estranho Mundo de Jack",
+          "original_title": "The Nightmare Before Christmas",
+          "release_date": "1993-10-09",
+          "poster_path": "/g6zcll9bcAmoVNiMxt4wmVwTl5f.jpg",
+          "popularity": 57.329
+        },
+        {
+          "id": 1228473,
+          "title": "O Estranho",
+          "original_title": "O Estranho",
+          "release_date": "2023-07-01",
+          "poster_path": "/7B1MhNCl9rk1THYoVcRixrwQBHJ.jpg",
+          "popularity": 1.2946
+        },
+        {
+          "id": 1155458,
+          "title": "O Estranho Caso do Fantasma Claustrofóbico",
+          "original_title": "El extraño caso del fantasma claustrofóbico",
+          "release_date": "2023-07-21",
+          "poster_path": "/mxl2XF0Qnmig21w4btbQjxxcIq.jpg",
+          "popularity": 1.244
+        },
+        {
+          "id": 877269,
+          "title": "Mundo Estranho",
+          "original_title": "Strange World",
+          "release_date": "2022-11-24",
+          "poster_path": "/uAlwqJbFqMRWXUA45E1aw1Pacun.jpg",
+          "popularity": 12.2564
+        }
+      ]
+    },
+    "/movie/1228473?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1228473,
+      "title": "O Estranho",
+      "original_title": "O Estranho",
+      "release_date": "2023-07-01",
+      "poster_path": "/7B1MhNCl9rk1THYoVcRixrwQBHJ.jpg",
+      "popularity": 1.2946,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Davi R. Borges"
+          },
+          {
+            "job": "Director",
+            "name": "Lenine Gewehr"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2023
+    },
+    "/movie/1074731?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1074731,
+      "title": "O Estranho",
+      "original_title": "O Estranho",
+      "release_date": "2024-06-20",
+      "poster_path": "/yuV9eprDTTyBvMtuYaZQ4BY4ldw.jpg",
+      "popularity": 0.8201,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Flora Dias"
+          },
+          {
+            "job": "Director",
+            "name": "Juruna Mallon"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt11306892"
+      },
+      "earliest_release_year": 2023
+    },
+    "/movie/877269?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 877269,
+      "title": "Mundo Estranho",
+      "original_title": "Strange World",
+      "release_date": "2022-11-23",
+      "poster_path": "/uAlwqJbFqMRWXUA45E1aw1Pacun.jpg",
+      "popularity": 12.2564,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Don Hall"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt10298840"
+      },
+      "earliest_release_year": 2022
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Hóspedes&region=BR&year=2004": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Hóspedes&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 7,
+      "results": [
+        {
+          "id": 1720168,
+          "title": "Hóspedes",
+          "original_title": "Hóspedes",
+          "release_date": "",
+          "poster_path": "/o5CAQekTl9SwmLENK6KcmUOq56O.jpg",
+          "popularity": 0.4014
+        },
+        {
+          "id": 680495,
+          "title": "Os Hóspedes",
+          "original_title": "A Killer in My Home",
+          "release_date": "2022-10-02",
+          "poster_path": "/2laVEwzkImIRh0eE2LihCxZIf5q.jpg",
+          "popularity": 2.0167
+        },
+        {
+          "id": 462694,
+          "title": "Hóspedes da Noite",
+          "original_title": "Hóspedes da Noite",
+          "release_date": "2007-06-20",
+          "poster_path": "/dWVW6cb5GcuKAO8BLSRDxNpdFkc.jpg",
+          "popularity": 0.5726
+        },
+        {
+          "id": 594084,
+          "title": "A Casa de Hóspedes",
+          "original_title": "Guest House",
+          "release_date": "2020-09-04",
+          "poster_path": "/ocCDBApzrbHmt78mlWWikM1OhoQ.jpg",
+          "popularity": 2.7972
+        },
+        {
+          "id": 781,
+          "title": "Inverno Quente",
+          "original_title": "Winterschläfer",
+          "release_date": "1997-10-30",
+          "poster_path": "/6GnzOfZbAuxPv7uuQetR0IySbMH.jpg",
+          "popularity": 1.1261
+        },
+        {
+          "id": 10482,
+          "title": "Hotel Paradiso",
+          "original_title": "Guest House Paradiso",
+          "release_date": "1999-12-03",
+          "poster_path": "/rYhSArBKhHiPu7DYjXv1NxfDtH1.jpg",
+          "popularity": 2.6258
+        },
+        {
+          "id": 58428,
+          "title": "Hotel da Morte",
+          "original_title": "The Innkeepers",
+          "release_date": "2012-03-12",
+          "poster_path": "/kyIYAZvx9OPmEniNLPIkGlmkM3D.jpg",
+          "popularity": 3.4408
+        }
+      ]
+    },
+    "/movie/1720168?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1720168,
+      "title": "Hóspedes",
+      "original_title": "Hóspedes",
+      "release_date": "",
+      "poster_path": "/o5CAQekTl9SwmLENK6KcmUOq56O.jpg",
+      "popularity": 0.4014,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": "tt1376198"
+      },
+      "earliest_release_year": null
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Audição&region=BR&year=1999": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Audição&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 7,
+      "results": [
+        {
+          "id": 1127448,
+          "title": "Audição",
+          "original_title": "Audição",
+          "release_date": "2023-03-02",
+          "poster_path": "/d6zLXnsa57D2rK2p0nus32UajhI.jpg",
+          "popularity": 1.2148
+        },
+        {
+          "id": 176733,
+          "title": "A Audição",
+          "original_title": "A Audição",
+          "release_date": "2009-07-21",
+          "poster_path": "/yIwn8f1BcGoKdZt0kV44jRYvLeh.jpg",
+          "popularity": 1.864
+        },
+        {
+          "id": 1096030,
+          "title": "A Audição",
+          "original_title": "A Audição",
+          "release_date": "2002-01-01",
+          "poster_path": null,
+          "popularity": 1.0311
+        },
+        {
+          "id": 1492357,
+          "title": "Audição",
+          "original_title": "Audição",
+          "release_date": "",
+          "poster_path": "/zrxhYyICMelysapQ3QBxPSQXno2.jpg",
+          "popularity": 1.6146
+        },
+        {
+          "id": 1545197,
+          "title": "Audição",
+          "original_title": "Audição",
+          "release_date": "2025-10-11",
+          "poster_path": "/4BsMauY3xsY4WL225oun0RSE3ja.jpg",
+          "popularity": 1.9044
+        },
+        {
+          "id": 1642423,
+          "title": "Audição 2022",
+          "original_title": "Audição 2022",
+          "release_date": "2026-03-03",
+          "poster_path": "/tgVflpKpIDVyRT4bf9S5Usx0kcA.jpg",
+          "popularity": 1.6973
+        },
+        {
+          "id": 1390002,
+          "title": "Causa",
+          "original_title": "Causa",
+          "release_date": "2025-10-11",
+          "poster_path": "/pxh67pPHQ3VZy75HST1VhtNyens.jpg",
+          "popularity": 2.4483
+        }
+      ]
+    },
+    "/movie/1492357?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1492357,
+      "title": "Audição",
+      "original_title": "Audição",
+      "release_date": "",
+      "poster_path": "/zrxhYyICMelysapQ3QBxPSQXno2.jpg",
+      "popularity": 1.6146,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Leonardo La Falce"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": null
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Garotas Canibais&region=BR&year=1973": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Garotas Canibais&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=A Bruxa do Amor&region=BR&year=2016": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=A Bruxa do Amor&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 32790,
+          "title": "A Bruxa do Bem",
+          "original_title": "The Good Witch",
+          "release_date": "2008-01-19",
+          "poster_path": "/jDcMEF7D3NgJ8c6J60mFpol1pzo.jpg",
+          "popularity": 2.731
+        }
+      ]
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Curandeiras&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Oroboro&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 2,
+      "results": [
+        {
+          "id": 1428507,
+          "title": "Oroboro",
+          "original_title": "Oroboro",
+          "release_date": "2025-03-20",
+          "poster_path": "/lLhrddobsnLl0LOhmAbnkmlzTpM.jpg",
+          "popularity": 1.583
+        },
+        {
+          "id": 940716,
+          "title": "Ouroboro",
+          "original_title": "OROBORO",
+          "release_date": "2022-02-18",
+          "poster_path": "/jeUK1BG931y9ffm0JiM4QWtJ3VY.jpg",
+          "popularity": 0.9701
+        }
+      ]
+    },
+    "/movie/1428507?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1428507,
+      "title": "Oroboro",
+      "original_title": "Oroboro",
+      "release_date": "2025-03-20",
+      "poster_path": "/lLhrddobsnLl0LOhmAbnkmlzTpM.jpg",
+      "popularity": 1.583,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Pablo Lobato"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2025
+    },
+    "/movie/940716?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 940716,
+      "title": "Ouroboro",
+      "original_title": "OROBORO",
+      "release_date": "2022-02-18",
+      "poster_path": "/jeUK1BG931y9ffm0JiM4QWtJ3VY.jpg",
+      "popularity": 0.9701,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Danilo de Alencar Trindade"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2022
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Kika não foi convidada&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1688882,
+          "title": "Kika Não Foi Convidada",
+          "original_title": "Kika Não Foi Convidada",
+          "release_date": "2026-06-03",
+          "poster_path": "/46scNeQmKYMqIEMRvtMKqZjTQcn.jpg",
+          "popularity": 0.8245
+        }
+      ]
+    },
+    "/movie/1688882?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1688882,
+      "title": "Kika Não Foi Convidada",
+      "original_title": "Kika Não Foi Convidada",
+      "release_date": "2026-06-03",
+      "poster_path": "/46scNeQmKYMqIEMRvtMKqZjTQcn.jpg",
+      "popularity": 0.8245,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Juraci Júnior"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2026
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Claudia Andujar – Cosmovisão&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Ela & Elu&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
     }
   }
 }
