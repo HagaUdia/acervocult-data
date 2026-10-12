@@ -316687,6 +316687,1604 @@
       "total_pages": 1,
       "total_results": 0,
       "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Parque da Punição&region=BR&year=1971": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 26513,
+          "title": "Parque da Punição",
+          "original_title": "Punishment Park",
+          "release_date": "1971-10-01",
+          "poster_path": "/qlqqD7679YjsFS93y8lPg2MbWHI.jpg",
+          "popularity": 3.3597
+        }
+      ]
+    },
+    "/movie/26513?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 26513,
+      "title": "Parque da Punição",
+      "original_title": "Punishment Park",
+      "release_date": "1971-10-01",
+      "poster_path": "/qlqqD7679YjsFS93y8lPg2MbWHI.jpg",
+      "popularity": 3.3597,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Peter Watkins"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0067633"
+      },
+      "earliest_release_year": 1971
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Claudio&region=BR&year=2022": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 4,
+      "results": [
+        {
+          "id": 1060630,
+          "title": "Claudio",
+          "original_title": "Claudio",
+          "release_date": "2022-11-04",
+          "poster_path": "/6kB521WOqOogU1OAslHajjsXhKv.jpg",
+          "popularity": 2.0422
+        },
+        {
+          "id": 1569890,
+          "title": "Claudio Abbado and Maurizio Pollini at Lucerne Festival 2004",
+          "original_title": "Claudio Abbado and Maurizio Pollini at Lucerne Festival 2004",
+          "release_date": "2022-09-16",
+          "poster_path": "/n8jzAz6nfPpr3vruWIikM6jzeWD.jpg",
+          "popularity": 0.7245
+        },
+        {
+          "id": 1006958,
+          "title": "Starrcast V: Insight With Special Guest Claudio Castagnoli",
+          "original_title": "Starrcast V: Insight With Special Guest Claudio Castagnoli",
+          "release_date": "2022-07-30",
+          "poster_path": "/67wuj7nnnflPjhvCZcCr95wtIJM.jpg",
+          "popularity": 0.4578
+        },
+        {
+          "id": 1006105,
+          "title": "Claudio Capéo - Les estivales de Culturebox Montpellier 2022",
+          "original_title": "Claudio Capéo - Les estivales de Culturebox Montpellier 2022",
+          "release_date": "2022-07-27",
+          "poster_path": "/zaIj1pUPCcbyIYV85Kuey0fcred.jpg",
+          "popularity": 0.4482
+        }
+      ]
+    },
+    "/movie/1060630?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1060630,
+      "title": "Claudio",
+      "original_title": "Claudio",
+      "release_date": "2022-11-04",
+      "poster_path": "/6kB521WOqOogU1OAslHajjsXhKv.jpg",
+      "popularity": 2.0422,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Calebe Lopes"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2022
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=O Terceiro Homem&region=BR&year=1949": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1092,
+          "title": "O 3º Homem",
+          "original_title": "The Third Man",
+          "release_date": "1950-01-01",
+          "poster_path": "/B1MT9bSEfrSnCuNRDj8dRbiuY1.jpg",
+          "popularity": 10.3275
+        }
+      ]
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Maxita&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1688918,
+          "title": "Maxita",
+          "original_title": "Maxita",
+          "release_date": "2026-06-07",
+          "poster_path": "/nxQqG1E8rkro91uW2mQJ1N3W6BY.jpg",
+          "popularity": 1.4727
+        }
+      ]
+    },
+    "/movie/1688918?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1688918,
+      "title": "Maxita",
+      "original_title": "Maxita",
+      "release_date": "2026-06-07",
+      "poster_path": "/nxQqG1E8rkro91uW2mQJ1N3W6BY.jpg",
+      "popularity": 1.4727,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Mariana Machado"
+          },
+          {
+            "job": "Director",
+            "name": "Ana Maria Machado"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2026
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=O Maestro&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 3,
+      "total_results": 46,
+      "results": [
+        {
+          "id": 396194,
+          "title": "Ennio, o Maestro",
+          "original_title": "Ennio",
+          "release_date": "2022-09-29",
+          "poster_path": "/v89FqPOR8jGeFOgFJQU84xW7pbz.jpg",
+          "popularity": 6.639
+        },
+        {
+          "id": 466870,
+          "title": "João, o Maestro",
+          "original_title": "João, o Maestro",
+          "release_date": "2017-08-17",
+          "poster_path": "/AoDIYvfFqZWI4MWP3M3VzOvnXyY.jpg",
+          "popularity": 0.8658
+        },
+        {
+          "id": 551395,
+          "title": "O Maestro",
+          "original_title": "The Maestro",
+          "release_date": "2018-12-08",
+          "poster_path": "/uH9T418GHQk12ESdvxHy3JZwdEv.jpg",
+          "popularity": 1.6315
+        },
+        {
+          "id": 67572,
+          "title": "Mickey, o Maestro",
+          "original_title": "The Band Concert",
+          "release_date": "1935-02-23",
+          "poster_path": "/AfEZMPlonj7M4OcxgjVhW4OUilr.jpg",
+          "popularity": 2.4346
+        },
+        {
+          "id": 633997,
+          "title": "Erlon Chaves: O Maestro do Veneno",
+          "original_title": "Erlon Chaves: O Maestro do Veneno",
+          "release_date": "2018-11-20",
+          "poster_path": "/oPNbQRoY065nU3R9prnVO1NE904.jpg",
+          "popularity": 1.3348
+        },
+        {
+          "id": 95269,
+          "title": "O Maestro",
+          "original_title": "Dyrygent",
+          "release_date": "1980-02-27",
+          "poster_path": "/5HArseDNgLicwmq5V2YmnCWE5eo.jpg",
+          "popularity": 1.1632
+        },
+        {
+          "id": 320704,
+          "title": "Sabotage: Maestro do Canão",
+          "original_title": "Sabotage: Maestro do Canão",
+          "release_date": "2015-01-23",
+          "poster_path": "/7nL89AePBpPYdlmbQhmIrd2xzAz.jpg",
+          "popularity": 1.2203
+        },
+        {
+          "id": 1069200,
+          "title": "O professor",
+          "original_title": "المعلم",
+          "release_date": "2026-01-15",
+          "poster_path": "/poc85VCujrBbE8VndLCUKYVMp7S.jpg",
+          "popularity": 2.9282
+        },
+        {
+          "id": 586353,
+          "title": "O Mestre e a Margarida",
+          "original_title": "Мастер и Маргарита",
+          "release_date": "2024-01-25",
+          "poster_path": "/9ZubjDI5Z3om36eCI20OAUbaamn.jpg",
+          "popularity": 15.0999
+        },
+        {
+          "id": 980431,
+          "title": "Avatar Aang: O Último Mestre do Ar",
+          "original_title": "Avatar Aang: The Last Airbender",
+          "release_date": "2026-07-25",
+          "poster_path": "/tiUtJXN4OZaK2PQM0q8mbbBgKS4.jpg",
+          "popularity": 76.5399
+        },
+        {
+          "id": 297362,
+          "title": "O Melhor Professor",
+          "original_title": "Teacher of the Year",
+          "release_date": "2015-05-19",
+          "poster_path": "/mslmtORArwwfbTtwiAAmP9bFe8x.jpg",
+          "popularity": 1.8519
+        },
+        {
+          "id": 38181,
+          "title": "吴清源",
+          "original_title": "吴清源",
+          "release_date": "2007-05-24",
+          "poster_path": "/2nStNI7Ke625kfBuD8QN5Tuh5Mj.jpg",
+          "popularity": 1.237
+        },
+        {
+          "id": 1036561,
+          "title": "O Mestre das Sombras",
+          "original_title": "Shadow Master",
+          "release_date": "2022-11-03",
+          "poster_path": "/yFQ3mmGtZsNluNwfbh8i35b8up.jpg",
+          "popularity": 3.1711
+        },
+        {
+          "id": 1379266,
+          "title": "Kokuho: O Preço da Perfeição",
+          "original_title": "国宝",
+          "release_date": "2026-03-05",
+          "poster_path": "/vXGU5Wu6RCbmuVglUODeOEOKTgl.jpg",
+          "popularity": 5.9704
+        },
+        {
+          "id": 339692,
+          "title": "Sem Perdão",
+          "original_title": "Shot Caller",
+          "release_date": "2017-08-24",
+          "poster_path": "/pxsM4bO0947S9o0s9YGPtc4cRVl.jpg",
+          "popularity": 10.5645
+        },
+        {
+          "id": 1077782,
+          "title": "O Mestre do Crime",
+          "original_title": "Old Guy",
+          "release_date": "2025-05-18",
+          "poster_path": "/mkxECqhal1sRGHIWzKoJyHfGiOK.jpg",
+          "popularity": 6.7273
+        },
+        {
+          "id": 44865,
+          "title": "O Grande Mestre",
+          "original_title": "一代宗師",
+          "release_date": "2013-01-10",
+          "poster_path": "/v3pXEOIw5WCEyCLMnYIUVtI5yw9.jpg",
+          "popularity": 7.732
+        },
+        {
+          "id": 462503,
+          "title": "O Melhor Professor da Minha Vida",
+          "original_title": "Les Grands Esprits",
+          "release_date": "2017-10-05",
+          "poster_path": "/l6yuXx4tE6KvKqxKxT21ykSQuUw.jpg",
+          "popularity": 1.873
+        },
+        {
+          "id": 12207,
+          "title": "O Mestre Invencível 2",
+          "original_title": "醉拳二",
+          "release_date": "1995-07-28",
+          "poster_path": "/qulmHB3QSX2qvbAaQ8wwUdJqyHV.jpg",
+          "popularity": 9.0566
+        },
+        {
+          "id": 367206,
+          "title": "O Mestre da Espada",
+          "original_title": "三少爷的剑",
+          "release_date": "2016-12-02",
+          "poster_path": "/gjPKT1v2OVwF8ZzMF4PkxX8z6vo.jpg",
+          "popularity": 4.1161
+        }
+      ]
+    },
+    "/movie/551395?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 551395,
+      "title": "O Maestro",
+      "original_title": "The Maestro",
+      "release_date": "2018-12-08",
+      "poster_path": "/uH9T418GHQk12ESdvxHy3JZwdEv.jpg",
+      "popularity": 1.6315,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Adam Cushman"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt5985672"
+      },
+      "earliest_release_year": 2018
+    },
+    "/movie/95269?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 95269,
+      "title": "O Maestro",
+      "original_title": "Dyrygent",
+      "release_date": "1980-02-27",
+      "poster_path": "/5HArseDNgLicwmq5V2YmnCWE5eo.jpg",
+      "popularity": 1.1632,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Andrzej Wajda"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0079090"
+      },
+      "earliest_release_year": 1980
+    },
+    "/movie/466870?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 466870,
+      "title": "João, o Maestro",
+      "original_title": "João, o Maestro",
+      "release_date": "2017-08-17",
+      "poster_path": "/AoDIYvfFqZWI4MWP3M3VzOvnXyY.jpg",
+      "popularity": 0.8658,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Mauro Lima"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt6103618"
+      },
+      "earliest_release_year": 2017
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=A floresta da nuvem rosa: Olga e Cotoco&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Duna&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 10,
+      "total_results": 189,
+      "results": [
+        {
+          "id": 438631,
+          "title": "Duna",
+          "original_title": "Dune",
+          "release_date": "2021-10-21",
+          "poster_path": "/uzERcfV2rSHNhW5eViQiO9hNiA7.jpg",
+          "popularity": 37.2559
+        },
+        {
+          "id": 693134,
+          "title": "Duna: Parte Dois",
+          "original_title": "Dune: Part Two",
+          "release_date": "2024-02-29",
+          "poster_path": "/VMy4UGsI2u3f4fALGeCqCdsQBb.jpg",
+          "popularity": 61.4206
+        },
+        {
+          "id": 841,
+          "title": "Duna",
+          "original_title": "Dune",
+          "release_date": "1984-12-14",
+          "poster_path": "/jNudhkxXRHkug5nzOVTYCQt2Tf9.jpg",
+          "popularity": 16.3689
+        },
+        {
+          "id": 1170608,
+          "title": "Duna: Parte Três",
+          "original_title": "Dune: Part Three",
+          "release_date": "2026-12-17",
+          "poster_path": "/s6EYTdJpvYYSC7IyC7GpLuTxlak.jpg",
+          "popularity": 22.3058
+        },
+        {
+          "id": 1464568,
+          "title": "Duna",
+          "original_title": "Duna",
+          "release_date": "2021-05-25",
+          "poster_path": "/iKdPQUYQ6cElMGzGZTnc3mXEd6H.jpg",
+          "popularity": 1.4812
+        },
+        {
+          "id": 783658,
+          "title": "Duna",
+          "original_title": "Duna",
+          "release_date": "2018-09-09",
+          "poster_path": "/7PQdUB1KDxMxdw7KBdFFgI9kJPv.jpg",
+          "popularity": 1.1266
+        },
+        {
+          "id": 881460,
+          "title": "Planeta Duna",
+          "original_title": "Planet Dune",
+          "release_date": "2021-10-29",
+          "poster_path": "/7MRtUoNmVvwE5NNOFo5YdRTPIx3.jpg",
+          "popularity": 3.0449
+        },
+        {
+          "id": 191720,
+          "title": "Duna de Jodorowsky",
+          "original_title": "Jodorowsky's Dune",
+          "release_date": "2013-08-30",
+          "poster_path": "/rr0hc1CGxaMhrlLz1F8XgmJDIsW.jpg",
+          "popularity": 3.4415
+        },
+        {
+          "id": 1283373,
+          "title": "Duna Atacama",
+          "original_title": "Duna Atacama",
+          "release_date": "2024-04-30",
+          "poster_path": "/we2DH0DpeLqp0VfPelI8lDrPVXj.jpg",
+          "popularity": 0.91
+        },
+        {
+          "id": 1274770,
+          "title": "La Duna",
+          "original_title": "La Duna",
+          "release_date": "2025-03-23",
+          "poster_path": "/ssOSQT4hc651eegZDGvA4iinBx4.jpg",
+          "popularity": 0.4449
+        },
+        {
+          "id": 1230351,
+          "title": "The Duna Bull",
+          "original_title": "The Duna Bull",
+          "release_date": "1972-01-01",
+          "poster_path": null,
+          "popularity": 0.7465
+        },
+        {
+          "id": 482292,
+          "title": "Donau, Duna, Dunaj, Dunav, Dunarea",
+          "original_title": "Donau, Duna, Dunaj, Dunav, Dunarea",
+          "release_date": "2003-10-27",
+          "poster_path": "/eNPkT92y3LDqK7Z5jSMqI8YXfoe.jpg",
+          "popularity": 1.1248
+        },
+        {
+          "id": 197504,
+          "title": "Kék Duna keringö",
+          "original_title": "Kék Duna keringö",
+          "release_date": "1992-05-30",
+          "poster_path": "/ajwfm6F8MPoT5bwaJ18e3H2Lca7.jpg",
+          "popularity": 0.8967
+        },
+        {
+          "id": 1703502,
+          "title": "Atrapadas en la duna",
+          "original_title": "Atrapadas en la duna",
+          "release_date": "2022-01-01",
+          "poster_path": "/soTUY9CeBLrwcjJUfWY6oZLAroG.jpg",
+          "popularity": 0.4554
+        },
+        {
+          "id": 109691,
+          "title": "Crònica d'una campanya",
+          "original_title": "Crònica d'una campanya",
+          "release_date": "2012-04-12",
+          "poster_path": "/dpwhsL6JBXDP5rpLUiQrLhsQyAj.jpg",
+          "popularity": 1.8287
+        },
+        {
+          "id": 1404664,
+          "title": "Anatomia d'una Barbeta",
+          "original_title": "Anatomia d'una Barbeta",
+          "release_date": "",
+          "poster_path": "/8ecc1cSqrpceSQebQz6a8izQXAC.jpg",
+          "popularity": 0.6101
+        },
+        {
+          "id": 319336,
+          "title": "Toti Soler, d'una manera silenciosa",
+          "original_title": "Toti Soler, d'una manera silenciosa",
+          "release_date": "2013-10-28",
+          "poster_path": null,
+          "popularity": 1.1239
+        },
+        {
+          "id": 1124879,
+          "title": "D’una matinada",
+          "original_title": "D’una matinada",
+          "release_date": "1972-01-01",
+          "poster_path": "/ktY2h7aOLVi8P6lpeph010sgR0S.jpg",
+          "popularity": 0.515
+        },
+        {
+          "id": 1189293,
+          "title": "La Mecànica D'una Vida",
+          "original_title": "La Mecànica D'una Vida",
+          "release_date": "",
+          "poster_path": "/ajYVSMPjg1NKoXEsRdRZIVnZkiX.jpg",
+          "popularity": 0.9665
+        },
+        {
+          "id": 1219479,
+          "title": "Escenes d’una orgia a Formentera",
+          "original_title": "Escenes d’una orgia a Formentera",
+          "release_date": "1996-07-26",
+          "poster_path": "/2WOvBnxcHO6RtKSxr3WLu6I1nW.jpg",
+          "popularity": 1.1183
+        }
+      ]
+    },
+    "/movie/438631?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 438631,
+      "title": "Duna",
+      "original_title": "Dune",
+      "release_date": "2021-09-15",
+      "poster_path": "/uzERcfV2rSHNhW5eViQiO9hNiA7.jpg",
+      "popularity": 37.2559,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Denis Villeneuve"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt1160419"
+      },
+      "earliest_release_year": 2021
+    },
+    "/movie/1464568?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1464568,
+      "title": "Duna",
+      "original_title": "Duna",
+      "release_date": "2021-05-25",
+      "poster_path": "/iKdPQUYQ6cElMGzGZTnc3mXEd6H.jpg",
+      "popularity": 1.4812,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Dany Campos"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt13624526"
+      },
+      "earliest_release_year": 2021
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Mytikah - O livro dos heróis - Violeta Parra&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=A casa de Dalva&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1752856,
+          "title": "A Casa de Dalva",
+          "original_title": "A Casa de Dalva",
+          "release_date": "",
+          "poster_path": null,
+          "popularity": 0.4907
+        }
+      ]
+    },
+    "/movie/1752856?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1752856,
+      "title": "A Casa de Dalva",
+      "original_title": "A Casa de Dalva",
+      "release_date": "",
+      "poster_path": null,
+      "popularity": 0.4907,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Eduarda Gurgel"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": null
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=SK8THE: Teresina e o skate&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1792075,
+          "title": "Sk8the: Teresina e o skate",
+          "original_title": "Sk8the: Teresina e o skate",
+          "release_date": "2025-01-01",
+          "poster_path": null,
+          "popularity": 0.2601
+        }
+      ]
+    },
+    "/movie/1792075?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1792075,
+      "title": "Sk8the: Teresina e o skate",
+      "original_title": "Sk8the: Teresina e o skate",
+      "release_date": "2025-01-01",
+      "poster_path": null,
+      "popularity": 0.2601,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Mariana Medeiros"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2025
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=A escola de ensino fenomenal II&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=A festa&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 8,
+      "total_results": 152,
+      "results": [
+        {
+          "id": 354912,
+          "title": "Viva: A Vida é Uma Festa",
+          "original_title": "Coco",
+          "release_date": "2018-01-04",
+          "poster_path": "/6oNm06TPz2vGiPc2I52oXW3JwPS.jpg",
+          "popularity": 64.0136
+        },
+        {
+          "id": 1445118,
+          "title": "A Festa",
+          "original_title": "A Festa",
+          "release_date": "1967-01-01",
+          "poster_path": null,
+          "popularity": 1.0754
+        },
+        {
+          "id": 262811,
+          "title": "A Festa",
+          "original_title": "A Festa",
+          "release_date": "1975-01-01",
+          "poster_path": null,
+          "popularity": 1.1096
+        },
+        {
+          "id": 1371253,
+          "title": "A Festa",
+          "original_title": "A Festa",
+          "release_date": "2024-10-18",
+          "poster_path": "/bQczsWQpTz5q3Js5aDPuVdlVp1Y.jpg",
+          "popularity": 0.9736
+        },
+        {
+          "id": 469720,
+          "title": "A Festa",
+          "original_title": "A Festa",
+          "release_date": "2008-01-01",
+          "poster_path": "/zq4cN7VQlJYxg5v2Mo0E3da92ER.jpg",
+          "popularity": 0.7495
+        },
+        {
+          "id": 415401,
+          "title": "A Festa",
+          "original_title": "The Party",
+          "release_date": "2018-07-26",
+          "poster_path": "/v2Y6X7RU6DoWzGBtC7RcNERdx8v.jpg",
+          "popularity": 3.425
+        },
+        {
+          "id": 611213,
+          "title": "A Festa de Formatura",
+          "original_title": "The Prom",
+          "release_date": "2020-12-02",
+          "poster_path": "/A5P45oHuKIuMD1YYtksPuJ7sveQ.jpg",
+          "popularity": 5.7768
+        },
+        {
+          "id": 1456647,
+          "title": "À Festa. À Guerra.",
+          "original_title": "À Festa. À Guerra.",
+          "release_date": "2015-01-01",
+          "poster_path": "/x2w2RAfcnkK4caRBFVohqJw0ofi.jpg",
+          "popularity": 1.2518
+        },
+        {
+          "id": 1014349,
+          "title": "Festa a Pamplona",
+          "original_title": "Festa a Pamplona",
+          "release_date": "1959-01-01",
+          "poster_path": null,
+          "popularity": 0.6139
+        },
+        {
+          "id": 1523307,
+          "title": "A Outra Festa",
+          "original_title": "A Outra Festa",
+          "release_date": "2022-04-16",
+          "poster_path": "/3OT1iqIUElFdTYI94LLszv320Y6.jpg",
+          "popularity": 0.7383
+        },
+        {
+          "id": 785457,
+          "title": "Esticando a Festa",
+          "original_title": "Afterlife of the Party",
+          "release_date": "2021-09-02",
+          "poster_path": "/ygKMsqCscAnRl0F8utCh23w5M2C.jpg",
+          "popularity": 3.4589
+        },
+        {
+          "id": 950480,
+          "title": "A Última Festa",
+          "original_title": "A Última Festa",
+          "release_date": "2023-01-26",
+          "poster_path": "/rjV0tmE0IGmuAXHK8jRbVUoRBkw.jpg",
+          "popularity": 1.2421
+        },
+        {
+          "id": 1578017,
+          "title": "A Festa Surpresa",
+          "original_title": "A Festa Surpresa",
+          "release_date": "2024-08-13",
+          "poster_path": "/dFyq8yha4TOWppNYdN4SYSaBPEY.jpg",
+          "popularity": 0.51
+        },
+        {
+          "id": 439680,
+          "title": "Abalou Bangu 2 - A Festa",
+          "original_title": "Abalou Bangu 2 - A Festa",
+          "release_date": "2017-02-05",
+          "poster_path": null,
+          "popularity": 1.0238
+        },
+        {
+          "id": 26673,
+          "title": "A Festa",
+          "original_title": "Frat Party",
+          "release_date": "2009-12-01",
+          "poster_path": "/qNDHPwVi1Rf6E7F5vdjmTt9iPLb.jpg",
+          "popularity": 1.9867
+        },
+        {
+          "id": 696210,
+          "title": "A Festa dos Seus Sonhos",
+          "original_title": "Rouge - A Festa dos Seus Sonhos",
+          "release_date": "2003-12-03",
+          "poster_path": "/6adAwflgcnu6CAT8znXFCKpFAzt.jpg",
+          "popularity": 1.0552
+        },
+        {
+          "id": 8925,
+          "title": "A Festa da Menina Morta",
+          "original_title": "A Festa da Menina Morta",
+          "release_date": "2009-06-12",
+          "poster_path": "/2PWfoFg4pX8bMG8W5dIOzwZ2bsz.jpg",
+          "popularity": 1.3506
+        },
+        {
+          "id": 2750,
+          "title": "A Festa Nunca Termina",
+          "original_title": "24 Hour Party People",
+          "release_date": "2003-06-06",
+          "poster_path": "/8f50NQ1wz6hdxfCISCPV8XQ6DII.jpg",
+          "popularity": 4.3466
+        },
+        {
+          "id": 1008795,
+          "title": "A Festa de Léo",
+          "original_title": "A Festa de Léo",
+          "release_date": "2024-05-23",
+          "poster_path": "/M9mKw9YVssnrf04tOj67UPDYBQ.jpg",
+          "popularity": 1.1131
+        },
+        {
+          "id": 12309,
+          "title": "A Última Festa de Solteiro",
+          "original_title": "Bachelor Party",
+          "release_date": "1984-06-29",
+          "poster_path": "/1Q6C5GJMcOmzP9ACfZSxjM07SJU.jpg",
+          "popularity": 6.9646
+        }
+      ]
+    },
+    "/movie/26673?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 26673,
+      "title": "A Festa",
+      "original_title": "Frat Party",
+      "release_date": "2009-12-01",
+      "poster_path": "/qNDHPwVi1Rf6E7F5vdjmTt9iPLb.jpg",
+      "popularity": 1.9867,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Robert Bennett"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt1414361"
+      },
+      "earliest_release_year": 2009
+    },
+    "/movie/262811?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 262811,
+      "title": "A Festa",
+      "original_title": "A Festa",
+      "release_date": "1975-01-01",
+      "poster_path": null,
+      "popularity": 1.1096,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "António Campos"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0072981"
+      },
+      "earliest_release_year": 1975
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=A menina que sorria a dormir&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=A morte que passe amanhã&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Átomo&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 9,
+      "results": [
+        {
+          "id": 528570,
+          "title": "O Átomo Brincalhão",
+          "original_title": "O Átomo Brincalhão",
+          "release_date": "1961-01-01",
+          "poster_path": "/3BSwKsbT4LQdhS1jOQo7Gh5J9df.jpg",
+          "popularity": 0.6488
+        },
+        {
+          "id": 1037080,
+          "title": "Amo cada átomo de tu cuerpo",
+          "original_title": "Amo cada átomo de tu cuerpo",
+          "release_date": "2022-11-07",
+          "poster_path": "/e7OIcFmnFEiv78lRCx5dea793Rq.jpg",
+          "popularity": 0.5039
+        },
+        {
+          "id": 106358,
+          "title": "Superman vs. Homem-Átomo",
+          "original_title": "Atom Man vs. Superman",
+          "release_date": "1950-07-20",
+          "poster_path": "/ujs17umEBEhhBONTBF5OXJ3h3Pc.jpg",
+          "popularity": 1.7279
+        },
+        {
+          "id": 928560,
+          "title": "Un Átomo en el Trono de la Creación",
+          "original_title": "Un Átomo en el Trono de la Creación",
+          "release_date": "2022-04-12",
+          "poster_path": "/dtkVYhGNS4rigpu40VmRoNqriI6.jpg",
+          "popularity": 0.4461
+        },
+        {
+          "id": 198060,
+          "title": "Um Menino e Seu Átomo",
+          "original_title": "A Boy and His Atom",
+          "release_date": "2013-04-30",
+          "poster_path": "/ed11X9TOhg9NWZ7QjJ4uQjDchpm.jpg",
+          "popularity": 0.6826
+        },
+        {
+          "id": 1353765,
+          "title": "Atom & Void",
+          "original_title": "Atom & Void",
+          "release_date": "2024-10-15",
+          "poster_path": "/1843784cSMRaHibnGee8aFYFZhJ.jpg",
+          "popularity": 0.7815
+        },
+        {
+          "id": 342016,
+          "title": "Our Friend the Atom",
+          "original_title": "Our Friend the Atom",
+          "release_date": "1957-01-23",
+          "poster_path": "/j9Eqq4s9qSzS9hGZOrWo83AffNy.jpg",
+          "popularity": 1.4623
+        },
+        {
+          "id": 639976,
+          "title": "The Atom: A Love Affair",
+          "original_title": "The Atom: A Love Affair",
+          "release_date": "2019-10-31",
+          "poster_path": "/j2Izvb6ipmgvQIGAW67uq5IabDG.jpg",
+          "popularity": 1.0176
+        },
+        {
+          "id": 726349,
+          "title": "Notre ami l'atome  : un siècle de radioactivité",
+          "original_title": "Notre ami l'atome  : un siècle de radioactivité",
+          "release_date": "2020-12-05",
+          "poster_path": "/muZLwSE7QnQYeyRCQYB54GH6ZhS.jpg",
+          "popularity": 1.3873
+        }
+      ]
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Cataventus&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1794778,
+          "title": "Cataventus",
+          "original_title": "Cataventus",
+          "release_date": "",
+          "poster_path": "/2IShewzJxcXSA4CBzjTcnLLBgOl.jpg",
+          "popularity": 0
+        }
+      ]
+    },
+    "/movie/1794778?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1794778,
+      "title": "Cataventus",
+      "original_title": "Cataventus",
+      "release_date": "",
+      "poster_path": "/2IShewzJxcXSA4CBzjTcnLLBgOl.jpg",
+      "popularity": 0,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Sérgio Azevedo"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": null
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Cathi e os elefantes&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1777548,
+          "title": "Cathi e Os Elefantes",
+          "original_title": "Cathi e Os Elefantes",
+          "release_date": "2026-08-21",
+          "poster_path": "/6gsrsUKcQOqq6ZWs7PqndtuYiVg.jpg",
+          "popularity": 2.1303
+        }
+      ]
+    },
+    "/movie/1777548?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1777548,
+      "title": "Cathi e Os Elefantes",
+      "original_title": "Cathi e Os Elefantes",
+      "release_date": "2026-08-21",
+      "poster_path": "/6gsrsUKcQOqq6ZWs7PqndtuYiVg.jpg",
+      "popularity": 2.1303,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Caio Dornelas"
+          },
+          {
+            "job": "Director",
+            "name": "Morena Dornelas"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2026
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Kagpó-Jó A Origem&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Menina de asas&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1784132,
+          "title": "Menina de Asas",
+          "original_title": "Menina de Asas",
+          "release_date": "",
+          "poster_path": "/96VuG4o673sS6nZTfVOxTlFOatZ.jpg",
+          "popularity": 0.9884
+        }
+      ]
+    },
+    "/movie/1784132?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1784132,
+      "title": "Menina de Asas",
+      "original_title": "Menina de Asas",
+      "release_date": "",
+      "poster_path": "/96VuG4o673sS6nZTfVOxTlFOatZ.jpg",
+      "popularity": 0.9884,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Luciana Druzina"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": null
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Minha cabeça é um brinquedo&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Além-mar&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 12,
+      "results": [
+        {
+          "id": 1600316,
+          "title": "Além-mar",
+          "original_title": "Além-mar",
+          "release_date": "2026-10-09",
+          "poster_path": "/tN6w9QVUntzvclHtZxMlvcAyYtQ.jpg",
+          "popularity": 1.5756
+        },
+        {
+          "id": 1163371,
+          "title": "Preciso Falar do Futuro Além Mar",
+          "original_title": "Preciso Falar do Futuro Além Mar",
+          "release_date": "2023-07-27",
+          "poster_path": "/qrxkfUsSz0xRfFfsJquBvnPsJSC.jpg",
+          "popularity": 0.8528
+        },
+        {
+          "id": 988078,
+          "title": "Através da Minha Janela: Além-mar",
+          "original_title": "A través del mar",
+          "release_date": "2023-06-23",
+          "poster_path": "/252wEUZ6lr4a5sF7DUzRRH3iGEO.jpg",
+          "popularity": 8.0182
+        },
+        {
+          "id": 1737191,
+          "title": "Cordões e Sinos de Além-Mar",
+          "original_title": "Cordões e Sinos de Além-Mar",
+          "release_date": "",
+          "poster_path": "/kVObYJRIfT1bNxtq5Dfc9VdL3Iu.jpg",
+          "popularity": 0.6115
+        },
+        {
+          "id": 1432006,
+          "title": "Mariana - Além das Cartas e Tarô",
+          "original_title": "Mariana - Além das Cartas e Tarô",
+          "release_date": "2025-03-30",
+          "poster_path": "/vxu3hMO2GJI8ztCVsVjADrK9f9y.jpg",
+          "popularity": 0.5919
+        },
+        {
+          "id": 381027,
+          "title": "Espaço Além - Marina Abramović e o Brasil",
+          "original_title": "Espaço Além - Marina Abramović e o Brasil",
+          "release_date": "2016-05-19",
+          "poster_path": "/4X4qEfJxCJ1h6Dvq2udoeTiy0it.jpg",
+          "popularity": 1.7727
+        },
+        {
+          "id": 1302075,
+          "title": "Ma'e Ikwaw Paw: Além das margens",
+          "original_title": "Ma'e Ikwaw Paw: Além das margens",
+          "release_date": "",
+          "poster_path": "/jxQLpgnsy66Pj4FwwllkXcnoUOs.jpg",
+          "popularity": 0.4197
+        },
+        {
+          "id": 768376,
+          "title": "Campo de Matança: Assassinato Além da Trincheira",
+          "original_title": "Once a Marine",
+          "release_date": "2020-11-11",
+          "poster_path": "/rD9YFTn0GJkluZfkWk3awDGCLgj.jpg",
+          "popularity": 0.6046
+        },
+        {
+          "id": 616803,
+          "title": "Além das Profundezas",
+          "original_title": "Breaking Surface",
+          "release_date": "2021-05-05",
+          "poster_path": "/moC7rQG3AQ1sGR1gJUEQydE3N3g.jpg",
+          "popularity": 3.8118
+        },
+        {
+          "id": 560491,
+          "title": "Exterminadores do Além Contra a Loira do Banheiro",
+          "original_title": "Exterminadores do Além Contra a Loira do Banheiro",
+          "release_date": "2018-11-29",
+          "poster_path": "/nLsVyAJuFZPlQQPaC3LFpK750k1.jpg",
+          "popularity": 2.342
+        },
+        {
+          "id": 13934,
+          "title": "Mate e a Luz Fantasma",
+          "original_title": "Mater and the Ghostlight",
+          "release_date": "2006-07-27",
+          "poster_path": "/yUg5cqfprente6tla6zrp2cioYz.jpg",
+          "popularity": 6.0377
+        },
+        {
+          "id": 983883,
+          "title": "Um Romance do Além",
+          "original_title": "關於我和鬼變成家人的那件事",
+          "release_date": "2023-02-10",
+          "poster_path": "/aqbHiqyusCA3UzEBcRk2qIXwxgL.jpg",
+          "popularity": 3.2582
+        }
+      ]
+    },
+    "/movie/1600316?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1600316,
+      "title": "Além-mar",
+      "original_title": "Além-mar",
+      "release_date": "2026-10-09",
+      "poster_path": "/tN6w9QVUntzvclHtZxMlvcAyYtQ.jpg",
+      "popularity": 1.5756,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Cristina Neves"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2026
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Boi romeiro&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1792061,
+          "title": "Boi Romeiro",
+          "original_title": "Boi Romeiro",
+          "release_date": "2025-01-01",
+          "poster_path": null,
+          "popularity": 0.2989
+        }
+      ]
+    },
+    "/movie/1792061?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1792061,
+      "title": "Boi Romeiro",
+      "original_title": "Boi Romeiro",
+      "release_date": "2025-01-01",
+      "poster_path": null,
+      "popularity": 0.2989,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Milena Rocha"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2025
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Eu sou como eu sou&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 3,
+      "results": [
+        {
+          "id": 1792066,
+          "title": "Eu sou como eu sou",
+          "original_title": "Eu sou como eu sou",
+          "release_date": "2025-01-01",
+          "poster_path": null,
+          "popularity": 0.2434
+        },
+        {
+          "id": 504062,
+          "title": "Se Sabem Como Eu Sou, Por Que Me Convidam?",
+          "original_title": "Si saben cómo me pongo ¿Pa' qué me invitan?",
+          "release_date": "2018-01-04",
+          "poster_path": "/txY8qhRvbws3UCY5E29EG4akncg.jpg",
+          "popularity": 1.1989
+        },
+        {
+          "id": 998771,
+          "title": "Se Sabem Como Eu Sou, Por Que Me Convidam? 2",
+          "original_title": "Si saben cómo me pongo ¿Pa' qué me invitan? 2",
+          "release_date": "2024-10-17",
+          "poster_path": "/bFRxPAiyA7dhTLrEcitAjLL02BJ.jpg",
+          "popularity": 1.0158
+        }
+      ]
+    },
+    "/movie/1792066?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1792066,
+      "title": "Eu sou como eu sou",
+      "original_title": "Eu sou como eu sou",
+      "release_date": "2025-01-01",
+      "poster_path": null,
+      "popularity": 0.2434,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Márcio Bigly"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2025
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Ecos do compasso&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1491628,
+          "title": "Ecos do Compasso",
+          "original_title": "Ecos do Compasso",
+          "release_date": "2025-01-01",
+          "poster_path": null,
+          "popularity": 0.4862
+        }
+      ]
+    },
+    "/movie/1491628?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1491628,
+      "title": "Ecos do Compasso",
+      "original_title": "Ecos do Compasso",
+      "release_date": "2025-01-01",
+      "poster_path": null,
+      "popularity": 0.4862,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Weslley Oliveira"
+          },
+          {
+            "job": "Director",
+            "name": "Milena Rocha"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2025
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Nina&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 24,
+      "total_results": 480,
+      "results": [
+        {
+          "id": 483435,
+          "title": "Nina: No Palco e Na Vida",
+          "original_title": "All About Nina",
+          "release_date": "2018-09-28",
+          "poster_path": "/lMM8ZKphFD57IuF6k6CeX8lVJkR.jpg",
+          "popularity": 4.8619
+        },
+        {
+          "id": 1180161,
+          "title": "Nina",
+          "original_title": "Nina",
+          "release_date": "2019-03-05",
+          "poster_path": "/ijVYQo68QAjaKDLGvQPX4ScmbLX.jpg",
+          "popularity": 2.1322
+        },
+        {
+          "id": 1644454,
+          "title": "Nina",
+          "original_title": "Nina",
+          "release_date": "1989-01-01",
+          "poster_path": "/hd865q1KeT0gp9dmMV1KlKKu3TZ.jpg",
+          "popularity": 2.7958
+        },
+        {
+          "id": 1244872,
+          "title": "A Vingança de Nina",
+          "original_title": "Nina",
+          "release_date": "2024-05-10",
+          "poster_path": "/lUK3NL7Eb685dsvjIboxlm6FCkN.jpg",
+          "popularity": 1.8563
+        },
+        {
+          "id": 360389,
+          "title": "Nina",
+          "original_title": "Nina",
+          "release_date": "2016-04-22",
+          "poster_path": "/bgu5NoLBb8Pf84qKiVqK54BsRrr.jpg",
+          "popularity": 2.0087
+        },
+        {
+          "id": 496915,
+          "title": "Nina",
+          "original_title": "Nina",
+          "release_date": "2018-10-05",
+          "poster_path": "/q1mOO9YnRG3Sp8n56hAmn75MmMs.jpg",
+          "popularity": 2.1929
+        },
+        {
+          "id": 1527449,
+          "title": "Nina Roza",
+          "original_title": "Nina Roza",
+          "release_date": "2026-04-24",
+          "poster_path": "/wnQXp1CJhBDhY2ZyNQdswls3FMD.jpg",
+          "popularity": 3.1731
+        },
+        {
+          "id": 1137041,
+          "title": "Nina",
+          "original_title": "Nina",
+          "release_date": "2023-05-30",
+          "poster_path": "/5Xor0bnf1nUqMw4KGPz7Ng44DQz.jpg",
+          "popularity": 1.7938
+        },
+        {
+          "id": 560709,
+          "title": "Niña errante",
+          "original_title": "Niña errante",
+          "release_date": "2018-11-25",
+          "poster_path": "/refUc2J81fjutiUEz7q1XAWbdIf.jpg",
+          "popularity": 3.0178
+        },
+        {
+          "id": 1526942,
+          "title": "Encontrando Nina",
+          "original_title": "Finding Nina",
+          "release_date": "2025-08-08",
+          "poster_path": "/6KXM3uVOGY49cdxoOeN20eZCe8l.jpg",
+          "popularity": 2.1949
+        },
+        {
+          "id": 656157,
+          "title": "Nina",
+          "original_title": "Nina",
+          "release_date": "2014-10-09",
+          "poster_path": "/2tpEHI6sX3IVlkDTLh7WmQP24am.jpg",
+          "popularity": 1.9118
+        },
+        {
+          "id": 323694,
+          "title": "Nina Para Sempre",
+          "original_title": "Nina Forever",
+          "release_date": "2016-01-19",
+          "poster_path": "/jiEXXGnNMLRmlvmchDZkPNdbhXD.jpg",
+          "popularity": 1.7432
+        },
+        {
+          "id": 33636,
+          "title": "Nina",
+          "original_title": "Nina",
+          "release_date": "2004-01-28",
+          "poster_path": "/jpfErsnEzCOY5kjss5VuV8oB1yA.jpg",
+          "popularity": 1.5584
+        },
+        {
+          "id": 158703,
+          "title": "Nina em Roma",
+          "original_title": "Nina",
+          "release_date": "2012-10-23",
+          "poster_path": "/ry1Fn1zwWVtjjNHY85tmShQEs7v.jpg",
+          "popularity": 1.0169
+        },
+        {
+          "id": 1438843,
+          "title": "Nina",
+          "original_title": "Nina",
+          "release_date": "2025-04-08",
+          "poster_path": "/2oZxAhwff8H0RLEoYnSGjmmJAOg.jpg",
+          "popularity": 1.6616
+        },
+        {
+          "id": 1239956,
+          "title": "Nina",
+          "original_title": "Nina",
+          "release_date": "2015-01-01",
+          "poster_path": null,
+          "popularity": 1.6427
+        },
+        {
+          "id": 1167114,
+          "title": "Nina",
+          "original_title": "Nina",
+          "release_date": "2023-08-06",
+          "poster_path": "/epaMBrK3kvvbqpaqExgxOMop0E8.jpg",
+          "popularity": 1.3016
+        },
+        {
+          "id": 758154,
+          "title": "Nina",
+          "original_title": "Nina",
+          "release_date": "2010-03-30",
+          "poster_path": "/3X4zSe6TcEuOGAaItWi9F65kdCB.jpg",
+          "popularity": 1.7919
+        },
+        {
+          "id": 377639,
+          "title": "Nina",
+          "original_title": "Nina",
+          "release_date": "2015-09-13",
+          "poster_path": "/kmCEl5VYCsX0dz9F3h8vPJzDlGm.jpg",
+          "popularity": 1.4672
+        },
+        {
+          "id": 530544,
+          "title": "Nina",
+          "original_title": "Nina",
+          "release_date": "1956-09-21",
+          "poster_path": null,
+          "popularity": 1.377
+        }
+      ]
+    },
+    "/movie/1644454?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1644454,
+      "title": "Nina",
+      "original_title": "Nina",
+      "release_date": "1989-01-01",
+      "poster_path": "/hd865q1KeT0gp9dmMV1KlKKu3TZ.jpg",
+      "popularity": 2.7958,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Ángeles Sánchez"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0471281"
+      },
+      "earliest_release_year": 1989
+    },
+    "/movie/1180161?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1180161,
+      "title": "Nina",
+      "original_title": "Nina",
+      "release_date": "2019-03-05",
+      "poster_path": "/ijVYQo68QAjaKDLGvQPX4ScmbLX.jpg",
+      "popularity": 2.1322,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Leslie Rubiera"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt10446158"
+      },
+      "earliest_release_year": 2019
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Ybi&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 296268,
+          "title": "[Ybi-173]",
+          "original_title": "[Ybi-173]",
+          "release_date": "2004-10-05",
+          "poster_path": null,
+          "popularity": 1.1487
+        }
+      ]
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Zona XYZ&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1774433,
+          "title": "Zona XYZ",
+          "original_title": "Zona XYZ",
+          "release_date": "2026-09-24",
+          "poster_path": "/cJ5v1zCEMR2usfGpBmaYNS2utfq.jpg",
+          "popularity": 2.0019
+        }
+      ]
+    },
+    "/movie/1774433?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1774433,
+      "title": "Zona XYZ",
+      "original_title": "Zona XYZ",
+      "release_date": "2026-09-24",
+      "poster_path": "/cJ5v1zCEMR2usfGpBmaYNS2utfq.jpg",
+      "popularity": 2.0019,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Ricardo Manjaro"
+          },
+          {
+            "job": "Director",
+            "name": "Henrique Amud"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt46151678"
+      },
+      "earliest_release_year": 2026
     }
   }
 }
