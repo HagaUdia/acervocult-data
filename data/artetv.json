@@ -1,5 +1,889 @@
 [
   {
+    "id": "acervocult:artetv:1692196",
+    "source": "artetv",
+    "name": "Sommer auf Asphalt",
+    "year": 2026,
+    "director": "Simon Ostermann",
+    "type": "movie",
+    "imdb_id": "tt42170126",
+    "tmdb_id": 1692196,
+    "poster": "https://image.tmdb.org/t/p/w500/A47wCptAf4GRsDNaQ6Sf8CNu0Ug.jpg",
+    "source_url": "https://www.themoviedb.org/movie/1692196",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:1220831",
+    "source": "artetv",
+    "name": "Kundschafter des Friedens 2",
+    "year": 2025,
+    "director": "Robert Thalheim",
+    "type": "movie",
+    "imdb_id": "tt34986623",
+    "tmdb_id": 1220831,
+    "poster": "https://image.tmdb.org/t/p/w500/qTnPE9ISyOAuozrwZy4yV65jzs0.jpg",
+    "source_url": "https://www.themoviedb.org/movie/1220831",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:1181125",
+    "source": "artetv",
+    "name": "The Day Iceland Stood Still",
+    "year": 2025,
+    "director": "Pamela Hogan",
+    "type": "movie",
+    "imdb_id": "tt31937069",
+    "tmdb_id": 1181125,
+    "poster": "https://image.tmdb.org/t/p/w500/2335e2qPPBzsYAbjc8rWut0ad9R.jpg",
+    "source_url": "https://www.themoviedb.org/movie/1181125",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:1431750",
+    "source": "artetv",
+    "name": "TV oder Die Ruhestörung an der Waldbergstrasse",
+    "year": 2025,
+    "director": "Frederic Siegel",
+    "type": "movie",
+    "imdb_id": "tt35537722",
+    "tmdb_id": 1431750,
+    "poster": "https://image.tmdb.org/t/p/w500/1FrzXpUR7XkfXIU699G9DvVRaMv.jpg",
+    "source_url": "https://www.themoviedb.org/movie/1431750",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:1232781",
+    "source": "artetv",
+    "name": "Dying - a última sinfonia",
+    "year": 2024,
+    "director": "Matthias Glasner",
+    "type": "movie",
+    "imdb_id": "tt27165281",
+    "tmdb_id": 1232781,
+    "poster": "https://image.tmdb.org/t/p/w500/5kPtVFAJ1C9IhRqIe8QVFn05eSO.jpg",
+    "source_url": "https://www.themoviedb.org/movie/1232781",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:1118591",
+    "source": "artetv",
+    "name": "Il burattino e la balena",
+    "year": 2024,
+    "director": "Roberto Catani",
+    "type": "movie",
+    "imdb_id": "tt32897489",
+    "tmdb_id": 1118591,
+    "poster": "https://image.tmdb.org/t/p/w500/6cDEqDv76fOLbZ670le1zGAzObL.jpg",
+    "source_url": "https://www.themoviedb.org/movie/1118591",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:1274505",
+    "source": "artetv",
+    "name": "Melodies of Barking Dogs",
+    "year": 2024,
+    "director": "Daniel Huss",
+    "type": "movie",
+    "imdb_id": "tt34434460",
+    "tmdb_id": 1274505,
+    "poster": "https://image.tmdb.org/t/p/w500/bvCx2PscSJuKMC9t02C4YrbWsCY.jpg",
+    "source_url": "https://www.themoviedb.org/movie/1274505",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:1214118",
+    "source": "artetv",
+    "name": "Volveréis",
+    "year": 2024,
+    "director": "Jonás Trueba",
+    "type": "movie",
+    "imdb_id": "tt32128317",
+    "tmdb_id": 1214118,
+    "poster": "https://image.tmdb.org/t/p/w500/55RUudRn3yCZQffs80mOj41t5ls.jpg",
+    "source_url": "https://www.themoviedb.org/movie/1214118",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:1186617",
+    "source": "artetv",
+    "name": "Kathryn Bigelow: Hollywood sous adrénaline",
+    "year": 2023,
+    "director": "Michèle Dominici",
+    "type": "movie",
+    "imdb_id": "tt33972910",
+    "tmdb_id": 1186617,
+    "poster": "https://image.tmdb.org/t/p/w500/sXavCMreT7uy4Lc7KSfUoh58tUk.jpg",
+    "source_url": "https://www.themoviedb.org/movie/1186617",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:970578",
+    "source": "artetv",
+    "name": "Արշալույսի լուսաբացը",
+    "year": 2023,
+    "director": "Inna Sahakyan",
+    "type": "movie",
+    "imdb_id": "tt20873160",
+    "tmdb_id": 970578,
+    "poster": "https://image.tmdb.org/t/p/w500/659GOu8cLCAAOU06VSFkAT3CmRN.jpg",
+    "source_url": "https://www.themoviedb.org/movie/970578",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:881687",
+    "source": "artetv",
+    "name": "Alles in bester Ordnung",
+    "year": 2022,
+    "director": "Natja Brunckhorst",
+    "type": "movie",
+    "imdb_id": "tt15444460",
+    "tmdb_id": 881687,
+    "poster": "https://image.tmdb.org/t/p/w500/ayLWtnKZ6Yyla7XLxXNo3K7JYqS.jpg",
+    "source_url": "https://www.themoviedb.org/movie/881687",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:840576",
+    "source": "artetv",
+    "name": "O Roubo do Quadrado Negro",
+    "year": 2021,
+    "director": "Peter Meister",
+    "type": "movie",
+    "imdb_id": "tt11938416",
+    "tmdb_id": 840576,
+    "poster": "https://image.tmdb.org/t/p/w500/xK5UOTEDB0Jlhz0dvMRjB1qhAFS.jpg",
+    "source_url": "https://www.themoviedb.org/movie/840576",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:789525",
+    "source": "artetv",
+    "name": "Belmondo l'influenceur",
+    "year": 2020,
+    "director": "Jeff Domenech",
+    "type": "movie",
+    "imdb_id": "tt13262556",
+    "tmdb_id": 789525,
+    "poster": "https://image.tmdb.org/t/p/w500/y5Y39oJmVk7VDdA2E3c1ZdoX3kC.jpg",
+    "source_url": "https://www.themoviedb.org/movie/789525",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:803756",
+    "source": "artetv",
+    "name": "Ein kleiner Schnitt",
+    "year": 2020,
+    "director": "Marleen Valien",
+    "type": "movie",
+    "imdb_id": "tt14496834",
+    "tmdb_id": 803756,
+    "poster": "https://image.tmdb.org/t/p/w500/fHpdh2hqu3OhIQ3NCj5J9L1549Z.jpg",
+    "source_url": "https://www.themoviedb.org/movie/803756",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:679008",
+    "source": "artetv",
+    "name": "Sans plomb",
+    "year": 2019,
+    "director": "Louise Groult",
+    "type": "movie",
+    "imdb_id": "tt11396192",
+    "tmdb_id": 679008,
+    "poster": null,
+    "source_url": "https://www.themoviedb.org/movie/679008",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": false,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:546249",
+    "source": "artetv",
+    "name": "Balentes",
+    "year": 2018,
+    "director": "Lisa Camillo",
+    "type": "movie",
+    "imdb_id": "tt5575886",
+    "tmdb_id": 546249,
+    "poster": "https://image.tmdb.org/t/p/w500/hSnF4mwQjl1IcdC9PF6c4PcbrWY.jpg",
+    "source_url": "https://www.themoviedb.org/movie/546249",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:598033",
+    "source": "artetv",
+    "name": "L'autre sur ma tête",
+    "year": 2018,
+    "director": "Julie Colly",
+    "type": "movie",
+    "imdb_id": "tt9061168",
+    "tmdb_id": 598033,
+    "poster": "https://image.tmdb.org/t/p/w500/6tX7Uf0AMNL4kPR68aLg6HRaMlf.jpg",
+    "source_url": "https://www.themoviedb.org/movie/598033",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:598031",
+    "source": "artetv",
+    "name": "Was bleibt",
+    "year": 2018,
+    "director": "Chiara Fleischhacker",
+    "type": "movie",
+    "imdb_id": "tt9234832",
+    "tmdb_id": 598031,
+    "poster": "https://image.tmdb.org/t/p/w500/gnipAWkvZOB5cOMXNfb7PdpmaNC.jpg",
+    "source_url": "https://www.themoviedb.org/movie/598031",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:440519",
+    "source": "artetv",
+    "name": "Die Lizenz",
+    "year": 2017,
+    "director": "Nora Fingscheidt",
+    "type": "movie",
+    "imdb_id": "tt7801198",
+    "tmdb_id": 440519,
+    "poster": "https://image.tmdb.org/t/p/w500/kJrlmKp1yDCrIou0Jg7f4Nbsukg.jpg",
+    "source_url": "https://www.themoviedb.org/movie/440519",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:376280",
+    "source": "artetv",
+    "name": "Kundschafter des Friedens",
+    "year": 2017,
+    "director": "Robert Thalheim",
+    "type": "movie",
+    "imdb_id": "tt5076054",
+    "tmdb_id": 376280,
+    "poster": "https://image.tmdb.org/t/p/w500/6F2ZqaQazVc4bhZ1XpfvYpLVFdA.jpg",
+    "source_url": "https://www.themoviedb.org/movie/376280",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:129670",
+    "source": "artetv",
+    "name": "Nebraska",
+    "year": 2013,
+    "director": "Alexander Payne",
+    "type": "movie",
+    "imdb_id": "tt1821549",
+    "tmdb_id": 129670,
+    "poster": "https://image.tmdb.org/t/p/w500/o1t2Mw18EEBnl8v4Nby3PFjxnM1.jpg",
+    "source_url": "https://www.themoviedb.org/movie/129670",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:97630",
+    "source": "artetv",
+    "name": "A Hora Mais Escura",
+    "year": 2012,
+    "director": "Kathryn Bigelow",
+    "type": "movie",
+    "imdb_id": "tt1790885",
+    "tmdb_id": 97630,
+    "poster": "https://image.tmdb.org/t/p/w500/fWpjkM77R5o4MV0nxO2cnywkCoJ.jpg",
+    "source_url": "https://www.themoviedb.org/movie/97630",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:124529",
+    "source": "artetv",
+    "name": "Gnade",
+    "year": 2012,
+    "director": "Matthias Glasner",
+    "type": "movie",
+    "imdb_id": "tt2179055",
+    "tmdb_id": 124529,
+    "poster": "https://image.tmdb.org/t/p/w500/rDlybV21PTVTZlYTm0hdWtOF0Y3.jpg",
+    "source_url": "https://www.themoviedb.org/movie/124529",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:11324",
+    "source": "artetv",
+    "name": "Ilha do Medo",
+    "year": 2010,
+    "director": "Martin Scorsese",
+    "type": "movie",
+    "imdb_id": "tt1130884",
+    "tmdb_id": 11324,
+    "poster": "https://image.tmdb.org/t/p/w500/erl801HYIodoIBGZeFk0GTwCUBh.jpg",
+    "source_url": "https://www.themoviedb.org/movie/11324",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:1653908",
+    "source": "artetv",
+    "name": "Accordez-moi",
+    "year": 2008,
+    "director": "Mikael Buch",
+    "type": "movie",
+    "imdb_id": "tt1300561",
+    "tmdb_id": 1653908,
+    "poster": "https://image.tmdb.org/t/p/w500/t56NSXdOgNpoGd0T1TlpOl5Kpi1.jpg",
+    "source_url": "https://www.themoviedb.org/movie/1653908",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:12797",
+    "source": "artetv",
+    "name": "Ghost Town - Um Espírito Atrás de Mim",
+    "year": 2008,
+    "director": "David Koepp",
+    "type": "movie",
+    "imdb_id": "tt0995039",
+    "tmdb_id": 12797,
+    "poster": "https://image.tmdb.org/t/p/w500/iQD3GbY0zrxF2AknxAj4fynmuvY.jpg",
+    "source_url": "https://www.themoviedb.org/movie/12797",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:49708",
+    "source": "artetv",
+    "name": "La Clef",
+    "year": 2007,
+    "director": "Guillaume Nicloux",
+    "type": "movie",
+    "imdb_id": "tt0920454",
+    "tmdb_id": 49708,
+    "poster": "https://image.tmdb.org/t/p/w500/18uwmEhy4CmrxlMfCAc85UqIyxw.jpg",
+    "source_url": "https://www.themoviedb.org/movie/49708",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:2270",
+    "source": "artetv",
+    "name": "Stardust: O Mistério da Estrela",
+    "year": 2007,
+    "director": "Matthew Vaughn",
+    "type": "movie",
+    "imdb_id": "tt0486655",
+    "tmdb_id": 2270,
+    "poster": "https://image.tmdb.org/t/p/w500/A4SVyLxB7WGzW8GGiKs3pizTUte.jpg",
+    "source_url": "https://www.themoviedb.org/movie/2270",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:34186",
+    "source": "artetv",
+    "name": "O Corte",
+    "year": 2005,
+    "director": "Costa-Gavras",
+    "type": "movie",
+    "imdb_id": "tt0422015",
+    "tmdb_id": 34186,
+    "poster": "https://image.tmdb.org/t/p/w500/pVQejupZ3aGNvPxZ4o6tdQVeyor.jpg",
+    "source_url": "https://www.themoviedb.org/movie/34186",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:36069",
+    "source": "artetv",
+    "name": "Cette femme-là",
+    "year": 2003,
+    "director": "Guillaume Nicloux",
+    "type": "movie",
+    "imdb_id": "tt0354448",
+    "tmdb_id": 36069,
+    "poster": "https://image.tmdb.org/t/p/w500/uyh6XGYkbZV13HoTTIeILqbmYlN.jpg",
+    "source_url": "https://www.themoviedb.org/movie/36069",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:7288",
+    "source": "artetv",
+    "name": "Duplex",
+    "year": 2003,
+    "director": "Danny DeVito",
+    "type": "movie",
+    "imdb_id": "tt0266489",
+    "tmdb_id": 7288,
+    "poster": "https://image.tmdb.org/t/p/w500/mCQ4oO9djqcthBRD3ftTnR8qSP7.jpg",
+    "source_url": "https://www.themoviedb.org/movie/7288",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:77873",
+    "source": "artetv",
+    "name": "Muito Perto do Paraíso",
+    "year": 2002,
+    "director": "Tonie Marshall",
+    "type": "movie",
+    "imdb_id": "tt0290435",
+    "tmdb_id": 77873,
+    "poster": "https://image.tmdb.org/t/p/w500/dqu0YCdUjBSVm8h0li44RsrPjQC.jpg",
+    "source_url": "https://www.themoviedb.org/movie/77873",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:64935",
+    "source": "artetv",
+    "name": "Une Affaire privée",
+    "year": 2002,
+    "director": "Guillaume Nicloux",
+    "type": "movie",
+    "imdb_id": "tt0288276",
+    "tmdb_id": 64935,
+    "poster": "https://image.tmdb.org/t/p/w500/1UKXqIfwhXgptOuEFqoMtNtZ3BZ.jpg",
+    "source_url": "https://www.themoviedb.org/movie/64935",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:575",
+    "source": "artetv",
+    "name": "A Experiência",
+    "year": 2001,
+    "director": "Oliver Hirschbiegel",
+    "type": "movie",
+    "imdb_id": "tt0250258",
+    "tmdb_id": 575,
+    "poster": "https://image.tmdb.org/t/p/w500/nIAJnivbh5N8gpbyVmtPFC9psON.jpg",
+    "source_url": "https://www.themoviedb.org/movie/575",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:11770",
+    "source": "artetv",
+    "name": "Kung Fu Futebol Clube",
+    "year": 2001,
+    "director": "Stephen Chow",
+    "type": "movie",
+    "imdb_id": "tt0286112",
+    "tmdb_id": 11770,
+    "poster": "https://image.tmdb.org/t/p/w500/rO1YoR49hs9QPla0vwCxrMLln33.jpg",
+    "source_url": "https://www.themoviedb.org/movie/11770",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:242",
+    "source": "artetv",
+    "name": "O Poderoso Chefão: Parte III",
+    "year": 1990,
+    "director": "Francis Ford Coppola",
+    "type": "movie",
+    "imdb_id": "tt0099674",
+    "tmdb_id": 242,
+    "poster": "https://image.tmdb.org/t/p/w500/y8GROCjgD8amoFufSx2USKrOy7d.jpg",
+    "source_url": "https://www.themoviedb.org/movie/242",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:4105",
+    "source": "artetv",
+    "name": "Chuva Negra",
+    "year": 1989,
+    "director": "Ridley Scott",
+    "type": "movie",
+    "imdb_id": "tt0096933",
+    "tmdb_id": 4105,
+    "poster": "https://image.tmdb.org/t/p/w500/5zIfDzy6P8g4FKnzb0bApZ0DLMF.jpg",
+    "source_url": "https://www.themoviedb.org/movie/4105",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:63398",
+    "source": "artetv",
+    "name": "Conselho de Família",
+    "year": 1986,
+    "director": "Costa-Gavras",
+    "type": "movie",
+    "imdb_id": "tt0090874",
+    "tmdb_id": 63398,
+    "poster": "https://image.tmdb.org/t/p/w500/1eKbdBLFqbXqLF12G43E5g8xduM.jpg",
+    "source_url": "https://www.themoviedb.org/movie/63398",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:190448",
+    "source": "artetv",
+    "name": "Der Schimmelreiter",
+    "year": 1985,
+    "director": "Klaus Gendries",
+    "type": "movie",
+    "imdb_id": "tt0088053",
+    "tmdb_id": 190448,
+    "poster": "https://image.tmdb.org/t/p/w500/ooWwPN8IsvEQzJw7RWKoOBCPl38.jpg",
+    "source_url": "https://www.themoviedb.org/movie/190448",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:63665",
+    "source": "artetv",
+    "name": "Hanna K.",
+    "year": 1983,
+    "director": "Costa-Gavras",
+    "type": "movie",
+    "imdb_id": "tt0085642",
+    "tmdb_id": 63665,
+    "poster": "https://image.tmdb.org/t/p/w500/cBEpqJYvUYJ5FHG4BK5aZPyNHrw.jpg",
+    "source_url": "https://www.themoviedb.org/movie/63665",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:48268",
+    "source": "artetv",
+    "name": "Magyar rapszódia",
+    "year": 1979,
+    "director": "Miklós Jancsó",
+    "type": "movie",
+    "imdb_id": "tt0077492",
+    "tmdb_id": 48268,
+    "poster": "https://image.tmdb.org/t/p/w500/jUkasmVBIu8s2Si31xZHyfE6fi0.jpg",
+    "source_url": "https://www.themoviedb.org/movie/48268",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:4948",
+    "source": "artetv",
+    "name": "Um Homem, Uma Mulher, Uma Noite",
+    "year": 1979,
+    "director": "Costa-Gavras",
+    "type": "movie",
+    "imdb_id": "tt0078978",
+    "tmdb_id": 4948,
+    "poster": "https://image.tmdb.org/t/p/w500/6hZf7pqcoyykNfSKDjS0um0Cd2D.jpg",
+    "source_url": "https://www.themoviedb.org/movie/4948",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:132144",
+    "source": "artetv",
+    "name": "A Batalha do Chile - Primeira Parte: A Insurreição da Burguesia",
+    "year": 1975,
+    "director": "Patricio Guzmán",
+    "type": "movie",
+    "imdb_id": "tt0072685",
+    "tmdb_id": 132144,
+    "poster": "https://image.tmdb.org/t/p/w500/iZMeh5TxvLPQ2aYF4ZyvhvkJDPh.jpg",
+    "source_url": "https://www.themoviedb.org/movie/132144",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:240",
+    "source": "artetv",
+    "name": "O Poderoso Chefão: Parte II",
+    "year": 1974,
+    "director": "Francis Ford Coppola",
+    "type": "movie",
+    "imdb_id": "tt0071562",
+    "tmdb_id": 240,
+    "poster": "https://image.tmdb.org/t/p/w500/3ViYPhSAPwH2avQjdMl49F8PklB.jpg",
+    "source_url": "https://www.themoviedb.org/movie/240",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:91487",
+    "source": "artetv",
+    "name": "Estado de Sítio",
+    "year": 1972,
+    "director": "Κώστας Γαβράς",
+    "type": "movie",
+    "imdb_id": "tt0070959",
+    "tmdb_id": 91487,
+    "poster": "https://image.tmdb.org/t/p/w500/34My0QIHXvvwaFpntfRCLkkLEX2.jpg",
+    "source_url": "https://www.themoviedb.org/movie/91487",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:73834",
+    "source": "artetv",
+    "name": "Le Cœur fou",
+    "year": 1970,
+    "director": "Jean-Gabriel Albicocco",
+    "type": "movie",
+    "imdb_id": "tt0065561",
+    "tmdb_id": 73834,
+    "poster": "https://image.tmdb.org/t/p/w500/p3Jw51Je6N4wqFVtnRoOLPtyy02.jpg",
+    "source_url": "https://www.themoviedb.org/movie/73834",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:8074",
+    "source": "artetv",
+    "name": "Duas ou Três Coisas Que Eu Sei Dela",
+    "year": 1967,
+    "director": "Jean-Luc Godard",
+    "type": "movie",
+    "imdb_id": "tt0060304",
+    "tmdb_id": 8074,
+    "poster": "https://image.tmdb.org/t/p/w500/apt4aTlX9Qk00GVcB2Am91aJSWS.jpg",
+    "source_url": "https://www.themoviedb.org/movie/8074",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:898",
+    "source": "artetv",
+    "name": "O Homem de Alcatraz",
+    "year": 1962,
+    "director": "John Frankenheimer",
+    "type": "movie",
+    "imdb_id": "tt0055798",
+    "tmdb_id": 898,
+    "poster": "https://image.tmdb.org/t/p/w500/6EODLN11HTX4l2cmakAhWIoJLF.jpg",
+    "source_url": "https://www.themoviedb.org/movie/898",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:104305",
+    "source": "artetv",
+    "name": "La Princesse de Clèves",
+    "year": 1961,
+    "director": "Jean Delannoy",
+    "type": "movie",
+    "imdb_id": "tt0054208",
+    "tmdb_id": 104305,
+    "poster": "https://image.tmdb.org/t/p/w500/9qAwBageeuIKmpRamvuWX5mY8RC.jpg",
+    "source_url": "https://www.themoviedb.org/movie/104305",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:872139",
+    "source": "artetv",
+    "name": "Les Ratés",
+    "year": 1958,
+    "director": "Costa-Gavras",
+    "type": "movie",
+    "imdb_id": "tt0323771",
+    "tmdb_id": 872139,
+    "poster": "https://image.tmdb.org/t/p/w500/gm0Nu0WHqASw5vTnmy4re7Y56M0.jpg",
+    "source_url": "https://www.themoviedb.org/movie/872139",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:6529",
+    "source": "artetv",
+    "name": "Caminhos Ásperos",
+    "year": 1953,
+    "director": "John Farrow",
+    "type": "movie",
+    "imdb_id": "tt0045883",
+    "tmdb_id": 6529,
+    "poster": "https://image.tmdb.org/t/p/w500/icBkw2losJ8OIWuC67zEOT8s1m2.jpg",
+    "source_url": "https://www.themoviedb.org/movie/6529",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
+    "id": "acervocult:artetv:2973",
+    "source": "artetv",
+    "name": "Aelita: Rainha de Marte",
+    "year": 1924,
+    "director": "Яков Протазанов",
+    "type": "movie",
+    "imdb_id": "tt0014646",
+    "tmdb_id": 2973,
+    "poster": "https://image.tmdb.org/t/p/w500/krvd0xdOexfGKepnWhthDf9LrxU.jpg",
+    "source_url": "https://www.themoviedb.org/movie/2973",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-13T21:48:33.228Z",
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
+  },
+  {
     "id": "acervocult:artetv:1599926",
     "source": "artetv",
     "name": "Acid City",
@@ -12,7 +896,9 @@
     "source_url": "https://www.themoviedb.org/movie/1599926",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1601358",
@@ -27,7 +913,7 @@
     "source_url": "https://www.themoviedb.org/movie/1601358",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1613744",
@@ -42,7 +928,9 @@
     "source_url": "https://www.themoviedb.org/movie/1613744",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1739311",
@@ -53,26 +941,16 @@
     "type": "movie",
     "imdb_id": "tt41672837",
     "tmdb_id": 1739311,
-    "poster": null,
-    "source_url": "https://www.themoviedb.org/movie/1739311",
-    "enrich_status": "matched",
-    "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
-  },
-  {
-    "id": "acervocult:artetv:1620002",
-    "source": "artetv",
-    "name": "Drachenfangen",
-    "year": 2026,
-    "director": "Anna Niebert",
-    "type": "movie",
-    "imdb_id": null,
-    "tmdb_id": 1620002,
     "poster": "https://image.tmdb.org/t/p/w500/pzwxr2LNzfjjDC8hKnH805ToDGb.jpg",
     "source_url": "https://www.themoviedb.org/movie/1620002",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "aliases": [
+      "acervocult:artetv:1620002"
+    ],
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1614236",
@@ -87,7 +965,9 @@
     "source_url": "https://www.themoviedb.org/movie/1614236",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1620008",
@@ -102,7 +982,9 @@
     "source_url": "https://www.themoviedb.org/movie/1620008",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1762164",
@@ -117,7 +999,9 @@
     "source_url": "https://www.themoviedb.org/movie/1762164",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1628606",
@@ -132,7 +1016,7 @@
     "source_url": "https://www.themoviedb.org/movie/1628606",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1608879",
@@ -147,7 +1031,9 @@
     "source_url": "https://www.themoviedb.org/movie/1608879",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1651350",
@@ -162,7 +1048,7 @@
     "source_url": "https://www.themoviedb.org/movie/1651350",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1554447",
@@ -177,7 +1063,7 @@
     "source_url": "https://www.themoviedb.org/movie/1554447",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1510335",
@@ -192,7 +1078,9 @@
     "source_url": "https://www.themoviedb.org/movie/1510335",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1638809",
@@ -207,7 +1095,7 @@
     "source_url": "https://www.themoviedb.org/movie/1638809",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1431150",
@@ -222,7 +1110,7 @@
     "source_url": "https://www.themoviedb.org/movie/1431150",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1142149",
@@ -237,7 +1125,9 @@
     "source_url": "https://www.themoviedb.org/movie/1142149",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1511625",
@@ -252,7 +1142,9 @@
     "source_url": "https://www.themoviedb.org/movie/1511625",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1652230",
@@ -267,7 +1159,7 @@
     "source_url": "https://www.themoviedb.org/movie/1652230",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1580167",
@@ -282,7 +1174,9 @@
     "source_url": "https://www.themoviedb.org/movie/1580167",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1471247",
@@ -297,7 +1191,9 @@
     "source_url": "https://www.themoviedb.org/movie/1471247",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1417841",
@@ -312,7 +1208,9 @@
     "source_url": "https://www.themoviedb.org/movie/1417841",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1451650",
@@ -327,7 +1225,7 @@
     "source_url": "https://www.themoviedb.org/movie/1451650",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1471392",
@@ -342,7 +1240,9 @@
     "source_url": "https://www.themoviedb.org/movie/1471392",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1416903",
@@ -357,7 +1257,9 @@
     "source_url": "https://www.themoviedb.org/movie/1416903",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1526776",
@@ -372,7 +1274,7 @@
     "source_url": "https://www.themoviedb.org/movie/1526776",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1561548",
@@ -387,7 +1289,7 @@
     "source_url": "https://www.themoviedb.org/movie/1561548",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1471255",
@@ -402,7 +1304,9 @@
     "source_url": "https://www.themoviedb.org/movie/1471255",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1527996",
@@ -417,7 +1321,7 @@
     "source_url": "https://www.themoviedb.org/movie/1527996",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1603177",
@@ -432,7 +1336,9 @@
     "source_url": "https://www.themoviedb.org/movie/1603177",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1421113",
@@ -447,7 +1353,9 @@
     "source_url": "https://www.themoviedb.org/movie/1421113",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1533832",
@@ -462,7 +1370,9 @@
     "source_url": "https://www.themoviedb.org/movie/1533832",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1315054",
@@ -477,7 +1387,9 @@
     "source_url": "https://www.themoviedb.org/movie/1315054",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1420508",
@@ -492,7 +1404,9 @@
     "source_url": "https://www.themoviedb.org/movie/1420508",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1620007",
@@ -507,7 +1421,9 @@
     "source_url": "https://www.themoviedb.org/movie/1620007",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1553451",
@@ -522,7 +1438,7 @@
     "source_url": "https://www.themoviedb.org/movie/1553451",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1374025",
@@ -537,7 +1453,9 @@
     "source_url": "https://www.themoviedb.org/movie/1374025",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1441180",
@@ -552,7 +1470,7 @@
     "source_url": "https://www.themoviedb.org/movie/1441180",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1492189",
@@ -567,7 +1485,7 @@
     "source_url": "https://www.themoviedb.org/movie/1492189",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1475052",
@@ -582,7 +1500,9 @@
     "source_url": "https://www.themoviedb.org/movie/1475052",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1427520",
@@ -597,7 +1517,9 @@
     "source_url": "https://www.themoviedb.org/movie/1427520",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1422889",
@@ -612,7 +1534,9 @@
     "source_url": "https://www.themoviedb.org/movie/1422889",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1437369",
@@ -627,7 +1551,9 @@
     "source_url": "https://www.themoviedb.org/movie/1437369",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1495958",
@@ -642,7 +1568,9 @@
     "source_url": "https://www.themoviedb.org/movie/1495958",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1451120",
@@ -657,7 +1585,9 @@
     "source_url": "https://www.themoviedb.org/movie/1451120",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1447513",
@@ -672,7 +1602,9 @@
     "source_url": "https://www.themoviedb.org/movie/1447513",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1626628",
@@ -687,7 +1619,7 @@
     "source_url": "https://www.themoviedb.org/movie/1626628",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1515184",
@@ -702,7 +1634,9 @@
     "source_url": "https://www.themoviedb.org/movie/1515184",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1458012",
@@ -717,7 +1651,7 @@
     "source_url": "https://www.themoviedb.org/movie/1458012",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1416462",
@@ -732,7 +1666,7 @@
     "source_url": "https://www.themoviedb.org/movie/1416462",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1553178",
@@ -747,7 +1681,9 @@
     "source_url": "https://www.themoviedb.org/movie/1553178",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1529902",
@@ -762,7 +1698,9 @@
     "source_url": "https://www.themoviedb.org/movie/1529902",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1484384",
@@ -777,7 +1715,9 @@
     "source_url": "https://www.themoviedb.org/movie/1484384",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1158996",
@@ -792,7 +1732,9 @@
     "source_url": "https://www.themoviedb.org/movie/1158996",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1323050",
@@ -807,7 +1749,9 @@
     "source_url": "https://www.themoviedb.org/movie/1323050",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1252328",
@@ -822,7 +1766,9 @@
     "source_url": "https://www.themoviedb.org/movie/1252328",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1398819",
@@ -837,7 +1783,9 @@
     "source_url": "https://www.themoviedb.org/movie/1398819",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1500657",
@@ -852,7 +1800,7 @@
     "source_url": "https://www.themoviedb.org/movie/1500657",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1274511",
@@ -867,7 +1815,9 @@
     "source_url": "https://www.themoviedb.org/movie/1274511",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1275722",
@@ -882,7 +1832,9 @@
     "source_url": "https://www.themoviedb.org/movie/1275722",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1440587",
@@ -897,7 +1849,7 @@
     "source_url": "https://www.themoviedb.org/movie/1440587",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1397284",
@@ -912,7 +1864,7 @@
     "source_url": "https://www.themoviedb.org/movie/1397284",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1355731",
@@ -927,7 +1879,7 @@
     "source_url": "https://www.themoviedb.org/movie/1355731",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1413948",
@@ -942,7 +1894,7 @@
     "source_url": "https://www.themoviedb.org/movie/1413948",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1241892",
@@ -957,7 +1909,9 @@
     "source_url": "https://www.themoviedb.org/movie/1241892",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1256070",
@@ -972,7 +1926,7 @@
     "source_url": "https://www.themoviedb.org/movie/1256070",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1234758",
@@ -987,7 +1941,7 @@
     "source_url": "https://www.themoviedb.org/movie/1234758",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1387997",
@@ -1002,7 +1956,9 @@
     "source_url": "https://www.themoviedb.org/movie/1387997",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1283157",
@@ -1017,7 +1973,7 @@
     "source_url": "https://www.themoviedb.org/movie/1283157",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1235922",
@@ -1032,7 +1988,9 @@
     "source_url": "https://www.themoviedb.org/movie/1235922",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1311272",
@@ -1047,7 +2005,7 @@
     "source_url": "https://www.themoviedb.org/movie/1311272",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1262026",
@@ -1062,7 +2020,9 @@
     "source_url": "https://www.themoviedb.org/movie/1262026",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1362234",
@@ -1077,7 +2037,9 @@
     "source_url": "https://www.themoviedb.org/movie/1362234",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1369117",
@@ -1092,7 +2054,9 @@
     "source_url": "https://www.themoviedb.org/movie/1369117",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1392618",
@@ -1107,7 +2071,7 @@
     "source_url": "https://www.themoviedb.org/movie/1392618",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1233855",
@@ -1122,7 +2086,9 @@
     "source_url": "https://www.themoviedb.org/movie/1233855",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1392625",
@@ -1137,7 +2103,7 @@
     "source_url": "https://www.themoviedb.org/movie/1392625",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1269469",
@@ -1152,7 +2118,7 @@
     "source_url": "https://www.themoviedb.org/movie/1269469",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1279225",
@@ -1167,7 +2133,9 @@
     "source_url": "https://www.themoviedb.org/movie/1279225",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1363451",
@@ -1182,7 +2150,7 @@
     "source_url": "https://www.themoviedb.org/movie/1363451",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1427555",
@@ -1197,7 +2165,9 @@
     "source_url": "https://www.themoviedb.org/movie/1427555",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1280153",
@@ -1212,7 +2182,9 @@
     "source_url": "https://www.themoviedb.org/movie/1280153",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1292369",
@@ -1227,7 +2199,7 @@
     "source_url": "https://www.themoviedb.org/movie/1292369",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1250998",
@@ -1242,7 +2214,9 @@
     "source_url": "https://www.themoviedb.org/movie/1250998",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1171969",
@@ -1257,7 +2231,9 @@
     "source_url": "https://www.themoviedb.org/movie/1171969",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1308400",
@@ -1272,7 +2248,9 @@
     "source_url": "https://www.themoviedb.org/movie/1308400",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1233376",
@@ -1287,7 +2265,9 @@
     "source_url": "https://www.themoviedb.org/movie/1233376",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1283246",
@@ -1302,7 +2282,7 @@
     "source_url": "https://www.themoviedb.org/movie/1283246",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1316732",
@@ -1317,7 +2297,9 @@
     "source_url": "https://www.themoviedb.org/movie/1316732",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1156605",
@@ -1332,7 +2314,9 @@
     "source_url": "https://www.themoviedb.org/movie/1156605",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1257042",
@@ -1347,7 +2331,7 @@
     "source_url": "https://www.themoviedb.org/movie/1257042",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1467887",
@@ -1362,7 +2346,9 @@
     "source_url": "https://www.themoviedb.org/movie/1467887",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1137196",
@@ -1377,7 +2363,9 @@
     "source_url": "https://www.themoviedb.org/movie/1137196",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1132472",
@@ -1392,7 +2380,9 @@
     "source_url": "https://www.themoviedb.org/movie/1132472",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1519365",
@@ -1407,7 +2397,9 @@
     "source_url": "https://www.themoviedb.org/movie/1519365",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1108464",
@@ -1422,7 +2414,9 @@
     "source_url": "https://www.themoviedb.org/movie/1108464",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1182442",
@@ -1437,7 +2431,7 @@
     "source_url": "https://www.themoviedb.org/movie/1182442",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1171618",
@@ -1452,7 +2446,9 @@
     "source_url": "https://www.themoviedb.org/movie/1171618",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": false,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1127705",
@@ -1467,7 +2463,9 @@
     "source_url": "https://www.themoviedb.org/movie/1127705",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1367504",
@@ -1482,7 +2480,7 @@
     "source_url": "https://www.themoviedb.org/movie/1367504",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:822428",
@@ -1497,7 +2495,9 @@
     "source_url": "https://www.themoviedb.org/movie/822428",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1163071",
@@ -1512,7 +2512,7 @@
     "source_url": "https://www.themoviedb.org/movie/1163071",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1274510",
@@ -1527,7 +2527,9 @@
     "source_url": "https://www.themoviedb.org/movie/1274510",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1200593",
@@ -1542,7 +2544,7 @@
     "source_url": "https://www.themoviedb.org/movie/1200593",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1246337",
@@ -1557,7 +2559,7 @@
     "source_url": "https://www.themoviedb.org/movie/1246337",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1199415",
@@ -1572,14 +2574,14 @@
     "source_url": "https://www.themoviedb.org/movie/1199415",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1170828",
     "source": "artetv",
     "name": "Kataklysm - Summer Breeze 2023",
     "year": 2023,
-    "director": "Niklas Kreikebaum, Axel Ludewig",
+    "director": "Axel Ludewig, Niklas Kreikebaum",
     "type": "movie",
     "imdb_id": null,
     "tmdb_id": 1170828,
@@ -1587,7 +2589,7 @@
     "source_url": "https://www.themoviedb.org/movie/1170828",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1174704",
@@ -1602,7 +2604,7 @@
     "source_url": "https://www.themoviedb.org/movie/1174704",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1520054",
@@ -1617,7 +2619,7 @@
     "source_url": "https://www.themoviedb.org/movie/1520054",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1217455",
@@ -1632,14 +2634,16 @@
     "source_url": "https://www.themoviedb.org/movie/1217455",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1182447",
     "source": "artetv",
     "name": "Nanowar of Steel - Summer Breeze 2023",
     "year": 2023,
-    "director": "Axel Ludewig, Niklas Kreikebaum",
+    "director": "Niklas Kreikebaum, Axel Ludewig",
     "type": "movie",
     "imdb_id": null,
     "tmdb_id": 1182447,
@@ -1647,7 +2651,7 @@
     "source_url": "https://www.themoviedb.org/movie/1182447",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1205576",
@@ -1662,7 +2666,9 @@
     "source_url": "https://www.themoviedb.org/movie/1205576",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1295698",
@@ -1677,7 +2683,9 @@
     "source_url": "https://www.themoviedb.org/movie/1295698",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1174752",
@@ -1692,7 +2700,7 @@
     "source_url": "https://www.themoviedb.org/movie/1174752",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1196908",
@@ -1707,7 +2715,7 @@
     "source_url": "https://www.themoviedb.org/movie/1196908",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1182429",
@@ -1722,7 +2730,7 @@
     "source_url": "https://www.themoviedb.org/movie/1182429",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1220448",
@@ -1737,7 +2745,9 @@
     "source_url": "https://www.themoviedb.org/movie/1220448",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1169934",
@@ -1752,7 +2762,7 @@
     "source_url": "https://www.themoviedb.org/movie/1169934",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1141024",
@@ -1767,7 +2777,7 @@
     "source_url": "https://www.themoviedb.org/movie/1141024",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1149493",
@@ -1782,7 +2792,7 @@
     "source_url": "https://www.themoviedb.org/movie/1149493",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1182453",
@@ -1797,7 +2807,7 @@
     "source_url": "https://www.themoviedb.org/movie/1182453",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1156530",
@@ -1812,7 +2822,7 @@
     "source_url": "https://www.themoviedb.org/movie/1156530",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:999789",
@@ -1827,7 +2837,9 @@
     "source_url": "https://www.themoviedb.org/movie/999789",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:926977",
@@ -1842,7 +2854,9 @@
     "source_url": "https://www.themoviedb.org/movie/926977",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1134371",
@@ -1857,7 +2871,9 @@
     "source_url": "https://www.themoviedb.org/movie/1134371",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:998364",
@@ -1872,7 +2888,9 @@
     "source_url": "https://www.themoviedb.org/movie/998364",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:943613",
@@ -1887,7 +2905,9 @@
     "source_url": "https://www.themoviedb.org/movie/943613",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1022936",
@@ -1902,7 +2922,7 @@
     "source_url": "https://www.themoviedb.org/movie/1022936",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1137166",
@@ -1917,7 +2937,7 @@
     "source_url": "https://www.themoviedb.org/movie/1137166",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1059367",
@@ -1932,7 +2952,7 @@
     "source_url": "https://www.themoviedb.org/movie/1059367",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1131492",
@@ -1947,7 +2967,7 @@
     "source_url": "https://www.themoviedb.org/movie/1131492",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:937156",
@@ -1962,14 +2982,16 @@
     "source_url": "https://www.themoviedb.org/movie/937156",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:981416",
     "source": "artetv",
     "name": "Das geheimnisvolle Steinzeit-Dorf - Was die Gräber von Ba‘ja erzählen",
     "year": 2022,
-    "director": "Barbara Fally-Puskás",
+    "director": "Barbara Puskás",
     "type": "movie",
     "imdb_id": null,
     "tmdb_id": 981416,
@@ -1977,7 +2999,7 @@
     "source_url": "https://www.themoviedb.org/movie/981416",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1016933",
@@ -1992,7 +3014,9 @@
     "source_url": "https://www.themoviedb.org/movie/1016933",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:974467",
@@ -2007,7 +3031,7 @@
     "source_url": "https://www.themoviedb.org/movie/974467",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1005282",
@@ -2022,7 +3046,7 @@
     "source_url": "https://www.themoviedb.org/movie/1005282",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:998920",
@@ -2037,7 +3061,9 @@
     "source_url": "https://www.themoviedb.org/movie/998920",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1070343",
@@ -2052,7 +3078,9 @@
     "source_url": "https://www.themoviedb.org/movie/1070343",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1004626",
@@ -2067,7 +3095,7 @@
     "source_url": "https://www.themoviedb.org/movie/1004626",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1056691",
@@ -2082,7 +3110,7 @@
     "source_url": "https://www.themoviedb.org/movie/1056691",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:956166",
@@ -2097,7 +3125,9 @@
     "source_url": "https://www.themoviedb.org/movie/956166",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:993290",
@@ -2112,7 +3142,7 @@
     "source_url": "https://www.themoviedb.org/movie/993290",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:960847",
@@ -2127,7 +3157,9 @@
     "source_url": "https://www.themoviedb.org/movie/960847",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1094728",
@@ -2142,7 +3174,9 @@
     "source_url": "https://www.themoviedb.org/movie/1094728",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1140175",
@@ -2157,7 +3191,9 @@
     "source_url": "https://www.themoviedb.org/movie/1140175",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:993114",
@@ -2172,7 +3208,9 @@
     "source_url": "https://www.themoviedb.org/movie/993114",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1062118",
@@ -2187,7 +3225,7 @@
     "source_url": "https://www.themoviedb.org/movie/1062118",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:923031",
@@ -2202,7 +3240,9 @@
     "source_url": "https://www.themoviedb.org/movie/923031",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:950817",
@@ -2217,7 +3257,9 @@
     "source_url": "https://www.themoviedb.org/movie/950817",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1038535",
@@ -2232,7 +3274,7 @@
     "source_url": "https://www.themoviedb.org/movie/1038535",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:930441",
@@ -2247,7 +3289,9 @@
     "source_url": "https://www.themoviedb.org/movie/930441",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1059594",
@@ -2262,7 +3306,7 @@
     "source_url": "https://www.themoviedb.org/movie/1059594",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1099188",
@@ -2277,7 +3321,7 @@
     "source_url": "https://www.themoviedb.org/movie/1099188",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1167839",
@@ -2292,14 +3336,14 @@
     "source_url": "https://www.themoviedb.org/movie/1167839",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1040370",
     "source": "artetv",
     "name": "The Spider-Man of Sudan",
     "year": 2022,
-    "director": "Rafa Renas, Phil Cox",
+    "director": "Rafa Renas, Philip Cox",
     "type": "movie",
     "imdb_id": null,
     "tmdb_id": 1040370,
@@ -2307,7 +3351,7 @@
     "source_url": "https://www.themoviedb.org/movie/1040370",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1038227",
@@ -2337,7 +3381,9 @@
     "source_url": "https://www.themoviedb.org/movie/1328288",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:660709",
@@ -2352,7 +3398,9 @@
     "source_url": "https://www.themoviedb.org/movie/660709",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1371778",
@@ -2367,7 +3415,7 @@
     "source_url": "https://www.themoviedb.org/movie/1371778",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:926999",
@@ -2382,7 +3430,9 @@
     "source_url": "https://www.themoviedb.org/movie/926999",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:960842",
@@ -2397,7 +3447,9 @@
     "source_url": "https://www.themoviedb.org/movie/960842",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1291373",
@@ -2412,7 +3464,9 @@
     "source_url": "https://www.themoviedb.org/movie/1291373",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:884552",
@@ -2427,7 +3481,9 @@
     "source_url": "https://www.themoviedb.org/movie/884552",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:877707",
@@ -2442,7 +3498,9 @@
     "source_url": "https://www.themoviedb.org/movie/877707",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:848749",
@@ -2457,7 +3515,7 @@
     "source_url": "https://www.themoviedb.org/movie/848749",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:800416",
@@ -2472,7 +3530,9 @@
     "source_url": "https://www.themoviedb.org/movie/800416",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:735726",
@@ -2487,7 +3547,9 @@
     "source_url": "https://www.themoviedb.org/movie/735726",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1232279",
@@ -2502,7 +3564,9 @@
     "source_url": "https://www.themoviedb.org/movie/1232279",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": false,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:944548",
@@ -2517,7 +3581,9 @@
     "source_url": "https://www.themoviedb.org/movie/944548",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:961403",
@@ -2532,14 +3598,16 @@
     "source_url": "https://www.themoviedb.org/movie/961403",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1043093",
     "source": "artetv",
     "name": "L'Appel Des Libellules",
     "year": 2021,
-    "director": "Fabien Mazzocco, Marie Daniel",
+    "director": "Marie Daniel, Fabien Mazzocco",
     "type": "movie",
     "imdb_id": null,
     "tmdb_id": 1043093,
@@ -2547,7 +3615,7 @@
     "source_url": "https://www.themoviedb.org/movie/1043093",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:891338",
@@ -2562,7 +3630,7 @@
     "source_url": "https://www.themoviedb.org/movie/891338",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1106484",
@@ -2577,7 +3645,7 @@
     "source_url": "https://www.themoviedb.org/movie/1106484",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:655181",
@@ -2592,7 +3660,9 @@
     "source_url": "https://www.themoviedb.org/movie/655181",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:828573",
@@ -2607,7 +3677,9 @@
     "source_url": "https://www.themoviedb.org/movie/828573",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:960460",
@@ -2622,7 +3694,7 @@
     "source_url": "https://www.themoviedb.org/movie/960460",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:814703",
@@ -2637,7 +3709,7 @@
     "source_url": "https://www.themoviedb.org/movie/814703",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1215657",
@@ -2652,7 +3724,7 @@
     "source_url": "https://www.themoviedb.org/movie/1215657",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:888039",
@@ -2667,7 +3739,9 @@
     "source_url": "https://www.themoviedb.org/movie/888039",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:588182",
@@ -2682,7 +3756,9 @@
     "source_url": "https://www.themoviedb.org/movie/588182",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:961409",
@@ -2697,7 +3773,9 @@
     "source_url": "https://www.themoviedb.org/movie/961409",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:960844",
@@ -2712,7 +3790,9 @@
     "source_url": "https://www.themoviedb.org/movie/960844",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:847658",
@@ -2727,7 +3807,9 @@
     "source_url": "https://www.themoviedb.org/movie/847658",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:725561",
@@ -2742,7 +3824,9 @@
     "source_url": "https://www.themoviedb.org/movie/725561",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:877860",
@@ -2757,7 +3841,9 @@
     "source_url": "https://www.themoviedb.org/movie/877860",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:861320",
@@ -2772,7 +3858,9 @@
     "source_url": "https://www.themoviedb.org/movie/861320",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:721700",
@@ -2787,7 +3875,7 @@
     "source_url": "https://www.themoviedb.org/movie/721700",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:606865",
@@ -2802,7 +3890,9 @@
     "source_url": "https://www.themoviedb.org/movie/606865",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:656527",
@@ -2817,7 +3907,9 @@
     "source_url": "https://www.themoviedb.org/movie/656527",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:575659",
@@ -2832,7 +3924,9 @@
     "source_url": "https://www.themoviedb.org/movie/575659",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:796001",
@@ -2847,7 +3941,9 @@
     "source_url": "https://www.themoviedb.org/movie/796001",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:648756",
@@ -2862,7 +3958,9 @@
     "source_url": "https://www.themoviedb.org/movie/648756",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:767213",
@@ -2877,7 +3975,9 @@
     "source_url": "https://www.themoviedb.org/movie/767213",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:619443",
@@ -2892,7 +3992,9 @@
     "source_url": "https://www.themoviedb.org/movie/619443",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1429838",
@@ -2907,7 +4009,7 @@
     "source_url": "https://www.themoviedb.org/movie/1429838",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:667935",
@@ -2922,7 +4024,9 @@
     "source_url": "https://www.themoviedb.org/movie/667935",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:960459",
@@ -2937,7 +4041,7 @@
     "source_url": "https://www.themoviedb.org/movie/960459",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1295686",
@@ -2952,7 +4056,7 @@
     "source_url": "https://www.themoviedb.org/movie/1295686",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:765522",
@@ -2967,7 +4071,9 @@
     "source_url": "https://www.themoviedb.org/movie/765522",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:615761",
@@ -2982,7 +4088,9 @@
     "source_url": "https://www.themoviedb.org/movie/615761",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:772796",
@@ -2997,7 +4105,9 @@
     "source_url": "https://www.themoviedb.org/movie/772796",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:651510",
@@ -3012,7 +4122,9 @@
     "source_url": "https://www.themoviedb.org/movie/651510",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:619687",
@@ -3027,7 +4139,9 @@
     "source_url": "https://www.themoviedb.org/movie/619687",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:571830",
@@ -3042,7 +4156,9 @@
     "source_url": "https://www.themoviedb.org/movie/571830",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:760175",
@@ -3057,7 +4173,9 @@
     "source_url": "https://www.themoviedb.org/movie/760175",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:736499",
@@ -3072,7 +4190,7 @@
     "source_url": "https://www.themoviedb.org/movie/736499",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:936591",
@@ -3087,7 +4205,7 @@
     "source_url": "https://www.themoviedb.org/movie/936591",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:594702",
@@ -3102,7 +4220,9 @@
     "source_url": "https://www.themoviedb.org/movie/594702",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:582886",
@@ -3117,7 +4237,9 @@
     "source_url": "https://www.themoviedb.org/movie/582886",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:630338",
@@ -3132,7 +4254,9 @@
     "source_url": "https://www.themoviedb.org/movie/630338",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:583994",
@@ -3147,7 +4271,9 @@
     "source_url": "https://www.themoviedb.org/movie/583994",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:788145",
@@ -3162,7 +4288,7 @@
     "source_url": "https://www.themoviedb.org/movie/788145",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:757256",
@@ -3177,7 +4303,7 @@
     "source_url": "https://www.themoviedb.org/movie/757256",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:533607",
@@ -3192,7 +4318,9 @@
     "source_url": "https://www.themoviedb.org/movie/533607",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:471853",
@@ -3207,7 +4335,9 @@
     "source_url": "https://www.themoviedb.org/movie/471853",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:714088",
@@ -3222,7 +4352,7 @@
     "source_url": "https://www.themoviedb.org/movie/714088",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:736343",
@@ -3237,7 +4367,7 @@
     "source_url": "https://www.themoviedb.org/movie/736343",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:518538",
@@ -3252,7 +4382,9 @@
     "source_url": "https://www.themoviedb.org/movie/518538",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:506854",
@@ -3267,7 +4399,9 @@
     "source_url": "https://www.themoviedb.org/movie/506854",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:613941",
@@ -3282,7 +4416,7 @@
     "source_url": "https://www.themoviedb.org/movie/613941",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1444453",
@@ -3297,7 +4431,7 @@
     "source_url": "https://www.themoviedb.org/movie/1444453",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:640597",
@@ -3312,7 +4446,7 @@
     "source_url": "https://www.themoviedb.org/movie/640597",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:600550",
@@ -3327,7 +4461,9 @@
     "source_url": "https://www.themoviedb.org/movie/600550",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1619499",
@@ -3342,7 +4478,9 @@
     "source_url": "https://www.themoviedb.org/movie/1619499",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": false,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:821847",
@@ -3357,7 +4495,9 @@
     "source_url": "https://www.themoviedb.org/movie/821847",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1200187",
@@ -3372,7 +4512,7 @@
     "source_url": "https://www.themoviedb.org/movie/1200187",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:452943",
@@ -3387,7 +4527,7 @@
     "source_url": "https://www.themoviedb.org/movie/452943",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:572284",
@@ -3402,7 +4542,9 @@
     "source_url": "https://www.themoviedb.org/movie/572284",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:451955",
@@ -3417,7 +4559,9 @@
     "source_url": "https://www.themoviedb.org/movie/451955",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:428753",
@@ -3432,7 +4576,9 @@
     "source_url": "https://www.themoviedb.org/movie/428753",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:403480",
@@ -3447,7 +4593,9 @@
     "source_url": "https://www.themoviedb.org/movie/403480",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:380592",
@@ -3462,7 +4610,9 @@
     "source_url": "https://www.themoviedb.org/movie/380592",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:380622",
@@ -3477,7 +4627,9 @@
     "source_url": "https://www.themoviedb.org/movie/380622",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:389044",
@@ -3492,7 +4644,9 @@
     "source_url": "https://www.themoviedb.org/movie/389044",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:846129",
@@ -3507,7 +4661,9 @@
     "source_url": "https://www.themoviedb.org/movie/846129",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:445946",
@@ -3522,7 +4678,9 @@
     "source_url": "https://www.themoviedb.org/movie/445946",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:527478",
@@ -3552,7 +4710,9 @@
     "source_url": "https://www.themoviedb.org/movie/330127",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:917240",
@@ -3567,7 +4727,7 @@
     "source_url": "https://www.themoviedb.org/movie/917240",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:1253281",
@@ -3582,7 +4742,7 @@
     "source_url": "https://www.themoviedb.org/movie/1253281",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:320006",
@@ -3597,7 +4757,9 @@
     "source_url": "https://www.themoviedb.org/movie/320006",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:344368",
@@ -3612,7 +4774,9 @@
     "source_url": "https://www.themoviedb.org/movie/344368",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:254578",
@@ -3627,7 +4791,9 @@
     "source_url": "https://www.themoviedb.org/movie/254578",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:385106",
@@ -3642,7 +4808,9 @@
     "source_url": "https://www.themoviedb.org/movie/385106",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:361414",
@@ -3657,7 +4825,9 @@
     "source_url": "https://www.themoviedb.org/movie/361414",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": false,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:241066",
@@ -3672,7 +4842,9 @@
     "source_url": "https://www.themoviedb.org/movie/241066",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:236873",
@@ -3687,7 +4859,9 @@
     "source_url": "https://www.themoviedb.org/movie/236873",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:352204",
@@ -3702,7 +4876,7 @@
     "source_url": "https://www.themoviedb.org/movie/352204",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:129432",
@@ -3717,7 +4891,9 @@
     "source_url": "https://www.themoviedb.org/movie/129432",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:186992",
@@ -3732,7 +4908,9 @@
     "source_url": "https://www.themoviedb.org/movie/186992",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:179100",
@@ -3747,7 +4925,9 @@
     "source_url": "https://www.themoviedb.org/movie/179100",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:282648",
@@ -3762,7 +4942,9 @@
     "source_url": "https://www.themoviedb.org/movie/282648",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": false,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:94562",
@@ -3777,7 +4959,9 @@
     "source_url": "https://www.themoviedb.org/movie/94562",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:149893",
@@ -3792,7 +4976,9 @@
     "source_url": "https://www.themoviedb.org/movie/149893",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:90499",
@@ -3807,7 +4993,9 @@
     "source_url": "https://www.themoviedb.org/movie/90499",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:43616",
@@ -3822,7 +5010,9 @@
     "source_url": "https://www.themoviedb.org/movie/43616",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:10362",
@@ -3837,7 +5027,9 @@
     "source_url": "https://www.themoviedb.org/movie/10362",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:15340",
@@ -3852,7 +5044,9 @@
     "source_url": "https://www.themoviedb.org/movie/15340",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:13998",
@@ -3867,7 +5061,9 @@
     "source_url": "https://www.themoviedb.org/movie/13998",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:2002",
@@ -3882,7 +5078,9 @@
     "source_url": "https://www.themoviedb.org/movie/2002",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:3037",
@@ -3897,7 +5095,9 @@
     "source_url": "https://www.themoviedb.org/movie/3037",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:219",
@@ -3912,7 +5112,9 @@
     "source_url": "https://www.themoviedb.org/movie/219",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:138010",
@@ -3927,7 +5129,9 @@
     "source_url": "https://www.themoviedb.org/movie/138010",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:11109",
@@ -3942,7 +5146,9 @@
     "source_url": "https://www.themoviedb.org/movie/11109",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:14652",
@@ -3957,7 +5163,9 @@
     "source_url": "https://www.themoviedb.org/movie/14652",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:12454",
@@ -3972,7 +5180,9 @@
     "source_url": "https://www.themoviedb.org/movie/12454",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:9026",
@@ -3987,7 +5197,9 @@
     "source_url": "https://www.themoviedb.org/movie/9026",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:53244",
@@ -4002,7 +5214,9 @@
     "source_url": "https://www.themoviedb.org/movie/53244",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:191",
@@ -4017,7 +5231,9 @@
     "source_url": "https://www.themoviedb.org/movie/191",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:125844",
@@ -4032,7 +5248,9 @@
     "source_url": "https://www.themoviedb.org/movie/125844",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:70487",
@@ -4047,7 +5265,9 @@
     "source_url": "https://www.themoviedb.org/movie/70487",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:19457",
@@ -4062,7 +5282,9 @@
     "source_url": "https://www.themoviedb.org/movie/19457",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:79268",
@@ -4077,7 +5299,9 @@
     "source_url": "https://www.themoviedb.org/movie/79268",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:343286",
@@ -4092,7 +5316,9 @@
     "source_url": "https://www.themoviedb.org/movie/343286",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": false,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:36690",
@@ -4107,7 +5333,9 @@
     "source_url": "https://www.themoviedb.org/movie/36690",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:5071",
@@ -4122,7 +5350,9 @@
     "source_url": "https://www.themoviedb.org/movie/5071",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:3682",
@@ -4137,7 +5367,9 @@
     "source_url": "https://www.themoviedb.org/movie/3682",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1248590",
@@ -4152,7 +5384,7 @@
     "source_url": "https://www.themoviedb.org/movie/1248590",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:8052",
@@ -4167,7 +5399,9 @@
     "source_url": "https://www.themoviedb.org/movie/8052",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:968004",
@@ -4182,7 +5416,9 @@
     "source_url": "https://www.themoviedb.org/movie/968004",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:49150",
@@ -4197,7 +5433,9 @@
     "source_url": "https://www.themoviedb.org/movie/49150",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:37233",
@@ -4212,7 +5450,9 @@
     "source_url": "https://www.themoviedb.org/movie/37233",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:21450",
@@ -4227,7 +5467,9 @@
     "source_url": "https://www.themoviedb.org/movie/21450",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:10424",
@@ -4242,7 +5484,9 @@
     "source_url": "https://www.themoviedb.org/movie/10424",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:111154",
@@ -4257,7 +5501,9 @@
     "source_url": "https://www.themoviedb.org/movie/111154",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:84980",
@@ -4272,7 +5518,9 @@
     "source_url": "https://www.themoviedb.org/movie/84980",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1028088",
@@ -4287,7 +5535,9 @@
     "source_url": "https://www.themoviedb.org/movie/1028088",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": false,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1184267",
@@ -4302,7 +5552,9 @@
     "source_url": "https://www.themoviedb.org/movie/1184267",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1186018",
@@ -4332,7 +5584,9 @@
     "source_url": "https://www.themoviedb.org/movie/465",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:49455",
@@ -4347,7 +5601,9 @@
     "source_url": "https://www.themoviedb.org/movie/49455",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:42020",
@@ -4362,7 +5618,9 @@
     "source_url": "https://www.themoviedb.org/movie/42020",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:280219",
@@ -4377,7 +5635,9 @@
     "source_url": "https://www.themoviedb.org/movie/280219",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:10805",
@@ -4392,7 +5652,9 @@
     "source_url": "https://www.themoviedb.org/movie/10805",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:111",
@@ -4407,7 +5669,9 @@
     "source_url": "https://www.themoviedb.org/movie/111",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:19887",
@@ -4422,7 +5686,9 @@
     "source_url": "https://www.themoviedb.org/movie/19887",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:4023",
@@ -4437,7 +5703,9 @@
     "source_url": "https://www.themoviedb.org/movie/4023",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:140068",
@@ -4452,7 +5720,9 @@
     "source_url": "https://www.themoviedb.org/movie/140068",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:39293",
@@ -4467,7 +5737,9 @@
     "source_url": "https://www.themoviedb.org/movie/39293",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:37455",
@@ -4482,7 +5754,9 @@
     "source_url": "https://www.themoviedb.org/movie/37455",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:415697",
@@ -4497,7 +5771,9 @@
     "source_url": "https://www.themoviedb.org/movie/415697",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": false,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:17599",
@@ -4512,7 +5788,9 @@
     "source_url": "https://www.themoviedb.org/movie/17599",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:47737",
@@ -4527,7 +5805,9 @@
     "source_url": "https://www.themoviedb.org/movie/47737",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:257531",
@@ -4542,7 +5822,9 @@
     "source_url": "https://www.themoviedb.org/movie/257531",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:4279",
@@ -4557,7 +5839,9 @@
     "source_url": "https://www.themoviedb.org/movie/4279",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:24984",
@@ -4572,7 +5856,9 @@
     "source_url": "https://www.themoviedb.org/movie/24984",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:129820",
@@ -4587,7 +5873,9 @@
     "source_url": "https://www.themoviedb.org/movie/129820",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:333961",
@@ -4602,7 +5890,9 @@
     "source_url": "https://www.themoviedb.org/movie/333961",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:2227",
@@ -4617,7 +5907,9 @@
     "source_url": "https://www.themoviedb.org/movie/2227",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:3010",
@@ -4632,7 +5924,9 @@
     "source_url": "https://www.themoviedb.org/movie/3010",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:434050",
@@ -4647,7 +5941,9 @@
     "source_url": "https://www.themoviedb.org/movie/434050",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:17185",
@@ -4662,7 +5958,9 @@
     "source_url": "https://www.themoviedb.org/movie/17185",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:210648",
@@ -4677,7 +5975,9 @@
     "source_url": "https://www.themoviedb.org/movie/210648",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1186051",
@@ -4692,7 +5992,7 @@
     "source_url": "https://www.themoviedb.org/movie/1186051",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:316985",
@@ -4707,7 +6007,9 @@
     "source_url": "https://www.themoviedb.org/movie/316985",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:78515",
@@ -4722,7 +6024,9 @@
     "source_url": "https://www.themoviedb.org/movie/78515",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:417490",
@@ -4737,7 +6041,7 @@
     "source_url": "https://www.themoviedb.org/movie/417490",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:22999",
@@ -4752,7 +6056,9 @@
     "source_url": "https://www.themoviedb.org/movie/22999",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:1423402",
@@ -4767,7 +6073,7 @@
     "source_url": "https://www.themoviedb.org/movie/1423402",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z"
   },
   {
     "id": "acervocult:artetv:212294",
@@ -4782,7 +6088,9 @@
     "source_url": "https://www.themoviedb.org/movie/212294",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:36877",
@@ -4797,7 +6105,9 @@
     "source_url": "https://www.themoviedb.org/movie/36877",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:515027",
@@ -4812,7 +6122,9 @@
     "source_url": "https://www.themoviedb.org/movie/515027",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-13T21:48:33.228Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:284395",
@@ -4827,7 +6139,9 @@
     "source_url": "https://www.themoviedb.org/movie/284395",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   },
   {
     "id": "acervocult:artetv:961",
@@ -4842,6 +6156,8 @@
     "source_url": "https://www.themoviedb.org/movie/961",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T16:17:34.645Z",
-    "last_seen": "2026-10-12T14:12:38.180Z"
+    "last_seen": "2026-10-12T14:12:38.180Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-13T21:48:33.247Z"
   }
 ]
