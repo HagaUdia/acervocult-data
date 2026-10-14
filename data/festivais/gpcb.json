@@ -2,7 +2,7 @@
   "id": "gpcb",
   "label": "Grande Prêmio do Cinema Brasileiro (Grande Otelo)",
   "kind": "award",
-  "updated_at": "2026-09-28T11:26:30.375Z",
+  "updated_at": "2026-10-13T23:32:31.960Z",
   "editions": [
     {
       "year": 2026,
@@ -699,8 +699,8 @@
         },
         {
           "name": "O Advogado de Deus",
-          "original_name": null,
-          "year": null,
+          "original_name": "O Advogado de Deus",
+          "year": 2026,
           "director": [
             "Zíbia Gasparetto"
           ],
@@ -708,9 +708,9 @@
             "Wagner de Assis",
             "Zíbia Gasparetto"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt32400586",
           "wikidata_id": "Q138659980",
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "melhor-roteiro-adaptado",
@@ -718,7 +718,7 @@
               "result": "nominee"
             }
           ],
-          "key": "wd:Q138659980",
+          "key": "tt32400586",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -1622,6 +1622,27 @@
           ],
           "key": "t:uma-menina-um-rio",
           "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Tainá e os Guardiões da Amazônia: Em Busca da Flecha Azul",
+          "original_name": "Tainá e os Guardiões da Amazônia: Em Buscas da Flecha Azul",
+          "year": 2025,
+          "director": [
+            "Alê Camargo",
+            "Jordan Nugem"
+          ],
+          "imdb_id": "tt27801204",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "melhor-longa-metragem-de-animacao",
+              "label": "Melhor Longa-metragem de Animação",
+              "result": "winner"
+            }
+          ],
+          "key": "tt27801204",
+          "first_seen": "2026-10-13T23:32:31.960Z"
         }
       ]
     },

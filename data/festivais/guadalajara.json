@@ -2,7 +2,7 @@
   "id": "guadalajara",
   "label": "Festival de Guadalajara (FICG)",
   "kind": "festival",
-  "updated_at": "2026-09-28T11:26:30.375Z",
+  "updated_at": "2026-10-13T23:32:31.960Z",
   "editions": [
     {
       "year": 2026,
@@ -2069,15 +2069,15 @@
         },
         {
           "name": "Vyann",
-          "original_name": null,
-          "year": null,
+          "original_name": "Carne",
+          "year": 2026,
           "director": [
             "Adolfo Margulis"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt48502313",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-rigo-mora-ficcion",
@@ -2085,7 +2085,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:vyann",
+          "key": "tt48502313",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -8489,15 +8489,15 @@
         },
         {
           "name": "No Money, No Honey",
-          "original_name": null,
-          "year": null,
+          "original_name": "No Money No Honey",
+          "year": 2026,
           "director": [
             "Nicole Costa"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt48020521",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-rigo-mora-guadalajara-construye",
@@ -8505,7 +8505,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:no-money-no-honey",
+          "key": "tt48020521",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -66017,15 +66017,15 @@
         },
         {
           "name": "La noche de las flores",
-          "original_name": null,
-          "year": null,
+          "original_name": "La noche de las flores",
+          "year": 2011,
           "director": [
             "Adrián Burns"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt47867082",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-largometraje-mexicano-de-ficcion",
@@ -66033,7 +66033,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:la-noche-de-las-flores",
+          "key": "tt47867082",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {

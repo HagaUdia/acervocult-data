@@ -517,7 +517,7 @@
     },
     "pt:Prêmio Grande Otelo do Cinema Brasileiro 2026": {
       "year": 2026,
-      "revid": 72821672
+      "revid": 73120841
     },
     "pt:Prêmio Grande Otelo do Cinema Brasileiro 2025": {
       "year": 2025,
@@ -841,7 +841,7 @@
     },
     "en:2026 Cannes Film Festival": {
       "year": 2026,
-      "revid": 1376715198
+      "revid": 1379883270
     },
     "en:2009 Sundance Film Festival": {
       "year": 2009,
@@ -1013,7 +1013,7 @@
     },
     "en:2026 New York Film Festival": {
       "year": 2026,
-      "revid": 1376901923
+      "revid": 1379951036
     },
     "en:2024 New York Film Festival": {
       "year": 2024,
@@ -1037,7 +1037,7 @@
     },
     "en:2026 BFI London Film Festival": {
       "year": 2026,
-      "revid": 1376515166
+      "revid": 1379177836
     },
     "en:2023 BFI London Film Festival": {
       "year": 2023,
@@ -1141,7 +1141,7 @@
     },
     "fr:Festival international du film d'animation d'Annecy 2026": {
       "year": 2026,
-      "revid": 239405338
+      "revid": 239910720
     },
     "fr:Festival international du film d'animation d'Annecy 2025": {
       "year": 2025,
@@ -1149,7 +1149,7 @@
     },
     "en:2026 Annecy International Animation Film Festival": {
       "year": 2026,
-      "revid": 1373334170
+      "revid": 1378659762
     },
     "en:2025 Annecy International Animation Film Festival": {
       "year": 2025,
@@ -1641,7 +1641,7 @@
     },
     "en:40th Goya Awards": {
       "year": 2026,
-      "revid": 1368233276
+      "revid": 1378910182
     },
     "en:38th Goya Awards": {
       "year": 2024,
@@ -2145,7 +2145,7 @@
     },
     "en:76th Berlin International Film Festival": {
       "year": 2026,
-      "revid": 1376321376
+      "revid": 1380032500
     },
     "en:74th Berlin International Film Festival": {
       "year": 2024,
@@ -2793,7 +2793,7 @@
     },
     "en:83rd Venice International Film Festival": {
       "year": 2026,
-      "revid": 1377101020
+      "revid": 1378714148
     },
     "en:80th Venice International Film Festival": {
       "year": 2023,
@@ -3278,6 +3278,145 @@
     "es:Anexo:Premios Cóndor de Plata 2025": {
       "year": 2025,
       "revid": 173822611
+    },
+    "en:73rd Golden Globe Awards": {
+      "year": 2016
+    },
+    "en:75th Golden Globe Awards": {
+      "year": 2018
+    },
+    "en:70th Golden Globe Awards": {
+      "year": 2013
+    },
+    "en:68th Golden Globe Awards": {
+      "year": 2011
+    },
+    "en:71st Golden Globe Awards": {
+      "year": 2014
+    },
+    "en:69th Golden Globe Awards": {
+      "year": 2012
+    },
+    "en:66th Golden Globe Awards": {
+      "year": 2009
+    },
+    "en:64th Golden Globe Awards": {
+      "year": 2007
+    },
+    "en:76th Golden Globe Awards": {
+      "year": 2019
+    },
+    "en:67th Golden Globe Awards": {
+      "year": 2010
+    },
+    "en:72nd Golden Globe Awards": {
+      "year": 2015
+    },
+    "en:57th Golden Globe Awards": {
+      "year": 2000
+    },
+    "en:59th Golden Globe Awards": {
+      "year": 2002
+    },
+    "en:56th Golden Globe Awards": {
+      "year": 1999
+    },
+    "en:53rd Golden Globe Awards": {
+      "year": 1996
+    },
+    "en:77th Golden Globe Awards": {
+      "year": 2020
+    },
+    "en:52nd Golden Globe Awards": {
+      "year": 1995
+    },
+    "en:62nd Golden Globe Awards": {
+      "year": 2005
+    },
+    "en:18th Golden Globe Awards": {
+      "year": 1961
+    },
+    "en:22nd Golden Globe Awards": {
+      "year": 1965
+    },
+    "en:49th Golden Globe Awards": {
+      "year": 1992
+    },
+    "en:15th Golden Globe Awards": {
+      "year": 1958
+    },
+    "en:61st Golden Globe Awards": {
+      "year": 2004
+    },
+    "en:16th Golden Globe Awards": {
+      "year": 1959
+    },
+    "en:21st Golden Globe Awards": {
+      "year": 1964
+    },
+    "en:41st Golden Globe Awards": {
+      "year": 1984
+    },
+    "en:63rd Golden Globe Awards": {
+      "year": 2006
+    },
+    "en:39th Golden Globe Awards": {
+      "year": 1982
+    },
+    "en:46th Golden Globe Awards": {
+      "year": 1989
+    },
+    "en:35th Golden Globe Awards": {
+      "year": 1978
+    },
+    "en:32nd Golden Globe Awards": {
+      "year": 1975
+    },
+    "en:43rd Golden Globe Awards": {
+      "year": 1986
+    },
+    "en:33rd Golden Globe Awards": {
+      "year": 1976
+    },
+    "en:31st Golden Globe Awards": {
+      "year": 1974
+    },
+    "en:17th Golden Globe Awards": {
+      "year": 1960
+    },
+    "en:65th Golden Globe Awards": {
+      "year": 2008
+    },
+    "en:29th Golden Globe Awards": {
+      "year": 1972
+    },
+    "en:19th Golden Globe Awards": {
+      "year": 1962
+    },
+    "en:38th Golden Globe Awards": {
+      "year": 1981
+    },
+    "en:13th Golden Globe Awards": {
+      "year": 1956
+    },
+    "en:45th Golden Globe Awards": {
+      "year": 1988
+    },
+    "en:23rd Golden Globe Awards": {
+      "year": 1966
+    },
+    "en:3rd Golden Globe Awards": {
+      "year": 1946
+    },
+    "en:14th Golden Globe Awards": {
+      "year": 1957
+    },
+    "en:41st Goya Awards": {
+      "year": 2027
+    },
+    "en:39th European Film Awards": {
+      "year": 2026,
+      "revid": 1378202609
     }
   },
   "sites": {

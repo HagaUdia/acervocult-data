@@ -2,7 +2,7 @@
   "id": "rio",
   "label": "Festival do Rio",
   "kind": "festival",
-  "updated_at": "2026-09-28T11:26:30.375Z",
+  "updated_at": "2026-10-13T23:32:31.960Z",
   "editions": [
     {
       "year": 2026,
@@ -516,15 +516,15 @@
         {
           "name": "Amor Inteligente",
           "original_name": "Smart Love",
-          "year": null,
+          "year": 2026,
           "director": [
             "José Bial"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt47655573",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premiere-brasil-panorama-carioca-de-curtas",
@@ -532,7 +532,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:amor-inteligente",
+          "key": "tt47655573",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -1336,15 +1336,15 @@
         {
           "name": "Depois do Impacto: A História do Coritiba Crocodiles",
           "original_name": "After Contact",
-          "year": null,
+          "year": 2026,
           "director": [
             "Rafael Moraes"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt43756808",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-brasil-hors-concours",
@@ -1352,7 +1352,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:depois-do-impacto-a-historia-do-coritiba-crocodiles",
+          "key": "tt43756808",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -1790,15 +1790,15 @@
         {
           "name": "Elza",
           "original_name": "Elza",
-          "year": null,
+          "year": 2026,
           "director": [
             "Eryk Rocha"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt48395042",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-brasil-competicao-de-longas-metragens-documentario",
@@ -1806,7 +1806,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:elza",
+          "key": "tt48395042",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -1982,15 +1982,15 @@
         {
           "name": "Pai e Pai",
           "original_name": "Father, Father",
-          "year": null,
+          "year": 2026,
           "director": [
             "Jake Witzenfeld"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt36962079",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "expectativa",
@@ -1998,7 +1998,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:pai-e-pai",
+          "key": "tt36962079",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -2799,16 +2799,16 @@
         {
           "name": "Janela da Alma",
           "original_name": "Window of the Soul",
-          "year": null,
+          "year": 2001,
           "director": [
             "João Jardim",
             "Walter Carvalho"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt0297986",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-brasil-hors-concours-especial",
@@ -2816,7 +2816,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:janela-da-alma",
+          "key": "tt0297986",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -3789,15 +3789,15 @@
         {
           "name": "Medley",
           "original_name": "Medley",
-          "year": null,
+          "year": 2026,
           "director": [
             "Ana Luiza Azevedo"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt34452103",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-brasil-nova-geracao",
@@ -3805,7 +3805,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:medley",
+          "key": "tt34452103",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -3979,15 +3979,15 @@
         {
           "name": "Mr. Wonderful",
           "original_name": "Mr. Wonderful",
-          "year": null,
+          "year": 2026,
           "director": [
             "Susanna Lira"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt47661872",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-brasil-retratos",
@@ -3995,7 +3995,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:mr-wonderful",
+          "key": "tt47661872",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -6368,6 +6368,804 @@
           ],
           "key": "t:gigantes-em-chamas",
           "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "A Fabulosa Máquina do Tempo",
+          "original_name": "A Fabulosa Máquina do Tempo",
+          "year": 2026,
+          "director": [
+            "Eliza Capai"
+          ],
+          "imdb_id": "tt39206678",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "cinema-circulacao",
+              "label": "Cinema Circulação",
+              "result": "selected"
+            }
+          ],
+          "key": "tt39206678",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "Agentes Muito Especiais",
+          "original_name": "Agentes Muito Especiais",
+          "year": 2025,
+          "director": [
+            "Pedro Antonio"
+          ],
+          "imdb_id": "tt38208306",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "cinema-circulacao",
+              "label": "Cinema Circulação",
+              "result": "selected"
+            }
+          ],
+          "key": "tt38208306",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "Anatomia do Caos",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Dandara Ferreira"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "cinema-circulacao",
+              "label": "Cinema Circulação",
+              "result": "selected"
+            }
+          ],
+          "key": "t:anatomia-do-caos",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "Antígona 442 a.C",
+          "original_name": "Antígona 442 A.C.",
+          "year": 2021,
+          "director": [
+            "Maurício Farias"
+          ],
+          "imdb_id": "tt16951674",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "cinema-circulacao",
+              "label": "Cinema Circulação",
+              "result": "selected"
+            }
+          ],
+          "key": "tt16951674",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "As dores do mundo: Hyldon",
+          "original_name": "As Dores do mundo: Hyldon",
+          "year": 2025,
+          "director": [
+            "Emílio Domingos",
+            "Felipe David Rodrigues"
+          ],
+          "imdb_id": "tt38504125",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "cinema-circulacao",
+              "label": "Cinema Circulação",
+              "result": "selected"
+            }
+          ],
+          "key": "tt38504125",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "Bucking Fastard",
+          "original_name": "Bucking Fastard",
+          "year": 2026,
+          "director": [
+            "Werner Herzog"
+          ],
+          "imdb_id": "tt35670577",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "panorama-mundial",
+              "label": "Panorama Mundial",
+              "result": "selected"
+            }
+          ],
+          "key": "tt35670577",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "(Des)controle",
+          "original_name": "(Des)controle",
+          "year": 2025,
+          "director": [
+            "Carol Minêm",
+            "Rosane Svartman"
+          ],
+          "imdb_id": "tt33825630",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "cinema-circulacao",
+              "label": "Cinema Circulação",
+              "result": "selected"
+            }
+          ],
+          "key": "tt33825630",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "Eu e Meu Avô Nihonjin",
+          "original_name": "Eu e Meu Avô Nihonjin",
+          "year": 2025,
+          "director": [
+            "Celia Catunda"
+          ],
+          "imdb_id": "tt36640006",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "cinema-circulacao",
+              "label": "Cinema Circulação",
+              "result": "selected"
+            }
+          ],
+          "key": "tt36640006",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "De Dentro para Fora — A Arquitetura de Peter Zumthor",
+          "original_name": "From Inside Out: The Architecture of Peter Zumthor",
+          "year": 2026,
+          "director": [
+            "Wim Wenders"
+          ],
+          "imdb_id": "tt43704808",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "itinerarios-unicos",
+              "label": "Itinerários Únicos",
+              "result": "selected"
+            }
+          ],
+          "key": "tt43704808",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "Zona Zero",
+          "original_name": "Gunche",
+          "year": 2026,
+          "director": [
+            "Yeon Sang-ho"
+          ],
+          "imdb_id": "tt34385135",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "midnight-movies",
+              "label": "Midnight Movies",
+              "result": "selected"
+            }
+          ],
+          "key": "tt34385135",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "Homem com H",
+          "original_name": "Homem com H",
+          "year": 2025,
+          "director": [
+            "Esmir Filho"
+          ],
+          "imdb_id": "tt35301431",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "cinema-circulacao",
+              "label": "Cinema Circulação",
+              "result": "selected"
+            }
+          ],
+          "key": "tt35301431",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "Jean-Michel Basquiat",
+          "original_name": "Jean-Michel Basquiat",
+          "year": 2026,
+          "director": [
+            "Viridiana Lieberman",
+            "Quinn Wilson"
+          ],
+          "imdb_id": "tt36957857",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "itinerarios-unicos",
+              "label": "Itinerários Únicos",
+              "result": "selected"
+            }
+          ],
+          "key": "tt36957857",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "Kasa Branca",
+          "original_name": "Kasa Branca",
+          "year": 2024,
+          "director": [
+            "Luciano Vidigal"
+          ],
+          "imdb_id": "tt27911484",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "cinema-circulacao",
+              "label": "Cinema Circulação",
+              "result": "selected"
+            }
+          ],
+          "key": "tt27911484",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "Love Kills",
+          "original_name": "Love Kills",
+          "year": 2025,
+          "director": [
+            "Luiza Shelling Tubaldini"
+          ],
+          "imdb_id": "tt30582271",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "cinema-circulacao",
+              "label": "Cinema Circulação",
+              "result": "selected"
+            }
+          ],
+          "key": "tt30582271",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "Making Marie Antoinette",
+          "original_name": "Making Marie Antoinette",
+          "year": 2026,
+          "director": [
+            "Eleanor Coppola"
+          ],
+          "imdb_id": "tt43656794",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "itinerarios-unicos",
+              "label": "Itinerários Únicos",
+              "result": "selected"
+            }
+          ],
+          "key": "tt43656794",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "Malu",
+          "original_name": "Malu",
+          "year": 2024,
+          "director": [
+            "Pedro Freire"
+          ],
+          "imdb_id": "tt28500076",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "cinema-circulacao",
+              "label": "Cinema Circulação",
+              "result": "selected"
+            }
+          ],
+          "key": "tt28500076",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "Manas",
+          "original_name": "Manas",
+          "year": 2024,
+          "director": [
+            "Marianna Brennand"
+          ],
+          "imdb_id": "tt27911420",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "cinema-circulacao",
+              "label": "Cinema Circulação",
+              "result": "selected"
+            }
+          ],
+          "key": "tt27911420",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "Mario Carneiro - Gravura Feita com Luz",
+          "original_name": "Mario Carneiro: Cinema is Printmaking with Light",
+          "year": null,
+          "director": [
+            "Beth Formaggini"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "premiere-brasil-retratos",
+              "label": "Première Brasil: Retratos",
+              "result": "selected"
+            }
+          ],
+          "key": "t:mario-carneiro-gravura-feita-com-luz",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "Milton Bituca Nascimento",
+          "original_name": "Milton Bituca Nascimento",
+          "year": 2025,
+          "director": [
+            "Flavia Moraes"
+          ],
+          "imdb_id": "tt36286848",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "cinema-circulacao",
+              "label": "Cinema Circulação",
+              "result": "selected"
+            }
+          ],
+          "key": "tt36286848",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "Mussum, o Filmis",
+          "original_name": "Mussum: O Filmis",
+          "year": 2023,
+          "director": [
+            "Silvio Guindane"
+          ],
+          "imdb_id": "tt18560202",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "cinema-circulacao",
+              "label": "Cinema Circulação",
+              "result": "selected"
+            }
+          ],
+          "key": "tt18560202",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "Mistérios da Carne",
+          "original_name": "Mysterious Skin",
+          "year": 2004,
+          "director": [
+            "Gregg Araki"
+          ],
+          "imdb_id": "tt0370986",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "classicos-e-cults",
+              "label": "Clássicos e Cults",
+              "result": "selected"
+            }
+          ],
+          "key": "tt0370986",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "O Diário de Pilar na Amazônia",
+          "original_name": "O Diário de Pilar na Amazônia",
+          "year": 2025,
+          "director": [
+            "Eduardo Vaisman",
+            "Rodrigo Van Der Put"
+          ],
+          "imdb_id": "tt34382344",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "cinema-circulacao",
+              "label": "Cinema Circulação",
+              "result": "selected"
+            }
+          ],
+          "key": "tt34382344",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "O Último Azul",
+          "original_name": "O Último Azul",
+          "year": 2025,
+          "director": [
+            "Gabriel Mascaro"
+          ],
+          "imdb_id": "tt35340614",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "cinema-circulacao",
+              "label": "Cinema Circulação",
+              "result": "selected"
+            }
+          ],
+          "key": "tt35340614",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "O Último Episódio",
+          "original_name": "O Último Episódio",
+          "year": 2025,
+          "director": [
+            "Maurílio Martins"
+          ],
+          "imdb_id": "tt14797230",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "cinema-circulacao",
+              "label": "Cinema Circulação",
+              "result": "selected"
+            }
+          ],
+          "key": "tt14797230",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "Os Enforcados",
+          "original_name": "Os Enforcados",
+          "year": 2024,
+          "director": [
+            "Fernando Coimbra"
+          ],
+          "imdb_id": "tt31332352",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "cinema-circulacao",
+              "label": "Cinema Circulação",
+              "result": "selected"
+            }
+          ],
+          "key": "tt31332352",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "Pequenas Criaturas",
+          "original_name": "Pequenas Criaturas",
+          "year": 2025,
+          "director": [
+            "Anne Pinheiro Guimarães"
+          ],
+          "imdb_id": "tt31709080",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "cinema-circulacao",
+              "label": "Cinema Circulação",
+              "result": "selected"
+            }
+          ],
+          "key": "tt31709080",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "Quinze Dias",
+          "original_name": "Quinze Dias",
+          "year": 2026,
+          "director": [
+            "Daniel Lieff"
+          ],
+          "imdb_id": "tt40001699",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "cinema-circulacao",
+              "label": "Cinema Circulação",
+              "result": "selected"
+            }
+          ],
+          "key": "tt40001699",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "Rio de Clarice",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Nicole Allgranti",
+            "Maria Luiza ABoim",
+            "Eunice Gutman",
+            "Taciana Oliveira",
+            "Barbara Kahane"
+          ],
+          "people": [],
+          "year_hint": 2026,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "cinema-circulacao",
+              "label": "Cinema Circulação",
+              "result": "selected"
+            }
+          ],
+          "key": "t:rio-de-clarice",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "Ritas",
+          "original_name": "Ritas",
+          "year": 2025,
+          "director": [
+            "Oswaldo Santana",
+            "Karen Harley"
+          ],
+          "imdb_id": "tt36261475",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "cinema-circulacao",
+              "label": "Cinema Circulação",
+              "result": "selected"
+            }
+          ],
+          "key": "tt36261475",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "#SalveRosa",
+          "original_name": "#SalveRosa",
+          "year": 2025,
+          "director": [
+            "Susanna Lira"
+          ],
+          "imdb_id": "tt32221511",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "cinema-circulacao",
+              "label": "Cinema Circulação",
+              "result": "selected"
+            }
+          ],
+          "key": "tt32221511",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "Sexa",
+          "original_name": "Sexa",
+          "year": 2025,
+          "director": [
+            "Glória Pires"
+          ],
+          "imdb_id": "tt34748918",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "cinema-circulacao",
+              "label": "Cinema Circulação",
+              "result": "selected"
+            }
+          ],
+          "key": "tt34748918",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "Tainá e os Guardiões da Amazônia - Em busca da Flecha Azul",
+          "original_name": "Tainá e os Guardiões da Amazônia: Em Buscas da Flecha Azul",
+          "year": 2025,
+          "director": [
+            "Alê Camargo",
+            "Jordan Nugem"
+          ],
+          "imdb_id": "tt27801204",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "cinema-circulacao",
+              "label": "Cinema Circulação",
+              "result": "selected"
+            }
+          ],
+          "key": "tt27801204",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "Tender Loving Care",
+          "original_name": "Tender Loving Care",
+          "year": 2026,
+          "director": [
+            "Mike Leigh"
+          ],
+          "imdb_id": "tt35638092",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "panorama-mundial",
+              "label": "Panorama Mundial",
+              "result": "selected"
+            }
+          ],
+          "key": "tt35638092",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "Torre das Donzelas",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Suzanna Lira"
+          ],
+          "people": [],
+          "year_hint": 2025,
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "cinema-circulacao",
+              "label": "Cinema Circulação",
+              "result": "selected"
+            }
+          ],
+          "key": "t:torre-das-donzelas",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "Um Tio Quase Perfeito 2",
+          "original_name": "Um Tio Quase Perfeito 2",
+          "year": 2021,
+          "director": [
+            "Pedro Antonio"
+          ],
+          "imdb_id": "tt11057882",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "cinema-circulacao",
+              "label": "Cinema Circulação",
+              "result": "selected"
+            }
+          ],
+          "key": "tt11057882",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "Velhos Bandidos",
+          "original_name": "Velhos Bandidos",
+          "year": 2026,
+          "director": [
+            "Cláudio Torres"
+          ],
+          "imdb_id": "tt34382332",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "cinema-circulacao",
+              "label": "Cinema Circulação",
+              "result": "selected"
+            }
+          ],
+          "key": "tt34382332",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "Vitória",
+          "original_name": "Vitória",
+          "year": 2025,
+          "director": [
+            "Andrucha Waddington"
+          ],
+          "imdb_id": "tt26675379",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "cinema-circulacao",
+              "label": "Cinema Circulação",
+              "result": "selected"
+            }
+          ],
+          "key": "tt26675379",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "Xica da Silva",
+          "original_name": "Xica da Silva",
+          "year": 1976,
+          "director": [
+            "Carlos Diegues"
+          ],
+          "imdb_id": "tt0078512",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "cinema-circulacao",
+              "label": "Cinema Circulação",
+              "result": "selected"
+            }
+          ],
+          "key": "tt0078512",
+          "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "Your Mother Your Mother Your Mother",
+          "original_name": "Your Mother Your Mother Your Mother",
+          "year": 2026,
+          "director": [
+            "Bassam Tariq"
+          ],
+          "imdb_id": "tt35856037",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "panorama-mundial",
+              "label": "Panorama Mundial",
+              "result": "selected"
+            }
+          ],
+          "key": "tt35856037",
+          "first_seen": "2026-10-13T23:32:31.960Z"
         }
       ]
     },

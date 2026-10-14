@@ -2,7 +2,7 @@
   "id": "annecy",
   "label": "Annecy",
   "kind": "festival",
-  "updated_at": "2026-09-28T11:26:30.375Z",
+  "updated_at": "2026-10-13T23:32:31.960Z",
   "editions": [
     {
       "year": 2026,
@@ -1940,8 +1940,8 @@
         },
         {
           "name": "A Dog's Life",
-          "original_name": null,
-          "year": null,
+          "original_name": "Hondenleven",
+          "year": 2025,
           "director": [
             "Sophie Olga de Jong",
             "Sytake Kok"
@@ -1950,9 +1950,9 @@
             "Sophie Olga de Jong",
             "Sytske Kok"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt38120512",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "jeune-public",
@@ -1965,7 +1965,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-dogs-life",
+          "key": "tt38120512",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -7209,17 +7209,17 @@
         },
         {
           "name": "Penguin",
-          "original_name": null,
-          "year": null,
+          "original_name": "Penguin",
+          "year": 2026,
           "director": [
             "Kaspar Jancis"
           ],
           "people": [
             "Kaspar Jancis"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt47737074",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-films",
@@ -7227,7 +7227,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:penguin",
+          "key": "tt47737074",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -8987,16 +8987,16 @@
         },
         {
           "name": "Agathe Must Go",
-          "original_name": null,
-          "year": null,
+          "original_name": "Agathe doit partir",
+          "year": 2025,
           "director": [
             "Dylan Hall",
             "Maya Matar"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt39940793",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "graduation-films",
@@ -9004,7 +9004,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:agathe-must-go",
+          "key": "tt39940793",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {

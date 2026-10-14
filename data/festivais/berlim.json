@@ -2,7 +2,7 @@
   "id": "berlim",
   "label": "Berlim",
   "kind": "festival",
-  "updated_at": "2026-09-28T11:26:30.375Z",
+  "updated_at": "2026-10-13T23:32:31.960Z",
   "editions": [
     {
       "year": 2026,
@@ -1133,7 +1133,7 @@
             "Lucas Vignale"
           ],
           "imdb_id": "tt39381628",
-          "wikidata_id": null,
+          "wikidata_id": "Q140137690",
           "type": "movie",
           "categories": [
             {
@@ -1198,7 +1198,7 @@
             "Muriel d'Ansembourg"
           ],
           "imdb_id": "tt8760666",
-          "wikidata_id": null,
+          "wikidata_id": "Q139568167",
           "type": "movie",
           "categories": [
             {
@@ -1781,7 +1781,7 @@
             "Adrian Goiginger"
           ],
           "imdb_id": "tt38939444",
-          "wikidata_id": null,
+          "wikidata_id": "Q131541812",
           "type": "movie",
           "categories": [
             {
@@ -5771,6 +5771,26 @@
           ],
           "key": "tt24654152",
           "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "A Child of My Own",
+          "original_name": "Un hijo propio",
+          "year": 2026,
+          "director": [
+            "Maite Alberdi"
+          ],
+          "imdb_id": "tt33565722",
+          "wikidata_id": "Q140771576",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "special-presentations",
+              "label": "Special Presentations",
+              "result": "selected"
+            }
+          ],
+          "key": "tt33565722",
+          "first_seen": "2026-10-13T23:32:31.960Z"
         }
       ]
     },

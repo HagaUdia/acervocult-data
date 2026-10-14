@@ -2,7 +2,7 @@
   "id": "veneza",
   "label": "Veneza",
   "kind": "festival",
-  "updated_at": "2026-09-28T11:26:30.375Z",
+  "updated_at": "2026-10-13T23:32:31.960Z",
   "editions": [
     {
       "year": 2026,
@@ -1533,7 +1533,7 @@
             "Phuttiphong Aroonpheng"
           ],
           "imdb_id": "tt29495221",
-          "wikidata_id": null,
+          "wikidata_id": "Q141710275",
           "type": "movie",
           "categories": [
             {
@@ -1691,7 +1691,7 @@
             "Ann Sirot and Raphaël Balboni"
           ],
           "imdb_id": null,
-          "wikidata_id": null,
+          "wikidata_id": "Q141697787",
           "type": null,
           "categories": [
             {
@@ -1705,7 +1705,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:diane-in-the-loop",
+          "key": "wd:Q141697787",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -2412,7 +2412,7 @@
             "Alina Serban"
           ],
           "imdb_id": "tt29256288",
-          "wikidata_id": null,
+          "wikidata_id": "Q141710273",
           "type": "movie",
           "categories": [
             {
@@ -4314,15 +4314,15 @@
         },
         {
           "name": "Puca",
-          "original_name": null,
-          "year": null,
+          "original_name": "Puca",
+          "year": 2026,
           "director": [
             "Sara Scalera"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt48410324",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "sic-short-italian-cinema",
@@ -4330,7 +4330,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:puca",
+          "key": "tt48410324",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -4408,15 +4408,15 @@
         },
         {
           "name": "Les métamorphoses, au féminin",
-          "original_name": null,
-          "year": null,
+          "original_name": "Les métamorphoses, au féminin",
+          "year": 2026,
           "director": [
             "Maria Giménez Cavallo"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt48410621",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "special-events-short-films",
@@ -4424,7 +4424,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:les-metamorphoses-au-feminin",
+          "key": "tt48410621",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -4435,7 +4435,7 @@
             "Kuba Dorabialski"
           ],
           "imdb_id": "tt43086591",
-          "wikidata_id": null,
+          "wikidata_id": "Q141654900",
           "type": "movie",
           "categories": [
             {
@@ -4732,15 +4732,15 @@
         },
         {
           "name": "Even If Hell Came",
-          "original_name": null,
-          "year": null,
+          "original_name": "Se venisse anche l'inferno",
+          "year": 2026,
           "director": [
             "Samuele Rossi"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt38689714",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "special-events",
@@ -4748,7 +4748,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:even-if-hell-came",
+          "key": "tt38689714",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -6087,16 +6087,16 @@
         },
         {
           "name": "Dai nostri inviati.: La Rai racconta la Mostra del Cinema di Venezia 1990-2000",
-          "original_name": null,
-          "year": null,
+          "original_name": "Dai nostri inviati. La RAI racconta la Mostra del Cinema di Venezia (1990-2000)",
+          "year": 2025,
           "director": [
             "Giuseppe Giannotti",
             "Enrico Salvatori"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt48488611",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "non-fiction",
@@ -6104,7 +6104,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:dai-nostri-inviati-la-rai-racconta-la-mostra-del-cinema-di-venezia-1990-2000",
+          "key": "tt48488611",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -88234,15 +88234,15 @@
         },
         {
           "name": "Sorriso amaro",
-          "original_name": null,
-          "year": null,
+          "original_name": "Sorriso amaro",
+          "year": 2003,
           "director": [
             "Matteo Bellizzi"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt47662767",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "medium-length-films",
@@ -88250,7 +88250,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:sorriso-amaro",
+          "key": "tt47662767",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
