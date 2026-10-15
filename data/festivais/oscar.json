@@ -2,7 +2,7 @@
   "id": "oscar",
   "label": "Oscar",
   "kind": "award",
-  "updated_at": "2026-09-28T11:26:30.375Z",
+  "updated_at": "2026-10-15T07:00:33.304Z",
   "editions": [
     {
       "year": 2026,
@@ -1298,7 +1298,9 @@
           "name": "Avatar: Fogo e Cinzas",
           "original_name": "Avatar: Fire and Ash",
           "year": 2025,
-          "director": [],
+          "director": [
+            "James Cameron"
+          ],
           "imdb_id": "tt1757678",
           "wikidata_id": "Q29580929",
           "type": "movie",

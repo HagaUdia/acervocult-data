@@ -2,7 +2,7 @@
   "id": "globo",
   "label": "Globo de Ouro",
   "kind": "award",
-  "updated_at": "2026-09-28T11:26:30.375Z",
+  "updated_at": "2026-10-15T07:00:33.304Z",
   "editions": [
     {
       "year": 2026,
@@ -959,7 +959,9 @@
           "name": "Avatar: Fogo e Cinzas",
           "original_name": "Avatar: Fire and Ash",
           "year": 2025,
-          "director": [],
+          "director": [
+            "James Cameron"
+          ],
           "imdb_id": "tt1757678",
           "wikidata_id": "Q29580929",
           "type": "movie",
@@ -997,6 +999,81 @@
           ],
           "key": "tt9603208",
           "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Good Hang with Amy Poehler",
+          "original_name": null,
+          "year": null,
+          "director": [],
+          "imdb_id": "tt35684666",
+          "wikidata_id": "Q135185379",
+          "type": null,
+          "categories": [
+            {
+              "id": "best-podcast",
+              "label": "Best Podcast",
+              "result": "winner"
+            }
+          ],
+          "key": "tt35684666",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Armchair Expert Umbrella",
+          "original_name": null,
+          "year": null,
+          "director": [],
+          "imdb_id": "tt11857594",
+          "wikidata_id": "Q65070442",
+          "type": null,
+          "categories": [
+            {
+              "id": "best-podcast",
+              "label": "Best Podcast",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt11857594",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Call Her Daddy",
+          "original_name": null,
+          "year": null,
+          "director": [],
+          "imdb_id": "tt10457036",
+          "wikidata_id": "Q104863837",
+          "type": null,
+          "categories": [
+            {
+              "id": "best-podcast",
+              "label": "Best Podcast",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt10457036",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "The Mel Robbins Podcast",
+          "original_name": null,
+          "year": null,
+          "director": [],
+          "people": [
+            "Mel Robbins"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "best-podcast",
+              "label": "Best Podcast",
+              "result": "nominee"
+            }
+          ],
+          "key": "t:the-mel-robbins-podcast",
+          "first_seen": "2026-10-15T07:00:33.304Z"
         }
       ]
     },

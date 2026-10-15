@@ -2,7 +2,7 @@
   "id": "sxsw",
   "label": "SXSW",
   "kind": "festival",
-  "updated_at": "2026-09-28T11:26:30.375Z",
+  "updated_at": "2026-10-15T07:00:33.304Z",
   "editions": [
     {
       "year": 2026,
@@ -1540,7 +1540,7 @@
             "Caleb Phillips"
           ],
           "imdb_id": "tt37340919",
-          "wikidata_id": null,
+          "wikidata_id": "Q139822839",
           "type": "movie",
           "categories": [
             {

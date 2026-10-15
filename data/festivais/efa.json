@@ -2,8 +2,1267 @@
   "id": "efa",
   "label": "Prêmios do Cinema Europeu (EFA)",
   "kind": "award",
-  "updated_at": "2026-09-28T11:26:30.375Z",
+  "updated_at": "2026-10-15T07:00:33.304Z",
   "editions": [
+    {
+      "year": 2026,
+      "edition": "39th European Film Awards",
+      "source_url": "https://en.wikipedia.org/wiki/39th_European_Film_Awards",
+      "first_seen": "2026-10-15T07:00:33.304Z",
+      "films": [
+        {
+          "name": "Decorado",
+          "original_name": "Decorado",
+          "year": 2025,
+          "director": [
+            "Alberto Vázquez Rico"
+          ],
+          "imdb_id": "tt26923383",
+          "wikidata_id": "Q135431214",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "animation",
+              "label": "Animation",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt26923383",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "In Waves",
+          "original_name": "In Waves",
+          "year": 2026,
+          "director": [],
+          "imdb_id": "tt27672817",
+          "wikidata_id": "Q140319763",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "animation",
+              "label": "Animation",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt27672817",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Iron Boy",
+          "original_name": "Le corset",
+          "year": 2026,
+          "director": [
+            "Louis Clichy"
+          ],
+          "imdb_id": "tt36639956",
+          "wikidata_id": "Q139623089",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "animation",
+              "label": "Animation",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt36639956",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Jim Queen",
+          "original_name": "Jim Queen",
+          "year": 2026,
+          "director": [
+            "Marco Nguyen",
+            "Nicolas Athané"
+          ],
+          "imdb_id": "tt36955518",
+          "wikidata_id": "Q139159596",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "animation",
+              "label": "Animation",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt36955518",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Julián",
+          "original_name": "Julián",
+          "year": 2026,
+          "director": [
+            "Louise Bagnall"
+          ],
+          "imdb_id": "tt31109276",
+          "wikidata_id": "Q141019617",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "animation",
+              "label": "Animation",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt31109276",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Lucy Lost",
+          "original_name": "Lucy Lost",
+          "year": 2026,
+          "director": [
+            "Olivier Clert"
+          ],
+          "imdb_id": "tt10569744",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "animation",
+              "label": "Animation",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt10569744",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Monster Mia",
+          "original_name": "Monster Mia",
+          "year": 2026,
+          "director": [
+            "Verena Fels"
+          ],
+          "imdb_id": "tt38807889",
+          "wikidata_id": "Q140602704",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "animation",
+              "label": "Animation",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt38807889",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Viva Carmen",
+          "original_name": "Carmen, l'oiseau rebelle",
+          "year": 2026,
+          "director": [
+            "Sébastien Laudenbach"
+          ],
+          "imdb_id": "tt29034109",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "animation",
+              "label": "Animation",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt29034109",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "A Fox Under a Pink Moon",
+          "original_name": "A Fox Under a Pink Moon",
+          "year": 2025,
+          "director": [],
+          "imdb_id": "tt18163224",
+          "wikidata_id": "Q140935557",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "documentary",
+              "label": "Documentary",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt18163224",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Amazomania",
+          "original_name": "Amazomania",
+          "year": 2026,
+          "director": [
+            "Nathan Grossman"
+          ],
+          "imdb_id": "tt39920935",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "documentary",
+              "label": "Documentary",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt39920935",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Bugboy",
+          "original_name": "Bugboy",
+          "year": 2026,
+          "director": [],
+          "imdb_id": "tt40007233",
+          "wikidata_id": "Q141005294",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "documentary",
+              "label": "Documentary",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt40007233",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Citizen Osama",
+          "original_name": "Al Mowaten Osama",
+          "year": 2026,
+          "director": [
+            "Ahmed Hassouna"
+          ],
+          "imdb_id": "tt43704371",
+          "wikidata_id": "Q141251269",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "documentary",
+              "label": "Documentary",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt43704371",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Closure",
+          "original_name": "Bez konca",
+          "year": 2026,
+          "director": [
+            "Michał Marczak"
+          ],
+          "imdb_id": "tt39075417",
+          "wikidata_id": "Q137637524",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "documentary",
+              "label": "Documentary",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt39075417",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Everybody To Kenmure Street",
+          "original_name": "Everybody to Kenmure Street",
+          "year": 2026,
+          "director": [
+            "Felipe Bustos Sierra"
+          ],
+          "imdb_id": "tt36966956",
+          "wikidata_id": "Q137396843",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "documentary",
+              "label": "Documentary",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt36966956",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "La belle année",
+          "original_name": "La belle année",
+          "year": 2026,
+          "director": [
+            "Angelica Ruffier"
+          ],
+          "imdb_id": "tt30958418",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "documentary",
+              "label": "Documentary",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt30958418",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Letters from the Silenced Country",
+          "original_name": null,
+          "year": null,
+          "director": [],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "documentary",
+              "label": "Documentary",
+              "result": "nominee"
+            }
+          ],
+          "key": "t:letters-from-the-silenced-country",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "NAZA",
+          "original_name": "Naza",
+          "year": 2026,
+          "director": [
+            "Yuval Abraham",
+            "Rachel Szor"
+          ],
+          "imdb_id": "tt44766123",
+          "wikidata_id": "Q141168534",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "documentary",
+              "label": "Documentary",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt44766123",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Queer Edward II",
+          "original_name": "Queer Edward II",
+          "year": 2026,
+          "director": [],
+          "imdb_id": "tt43704509",
+          "wikidata_id": "Q141322193",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "documentary",
+              "label": "Documentary",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt43704509",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Viendra la révolution",
+          "original_name": "Rehearsals for a Revolution",
+          "year": 2026,
+          "director": [
+            "Pegah Ahangarani"
+          ],
+          "imdb_id": "tt41593500",
+          "wikidata_id": "Q139584611",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "documentary",
+              "label": "Documentary",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt41593500",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "To Hold A Mountain",
+          "original_name": "Planina",
+          "year": 2026,
+          "director": [
+            "Petar Glomazić",
+            "Biljana Tutorov"
+          ],
+          "imdb_id": "tt39150043",
+          "wikidata_id": "Q140419795",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "documentary",
+              "label": "Documentary",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt39150043",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Traces",
+          "original_name": "Slidy",
+          "year": 2026,
+          "director": [
+            "Marysya Nikityuk",
+            "Alisa Kovalenko"
+          ],
+          "imdb_id": "tt39368581",
+          "wikidata_id": "Q138307560",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "documentary",
+              "label": "Documentary",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt39368581",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Whispers in the Woods",
+          "original_name": "Le chant des forêts",
+          "year": 2025,
+          "director": [
+            "Vincent Munier"
+          ],
+          "imdb_id": "tt32368068",
+          "wikidata_id": "Q136789573",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "documentary",
+              "label": "Documentary",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt32368068",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "A Day in the Life of Jo: Chapter Phaedra",
+          "original_name": "Mia mera sti zoi tis Tzo: Kefalaio Faidra",
+          "year": 2026,
+          "director": [],
+          "imdb_id": "tt43704171",
+          "wikidata_id": "Q141202402",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt43704171",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Notre Salut",
+          "original_name": "Notre salut",
+          "year": 2026,
+          "director": [
+            "Emmanuel Marre"
+          ],
+          "imdb_id": "tt41593304",
+          "wikidata_id": "Q139078156",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt41593304",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Amarga Navidad",
+          "original_name": "Amarga Navidad",
+          "year": 2026,
+          "director": [
+            "Pedro Almodóvar"
+          ],
+          "imdb_id": "tt28088049",
+          "wikidata_id": "Q134839394",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt28088049",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Black Money for White Nights",
+          "original_name": "Cherni pari za beli noshti",
+          "year": 2026,
+          "director": [
+            "Kristina Grozeva",
+            "Petar Valchanov"
+          ],
+          "imdb_id": "tt38799410",
+          "wikidata_id": "Q140460447",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt38799410",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Brace Your Heart",
+          "original_name": "Garrat du Váimmu",
+          "year": 2026,
+          "director": [
+            "Amanda Kernell"
+          ],
+          "imdb_id": "tt29010951",
+          "wikidata_id": "Q133879455",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt29010951",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Bucking Fastard",
+          "original_name": "Bucking Fastard",
+          "year": 2026,
+          "director": [
+            "Werner Herzog"
+          ],
+          "imdb_id": "tt35670577",
+          "wikidata_id": "Q133833410",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt35670577",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Bunker (filme)",
+          "original_name": "Bunker",
+          "year": 2026,
+          "director": [
+            "Florian Zeller"
+          ],
+          "imdb_id": "tt36770512",
+          "wikidata_id": "Q137295429",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt36770512",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Conversation with the Sea",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Muʼayyad ʻAlyān"
+          ],
+          "imdb_id": "tt43714261",
+          "wikidata_id": "Q140883825",
+          "type": null,
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt43714261",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Coward",
+          "original_name": "Coward",
+          "year": 2026,
+          "director": [
+            "Lukas Dhont"
+          ],
+          "imdb_id": "tt39328391",
+          "wikidata_id": "Q138793955",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt39328391",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Dau (2026)",
+          "original_name": "Dau",
+          "year": 2026,
+          "director": [
+            "Ilya Khrzhanovsky"
+          ],
+          "imdb_id": "tt43702526",
+          "wikidata_id": "Q140676305",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt43702526",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Diane in the Loop",
+          "original_name": null,
+          "year": null,
+          "director": [],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": "Q141697787",
+          "type": null,
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "wd:Q141697787",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Dua",
+          "original_name": "Dua",
+          "year": 2026,
+          "director": [
+            "Blerta Basholli"
+          ],
+          "imdb_id": "tt38765198",
+          "wikidata_id": "Q139325813",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt38765198",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Elsinore (filme)",
+          "original_name": "Elsinore",
+          "year": 2026,
+          "director": [
+            "Simon Stone"
+          ],
+          "imdb_id": "tt37363222",
+          "wikidata_id": "Q137722359",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt37363222",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Everytime",
+          "original_name": "Everytime",
+          "year": 2026,
+          "director": [
+            "Sandra Wollner"
+          ],
+          "imdb_id": "tt41592057",
+          "wikidata_id": "Q139069280",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt41592057",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "A Terra do Meu Pai",
+          "original_name": "Fatherland",
+          "year": 2026,
+          "director": [
+            "Paweł Pawlikowski"
+          ],
+          "imdb_id": "tt37304295",
+          "wikidata_id": "Q135825188",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt37304295",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Fjord",
+          "original_name": "Fjord",
+          "year": 2026,
+          "director": [
+            "Cristian Mungiu"
+          ],
+          "imdb_id": "tt35410859",
+          "wikidata_id": "Q137652478",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt35410859",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Growth of the Soil",
+          "original_name": "Markens grøde",
+          "year": 2026,
+          "director": [
+            "Hans Petter Moland"
+          ],
+          "imdb_id": "tt5782552",
+          "wikidata_id": "Q140681805",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt5782552",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Hold Onto Me",
+          "original_name": "Hold Onto Me",
+          "year": 2026,
+          "director": [
+            "Myrsini Aristidou"
+          ],
+          "imdb_id": "tt36840995",
+          "wikidata_id": "Q137435416",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt36840995",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "How to Divorce during the War",
+          "original_name": "Skyrybos karo metu",
+          "year": 2026,
+          "director": [
+            "Andrius Blaževičius"
+          ],
+          "imdb_id": "tt29009930",
+          "wikidata_id": "Q137356281",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt29009930",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "I Matter",
+          "original_name": "Eu contez",
+          "year": 2026,
+          "director": [],
+          "imdb_id": "tt29256288",
+          "wikidata_id": "Q141710273",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt29256288",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "I See Buildings Fall Like Lightning",
+          "original_name": "I See Buildings Fall Like Lightning",
+          "year": 2026,
+          "director": [
+            "Clio Barnard"
+          ],
+          "imdb_id": "tt38991615",
+          "wikidata_id": "Q133825173",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt38991615",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Iván & Hadoum",
+          "original_name": "Iván & Hadoum",
+          "year": 2026,
+          "director": [
+            "Ian de la Rosa"
+          ],
+          "imdb_id": "tt27219371",
+          "wikidata_id": "Q137441671",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt27219371",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "La Bola Negra",
+          "original_name": "La bola negra",
+          "year": 2026,
+          "director": [
+            "Javier Calvo",
+            "Javier Ambrossi"
+          ],
+          "imdb_id": "tt35511966",
+          "wikidata_id": "Q134548431",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt35511966",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "La Gradiva",
+          "original_name": "La Gradiva",
+          "year": 2026,
+          "director": [
+            "Marine Atlan"
+          ],
+          "imdb_id": "tt36107185",
+          "wikidata_id": "Q139374374",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt36107185",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Minotauro",
+          "original_name": "Minotaur",
+          "year": 2026,
+          "director": [
+            "Andrey Zvyagintsev"
+          ],
+          "imdb_id": "tt37118301",
+          "wikidata_id": "Q137612975",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt37118301",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Only Beautiful Things to Look At",
+          "original_name": "Pramen",
+          "year": 2026,
+          "director": [
+            "Ivan Ostrochovský"
+          ],
+          "imdb_id": "tt42577282",
+          "wikidata_id": "Q140373470",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt42577282",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Rose",
+          "original_name": "Rose",
+          "year": 2026,
+          "director": [
+            "Markus Schleinzer"
+          ],
+          "imdb_id": "tt25399154",
+          "wikidata_id": "Q136458718",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt25399154",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Shame and Money",
+          "original_name": "Shame and Money",
+          "year": 2026,
+          "director": [
+            "Visar Morina"
+          ],
+          "imdb_id": "tt39140264",
+          "wikidata_id": "Q137596774",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt39140264",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Supporting Role",
+          "original_name": "Supporting Role",
+          "year": 2026,
+          "director": [
+            "Ana Urushadze"
+          ],
+          "imdb_id": "tt31326337",
+          "wikidata_id": "Q140694635",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt31326337",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Tender Loving Care",
+          "original_name": "Tender Loving Care",
+          "year": 2026,
+          "director": [
+            "Mike Leigh"
+          ],
+          "imdb_id": "tt35638092",
+          "wikidata_id": "Q140570558",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt35638092",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "El ser querido",
+          "original_name": "El ser querido",
+          "year": 2026,
+          "director": [
+            "Rodrigo Sorogoyen"
+          ],
+          "imdb_id": "tt33451014",
+          "wikidata_id": "Q132240260",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt33451014",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "The Diary of a Chambermaid",
+          "original_name": "Le journal d'une femme de chambre",
+          "year": 2026,
+          "director": [
+            "Radu Jude"
+          ],
+          "imdb_id": "tt38785098",
+          "wikidata_id": "Q139377859",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt38785098",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Das Geträumte Abenteuer",
+          "original_name": "Das geträumte Abenteuer",
+          "year": 2026,
+          "director": [
+            "Valeska Grisebach"
+          ],
+          "imdb_id": "tt21188986",
+          "wikidata_id": "Q138996634",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt21188986",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "The Guest",
+          "original_name": null,
+          "year": null,
+          "director": [],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "t:the-guest",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "The Soundman",
+          "original_name": "The Soundman",
+          "year": 2025,
+          "director": [
+            "Frank Van Passel"
+          ],
+          "imdb_id": "tt22872358",
+          "wikidata_id": "Q137104883",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt22872358",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "L'estranea",
+          "original_name": "L'estranea",
+          "year": 2026,
+          "director": [
+            "Paolo Strippoli"
+          ],
+          "imdb_id": "tt23411728",
+          "wikidata_id": "Q140739770",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt23411728",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "To the Victory!",
+          "original_name": "To the Victory!",
+          "year": 2025,
+          "director": [
+            "Valentyn Vasyanovych"
+          ],
+          "imdb_id": "tt37661902",
+          "wikidata_id": "Q136294759",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt37661902",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Truly Naked",
+          "original_name": "Truly Naked",
+          "year": 2026,
+          "director": [
+            "Muriel D'ansembourg"
+          ],
+          "imdb_id": "tt8760666",
+          "wikidata_id": "Q139568167",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt8760666",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Woman Unknown",
+          "original_name": "Kvinde ukendt",
+          "year": 2026,
+          "director": [
+            "May el-Toukhy"
+          ],
+          "imdb_id": "tt34888026",
+          "wikidata_id": "Q140743054",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt34888026",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Yellow Letters",
+          "original_name": "Gelbe Briefe",
+          "year": 2026,
+          "director": [
+            "İlker Çatak"
+          ],
+          "imdb_id": "tt32888226",
+          "wikidata_id": "Q136163095",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt32888226",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "You Don't Belong Here",
+          "original_name": "Nu e locul tau aici",
+          "year": 2026,
+          "director": [
+            "Florin Șerban"
+          ],
+          "imdb_id": "tt39228759",
+          "wikidata_id": "Q140680088",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt39228759",
+          "first_seen": "2026-10-15T07:00:33.304Z"
+        }
+      ]
+    },
     {
       "year": 2025,
       "edition": "38th European Film Awards",
