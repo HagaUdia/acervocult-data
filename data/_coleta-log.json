@@ -1,6 +1,46 @@
 {
   "runs": [
     {
+      "startedAt": "2026-10-16T03:48:07.942Z",
+      "finishedAt": "2026-10-16T03:48:32.642Z",
+      "only": [
+        "arte1"
+      ],
+      "results": [
+        {
+          "source": "arte1",
+          "label": "[C] Arte1",
+          "method": "justwatch-pacote",
+          "primary": "justwatch-pacote",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "justwatch-pacote",
+              "count": 84,
+              "ms": 1040,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 84,
+            "validos": 84,
+            "revisao": 0,
+            "novos": 84,
+            "atualizados": 0,
+            "completados": 0,
+            "total": 84,
+            "no_catalogo": 82,
+            "capas_sem_metahub": 2,
+            "capas_conferidas": 82,
+            "tmdb_matched": 5,
+            "tmdb_unmatched": 2
+          },
+          "warnings": [],
+          "ms": 24700
+        }
+      ]
+    },
+    {
       "startedAt": "2026-10-16T03:47:56.328Z",
       "finishedAt": "2026-10-16T03:48:01.519Z",
       "only": [

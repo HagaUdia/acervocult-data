@@ -262800,6 +262800,129 @@
         "imdb_id": null
       },
       "earliest_release_year": 2026
+    },
+    "/tv/316211/external_ids": {
+      "id": 316211,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": null,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/818180?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 818180,
+      "title": "Um Breve Encontro",
+      "original_title": "Um Breve Encontro",
+      "release_date": "1968-04-14",
+      "poster_path": "/cvFKEpXuaHNFdZ5ymLlgstcItes.jpg",
+      "popularity": 1.2531,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Italo Morelli"
+          },
+          {
+            "job": "Director",
+            "name": "Walter George Durst"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt38846052"
+      },
+      "earliest_release_year": 1968
+    },
+    "/movie/1467111?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1467111,
+      "title": "Made in Dafen",
+      "original_title": "Made in Dafen",
+      "release_date": "2025-04-19",
+      "poster_path": "/xgA54tw4rGaqQIFcAuSw60IkvrV.jpg",
+      "popularity": 0.7425,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Eduardo Rajabally"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2025
+    },
+    "/movie/770238?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 770238,
+      "title": "A Invenção Do Luxo",
+      "original_title": "L'Invention du luxe à la française",
+      "release_date": "2020-11-28",
+      "poster_path": "/zH0coBNjhFaU4nVGsddVRkS50E8.jpg",
+      "popularity": 0.8967,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Stéphane Bégoin"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt13588852"
+      },
+      "earliest_release_year": 2020
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Gauguin no Taiti - O Paraíso Perdido&region=BR&year=2019": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Gauguin no Taiti - O Paraíso Perdido&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Luiz Melodia: No Coração do Brasil&region=BR&year=2025": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1262155,
+          "title": "Luiz Melodia - No Coração do Brasil",
+          "original_title": "Luiz Melodia - No Coração do Brasil",
+          "release_date": "2025-01-16",
+          "poster_path": "/5J3pHjmnCyj1DpaeBsb0BNKOq2J.jpg",
+          "popularity": 1.3313
+        }
+      ]
+    },
+    "/movie/1262155?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1262155,
+      "title": "Luiz Melodia - No Coração do Brasil",
+      "original_title": "Luiz Melodia - No Coração do Brasil",
+      "release_date": "2025-01-16",
+      "poster_path": "/5J3pHjmnCyj1DpaeBsb0BNKOq2J.jpg",
+      "popularity": 1.671,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Alessandra Dorgan"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt32124834"
+      },
+      "earliest_release_year": 2024
     }
   },
   "at": {
@@ -264654,6 +264777,9 @@
     "/movie/1762915?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792122446781,
     "/movie/1695514?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792122465134,
     "/movie/1542309?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792122478125,
-    "/movie/1705584?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792122478314
+    "/movie/1705584?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792122478314,
+    "/movie/1467111?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792122491760,
+    "/search/movie?include_adult=false&language=pt-BR&query=Gauguin no Taiti - O Paraíso Perdido&region=BR&year=2019": 1792122492147,
+    "/search/movie?include_adult=false&language=pt-BR&query=Gauguin no Taiti - O Paraíso Perdido&region=BR&year=undefined": 1792122492330
   }
 }
