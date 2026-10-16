@@ -1,6 +1,46 @@
 {
   "runs": [
     {
+      "startedAt": "2026-10-16T03:47:23.940Z",
+      "finishedAt": "2026-10-16T03:47:36.888Z",
+      "only": [
+        "cinemark"
+      ],
+      "results": [
+        {
+          "source": "cinemark",
+          "label": "[C] Cinemark",
+          "method": "justwatch-pacote",
+          "primary": "justwatch-pacote",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "justwatch-pacote",
+              "count": 45,
+              "ms": 1027,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 45,
+            "validos": 45,
+            "revisao": 0,
+            "novos": 45,
+            "atualizados": 0,
+            "completados": 0,
+            "total": 45,
+            "no_catalogo": 45,
+            "capas_sem_metahub": 1,
+            "capas_conferidas": 45,
+            "tmdb_matched": 5,
+            "tmdb_unmatched": 0
+          },
+          "warnings": [],
+          "ms": 12948
+        }
+      ]
+    },
+    {
       "startedAt": "2026-10-13T20:13:31.523Z",
       "finishedAt": "2026-10-13T21:50:05.068Z",
       "only": null,

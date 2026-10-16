@@ -262655,6 +262655,110 @@
         "imdb_id": "tt0014646"
       },
       "earliest_release_year": 1924
+    },
+    "/movie/1401757?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1401757,
+      "title": "Antártida",
+      "original_title": "Antártida",
+      "release_date": "2026-09-17",
+      "poster_path": "/5bg61sH6kqPVWcBoFUDoe6eqfoX.jpg",
+      "popularity": 1.1539,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Bruno Safadi"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt5691086"
+      },
+      "earliest_release_year": 2026
+    },
+    "/movie/1225746?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1225746,
+      "title": "Precisamos Falar",
+      "original_title": "Precisamos Falar",
+      "release_date": "2026-09-24",
+      "poster_path": "/b0Hd4n2Xm2zWEyp2XR3UHqO58FK.jpg",
+      "popularity": 1.2579,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Pedro Waddington"
+          },
+          {
+            "job": "Director",
+            "name": "Rebeca Diniz"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt29580289"
+      },
+      "earliest_release_year": 2024
+    },
+    "/movie/1662168?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1662168,
+      "title": "Authentic Games: No Império Desconectado",
+      "original_title": "Authentic Games: No Império Desconectado",
+      "release_date": "2026-05-14",
+      "poster_path": "/9xkEKCOfVC44Awe2gHJQrt02eak.jpg",
+      "popularity": 1.4866,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Bruno Murtinho"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt35945025"
+      },
+      "earliest_release_year": 2026
+    },
+    "/movie/1400119?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1400119,
+      "title": "Era Uma Vez Minha 1ª Vez",
+      "original_title": "Era Uma Vez Minha 1ª Vez",
+      "release_date": "2026-09-17",
+      "poster_path": "/6byulzTctYTBIvJGS4bsNSnmBof.jpg",
+      "popularity": 2.0838,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Claudia Castro"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt39796908"
+      },
+      "earliest_release_year": 2026
+    },
+    "/movie/1762915?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1762915,
+      "title": "Em Busca de Tolkien: Uma Odisseia Criativa",
+      "original_title": "Em Busca de Tolkien: Uma Odisseia Criativa",
+      "release_date": "2026-09-21",
+      "poster_path": "/rwAOeFbSFOHsbLhvWswkCHTUwF4.jpg",
+      "popularity": 1.3899,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Laís Almeida"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2026
     }
   },
   "at": {
@@ -264505,6 +264609,7 @@
     "/movie/1248590?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1791928109441,
     "/movie/1186051?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1791928111974,
     "/movie/417490?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1791928112578,
-    "/movie/1423402?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1791928112784
+    "/movie/1423402?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1791928112784,
+    "/movie/1762915?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792122446781
   }
 }
