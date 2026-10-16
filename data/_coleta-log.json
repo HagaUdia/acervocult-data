@@ -1,6 +1,46 @@
 {
   "runs": [
     {
+      "startedAt": "2026-10-16T03:48:39.903Z",
+      "finishedAt": "2026-10-16T03:49:01.913Z",
+      "only": [
+        "tvbrasilplay"
+      ],
+      "results": [
+        {
+          "source": "tvbrasilplay",
+          "label": "[C] TV Brasil Play",
+          "method": "justwatch-pacote",
+          "primary": "justwatch-pacote",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "justwatch-pacote",
+              "count": 47,
+              "ms": 856,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 47,
+            "validos": 47,
+            "revisao": 0,
+            "novos": 47,
+            "atualizados": 0,
+            "completados": 0,
+            "total": 47,
+            "no_catalogo": 45,
+            "capas_sem_metahub": 6,
+            "capas_conferidas": 45,
+            "tmdb_matched": 8,
+            "tmdb_unmatched": 1
+          },
+          "warnings": [],
+          "ms": 22010
+        }
+      ]
+    },
+    {
       "startedAt": "2026-10-16T03:48:07.942Z",
       "finishedAt": "2026-10-16T03:48:32.642Z",
       "only": [

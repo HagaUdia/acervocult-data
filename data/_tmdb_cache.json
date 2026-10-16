@@ -262923,6 +262923,169 @@
         "imdb_id": "tt32124834"
       },
       "earliest_release_year": 2024
+    },
+    "/movie/1291397?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1291397,
+      "title": "Brasil Visto do Alto",
+      "original_title": "Brasil Visto do Alto",
+      "release_date": "2023-10-19",
+      "poster_path": "/lS2Im9AJhdd9EIuVE8ZWOs4UfnA.jpg",
+      "popularity": 1.2676,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Luciano Oreggia"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt31895567"
+      },
+      "earliest_release_year": 2023
+    },
+    "/tv/96842/external_ids": {
+      "id": 96842,
+      "imdb_id": "tt12640670",
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 289936,
+      "tvrage_id": null,
+      "wikidata_id": "Q10385058",
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/67610?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 67610,
+      "title": "Corisco & Dadá",
+      "original_title": "Corisco & Dadá",
+      "release_date": "1996-09-02",
+      "poster_path": "/qa7HWucnMJNbufSjeyqxuNtn005.jpg",
+      "popularity": 1.5463,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Rosemberg Cariry"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0115944"
+      },
+      "earliest_release_year": 1996
+    },
+    "/movie/885443?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 885443,
+      "title": "A Praia do Fim do Mundo",
+      "original_title": "A Praia do Fim do Mundo",
+      "release_date": "2021-12-01",
+      "poster_path": "/e0LwcdZYuIsRoKDo7RfviI7QKSH.jpg",
+      "popularity": 1.322,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Petrus Cariry"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt15554804"
+      },
+      "earliest_release_year": 2021
+    },
+    "/movie/1707857?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1707857,
+      "title": "Entre, Lua, A Casa é Sua",
+      "original_title": "Entre, Lua, A Casa é Sua",
+      "release_date": "2012-04-10",
+      "poster_path": "/8cVhtgXglsPLXJPtpBRdfrLJo8C.jpg",
+      "popularity": 0.6665,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Marcos Carvalho"
+          },
+          {
+            "job": "Director",
+            "name": "Edineia Campos"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2012
+    },
+    "/movie/1360065?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1360065,
+      "title": "Ensinando Como Apreciar Vinhos",
+      "original_title": "Ensinando Como Apreciar Vinhos",
+      "release_date": "2023-11-17",
+      "poster_path": "/qwihkmUuQcS0lfKDsBMvLl32NfE.jpg",
+      "popularity": 0.4041,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": "tt31896236"
+      },
+      "earliest_release_year": 2023
+    },
+    "/movie/515490?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 515490,
+      "title": "Che, Memórias de um Ano Secreto",
+      "original_title": "Che, Memórias de um Ano Secreto",
+      "release_date": "2018-04-11",
+      "poster_path": "/kVwqh8gZDAuVNOiumQrxlwa3e1F.jpg",
+      "popularity": 1.023,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Margarita Hernández"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt10743538"
+      },
+      "earliest_release_year": 2018
+    },
+    "/movie/774293?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 774293,
+      "title": "O Mundo Sem Nós",
+      "original_title": "O Mundo Sem Nós",
+      "release_date": "2016-03-03",
+      "poster_path": "/8bI2sERXK2wzGT20MUThkDZX2lG.jpg",
+      "popularity": 1.0216,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Noá Bonoba"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2016
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Uma Jornada pelo Design Thinking&region=BR&year=2024": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Uma Jornada pelo Design Thinking&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
     }
   },
   "at": {
@@ -264780,6 +264943,10 @@
     "/movie/1705584?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792122478314,
     "/movie/1467111?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792122491760,
     "/search/movie?include_adult=false&language=pt-BR&query=Gauguin no Taiti - O Paraíso Perdido&region=BR&year=2019": 1792122492147,
-    "/search/movie?include_adult=false&language=pt-BR&query=Gauguin no Taiti - O Paraíso Perdido&region=BR&year=undefined": 1792122492330
+    "/search/movie?include_adult=false&language=pt-BR&query=Gauguin no Taiti - O Paraíso Perdido&region=BR&year=undefined": 1792122492330,
+    "/movie/1707857?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792122523119,
+    "/movie/774293?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792122523674,
+    "/search/movie?include_adult=false&language=pt-BR&query=Uma Jornada pelo Design Thinking&region=BR&year=2024": 1792122523875,
+    "/search/movie?include_adult=false&language=pt-BR&query=Uma Jornada pelo Design Thinking&region=BR&year=undefined": 1792122524061
   }
 }
