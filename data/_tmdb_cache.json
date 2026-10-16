@@ -263242,6 +263242,293 @@
       "total_pages": 1,
       "total_results": 0,
       "results": []
+    },
+    "/tv/6618/external_ids": {
+      "id": 6618,
+      "imdb_id": "tt1173427",
+      "freebase_mid": "/m/02rm6xl",
+      "freebase_id": "/en/total_drama_island",
+      "tvdb_id": 83294,
+      "tvrage_id": 19229,
+      "wikidata_id": "Q853986",
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/tv/69173/external_ids": {
+      "id": 69173,
+      "imdb_id": "tt6229656",
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 373657,
+      "tvrage_id": null,
+      "wikidata_id": "Q18589688",
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/tv/294344/external_ids": {
+      "id": 294344,
+      "imdb_id": "tt37392534",
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": null,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/1021923?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1021923,
+      "title": "Cartoon Network: Animação ao Longo dos Anos",
+      "original_title": "Cartoon Network: Animated Through the Years",
+      "release_date": "2022-09-07",
+      "poster_path": "/hIOc8dw54UiaIBdqde673dW4WSt.jpg",
+      "popularity": 2.1723,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2022
+    },
+    "/tv/279609/external_ids": {
+      "id": 279609,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": null,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/925946?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 925946,
+      "title": "Billy e Mandy Salvam o Natal",
+      "original_title": "Billy and Mandy Save Christmas",
+      "release_date": "2005-12-02",
+      "poster_path": "/3nn5kqRAAoJSG2bdqYy7t0NPbAL.jpg",
+      "popularity": 1.9888,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Shaun Cashman"
+          },
+          {
+            "job": "Director",
+            "name": "Russell Calabrese"
+          },
+          {
+            "job": "Director",
+            "name": "Juli Murphy"
+          },
+          {
+            "job": "Director",
+            "name": "Robert Hughes"
+          },
+          {
+            "job": "Director",
+            "name": "Sue Perrotto"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0592980"
+      },
+      "earliest_release_year": 2005
+    },
+    "/movie/828397?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 828397,
+      "title": "Ben Gen 10",
+      "original_title": "Ben Gen 10",
+      "release_date": "2021-06-05",
+      "poster_path": "/nxWAw5kaYjSH8EIcUz6VtHj8jyd.jpg",
+      "popularity": 2.4593,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Henrique Jardim"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt14422106"
+      },
+      "earliest_release_year": 2021
+    },
+    "/movie/1052548?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1052548,
+      "title": "Bita e o Circo",
+      "original_title": "Bita e o Circo",
+      "release_date": "2020-10-02",
+      "poster_path": "/lu1sIy1nHc4VXeYiOVhGMkqgePR.jpg",
+      "popularity": 0.462,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2020
+    },
+    "/movie/420446?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 420446,
+      "title": "Bita e o Corpo Humano",
+      "original_title": "Mundo Bita - Bita e o Corpo Humano",
+      "release_date": "2016-08-10",
+      "poster_path": "/5ykVrOSVe3v5XvtepIO67ScqBWx.jpg",
+      "popularity": 0.5457,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2016
+    },
+    "/tv/131159/external_ids": {
+      "id": 131159,
+      "imdb_id": "tt28058460",
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 317481,
+      "tvrage_id": null,
+      "wikidata_id": "Q25409569",
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/377322?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 377322,
+      "title": "Bita e o Nosso Dia",
+      "original_title": "Bita e o Nosso Dia",
+      "release_date": "2015-09-01",
+      "poster_path": "/2gW1kiZ0FEWWyGMf0pGK83OVfTC.jpg",
+      "popularity": 0.4291,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2015
+    },
+    "/tv/206045/external_ids": {
+      "id": 206045,
+      "imdb_id": "tt12454912",
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": null,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/318924?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 318924,
+      "title": "Mundo Bita - Bita e as Brincadeiras",
+      "original_title": "Mundo Bita - Bita e as Brincadeiras",
+      "release_date": "2014-10-07",
+      "poster_path": "/rVp3wMAxbFptf0HgIPUnzROAbQK.jpg",
+      "popularity": 0.4577,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Chaps Melo"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2014
+    },
+    "/movie/298768?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 298768,
+      "title": "Bita e os Animais",
+      "original_title": "Bita e os Animais",
+      "release_date": "2014-10-23",
+      "poster_path": "/pBVCO2hida9NnC6c2CF6XSUUsvU.jpg",
+      "popularity": 0.5134,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Chaps Melo"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2014
+    },
+    "/movie/629395?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 629395,
+      "title": "A Mansão Foster Para Amigos Imaginários: A Casa De Bloo",
+      "original_title": "Foster's Home For Imaginary Friends: House of Bloo's",
+      "release_date": "2004-08-13",
+      "poster_path": "/agB8U8qbKtWUptdFtcnv5ZeJEml.jpg",
+      "popularity": 2.4552,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Craig McCracken"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0771752"
+      },
+      "earliest_release_year": 2004
+    },
+    "/tv/228670/external_ids": {
+      "id": 228670,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": null,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/618962?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 618962,
+      "title": "Bita e a Natureza",
+      "original_title": "Bita e a Natureza",
+      "release_date": "2017-06-01",
+      "poster_path": "/tklZRtYq9zM6KlFqKCJk7piphfU.jpg",
+      "popularity": 0.4235,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2017
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Fazenda do Zenón, Bartolinho: Uma Aventura Cheia de Penas&region=BR&year=2022": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Fazenda do Zenón, Bartolinho: Uma Aventura Cheia de Penas&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
     }
   },
   "at": {
@@ -265108,6 +265395,15 @@
     "/movie/1533960?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792122552448,
     "/movie/1311284?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792122553387,
     "/search/movie?include_adult=false&language=pt-BR&query=Melhores Do Mundo - Tela Plana&region=BR&year=2025": 1792122553604,
-    "/search/movie?include_adult=false&language=pt-BR&query=Melhores Do Mundo - Tela Plana&region=BR&year=undefined": 1792122553791
+    "/search/movie?include_adult=false&language=pt-BR&query=Melhores Do Mundo - Tela Plana&region=BR&year=undefined": 1792122553791,
+    "/movie/1021923?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792122578625,
+    "/movie/1052548?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792122579405,
+    "/movie/420446?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792122579596,
+    "/movie/377322?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792122579984,
+    "/movie/318924?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792122580365,
+    "/movie/298768?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792122580560,
+    "/movie/618962?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792122581127,
+    "/search/movie?include_adult=false&language=pt-BR&query=Fazenda do Zenón, Bartolinho: Uma Aventura Cheia de Penas&region=BR&year=2022": 1792122581411,
+    "/search/movie?include_adult=false&language=pt-BR&query=Fazenda do Zenón, Bartolinho: Uma Aventura Cheia de Penas&region=BR&year=undefined": 1792122581616
   }
 }

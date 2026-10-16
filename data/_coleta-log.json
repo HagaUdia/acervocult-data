@@ -1,6 +1,46 @@
 {
   "runs": [
     {
+      "startedAt": "2026-10-16T03:49:33.366Z",
+      "finishedAt": "2026-10-16T03:50:53.351Z",
+      "only": [
+        "cartoonnetwork"
+      ],
+      "results": [
+        {
+          "source": "cartoonnetwork",
+          "label": "[C] Cartoon Network",
+          "method": "justwatch-pacote",
+          "primary": "justwatch-pacote",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "justwatch-pacote",
+              "count": 180,
+              "ms": 3117,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 180,
+            "validos": 180,
+            "revisao": 0,
+            "novos": 180,
+            "atualizados": 0,
+            "completados": 0,
+            "total": 180,
+            "no_catalogo": 171,
+            "capas_sem_metahub": 6,
+            "capas_conferidas": 168,
+            "tmdb_matched": 15,
+            "tmdb_unmatched": 3
+          },
+          "warnings": [],
+          "ms": 79984
+        }
+      ]
+    },
+    {
       "startedAt": "2026-10-16T03:49:09.400Z",
       "finishedAt": "2026-10-16T03:49:26.927Z",
       "only": [
