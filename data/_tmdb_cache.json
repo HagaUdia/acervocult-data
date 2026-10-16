@@ -263086,6 +263086,162 @@
       "total_pages": 1,
       "total_results": 0,
       "results": []
+    },
+    "/tv/241492/external_ids": {
+      "id": 241492,
+      "imdb_id": "tt29565262",
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 443363,
+      "tvrage_id": null,
+      "wikidata_id": "Q111652249",
+      "facebook_id": "EstreladaCasaGlobo",
+      "instagram_id": "estreladacasaglobo",
+      "twitter_id": "estreladacasa"
+    },
+    "/tv/336077/external_ids": {
+      "id": 336077,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": null,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/1773619?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1773619,
+      "title": "Blogueirinha Entrevista: O Documentário",
+      "original_title": "Blogueirinha Entrevista: O Documentário",
+      "release_date": "2026-09-25",
+      "poster_path": "/yzEP4WrdLMfwVwnnxwiLVXcWtTI.jpg",
+      "popularity": 1.76,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Vlad Nascimento"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2026
+    },
+    "/movie/1533960?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1533960,
+      "title": "220 VOLTS",
+      "original_title": "220 VOLTS",
+      "release_date": "2021-12-08",
+      "poster_path": "/iyG3dUYEqt9IVmI1NmAeMUIOsOs.jpg",
+      "popularity": 1.4728,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Tom Daniel"
+          },
+          {
+            "job": "Director",
+            "name": "Lilian L'haridon"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2021
+    },
+    "/tv/218867/external_ids": {
+      "id": 218867,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 342402,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/1370383?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1370383,
+      "title": "Shawn Mendes: For Friends and Family Only – A Live Concert Film",
+      "original_title": "Shawn Mendes: For Friends and Family Only – A Live Concert Film",
+      "release_date": "2024-11-14",
+      "poster_path": "/1kwNZtgHiOySeF45aEvcGgaYOF.jpg",
+      "popularity": 1.13,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Connor Brashier"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt33852325"
+      },
+      "earliest_release_year": 2024
+    },
+    "/tv/318711/external_ids": {
+      "id": 318711,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": null,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/tv/226459/external_ids": {
+      "id": 226459,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": null,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/1311284?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1311284,
+      "title": "Suicidal Tendencies - Hellfest 2024",
+      "original_title": "Suicidal Tendencies - Hellfest 2024",
+      "release_date": "2024-06-30",
+      "poster_path": "/o1Jyiwz6HFEC4xwx4MioNJaGcb4.jpg",
+      "popularity": 0.719,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Laurent Hasse"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2024
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Melhores Do Mundo - Tela Plana&region=BR&year=2025": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Melhores Do Mundo - Tela Plana&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
     }
   },
   "at": {
@@ -264947,6 +265103,11 @@
     "/movie/1707857?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792122523119,
     "/movie/774293?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792122523674,
     "/search/movie?include_adult=false&language=pt-BR&query=Uma Jornada pelo Design Thinking&region=BR&year=2024": 1792122523875,
-    "/search/movie?include_adult=false&language=pt-BR&query=Uma Jornada pelo Design Thinking&region=BR&year=undefined": 1792122524061
+    "/search/movie?include_adult=false&language=pt-BR&query=Uma Jornada pelo Design Thinking&region=BR&year=undefined": 1792122524061,
+    "/movie/1773619?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792122552265,
+    "/movie/1533960?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792122552448,
+    "/movie/1311284?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792122553387,
+    "/search/movie?include_adult=false&language=pt-BR&query=Melhores Do Mundo - Tela Plana&region=BR&year=2025": 1792122553604,
+    "/search/movie?include_adult=false&language=pt-BR&query=Melhores Do Mundo - Tela Plana&region=BR&year=undefined": 1792122553791
   }
 }

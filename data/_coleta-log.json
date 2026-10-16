@@ -1,6 +1,46 @@
 {
   "runs": [
     {
+      "startedAt": "2026-10-16T03:49:09.400Z",
+      "finishedAt": "2026-10-16T03:49:26.927Z",
+      "only": [
+        "multishow"
+      ],
+      "results": [
+        {
+          "source": "multishow",
+          "label": "[C] Multishow",
+          "method": "justwatch-pacote",
+          "primary": "justwatch-pacote",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "justwatch-pacote",
+              "count": 45,
+              "ms": 886,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 45,
+            "validos": 45,
+            "revisao": 0,
+            "novos": 45,
+            "atualizados": 0,
+            "completados": 0,
+            "total": 45,
+            "no_catalogo": 39,
+            "capas_sem_metahub": 5,
+            "capas_conferidas": 39,
+            "tmdb_matched": 6,
+            "tmdb_unmatched": 5
+          },
+          "warnings": [],
+          "ms": 17527
+        }
+      ]
+    },
+    {
       "startedAt": "2026-10-16T03:48:39.903Z",
       "finishedAt": "2026-10-16T03:49:01.913Z",
       "only": [
