@@ -1,6 +1,46 @@
 {
   "runs": [
     {
+      "startedAt": "2026-10-16T03:47:43.249Z",
+      "finishedAt": "2026-10-16T03:47:49.784Z",
+      "only": [
+        "cineflix"
+      ],
+      "results": [
+        {
+          "source": "cineflix",
+          "label": "[C] Cineflix",
+          "method": "justwatch-pacote",
+          "primary": "justwatch-pacote",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "justwatch-pacote",
+              "count": 23,
+              "ms": 881,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 23,
+            "validos": 23,
+            "revisao": 0,
+            "novos": 23,
+            "atualizados": 0,
+            "completados": 0,
+            "total": 23,
+            "no_catalogo": 22,
+            "capas_sem_metahub": 0,
+            "capas_conferidas": 22,
+            "tmdb_matched": 0,
+            "tmdb_unmatched": 1
+          },
+          "warnings": [],
+          "ms": 6535
+        }
+      ]
+    },
+    {
       "startedAt": "2026-10-16T03:47:23.940Z",
       "finishedAt": "2026-10-16T03:47:36.888Z",
       "only": [
