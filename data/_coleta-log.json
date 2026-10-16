@@ -1,6 +1,46 @@
 {
   "runs": [
     {
+      "startedAt": "2026-10-16T03:47:56.328Z",
+      "finishedAt": "2026-10-16T03:48:01.519Z",
+      "only": [
+        "cinepolis"
+      ],
+      "results": [
+        {
+          "source": "cinepolis",
+          "label": "[C] Cinépolis",
+          "method": "justwatch-pacote",
+          "primary": "justwatch-pacote",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "justwatch-pacote",
+              "count": 20,
+              "ms": 888,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 20,
+            "validos": 20,
+            "revisao": 0,
+            "novos": 20,
+            "atualizados": 0,
+            "completados": 0,
+            "total": 20,
+            "no_catalogo": 19,
+            "capas_sem_metahub": 1,
+            "capas_conferidas": 19,
+            "tmdb_matched": 3,
+            "tmdb_unmatched": 0
+          },
+          "warnings": [],
+          "ms": 5191
+        }
+      ]
+    },
+    {
       "startedAt": "2026-10-16T03:47:43.249Z",
       "finishedAt": "2026-10-16T03:47:49.784Z",
       "only": [

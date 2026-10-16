@@ -262760,7 +262760,47 @@
       },
       "earliest_release_year": 2026
     },
-    "/movie/1695514?append_to_response=credits,external_ids,release_dates&language=pt-BR": null
+    "/movie/1695514?append_to_response=credits,external_ids,release_dates&language=pt-BR": null,
+    "/movie/1542309?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1542309,
+      "title": "O Coreto",
+      "original_title": "O Coreto",
+      "release_date": "2025-12-11",
+      "poster_path": "/gPp3yL0oVdG3BDk6FqJAkBkxJOF.jpg",
+      "popularity": 1.949,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "André Corrêa"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2025
+    },
+    "/movie/1705584?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1705584,
+      "title": "Anatomia do Caos",
+      "original_title": "Anatomia do Caos",
+      "release_date": "2026-07-02",
+      "poster_path": "/4W95GOiYKYEhdxU9VE7lzkSe8lQ.jpg",
+      "popularity": 1.0514,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Dandara Ferreira"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2026
+    }
   },
   "at": {
     "/movie/1489665?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1791922426685,
@@ -264612,6 +264652,8 @@
     "/movie/417490?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1791928112578,
     "/movie/1423402?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1791928112784,
     "/movie/1762915?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792122446781,
-    "/movie/1695514?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792122465134
+    "/movie/1695514?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792122465134,
+    "/movie/1542309?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792122478125,
+    "/movie/1705584?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792122478314
   }
 }
