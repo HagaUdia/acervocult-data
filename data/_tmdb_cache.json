@@ -263529,7 +263529,141 @@
       "total_pages": 1,
       "total_results": 0,
       "results": []
-    }
+    },
+    "/tv/258433/external_ids": {
+      "id": 258433,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": null,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/tv/258430/external_ids": null,
+    "/tv/287537/external_ids": {
+      "id": 287537,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": null,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/tv/281656/external_ids": {
+      "id": 281656,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": null,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/tv/234665/external_ids": {
+      "id": 234665,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 438527,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/tv/314551/external_ids": {
+      "id": 314551,
+      "imdb_id": "tt40023747",
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 474308,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": "oranegecountychoppersoriginal",
+      "instagram_id": "orangecountychoppersoriginal",
+      "twitter_id": null
+    },
+    "/tv/258437/external_ids": {
+      "id": 258437,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": null,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/tv/286060/external_ids": {
+      "id": 286060,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 461362,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/tv/324416/external_ids": {
+      "id": 324416,
+      "imdb_id": "tt39369364",
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 479216,
+      "tvrage_id": null,
+      "wikidata_id": "Q139888407",
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/tv/207275/external_ids": {
+      "id": 207275,
+      "imdb_id": "tt0219744",
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": null,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/tv/258432/external_ids": {
+      "id": 258432,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": null,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/tv/65750/external_ids": {
+      "id": 65750,
+      "imdb_id": "tt7645324",
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 305279,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/tv/258438/external_ids": null
   },
   "at": {
     "/movie/1489665?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1791922426685,
@@ -265404,6 +265538,8 @@
     "/movie/298768?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792122580560,
     "/movie/618962?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792122581127,
     "/search/movie?include_adult=false&language=pt-BR&query=Fazenda do Zenón, Bartolinho: Uma Aventura Cheia de Penas&region=BR&year=2022": 1792122581411,
-    "/search/movie?include_adult=false&language=pt-BR&query=Fazenda do Zenón, Bartolinho: Uma Aventura Cheia de Penas&region=BR&year=undefined": 1792122581616
+    "/search/movie?include_adult=false&language=pt-BR&query=Fazenda do Zenón, Bartolinho: Uma Aventura Cheia de Penas&region=BR&year=undefined": 1792122581616,
+    "/tv/258430/external_ids": 1792272791312,
+    "/tv/258438/external_ids": 1792272793785
   }
 }

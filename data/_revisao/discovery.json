@@ -1,0 +1,18 @@
+[
+  {
+    "id": "acervocult:discovery:serie-jaws-vs-the-meg",
+    "source": "discovery",
+    "name": "Jaws vs. the Meg",
+    "year": null,
+    "director": null,
+    "type": "series",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "poster": "https://images.justwatch.com/poster/355039045/s332/jaws-vs-the-meg.jpg",
+    "source_url": "https://www.justwatch.com/us/tv-show/jaws-vs-the-meg",
+    "enrich_status": "unmatched",
+    "review_reason": "sem-ano-e-sem-diretor",
+    "first_seen": "2026-10-17T21:33:14.450Z",
+    "last_seen": "2026-10-17T21:33:14.450Z"
+  }
+]

@@ -1,6 +1,46 @@
 {
   "runs": [
     {
+      "startedAt": "2026-10-17T21:33:06.546Z",
+      "finishedAt": "2026-10-17T21:33:53.692Z",
+      "only": [
+        "discovery"
+      ],
+      "results": [
+        {
+          "source": "discovery",
+          "label": "[C] Discovery Channel",
+          "method": "justwatch-pacote",
+          "primary": "justwatch-pacote",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "justwatch-pacote",
+              "count": 156,
+              "ms": 3579,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 156,
+            "validos": 155,
+            "revisao": 1,
+            "novos": 155,
+            "atualizados": 0,
+            "completados": 0,
+            "total": 155,
+            "no_catalogo": 145,
+            "capas_sem_metahub": 13,
+            "capas_conferidas": 145,
+            "tmdb_matched": 4,
+            "tmdb_unmatched": 11
+          },
+          "warnings": [],
+          "ms": 47146
+        }
+      ]
+    },
+    {
       "startedAt": "2026-10-16T03:49:33.366Z",
       "finishedAt": "2026-10-16T03:50:53.351Z",
       "only": [
