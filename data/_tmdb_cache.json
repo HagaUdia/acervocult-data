@@ -263663,7 +263663,234 @@
       "instagram_id": null,
       "twitter_id": null
     },
-    "/tv/258438/external_ids": null
+    "/tv/258438/external_ids": null,
+    "/tv/298886/external_ids": {
+      "id": 298886,
+      "imdb_id": "tt37579634",
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 466380,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/tv/91850/external_ids": {
+      "id": 91850,
+      "imdb_id": "tt8781928",
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 366699,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/1601082?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1601082,
+      "title": "Chitas de Perto com Bertie Gregory",
+      "original_title": "Cheetahs Up Close with Bertie Gregory",
+      "release_date": "2026-01-01",
+      "poster_path": "/5nC1F6LrhyvRn0YWpQiispac6mI.jpg",
+      "popularity": 4.3716,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Jigar Ganatra"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt39227311"
+      },
+      "earliest_release_year": 2026
+    },
+    "/movie/797755?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 797755,
+      "title": "Air Force One: A Nova Fortaleza Voadora",
+      "original_title": "The New Air Force One: Flying Fortress",
+      "release_date": "2021-02-16",
+      "poster_path": "/7Xn244COn8pmSAQC1BmdwCK20tX.jpg",
+      "popularity": 2.6166,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Scott Bateman"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt14087698"
+      },
+      "earliest_release_year": 2021
+    },
+    "/tv/90313/external_ids": {
+      "id": 90313,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 365486,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/775779?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 775779,
+      "title": "Coreia do Norte: O Próximo Líder",
+      "original_title": "Inside North Korea: The Next Leader",
+      "release_date": "2020-11-08",
+      "poster_path": "/pkTktreUz5ToLQmNzmLZtJABbt9.jpg",
+      "popularity": 2.5126,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Laura Anderson"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt18377130"
+      },
+      "earliest_release_year": 2020
+    },
+    "/tv/328444/external_ids": {
+      "id": 328444,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 480535,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/851814?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 851814,
+      "title": "Expedição Havaí: Tubarão Branco",
+      "original_title": "World's Biggest Great White?",
+      "release_date": "2019-07-21",
+      "poster_path": "/6hMTbW6nD4BzoIaBKNBTYQkRPiy.jpg",
+      "popularity": 6.9159,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": "tt11252634"
+      },
+      "earliest_release_year": 2019
+    },
+    "/tv/329542/external_ids": {
+      "id": 329542,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 480607,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/tv/107598/external_ids": {
+      "id": 107598,
+      "imdb_id": "tt13411732",
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 387016,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/843979?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 843979,
+      "title": "Tubarão vs. Baleia",
+      "original_title": "Shark Vs. Whale",
+      "release_date": "2020-07-28",
+      "poster_path": "/6vtCvFXqzuinbe6zbkfjOUqCDH8.jpg",
+      "popularity": 1.2967,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": "tt12820178"
+      },
+      "earliest_release_year": 2020
+    },
+    "/movie/842007?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 842007,
+      "title": "Ataques de Tubarão: Paige Winter, A Sobrevivente",
+      "original_title": "Shark Attack Investigation: The Paige Winter Story",
+      "release_date": "2020-09-10",
+      "poster_path": "/qAu7M6UvMXqbAuT6C2nrw30yfj5.jpg",
+      "popularity": 1.0798,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": "tt14811754"
+      },
+      "earliest_release_year": 2020
+    },
+    "/movie/788544?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 788544,
+      "title": "Coreia do Norte: A Mente do Ditador",
+      "original_title": "North Korea: Inside The Mind of a Dictator",
+      "release_date": "2021-01-18",
+      "poster_path": "/c9OhLHACLola8HZZNai0X86ZOVZ.jpg",
+      "popularity": 1.6277,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": "tt13879908"
+      },
+      "earliest_release_year": 2021
+    },
+    "/movie/490477?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 490477,
+      "title": "Stonehenge: Secrets of the Stones",
+      "original_title": "Stonehenge: Secrets of the Stones",
+      "release_date": "2015-01-01",
+      "poster_path": null,
+      "popularity": 0.4465,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2015
+    },
+    "/movie/1503834?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1503834,
+      "title": "Sharks of the North",
+      "original_title": "Sharks of the North",
+      "release_date": "2025-07-06",
+      "poster_path": "/wvpAU6WNs2idiNgMct0EH7oJUnW.jpg",
+      "popularity": 1.161,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Sonya Lee"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt37244016"
+      },
+      "earliest_release_year": 2025
+    }
   },
   "at": {
     "/movie/1489665?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1791922426685,
@@ -265540,6 +265767,7 @@
     "/search/movie?include_adult=false&language=pt-BR&query=Fazenda do Zenón, Bartolinho: Uma Aventura Cheia de Penas&region=BR&year=2022": 1792122581411,
     "/search/movie?include_adult=false&language=pt-BR&query=Fazenda do Zenón, Bartolinho: Uma Aventura Cheia de Penas&region=BR&year=undefined": 1792122581616,
     "/tv/258430/external_ids": 1792272791312,
-    "/tv/258438/external_ids": 1792272793785
+    "/tv/258438/external_ids": 1792272793785,
+    "/movie/490477?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792272848945
   }
 }

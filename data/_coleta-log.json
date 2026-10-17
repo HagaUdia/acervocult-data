@@ -1,6 +1,46 @@
 {
   "runs": [
     {
+      "startedAt": "2026-10-17T21:34:01.995Z",
+      "finishedAt": "2026-10-17T21:34:47.574Z",
+      "only": [
+        "nationalgeographic"
+      ],
+      "results": [
+        {
+          "source": "nationalgeographic",
+          "label": "[C] National Geographic",
+          "method": "justwatch-pacote",
+          "primary": "justwatch-pacote",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "justwatch-pacote",
+              "count": 121,
+              "ms": 3376,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 121,
+            "validos": 121,
+            "revisao": 0,
+            "novos": 121,
+            "atualizados": 0,
+            "completados": 0,
+            "total": 121,
+            "no_catalogo": 117,
+            "capas_sem_metahub": 14,
+            "capas_conferidas": 117,
+            "tmdb_matched": 12,
+            "tmdb_unmatched": 3
+          },
+          "warnings": [],
+          "ms": 45579
+        }
+      ]
+    },
+    {
       "startedAt": "2026-10-17T21:33:06.546Z",
       "finishedAt": "2026-10-17T21:33:53.692Z",
       "only": [
