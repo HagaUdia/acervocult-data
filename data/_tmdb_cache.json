@@ -263890,6 +263890,594 @@
         "imdb_id": "tt37244016"
       },
       "earliest_release_year": 2025
+    },
+    "/movie/170400?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 170400,
+      "title": "Gaudi Afternoon",
+      "original_title": "Gaudi Afternoon",
+      "release_date": "2001-05-01",
+      "poster_path": "/wg0ip26O6LR51o1kmLoKLTZkvp5.jpg",
+      "popularity": 1.1333,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Susan Seidelman"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0235412"
+      },
+      "earliest_release_year": 2001
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Modo Noturno&region=BR&year=2020": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Modo Noturno&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 803670,
+          "title": "Modo Noturno",
+          "original_title": "Modo Noturno",
+          "release_date": "2021-03-06",
+          "poster_path": "/CFNmFH6Bxv2xc5gojipDkChvqD.jpg",
+          "popularity": 1.3908
+        }
+      ]
+    },
+    "/movie/803670?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 803670,
+      "title": "Modo Noturno",
+      "original_title": "Modo Noturno",
+      "release_date": "2021-03-06",
+      "poster_path": "/CFNmFH6Bxv2xc5gojipDkChvqD.jpg",
+      "popularity": 1.3908,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Calebe Lopes"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2021
+    },
+    "/movie/50254?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 50254,
+      "title": "Edvard Munch",
+      "original_title": "Edvard Munch",
+      "release_date": "1974-11-12",
+      "poster_path": "/aXAkJld5UTIa0nijWvDm7DcyBe0.jpg",
+      "popularity": 2.0043,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Peter Watkins"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0074462"
+      },
+      "earliest_release_year": 1974
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Nosferatu&region=BR&year=1922": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 653,
+          "title": "Nosferatu: Uma Sinfonia de Horror",
+          "original_title": "Nosferatu, eine Symphonie des Grauens",
+          "release_date": "1922-03-15",
+          "poster_path": "/zEzQTngP7F4qVmLDCWg5Hby6cgX.jpg",
+          "popularity": 12.5772
+        }
+      ]
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=O Castigo&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 9,
+      "results": [
+        {
+          "id": 439464,
+          "title": "O Castigo sem Vingança",
+          "original_title": "O Castigo sem Vingança",
+          "release_date": "2017-02-05",
+          "poster_path": null,
+          "popularity": 0.9871
+        },
+        {
+          "id": 1698843,
+          "title": "¿Verdad o castigo?",
+          "original_title": "¿Verdad o castigo?",
+          "release_date": "2012-01-01",
+          "poster_path": "/fnBnXu4HsCuvz9B7wD1plo6KBiV.jpg",
+          "popularity": 0.4194
+        },
+        {
+          "id": 1019239,
+          "title": "O Castigo",
+          "original_title": "El castigo",
+          "release_date": "2025-12-11",
+          "poster_path": "/tbEVw6GnMozwLxFzLQHFQ3QlNAQ.jpg",
+          "popularity": 1.9707
+        },
+        {
+          "id": 37053,
+          "title": "Hitokiri - O Castigo",
+          "original_title": "人斬り",
+          "release_date": "1969-08-09",
+          "poster_path": "/xN0SGMNAGqNG8RBsDq7qgPueAO.jpg",
+          "popularity": 2.6586
+        },
+        {
+          "id": 74742,
+          "title": "O Medo Não Tem Pressa",
+          "original_title": "Time of Fear",
+          "release_date": "2002-01-01",
+          "poster_path": "/mLFeqOfcZ8drMlnuyuWcdT3neji.jpg",
+          "popularity": 0.8402
+        },
+        {
+          "id": 3124,
+          "title": "O Monstro de Frankenstein",
+          "original_title": "The Evil of Frankenstein",
+          "release_date": "1964-05-08",
+          "poster_path": "/yJBzyHZ6m9fOisiAtrtUjNidZ1k.jpg",
+          "popularity": 3.5574
+        },
+        {
+          "id": 35196,
+          "title": "O Outro Lado da Nobreza",
+          "original_title": "Restoration",
+          "release_date": "1995-12-29",
+          "poster_path": "/glOCWK6AMl6FVHxLikl5OD8xw2B.jpg",
+          "popularity": 3.7848
+        },
+        {
+          "id": 14643,
+          "title": "A Ilha - Uma Prisão sem Grades",
+          "original_title": "Boot Camp",
+          "release_date": "2008-02-07",
+          "poster_path": "/mudbDboD9wzZpJ7EKeQHhxA7scu.jpg",
+          "popularity": 2.625
+        },
+        {
+          "id": 17221,
+          "title": "Passos na Noite",
+          "original_title": "Where the Sidewalk Ends",
+          "release_date": "2000-01-01",
+          "poster_path": "/27Q0i6ZjmRnjfvegksunixnLxuG.jpg",
+          "popularity": 2.6009
+        }
+      ]
+    },
+    "/movie/1019239?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1019239,
+      "title": "O Castigo",
+      "original_title": "El castigo",
+      "release_date": "2022-09-01",
+      "poster_path": "/tbEVw6GnMozwLxFzLQHFQ3QlNAQ.jpg",
+      "popularity": 1.9707,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Matías Bize"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt21905940"
+      },
+      "earliest_release_year": 2022
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Líbano&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 11,
+      "results": [
+        {
+          "id": 32084,
+          "title": "Líbano",
+          "original_title": "לבנון",
+          "release_date": "2009-10-23",
+          "poster_path": "/8Zs4FFcShHR14hBGr6O7FPdSRq1.jpg",
+          "popularity": 3.5116
+        },
+        {
+          "id": 1409777,
+          "title": "Cedro do Líbano",
+          "original_title": "Cedro do Líbano",
+          "release_date": "2008-03-01",
+          "poster_path": null,
+          "popularity": 0.4277
+        },
+        {
+          "id": 721850,
+          "title": "El Gran Libano",
+          "original_title": "El Gran Libano",
+          "release_date": "2017-05-18",
+          "poster_path": "/nct0OJxtBMrn7ZKFiFOAW26946d.jpg",
+          "popularity": 1.0253
+        },
+        {
+          "id": 742730,
+          "title": "Líbano no Meio da Tormenta",
+          "original_title": "Le Liban dans la tourmente",
+          "release_date": "1975-07-01",
+          "poster_path": "/zSDyi2KJM9FtG4U01fkJvuhgFy4.jpg",
+          "popularity": 1.9394
+        },
+        {
+          "id": 44086,
+          "title": "Sob o Céu do Líbano",
+          "original_title": "Le cerf-volant",
+          "release_date": "2004-02-18",
+          "poster_path": "/sqKKR7peDlwySZgWVW1viYbP5ry.jpg",
+          "popularity": 0.9622
+        },
+        {
+          "id": 621705,
+          "title": "1982",
+          "original_title": "1982",
+          "release_date": "2022-06-02",
+          "poster_path": "/gTWHDVnCdNxBeSXmxCMjTZN51AH.jpg",
+          "popularity": 1.1827
+        },
+        {
+          "id": 1321695,
+          "title": "Líban, retrat de l'empoderament",
+          "original_title": "Líban, retrat de l'empoderament",
+          "release_date": "2023-11-27",
+          "poster_path": "/lvps44rYO0DKsxEizcQk4TFAzS8.jpg",
+          "popularity": 1.0153
+        },
+        {
+          "id": 784629,
+          "title": "Liban, l'épreuve du chaos",
+          "original_title": "Liban, l'épreuve du chaos",
+          "release_date": "2020-11-17",
+          "poster_path": "/rq6g1jSM8IZTG1FMc2emhgJeXoN.jpg",
+          "popularity": 1.5234
+        },
+        {
+          "id": 1303150,
+          "title": "Casse du siècle au Liban",
+          "original_title": "Casse du siècle au Liban",
+          "release_date": "2024-06-18",
+          "poster_path": "/1yECkERaSdiLBNl8BfG8gHmAEgx.jpg",
+          "popularity": 2.4287
+        },
+        {
+          "id": 796164,
+          "title": "Costa Brava, Lebanon",
+          "original_title": "كوستا برافا",
+          "release_date": "2022-01-21",
+          "poster_path": "/oESEbowjIbmSUBbqX1Fd4JRSZzC.jpg",
+          "popularity": 2.6677
+        },
+        {
+          "id": 712345,
+          "title": "O Céu de Alice",
+          "original_title": "Sous le ciel d'Alice",
+          "release_date": "2022-01-14",
+          "poster_path": "/dckgCRp5md3EEvRzBUfMw8Hg3IK.jpg",
+          "popularity": 3.1991
+        }
+      ]
+    },
+    "/movie/32084?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 32084,
+      "title": "Líbano",
+      "original_title": "לבנון",
+      "release_date": "2009-09-24",
+      "poster_path": "/8Zs4FFcShHR14hBGr6O7FPdSRq1.jpg",
+      "popularity": 3.5371,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Samuel Maoz"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt1483831"
+      },
+      "earliest_release_year": 2009
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Bem-vindo a São Paulo&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 279832,
+          "title": "Bem-Vindo a São Paulo",
+          "original_title": "Bem-Vindo a São Paulo",
+          "release_date": "2004-07-16",
+          "poster_path": "/4uGA2rpXC5j7ztRPTKePzjJprUb.jpg",
+          "popularity": 1.2066
+        }
+      ]
+    },
+    "/movie/238334?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 238334,
+      "title": "Xica da Silva",
+      "original_title": "Xica da Silva",
+      "release_date": "1976-09-06",
+      "poster_path": "/xFa5R202C5wAJoprvy8qEzEZv4G.jpg",
+      "popularity": 1.4469,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Cacá Diegues"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0078512"
+      },
+      "earliest_release_year": 1976
+    },
+    "/movie/10728?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 10728,
+      "title": "Fausto",
+      "original_title": "Faust - Eine deutsche Volkssage",
+      "release_date": "1926-10-14",
+      "poster_path": "/hGnB3RldHHPYGH3d8ZWbhwYyR9J.jpg",
+      "popularity": 5.067,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "F. W. Murnau"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0016847"
+      },
+      "earliest_release_year": 1926
+    },
+    "/movie/19994?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 19994,
+      "title": "Garota Infernal",
+      "original_title": "Jennifer's Body",
+      "release_date": "2009-09-18",
+      "poster_path": "/lIHXfHgVPDP0r5tKuysqpNkQQmV.jpg",
+      "popularity": 19.376,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Karyn Kusama"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt1131734"
+      },
+      "earliest_release_year": 2009
+    },
+    "/movie/1088548?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1088548,
+      "title": "Natal Amargo",
+      "original_title": "Amarga Navidad",
+      "release_date": "2026-03-20",
+      "poster_path": "/imfGMQkG1BP5O5bjQyWKiB0J1jA.jpg",
+      "popularity": 10.83,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Pedro Almodóvar"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt28088049"
+      },
+      "earliest_release_year": 2026
+    },
+    "/movie/39434?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 39434,
+      "title": "La sindrome di Stendhal",
+      "original_title": "La sindrome di Stendhal",
+      "release_date": "1996-01-26",
+      "poster_path": "/nrsIrblqbl3Zib1wNwTh1JrIOnc.jpg",
+      "popularity": 3.6356,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Dario Argento"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0117658"
+      },
+      "earliest_release_year": 1996
+    },
+    "/movie/1724083?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1724083,
+      "title": "Giorgio Moroder & Donna Summer : I Feel Love",
+      "original_title": "Giorgio Moroder & Donna Summer : I Feel Love",
+      "release_date": "2026-07-08",
+      "poster_path": "/eEyntGRDfYKJmgRh8bsLYRu7c6n.jpg",
+      "popularity": 1.2938,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Charles-Antoine de Rouvre"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt43658352"
+      },
+      "earliest_release_year": 2026
+    },
+    "/movie/1329261?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1329261,
+      "title": "J’ai avalé une chenille",
+      "original_title": "J’ai avalé une chenille",
+      "release_date": "2024-08-28",
+      "poster_path": "/KS2WnXGlQlaNHXYdBfIBY5AQ51.jpg",
+      "popularity": 1.039,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Basile Khatir"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt34560271"
+      },
+      "earliest_release_year": 2024
+    },
+    "/movie/1172650?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1172650,
+      "title": "Die Whistleblowerin",
+      "original_title": "Die Whistleblowerin",
+      "release_date": "2023-11-03",
+      "poster_path": "/os4t9e7ISpQoOwXGk27iwoxoe0X.jpg",
+      "popularity": 1.1806,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Elmar Fischer"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt20760290"
+      },
+      "earliest_release_year": 2023
+    },
+    "/movie/714968?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 714968,
+      "title": "Plano A",
+      "original_title": "Plan A",
+      "release_date": "2021-08-16",
+      "poster_path": "/bjEvnE8eQb7qrRDQBy927VbfuHD.jpg",
+      "popularity": 4.1944,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Doron Paz"
+          },
+          {
+            "job": "Director",
+            "name": "Yoav Paz"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt5448338"
+      },
+      "earliest_release_year": 2021
+    },
+    "/movie/1156527?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1156527,
+      "title": "Samuel Fuller",
+      "original_title": "Samuel Fuller",
+      "release_date": "1992-01-01",
+      "poster_path": "/rktuavLCRY1ifdYHjb7Lu1WfLwr.jpg",
+      "popularity": 2.0101,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Franco Maresco"
+          },
+          {
+            "job": "Director",
+            "name": "Daniele Ciprì"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 1992
+    },
+    "/movie/723515?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 723515,
+      "title": "Arabesco",
+      "original_title": "Arabesco",
+      "release_date": "1990-06-08",
+      "poster_path": null,
+      "popularity": 0.4783,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Eliane Caffé"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 1990
+    },
+    "/movie/76647?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 76647,
+      "title": "Maigret voit rouge",
+      "original_title": "Maigret voit rouge",
+      "release_date": "1963-09-18",
+      "poster_path": "/qfVfTtyp5LrqAP4CxmY2ms4anex.jpg",
+      "popularity": 3.9452,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Gilles Grangier"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0057278"
+      },
+      "earliest_release_year": 1963
+    },
+    "/movie/152144?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 152144,
+      "title": "theEYE: Anish Kapoor",
+      "original_title": "theEYE: Anish Kapoor",
+      "release_date": "2005-01-01",
+      "poster_path": "/xwCqrhsmgk9yPCcEkICELOeLprQ.jpg",
+      "popularity": 0.4341,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2005
     }
   },
   "at": {
@@ -265768,6 +266356,12 @@
     "/search/movie?include_adult=false&language=pt-BR&query=Fazenda do Zenón, Bartolinho: Uma Aventura Cheia de Penas&region=BR&year=undefined": 1792122581616,
     "/tv/258430/external_ids": 1792272791312,
     "/tv/258438/external_ids": 1792272793785,
-    "/movie/490477?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792272848945
+    "/movie/490477?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792272848945,
+    "/search/movie?include_adult=false&language=pt-BR&query=Modo Noturno&region=BR&year=2020": 1792389680463,
+    "/movie/803670?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792389680858,
+    "/search/movie?include_adult=false&language=pt-BR&query=A Bela Garota&region=BR&year=1969": 1792389686312,
+    "/movie/1156527?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792391875099,
+    "/movie/723515?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792391875292,
+    "/movie/152144?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792391882033
   }
 }
