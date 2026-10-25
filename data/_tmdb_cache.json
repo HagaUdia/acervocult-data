@@ -264478,6 +264478,2067 @@
         "imdb_id": null
       },
       "earliest_release_year": 2005
+    },
+    "/movie/394653?append_to_response=credits,external_ids,release_dates&language=pt-BR": null,
+    "/tv/330941/external_ids": {
+      "id": 330941,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 481020,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/tv/92107/external_ids": {
+      "id": 92107,
+      "imdb_id": "tt7829950",
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 340359,
+      "tvrage_id": null,
+      "wikidata_id": "Q48698840",
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/1393151?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1393151,
+      "title": "Um Zé Ninguém Contra Putin",
+      "original_title": "Mr. Nobody mod Putin",
+      "release_date": "2025-06-06",
+      "poster_path": "/6JhEuf3TJD6FWeABVAANcBCe4ew.jpg",
+      "popularity": 4.7277,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "David Borenstein"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt34965515"
+      },
+      "earliest_release_year": 2025
+    },
+    "/tv/47801/external_ids": {
+      "id": 47801,
+      "imdb_id": "tt2216156",
+      "freebase_mid": "/m/0p8_0xj",
+      "freebase_id": null,
+      "tvdb_id": 264185,
+      "tvrage_id": 32658,
+      "wikidata_id": "Q6494694",
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/tv/202140/external_ids": {
+      "id": 202140,
+      "imdb_id": "tt20245230",
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 421657,
+      "tvrage_id": null,
+      "wikidata_id": "Q113301959",
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/tv/25992/external_ids": {
+      "id": 25992,
+      "imdb_id": "tt0805418",
+      "freebase_mid": "/m/07cg83h",
+      "freebase_id": "/en/masterchef_goes_large",
+      "tvdb_id": 84489,
+      "tvrage_id": 7890,
+      "wikidata_id": "Q45726",
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/tv/301991/external_ids": {
+      "id": 301991,
+      "imdb_id": "tt38848632",
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 469578,
+      "tvrage_id": null,
+      "wikidata_id": "Q137216504",
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/136611?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 136611,
+      "title": "Penda's Fen",
+      "original_title": "Penda's Fen",
+      "release_date": "1974-03-21",
+      "poster_path": "/18qc9p5eI5awgSijEdJfIb7YLmH.jpg",
+      "popularity": 1.3316,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Alan Clarke"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0325965"
+      },
+      "earliest_release_year": 1974
+    },
+    "/tv/317556/external_ids": {
+      "id": 317556,
+      "imdb_id": "tt37366823",
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 464942,
+      "tvrage_id": null,
+      "wikidata_id": "Q138945938",
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/tv/278283/external_ids": {
+      "id": 278283,
+      "imdb_id": "tt35838027",
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 457198,
+      "tvrage_id": null,
+      "wikidata_id": "Q132746295",
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/1400731?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1400731,
+      "title": "André Is an Idiot",
+      "original_title": "André Is an Idiot",
+      "release_date": "2026-02-06",
+      "poster_path": "/nogFNg0HtKYteodqTBW2vkpiAGv.jpg",
+      "popularity": 3.7079,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Tony Benna"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt34963034"
+      },
+      "earliest_release_year": 2025
+    },
+    "/movie/579460?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 579460,
+      "title": "The Birthday Party",
+      "original_title": "The Birthday Party",
+      "release_date": "1987-06-21",
+      "poster_path": "/xQ11cyxLlMdwktPp3bkRVmHe0QA.jpg",
+      "popularity": 1.1711,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Kenneth Ives"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0090732"
+      },
+      "earliest_release_year": 1987
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Inside the Rage Machine&region=BR&year=2026": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1653045,
+          "title": "Inside the Rage Machine",
+          "original_title": "Inside the Rage Machine",
+          "release_date": "2026-03-16",
+          "poster_path": "/vkFdfkPGLPlMARZufpA35SMrv8t.jpg",
+          "popularity": 0.8959
+        }
+      ]
+    },
+    "/movie/1653045?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1653045,
+      "title": "Inside the Rage Machine",
+      "original_title": "Inside the Rage Machine",
+      "release_date": "2026-03-16",
+      "poster_path": "/vkFdfkPGLPlMARZufpA35SMrv8t.jpg",
+      "popularity": 0.8959,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": "tt40542910"
+      },
+      "earliest_release_year": 2026
+    },
+    "/movie/1111872?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1111872,
+      "title": "Lollipop",
+      "original_title": "Lollipop",
+      "release_date": "2025-06-13",
+      "poster_path": "/b2MzY5Ytpj48WZ0QuVGiaedNGeV.jpg",
+      "popularity": 1.4369,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Daisy-May Hudson"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt22892942"
+      },
+      "earliest_release_year": 2024
+    },
+    "/movie/564551?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 564551,
+      "title": "The Joy of AI",
+      "original_title": "The Joy of AI",
+      "release_date": "2018-09-04",
+      "poster_path": "/cnJokOmYMaXXlrgN5Zh0NvH9lnO.jpg",
+      "popularity": 1.6169,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Dan Hillman"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt9053472"
+      },
+      "earliest_release_year": 2018
+    },
+    "/movie/939522?append_to_response=credits,external_ids,release_dates&language=pt-BR": null,
+    "/movie/589168?append_to_response=credits,external_ids,release_dates&language=pt-BR": null,
+    "/movie/960484?append_to_response=credits,external_ids,release_dates&language=pt-BR": null,
+    "/movie/1614479?append_to_response=credits,external_ids,release_dates&language=pt-BR": null,
+    "/tv/44337/external_ids": {
+      "id": 44337,
+      "imdb_id": null,
+      "freebase_mid": "/m/0ldz021",
+      "freebase_id": null,
+      "tvdb_id": 354228,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": "HaveIGotNewsForYou",
+      "instagram_id": "HaveIGotNews",
+      "twitter_id": "HaveIGotNews"
+    },
+    "/movie/1211750?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1211750,
+      "title": "Gavin & Stacey: A Special Christmas",
+      "original_title": "Gavin & Stacey: A Special Christmas",
+      "release_date": "2019-12-25",
+      "poster_path": "/or4apGmQa4sPR8lnindel4GgziL.jpg",
+      "popularity": 1.3201,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Christine Gernon"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2019
+    },
+    "/tv/323985/external_ids": {
+      "id": 323985,
+      "imdb_id": "tt40619917",
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 478508,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/496911?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 496911,
+      "title": "Proclaimers: This Is the Story",
+      "original_title": "Proclaimers: This Is the Story",
+      "release_date": "2017-06-21",
+      "poster_path": "/7jhh19sBTS49Ld9MSDEJrHjOhlp.jpg",
+      "popularity": 1.8491,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Pete Stanton"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2017
+    },
+    "/movie/416567?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 416567,
+      "title": "The Beginning and End of the Universe",
+      "original_title": "The Beginning and End of the Universe",
+      "release_date": "2016-03-22",
+      "poster_path": "/6XNmQzyLllMfx4cM99Cv6BoQdAo.jpg",
+      "popularity": 1.0927,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Nigel Paterson"
+          },
+          {
+            "job": "Director",
+            "name": "Ben Wilson"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt6083778"
+      },
+      "earliest_release_year": 2016
+    },
+    "/tv/305099/external_ids": {
+      "id": 305099,
+      "imdb_id": "tt37146886",
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 468266,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/699957?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 699957,
+      "title": "Lee Miller: A Life on the Frontline",
+      "original_title": "Lee Miller: A Life on the Frontline",
+      "release_date": "2020-05-02",
+      "poster_path": "/j4FjprGR3Jc0CsxV7BzpAnb4zyG.jpg",
+      "popularity": 1.292,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Teresa Griffiths"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt12281602"
+      },
+      "earliest_release_year": 2020
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Chloe Ayling: My Unbelievable Kidnapping&region=BR&year=2025": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Chloe Ayling: My Unbelievable Kidnapping&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/movie/1156196?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1156196,
+      "title": "Hollywoodgate",
+      "original_title": "Hollywoodgate",
+      "release_date": "2024-07-19",
+      "poster_path": "/iNKYd8wr1jBM8ZH1FERGHSNOU7a.jpg",
+      "popularity": 1.8943,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "إبراهيم نشأت"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt28494712"
+      },
+      "earliest_release_year": 2023
+    },
+    "/tv/197431/external_ids": {
+      "id": 197431,
+      "imdb_id": "tt7534720",
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": null,
+      "tvrage_id": null,
+      "wikidata_id": "Q111494354",
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/tv/259378/external_ids": null,
+    "/movie/903534?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 903534,
+      "title": "Uncovering Rape Culture",
+      "original_title": "Uncovering Rape Culture",
+      "release_date": "2021-11-24",
+      "poster_path": null,
+      "popularity": 0.3832,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2021
+    },
+    "/movie/1614039?append_to_response=credits,external_ids,release_dates&language=pt-BR": null,
+    "/movie/551622?append_to_response=credits,external_ids,release_dates&language=pt-BR": null,
+    "/tv/295261/external_ids": {
+      "id": 295261,
+      "imdb_id": "tt37577847",
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 465475,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/tv/62074/external_ids": {
+      "id": 62074,
+      "imdb_id": null,
+      "freebase_mid": "/m/0kg1s0c",
+      "freebase_id": null,
+      "tvdb_id": 235671,
+      "tvrage_id": 43544,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/1099557?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1099557,
+      "title": "My Garden of a Thousand Bees",
+      "original_title": "My Garden of a Thousand Bees",
+      "release_date": "2021-10-20",
+      "poster_path": "/tyXDtJpp40M3oPdrGmSqHBdUc58.jpg",
+      "popularity": 0.8792,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "David Allen"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt15196228"
+      },
+      "earliest_release_year": 2021
+    },
+    "/movie/1225607?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1225607,
+      "title": "Peaky Blinders: Rambert’s The Redemption of Thomas Shelby",
+      "original_title": "Peaky Blinders: Rambert’s The Redemption of Thomas Shelby",
+      "release_date": "2024-01-01",
+      "poster_path": "/e8z8Um3rsStAAkfumzX5PkpY2g4.jpg",
+      "popularity": 1.4385,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Benoit-Swan Pouffer"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt30788520"
+      },
+      "earliest_release_year": 2024
+    },
+    "/movie/1739960?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1739960,
+      "title": "Jared Leto: Hollywood's Dark Secret",
+      "original_title": "Jared Leto: Hollywood's Dark Secret",
+      "release_date": "2026-07-29",
+      "poster_path": "/3Tq6JTx5NNc4GSHYK2DmkhulmDG.jpg",
+      "popularity": 2.0549,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Alice McShane"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt43724724"
+      },
+      "earliest_release_year": 2026
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Like, Follow, Trafficked: Insta's Fake Guru&region=BR&year=2024": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1322454,
+          "title": "Like, Follow, Trafficked: Insta’s Fake Guru",
+          "original_title": "Like, Follow, Trafficked: Insta’s Fake Guru",
+          "release_date": "",
+          "poster_path": "/8lObw9KlzmK0mfK50yBstTGoWyC.jpg",
+          "popularity": 1.0553
+        }
+      ]
+    },
+    "/movie/1322454?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1322454,
+      "title": "Like, Follow, Trafficked: Insta’s Fake Guru",
+      "original_title": "Like, Follow, Trafficked: Insta’s Fake Guru",
+      "release_date": "",
+      "poster_path": "/8lObw9KlzmK0mfK50yBstTGoWyC.jpg",
+      "popularity": 1.0553,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Jack Garland"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt33298607"
+      },
+      "earliest_release_year": 2024
+    },
+    "/movie/1393983?append_to_response=credits,external_ids,release_dates&language=pt-BR": null,
+    "/tv/299303/external_ids": {
+      "id": 299303,
+      "imdb_id": "tt38048757",
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 467155,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/428290?append_to_response=credits,external_ids,release_dates&language=pt-BR": null,
+    "/movie/1370038?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1370038,
+      "title": "The Hunt for Lady Olive & the German Submarine",
+      "original_title": "The Hunt for Lady Olive & the German Submarine",
+      "release_date": "2024-10-22",
+      "poster_path": "/liznxMUPYJSuigWlCbo2zNfPPVF.jpg",
+      "popularity": 0.4722,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Karl Taylor"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt32176494"
+      },
+      "earliest_release_year": 2024
+    },
+    "/tv/110846/external_ids": {
+      "id": 110846,
+      "imdb_id": "tt11852402",
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 376784,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/tv/197564/external_ids": {
+      "id": 197564,
+      "imdb_id": "tt13283466",
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 418986,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/tv/295258/external_ids": {
+      "id": 295258,
+      "imdb_id": "tt36769470",
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 465161,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/344560?append_to_response=credits,external_ids,release_dates&language=pt-BR": null,
+    "/movie/1449455?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1449455,
+      "title": "Stacey Dooley: Growing Up Gypsy",
+      "original_title": "Stacey Dooley: Growing Up Gypsy",
+      "release_date": "2025-03-13",
+      "poster_path": null,
+      "popularity": 0.7729,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Anna Johnston"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt36606056"
+      },
+      "earliest_release_year": 2025
+    },
+    "/movie/499838?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 499838,
+      "title": "All Aboard! The Sleigh Ride",
+      "original_title": "All Aboard! The Sleigh Ride",
+      "release_date": "2015-12-24",
+      "poster_path": "/caolF7xBJX7Qyca4FbyhL1oZeeM.jpg",
+      "popularity": 0.981,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Luke Korzun Martin"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt5280154"
+      },
+      "earliest_release_year": 2015
+    },
+    "/movie/192040?append_to_response=credits,external_ids,release_dates&language=pt-BR": null,
+    "/movie/1553384?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1553384,
+      "title": "Banned in the 80s: Moments That Shook Music",
+      "original_title": "Banned in the 80s: Moments That Shook Music",
+      "release_date": "2025-09-27",
+      "poster_path": "/cwDZetUCt1pfUYN65KNGgwehz5I.jpg",
+      "popularity": 0.7452,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "John Osborne"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2025
+    },
+    "/tv/1278/external_ids": {
+      "id": 1278,
+      "imdb_id": "tt0481448",
+      "freebase_mid": "/m/0cysr_",
+      "freebase_id": null,
+      "tvdb_id": 79119,
+      "tvrage_id": null,
+      "wikidata_id": "Q14954414",
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/tv/136009/external_ids": {
+      "id": 136009,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 410891,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/371496?append_to_response=credits,external_ids,release_dates&language=pt-BR": null,
+    "/movie/494760?append_to_response=credits,external_ids,release_dates&language=pt-BR": null,
+    "/movie/1133443?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1133443,
+      "title": "Heatwave",
+      "original_title": "Heatwave",
+      "release_date": "2005-05-11",
+      "poster_path": "/16mnR4QQZ9lcJLECIQEpbDc0iR.jpg",
+      "popularity": 3.1379,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Nicholas White"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0810893"
+      },
+      "earliest_release_year": 2005
+    },
+    "/movie/694018?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 694018,
+      "title": "Nudes4Sale",
+      "original_title": "Nudes4Sale",
+      "release_date": "2020-04-07",
+      "poster_path": "/jOb4MEV7jCerTGUnrRWbhzMBliG.jpg",
+      "popularity": 0.9438,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": "tt12777952"
+      },
+      "earliest_release_year": 2020
+    },
+    "/tv/101021/external_ids": {
+      "id": 101021,
+      "imdb_id": "tt9015252",
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 352154,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/tv/77279/external_ids": {
+      "id": 77279,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 374171,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/486604?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 486604,
+      "title": "The Town That Thread Built",
+      "original_title": "The Town That Thread Built",
+      "release_date": "2017-06-07",
+      "poster_path": "/ePxy7xTmszc4JGx2m7ufxiwG2T2.jpg",
+      "popularity": 0.694,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2017
+    },
+    "/movie/1739039?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1739039,
+      "title": "A Taste of Honey",
+      "original_title": "A Taste of Honey",
+      "release_date": "1984-09-28",
+      "poster_path": "/pa7AMcu1dS1F2vzSpTcRTTOKQhl.jpg",
+      "popularity": 1.6116,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Michael Simpson"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt8770952"
+      },
+      "earliest_release_year": 1984
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Man Like Mobeen&region=BR&year=2016": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Man Like Mobeen&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/tv/287042/external_ids": {
+      "id": 287042,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": null,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/tv/275122/external_ids": {
+      "id": 275122,
+      "imdb_id": "tt34475652",
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 455352,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/43719?append_to_response=credits,external_ids,release_dates&language=pt-BR": null,
+    "/movie/1294456?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1294456,
+      "title": "The Wrong Man: 17 Years Behind Bars",
+      "original_title": "The Wrong Man: 17 Years Behind Bars",
+      "release_date": "2024-06-06",
+      "poster_path": "/qGF0GZlbbXpDQPYghUkcxb75vJx.jpg",
+      "popularity": 0.8679,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Fran Robertson"
+          },
+          {
+            "job": "Director",
+            "name": "Jemma Gander"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt32566768"
+      },
+      "earliest_release_year": 2024
+    },
+    "/movie/432517?append_to_response=credits,external_ids,release_dates&language=pt-BR": null,
+    "/movie/433729?append_to_response=credits,external_ids,release_dates&language=pt-BR": null,
+    "/tv/49281/external_ids": {
+      "id": 49281,
+      "imdb_id": "tt1631912",
+      "freebase_mid": "/m/0v9hmvg",
+      "freebase_id": null,
+      "tvdb_id": 132401,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/534421?append_to_response=credits,external_ids,release_dates&language=pt-BR": null,
+    "/tv/220150/external_ids": {
+      "id": 220150,
+      "imdb_id": "tt26692417",
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": null,
+      "tvrage_id": null,
+      "wikidata_id": "Q115733264",
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": "anipoke_PR"
+    },
+    "/movie/456552?append_to_response=credits,external_ids,release_dates&language=pt-BR": null,
+    "/tv/17924/external_ids": {
+      "id": 17924,
+      "imdb_id": null,
+      "freebase_mid": "/m/04cwlnl",
+      "freebase_id": "/en/landward",
+      "tvdb_id": 280783,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/tv/240310/external_ids": {
+      "id": 240310,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 451459,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/1713222?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1713222,
+      "title": "Madonna + Graham",
+      "original_title": "Madonna + Graham",
+      "release_date": "2026-06-26",
+      "poster_path": "/s4kEJzTyBWiftIZThYay91YrDpF.jpg",
+      "popularity": 4.6032,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Karen McGann"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt43624577"
+      },
+      "earliest_release_year": 2026
+    },
+    "/tv/229500/external_ids": {
+      "id": 229500,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 449207,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/tv/312415/external_ids": {
+      "id": 312415,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 369316,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/1111857?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1111857,
+      "title": "Attenborough and the Giant Sea Monster",
+      "original_title": "Attenborough and the Giant Sea Monster",
+      "release_date": "2024-01-01",
+      "poster_path": "/gyuMKQDVCXTqPI2hvDqhCvnOoaU.jpg",
+      "popularity": 1.9015,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Victoria Bobin"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt30766104"
+      },
+      "earliest_release_year": 2024
+    },
+    "/tv/277666/external_ids": {
+      "id": 277666,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 456997,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/1340878?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1340878,
+      "title": "Doctor Who at the Proms",
+      "original_title": "Doctor Who at the Proms",
+      "release_date": "2024-12-24",
+      "poster_path": "/ppcAq8coHm2mHVdyLM19hgGIiJy.jpg",
+      "popularity": 2.255,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Rhodri Huw"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt35503944"
+      },
+      "earliest_release_year": 2024
+    },
+    "/movie/912802?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 912802,
+      "title": "Superworm",
+      "original_title": "Superworm",
+      "release_date": "2021-12-25",
+      "poster_path": "/hzvZDTb9r9Yceomz2GCHn2eneiD.jpg",
+      "popularity": 1.9425,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Sarah Scrimgeour"
+          },
+          {
+            "job": "Director",
+            "name": "Jac Hamman"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt14040072"
+      },
+      "earliest_release_year": 2021
+    },
+    "/movie/1529731?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1529731,
+      "title": "Miraculous : Les Aventures de Ladybug et Chat Noir",
+      "original_title": "Miraculous : Les Aventures de Ladybug et Chat Noir",
+      "release_date": "2025-08-14",
+      "poster_path": "/odXGnbvJXnzK3LckgvqQOjDLvRr.jpg",
+      "popularity": 2.2703,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Thomas Astruc"
+          },
+          {
+            "job": "Director",
+            "name": "Wilfried Pain"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2025
+    },
+    "/movie/1359211?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1359211,
+      "title": "Beck 54 - I skuggorna",
+      "original_title": "Beck 54 - I skuggorna",
+      "release_date": "2026-03-20",
+      "poster_path": "/OL0K3YJcVu4F8WGC0fJ4BDd2jp.jpg",
+      "popularity": 2.314,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Lisa Farzaneh"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt39284948"
+      },
+      "earliest_release_year": 2026
+    },
+    "/tv/314339/external_ids": {
+      "id": 314339,
+      "imdb_id": "tt39744440",
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 474907,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/tv/157317/external_ids": {
+      "id": 157317,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": null,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/tv/101397/external_ids": {
+      "id": 101397,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 353803,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/tv/226233/external_ids": {
+      "id": 226233,
+      "imdb_id": "tt27725006",
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 434754,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/390788?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 390788,
+      "title": "The Next Step Live: The Movie",
+      "original_title": "The Next Step Live: The Movie",
+      "release_date": "2015-06-27",
+      "poster_path": "/k7PtnfGHoFCof8INQCjHHgYKTND.jpg",
+      "popularity": 1.3404,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Derby Crewe"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt4861064"
+      },
+      "earliest_release_year": 2015
+    },
+    "/movie/412443?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 412443,
+      "title": "New Zealand: Earth's Mythical Islands",
+      "original_title": "New Zealand: Earth's Mythical Islands",
+      "release_date": "2016-07-19",
+      "poster_path": "/bzy9UGMXy8k7Z5nSts9oqPn1rWp.jpg",
+      "popularity": 2.3573,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Mark Flowers"
+          },
+          {
+            "job": "Director",
+            "name": "Robert Morgenstern"
+          },
+          {
+            "job": "Director",
+            "name": "Nick Easton"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt5994812"
+      },
+      "earliest_release_year": 2016
+    },
+    "/movie/1661256?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1661256,
+      "title": "The Prince, The Showgirl and Me",
+      "original_title": "The Prince, The Showgirl and Me",
+      "release_date": "2004-07-09",
+      "poster_path": "/ojOcZRy5oGTgun7Jr4QS4NEfGYx.jpg",
+      "popularity": 1.5486,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Clare Beavan"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0395716"
+      },
+      "earliest_release_year": 2004
+    },
+    "/movie/1702532?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1702532,
+      "title": "The Hadron Collider: In Search of the Peace Particle",
+      "original_title": "The Hadron Collider: In Search of the Peace Particle",
+      "release_date": "2026-06-03",
+      "poster_path": "/rPxH6oVMOaI1xVzds7LTleQ5GPa.jpg",
+      "popularity": 0.8867,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Alex Kiehl"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2026
+    },
+    "/movie/148964?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 148964,
+      "title": "Mrs. Brown's Boys Live Tour: Good Mourning Mrs. Brown",
+      "original_title": "Mrs. Brown's Boys Live Tour: Good Mourning Mrs. Brown",
+      "release_date": "2012-11-12",
+      "poster_path": "/dSdIWtT6UroU9TL5UfyBwxmUZf.jpg",
+      "popularity": 1.6912,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": "tt3921858"
+      },
+      "earliest_release_year": 2012
+    },
+    "/movie/1714785?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1714785,
+      "title": "OnlyFans: Inside the Machine",
+      "original_title": "OnlyFans: Inside the Machine",
+      "release_date": "2026-06-15",
+      "poster_path": "/y2x50zkCvOEyBU05X1HaTvRcsO3.jpg",
+      "popularity": 1.1592,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Natasha Cox"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2026
+    },
+    "/movie/1269074?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1269074,
+      "title": "The Unholylands",
+      "original_title": "The Unholylands",
+      "release_date": "2025-10-03",
+      "poster_path": "/kCJh6S3660bdm8e111L4eYrCvXH.jpg",
+      "popularity": 0.8655,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Paddy Duffy"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt24657654"
+      },
+      "earliest_release_year": 2024
+    },
+    "/tv/277669/external_ids": {
+      "id": 277669,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 456707,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/1668965?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1668965,
+      "title": "A Mustard Seed",
+      "original_title": "A Mustard Seed",
+      "release_date": "2026-02-27",
+      "poster_path": "/dzp7Pv8KGwsvZuDRvsozwZ5Hyh3.jpg",
+      "popularity": 1.4701,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Femi Oladigbolu"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt36588312"
+      },
+      "earliest_release_year": 2026
+    },
+    "/movie/1668970?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1668970,
+      "title": "Rituals: Union Black",
+      "original_title": "Rituals: Union Black",
+      "release_date": "2026-02-06",
+      "poster_path": "/z7dCQErp1CWr21hVHpJGNyFgrND.jpg",
+      "popularity": 0.9581,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Akinola Davies Jr."
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2026
+    },
+    "/movie/1647801?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1647801,
+      "title": "Eve and Marilyn",
+      "original_title": "Eve and Marilyn",
+      "release_date": "1987-09-08",
+      "poster_path": "/twTcxDzJ7uqPQKxz5GmqloIRRHq.jpg",
+      "popularity": 1.6696,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 1987
+    },
+    "/movie/588773?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 588773,
+      "title": "To the World's End: Scenes and Characters on a London Bus Route",
+      "original_title": "To the World's End: Scenes and Characters on a London Bus Route",
+      "release_date": "1985-04-05",
+      "poster_path": "/q5TxgFvrgAKt64fPZMv6sCY4Soz.jpg",
+      "popularity": 0.8592,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": "tt2269198"
+      },
+      "earliest_release_year": 1985
+    },
+    "/movie/1746094?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1746094,
+      "title": "Paul Heaton: Live at Bramall Lane",
+      "original_title": "Paul Heaton: Live at Bramall Lane",
+      "release_date": "2026-08-08",
+      "poster_path": "/h6YFqCLGwtPeUMswSrZZk4ooufD.jpg",
+      "popularity": 1.0255,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2026
+    },
+    "/movie/1315575?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1315575,
+      "title": "The Battle to Beat Malaria",
+      "original_title": "The Battle to Beat Malaria",
+      "release_date": "2024-07-22",
+      "poster_path": "/jvawdmCrjT1kC3b3VxgAs2Gp5rW.jpg",
+      "popularity": 0.8918,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Catherine Gale"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt29570902"
+      },
+      "earliest_release_year": 2024
+    },
+    "/movie/1093128?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1093128,
+      "title": "A Very Short Film About Longing",
+      "original_title": "A Very Short Film About Longing",
+      "release_date": "2023-10-04",
+      "poster_path": "/qleuNvzP8C79V37W3W6zaupuLjg.jpg",
+      "popularity": 2.1245,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Eimear McBride"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt29264676"
+      },
+      "earliest_release_year": 2023
+    },
+    "/movie/445374?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 445374,
+      "title": "Doctor Who: The Ultimate Guide",
+      "original_title": "Doctor Who: The Ultimate Guide",
+      "release_date": "2013-11-18",
+      "poster_path": "/k67IPpO6T6gw2Ua3QtaorTIa9TZ.jpg",
+      "popularity": 1.3283,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": "tt3414382"
+      },
+      "earliest_release_year": 2013
+    },
+    "/movie/361579?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 361579,
+      "title": "I Love This Dirty Town",
+      "original_title": "I Love This Dirty Town",
+      "release_date": "1969-01-04",
+      "poster_path": "/ggBzaJs17xPPfnpNLbrJ1ExrWYY.jpg",
+      "popularity": 0.8313,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": "tt2206110"
+      },
+      "earliest_release_year": 1969
+    },
+    "/movie/1734008?append_to_response=credits,external_ids,release_dates&language=pt-BR": null,
+    "/tv/228302/external_ids": {
+      "id": 228302,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 435869,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/630777?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 630777,
+      "title": "Jesy Nelson: \"Odd One Out\"",
+      "original_title": "Jesy Nelson: \"Odd One Out\"",
+      "release_date": "2019-09-12",
+      "poster_path": "/ktaR8ZO09j1mnT52coUnZ0oMM7t.jpg",
+      "popularity": 1.1662,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Adam Goodall"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt10098544"
+      },
+      "earliest_release_year": 2019
+    },
+    "/movie/1322914?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1322914,
+      "title": "Birdsong",
+      "original_title": "Birdsong",
+      "release_date": "2024-05-26",
+      "poster_path": null,
+      "popularity": 0.4432,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2024
+    },
+    "/tv/297524/external_ids": {
+      "id": 297524,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 466311,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/1541198?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1541198,
+      "title": "Turner: The Secret Sketchbooks",
+      "original_title": "Turner: The Secret Sketchbooks",
+      "release_date": "2025-11-19",
+      "poster_path": "/gvMHwESv2zkeYsRnyuS84HuKCnX.jpg",
+      "popularity": 2.0734,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Rosie Schellenberg"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt38995968"
+      },
+      "earliest_release_year": 2025
+    },
+    "/movie/535267?append_to_response=credits,external_ids,release_dates&language=pt-BR": null,
+    "/movie/509203?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 509203,
+      "title": "CBeebies Presents: Goldilocks And The Three Bears - A CBeebies Ballet",
+      "original_title": "CBeebies Presents: Goldilocks And The Three Bears - A CBeebies Ballet",
+      "release_date": "2017-04-17",
+      "poster_path": "/qYPTKe8hZTL3US27c6gUP0rqxVa.jpg",
+      "popularity": 0.844,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2017
+    },
+    "/movie/1212411?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1212411,
+      "title": "Morningside",
+      "original_title": "Morningside",
+      "release_date": "2025-02-21",
+      "poster_path": "/3oexcZqFt1PFizgaKVUxkBn0yxz.jpg",
+      "popularity": 1.0513,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Ron Dias"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt24666718"
+      },
+      "earliest_release_year": 2024
+    },
+    "/tv/274468/external_ids": {
+      "id": 274468,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": null,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/708331?append_to_response=credits,external_ids,release_dates&language=pt-BR": null,
+    "/movie/663286?append_to_response=credits,external_ids,release_dates&language=pt-BR": null,
+    "/movie/767258?append_to_response=credits,external_ids,release_dates&language=pt-BR": null,
+    "/movie/1491867?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1491867,
+      "title": "Lockerbie: Our Story",
+      "original_title": "Lockerbie: Our Story",
+      "release_date": "2025-06-03",
+      "poster_path": "/xlZoSifeMwPoCtivH2oNyUgoPsA.jpg",
+      "popularity": 0.5617,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Stephen Bennett"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt35671385"
+      },
+      "earliest_release_year": 2025
+    },
+    "/movie/487957?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 487957,
+      "title": "CBeebies Presents: Alice in Wonderland",
+      "original_title": "CBeebies Presents: Alice in Wonderland",
+      "release_date": "2015-12-18",
+      "poster_path": "/frVxciua6qXKVilvFGUfQtL8pdk.jpg",
+      "popularity": 0.8656,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": "tt35814817"
+      },
+      "earliest_release_year": 2015
+    },
+    "/movie/1288559?append_to_response=credits,external_ids,release_dates&language=pt-BR": null,
+    "/tv/234726/external_ids": {
+      "id": 234726,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": null,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/1604723?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1604723,
+      "title": "Men of the Manosphere",
+      "original_title": "Men of the Manosphere",
+      "release_date": "2025-11-12",
+      "poster_path": "/db0qxu31EDPCq27nP9RwQJ1oP7P.jpg",
+      "popularity": 1.0897,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Peter Grant"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt38356446"
+      },
+      "earliest_release_year": 2025
+    },
+    "/movie/445579?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 445579,
+      "title": "Sone ki bali",
+      "original_title": "Sone ki bali",
+      "release_date": "1960-03-07",
+      "poster_path": "/z8WolSG20vy8sPqEKMAe6HnBoQI.jpg",
+      "popularity": 0.5537,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Iqbal Shahzad"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 1960
+    },
+    "/movie/1724498?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1724498,
+      "title": "GK Barry: Toxic Gossip",
+      "original_title": "GK Barry: Toxic Gossip",
+      "release_date": "2026-07-01",
+      "poster_path": "/e1HUreueyKQoSCme3GdKcQcnFeh.jpg",
+      "popularity": 0.663,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Alfie Turner"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2026
+    },
+    "/tv/305785/external_ids": {
+      "id": 305785,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": null,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": "stagestarstv",
+      "twitter_id": null
+    },
+    "/movie/543844?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 543844,
+      "title": "Die schönsten Geschichten von Wilhelm Busch",
+      "original_title": "Die schönsten Geschichten von Wilhelm Busch",
+      "release_date": "2007-02-01",
+      "poster_path": "/xeystFWuY1yftPmMVHAvrXBcmYD.jpg",
+      "popularity": 0.4166,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2007
+    },
+    "/movie/1157439?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1157439,
+      "title": "Lumbu",
+      "original_title": "Lumbu",
+      "release_date": "2023-06-02",
+      "poster_path": "/fPWxD4lgcMG3UaUBLyJTAuOLAFx.jpg",
+      "popularity": 0.7514,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Billy Dosanjh"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt21985350"
+      },
+      "earliest_release_year": 2023
+    },
+    "/movie/1630577?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1630577,
+      "title": "The Corinthians: We Were the Champions",
+      "original_title": "The Corinthians: We Were the Champions",
+      "release_date": "2026-02-26",
+      "poster_path": "/2OcbT9TvSvUF6Irdli8zKo5C7vx.jpg",
+      "popularity": 0.4752,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Helen Tither"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt42934009"
+      },
+      "earliest_release_year": 2026
+    },
+    "/movie/582591?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 582591,
+      "title": "Coming To England",
+      "original_title": "Coming To England",
+      "release_date": "2003-04-28",
+      "poster_path": "/4UjhTwdvVB7riOHPIFpZf4rWGd1.jpg",
+      "popularity": 0.5161,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": "tt0388848"
+      },
+      "earliest_release_year": 2003
+    },
+    "/tv/114218/external_ids": {
+      "id": 114218,
+      "imdb_id": "tt12216760",
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 230761,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/tv/313628/external_ids": {
+      "id": 313628,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": 2231787,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/958264?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 958264,
+      "title": "The Regiment",
+      "original_title": "The Regiment",
+      "release_date": "1977-02-16",
+      "poster_path": "/aspagVq0Hd3J8BcbzmLIuKVWlGo.jpg",
+      "popularity": 1.4847,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 1977
+    },
+    "/movie/403950?append_to_response=credits,external_ids,release_dates&language=pt-BR": null,
+    "/movie/576172?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 576172,
+      "title": "Made by Machine: When AI Met the Archive",
+      "original_title": "Made by Machine: When AI Met the Archive",
+      "release_date": "2018-09-05",
+      "poster_path": "/yjqU04yR7PDq6ftg8KNaPqfw0zl.jpg",
+      "popularity": 0.8721,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": "tt30630370"
+      },
+      "earliest_release_year": 2018
+    },
+    "/movie/1089929?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1089929,
+      "title": "Русский разлом. Предатели и герои",
+      "original_title": "Русский разлом. Предатели и герои",
+      "release_date": "2023-02-19",
+      "poster_path": "/tHraYhFPeQbguTUrcWYHfz1FC1l.jpg",
+      "popularity": 0.848,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Paul Mitchell"
+          },
+          {
+            "job": "Director",
+            "name": "Анастасия Попова"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2023
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Hunting the Online Sex Predators&region=BR&year=2025": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1461573,
+          "title": "Hunting the Online Sex Predators",
+          "original_title": "Hunting the Online Sex Predators",
+          "release_date": "2025-02-25",
+          "poster_path": "/8POFMnkeCOtARMRglIbskWL6VEY.jpg",
+          "popularity": 0.9912
+        }
+      ]
+    },
+    "/movie/1461573?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1461573,
+      "title": "Hunting the Online Sex Predators",
+      "original_title": "Hunting the Online Sex Predators",
+      "release_date": "2025-02-25",
+      "poster_path": "/8POFMnkeCOtARMRglIbskWL6VEY.jpg",
+      "popularity": 0.9912,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Pete Grant"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt34936393"
+      },
+      "earliest_release_year": 2025
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=IV: Our Lives&region=BR&year=2026": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=IV: Our Lives&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/movie/549774?append_to_response=credits,external_ids,release_dates&language=pt-BR": null,
+    "/search/movie?include_adult=false&language=pt-BR&query=Original Skin&region=BR&year=2023": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Original Skin&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1096620,
+          "title": "Original Skin",
+          "original_title": "Original Skin",
+          "release_date": "2022-12-31",
+          "poster_path": "/ugMeddZkOza5Je5XlOnrMjZUckp.jpg",
+          "popularity": 0.597
+        }
+      ]
+    },
+    "/movie/1096620?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1096620,
+      "title": "Original Skin",
+      "original_title": "Original Skin",
+      "release_date": "2022-12-31",
+      "poster_path": "/ugMeddZkOza5Je5XlOnrMjZUckp.jpg",
+      "popularity": 0.597,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Mdhamiri á Nkemi"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt21035178"
+      },
+      "earliest_release_year": 2022
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Numberblocks: the Big Movie&region=BR&year=2026": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Numberblocks: the Big Movie&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Bullets Boots and Bandages&region=BR&year=2012": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Bullets Boots and Bandages&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=The Million Pound Shaman Scam&region=BR&year=1974": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=The Million Pound Shaman Scam&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Remembering the Sirens&region=BR&year=2014": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Remembering the Sirens&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Mastermind&region=BR&year=2025": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1352624,
+          "title": "The Mastermind",
+          "original_title": "The Mastermind",
+          "release_date": "2025-10-16",
+          "poster_path": "/nfp6lFe1JXUxwRyPaVn1xbJGD2t.jpg",
+          "popularity": 4.5318
+        }
+      ]
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=The Tech Billionaire Takeover&region=BR&year=2026": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1730990,
+          "title": "The Tech Billionaire Takeover",
+          "original_title": "The Tech Billionaire Takeover",
+          "release_date": "2026-07-12",
+          "poster_path": "/pisn8y36eGIyFfMD6LplLTDsidk.jpg",
+          "popularity": 0.8486
+        }
+      ]
+    },
+    "/movie/1730990?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1730990,
+      "title": "The Tech Billionaire Takeover",
+      "original_title": "The Tech Billionaire Takeover",
+      "release_date": "2026-07-12",
+      "poster_path": "/pisn8y36eGIyFfMD6LplLTDsidk.jpg",
+      "popularity": 0.8486,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Jamie Tahsin"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt43704273"
+      },
+      "earliest_release_year": 2026
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=The Secret Life of Chaos&region=BR&year=2010": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 418047,
+          "title": "The Secret Life of Chaos",
+          "original_title": "The Secret Life of Chaos",
+          "release_date": "2010-01-14",
+          "poster_path": "/uZRFOf5d8evP7eqtQJJZN3Fyn7D.jpg",
+          "popularity": 1.3935
+        }
+      ]
+    },
+    "/movie/418047?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 418047,
+      "title": "The Secret Life of Chaos",
+      "original_title": "The Secret Life of Chaos",
+      "release_date": "2010-01-14",
+      "poster_path": "/uZRFOf5d8evP7eqtQJJZN3Fyn7D.jpg",
+      "popularity": 1.3935,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Nic Stacey"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt1674741"
+      },
+      "earliest_release_year": 2010
     }
   },
   "at": {
@@ -266362,6 +268423,66 @@
     "/search/movie?include_adult=false&language=pt-BR&query=A Bela Garota&region=BR&year=1969": 1792389686312,
     "/movie/1156527?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792391875099,
     "/movie/723515?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792391875292,
-    "/movie/152144?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792391882033
+    "/movie/152144?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792391882033,
+    "/movie/394653?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942541196,
+    "/movie/939522?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942544643,
+    "/movie/589168?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942544819,
+    "/movie/960484?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942545005,
+    "/movie/1614479?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942545226,
+    "/movie/1211750?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942545593,
+    "/movie/496911?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942545956,
+    "/search/movie?include_adult=false&language=pt-BR&query=Chloe Ayling: My Unbelievable Kidnapping&region=BR&year=2025": 1792942546712,
+    "/search/movie?include_adult=false&language=pt-BR&query=Chloe Ayling: My Unbelievable Kidnapping&region=BR&year=undefined": 1792942546899,
+    "/tv/259378/external_ids": 1792942547461,
+    "/movie/903534?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942547659,
+    "/movie/1614039?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942547842,
+    "/movie/551622?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942548027,
+    "/movie/1393983?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942549652,
+    "/movie/428290?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942550009,
+    "/movie/344560?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942550910,
+    "/movie/192040?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942551554,
+    "/movie/1553384?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942551744,
+    "/movie/371496?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942552326,
+    "/movie/494760?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942552507,
+    "/movie/486604?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942553471,
+    "/search/movie?include_adult=false&language=pt-BR&query=Man Like Mobeen&region=BR&year=2016": 1792942553859,
+    "/search/movie?include_adult=false&language=pt-BR&query=Man Like Mobeen&region=BR&year=undefined": 1792942554050,
+    "/movie/43719?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942554597,
+    "/movie/432517?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942554962,
+    "/movie/433729?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942555139,
+    "/movie/534421?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942555501,
+    "/movie/456552?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942555854,
+    "/movie/1529731?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942557708,
+    "/movie/1702532?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942559486,
+    "/movie/1714785?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942559861,
+    "/movie/1668970?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942560724,
+    "/movie/1647801?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942560966,
+    "/movie/1746094?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942561360,
+    "/movie/1734008?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942562307,
+    "/movie/1322914?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942563341,
+    "/movie/535267?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942563880,
+    "/movie/509203?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942564076,
+    "/movie/708331?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942564635,
+    "/movie/663286?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942564818,
+    "/movie/767258?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942565002,
+    "/movie/1288559?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942565565,
+    "/movie/445579?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942566114,
+    "/movie/1724498?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942566302,
+    "/movie/543844?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942566672,
+    "/movie/958264?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942567789,
+    "/movie/403950?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942567968,
+    "/movie/1089929?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942568395,
+    "/search/movie?include_adult=false&language=pt-BR&query=IV: Our Lives&region=BR&year=2026": 1792942568976,
+    "/search/movie?include_adult=false&language=pt-BR&query=IV: Our Lives&region=BR&year=undefined": 1792942569169,
+    "/movie/549774?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1792942569391,
+    "/search/movie?include_adult=false&language=pt-BR&query=Original Skin&region=BR&year=2023": 1792942569575,
+    "/search/movie?include_adult=false&language=pt-BR&query=Numberblocks: the Big Movie&region=BR&year=2026": 1792942570167,
+    "/search/movie?include_adult=false&language=pt-BR&query=Numberblocks: the Big Movie&region=BR&year=undefined": 1792942570401,
+    "/search/movie?include_adult=false&language=pt-BR&query=Bullets Boots and Bandages&region=BR&year=2012": 1792942570593,
+    "/search/movie?include_adult=false&language=pt-BR&query=Bullets Boots and Bandages&region=BR&year=undefined": 1792942570785,
+    "/search/movie?include_adult=false&language=pt-BR&query=The Million Pound Shaman Scam&region=BR&year=1974": 1792942570973,
+    "/search/movie?include_adult=false&language=pt-BR&query=The Million Pound Shaman Scam&region=BR&year=undefined": 1792942571165,
+    "/search/movie?include_adult=false&language=pt-BR&query=Remembering the Sirens&region=BR&year=2014": 1792942571379,
+    "/search/movie?include_adult=false&language=pt-BR&query=Remembering the Sirens&region=BR&year=undefined": 1792942571565
   }
 }

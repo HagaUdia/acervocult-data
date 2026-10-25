@@ -1,6 +1,52 @@
 {
   "runs": [
     {
+      "startedAt": "2026-10-25T15:35:04.780Z",
+      "finishedAt": "2026-10-25T15:42:49.596Z",
+      "only": [
+        "bbc"
+      ],
+      "results": [
+        {
+          "source": "bbc",
+          "label": "[C] BBC Streming",
+          "method": "justwatch-pacote + historico-bbc",
+          "primary": "justwatch-pacote",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "justwatch-pacote",
+              "count": 1516,
+              "ms": 35124,
+              "error": null
+            },
+            {
+              "method": "historico-bbc",
+              "count": 11,
+              "ms": 1,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 1527,
+            "validos": 1527,
+            "revisao": 0,
+            "novos": 1527,
+            "atualizados": 0,
+            "completados": 0,
+            "total": 1527,
+            "no_catalogo": 1469,
+            "capas_sem_metahub": 125,
+            "capas_conferidas": 1465,
+            "tmdb_matched": 95,
+            "tmdb_unmatched": 55
+          },
+          "warnings": [],
+          "ms": 464816
+        }
+      ]
+    },
+    {
       "startedAt": "2026-10-19T06:00:44.226Z",
       "finishedAt": "2026-10-19T06:38:15.090Z",
       "only": null,
