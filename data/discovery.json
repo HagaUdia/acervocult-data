@@ -1,5 +1,22 @@
 [
   {
+    "id": "acervocult:discovery:serie-secret-life-of-a-vegas-casino",
+    "source": "discovery",
+    "name": "Secret Life of a Vegas Casino",
+    "year": 2026,
+    "director": null,
+    "type": "series",
+    "imdb_id": "tt45602692",
+    "tmdb_id": 335032,
+    "poster": "https://images.justwatch.com/poster/355119632/s332/secret-life-of-a-vegas-casino.jpg",
+    "source_url": "https://www.justwatch.com/us/tv-show/secret-life-of-a-vegas-casino",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-26T06:43:50.047Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-26T06:43:50.069Z"
+  },
+  {
     "id": "acervocult:discovery:serie-120-hours-behind-bars",
     "source": "discovery",
     "name": "120 Hours Behind Bars",
@@ -12,7 +29,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/120-hours-behind-bars",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -29,7 +46,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/conspiracies-and-coverups",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -46,7 +63,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/homestead-rescue-intervention",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -63,7 +80,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/how-to-catch-a-dirtbag",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -80,7 +97,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/in-the-eye-of-the-storm-chasers",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -97,7 +114,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/jeff-dunhams-the-cars-that-drove-us",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -114,7 +131,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/naked-and-afraid-global-showdown",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -131,7 +148,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/orange-county-choppers-original",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -148,7 +165,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/sara-price-chasing-dakar-2026",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -165,7 +182,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/animals-on-drugs",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -182,7 +199,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/bigfoot-took-her",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -199,7 +216,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/constables-on-patrol",
     "enrich_status": "unmatched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z"
+    "last_seen": "2026-10-26T06:43:50.047Z"
   },
   {
     "id": "acervocult:discovery:serie-dancing-with-sharks",
@@ -214,7 +231,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/dancing-with-sharks",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": false,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -231,7 +248,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/filthy-fortunes",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -248,7 +265,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/harpoon-hunters",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -265,7 +282,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/moonshiners-true-crime-and-shine",
     "enrich_status": "unmatched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z"
+    "last_seen": "2026-10-26T06:43:50.047Z"
   },
   {
     "id": "acervocult:discovery:serie-naked-and-afraid-apocalypse",
@@ -280,7 +297,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/naked-and-afraid-apocalypse",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -297,7 +314,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/red-bull-soapbox",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": false,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -314,7 +331,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/rocky-mountain-wreckers",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -331,7 +348,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/the-last-captains",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -348,7 +365,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/truck-dynasty",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": false,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -365,7 +382,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/6000-lb-shark",
     "enrich_status": "unmatched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z"
+    "last_seen": "2026-10-26T06:43:50.047Z"
   },
   {
     "id": "acervocult:discovery:serie-alien-encounters-fact-or-fiction",
@@ -380,7 +397,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/alien-encounters-fact-or-fiction",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -397,7 +414,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/americas-backyard-gold",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -414,7 +431,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/big-little-brawlers",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -431,7 +448,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/wild-and-weird-america",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": false,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -448,7 +465,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/contraband-seized-at-sea",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -465,7 +482,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/contraband-seized-at-the-airport",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -482,7 +499,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/destinations-of-the-damned-with-zak-bagans",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -499,7 +516,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/expedition-files",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -516,7 +533,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/expedition-from-hell-the-lost-tapes",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -533,7 +550,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/great-white-serial-killer-sea-of-blood",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -550,7 +567,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/hustlers-gamblers-and-crooks",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -567,7 +584,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/in-the-eye-of-the-storm-2024",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -584,7 +601,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/jaws-vs-leviathan",
     "enrich_status": "unmatched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z"
+    "last_seen": "2026-10-26T06:43:50.047Z"
   },
   {
     "id": "acervocult:discovery:serie-lost-monster-files",
@@ -599,7 +616,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/lost-monster-files",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -616,7 +633,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/makozilla",
     "enrich_status": "unmatched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z"
+    "last_seen": "2026-10-26T06:43:50.047Z"
   },
   {
     "id": "acervocult:discovery:serie-monster-hammerheads-species-x",
@@ -631,7 +648,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/monster-hammerheads-species-x",
     "enrich_status": "unmatched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z"
+    "last_seen": "2026-10-26T06:43:50.047Z"
   },
   {
     "id": "acervocult:discovery:serie-mud-madness",
@@ -646,7 +663,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/mud-madness",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -663,7 +680,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/sin-city-tow",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -680,7 +697,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/six-schizophrenic-brothers",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -697,7 +714,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/sydney-harbor-shark-invasion",
     "enrich_status": "unmatched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z"
+    "last_seen": "2026-10-26T06:43:50.047Z"
   },
   {
     "id": "acervocult:discovery:serie-the-last-woodsmen",
@@ -712,7 +729,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/the-last-woodsmen",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -729,7 +746,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/caught-2023",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -746,7 +763,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/contraband-seized-at-the-border",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -763,7 +780,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/east-harbour-heroes",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -780,7 +797,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/funny-or-dies-high-science",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -797,7 +814,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/gold-lies-and-videotape",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -814,7 +831,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/hidden-frontiers-arabia",
     "enrich_status": "unmatched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z"
+    "last_seen": "2026-10-26T06:43:50.047Z"
   },
   {
     "id": "acervocult:discovery:serie-mark-robers-revengineers",
@@ -829,7 +846,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/mark-robers-revengineers",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -846,7 +863,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/naked-and-afraid-castaways",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -863,7 +880,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/naked-and-afraid-last-one-standing",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -880,7 +897,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/naked-and-afraid-solo",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -897,7 +914,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/sewer-divers",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -914,7 +931,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/street-outlaws-vs-the-world",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": false,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -931,7 +948,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/street-outlaws-locals-only",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -948,7 +965,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/survive-the-raft",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -965,7 +982,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/the-garden-commune-or-cult",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -982,7 +999,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/this-is-mark-rober",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -999,7 +1016,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/a-cut-above",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1016,7 +1033,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/aussie-gold-hunters-mine-sos",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1033,7 +1050,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/brink-of-disaster",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1050,7 +1067,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/deadliest-catch-the-viking-returns",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1067,7 +1084,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/great-white-open-ocean",
     "enrich_status": "unmatched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z"
+    "last_seen": "2026-10-26T06:43:50.047Z"
   },
   {
     "id": "acervocult:discovery:serie-hard-truths-of-conservation",
@@ -1082,7 +1099,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/hard-truths-of-conservation",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": false,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1099,7 +1116,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/hoffman-family-gold",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1116,7 +1133,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/ice-cold-catch",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1133,7 +1150,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/love-off-the-grid",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1150,7 +1167,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/moonshiners-american-spirit",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1167,7 +1184,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/mysteries-of-the-abandoned-hidden-america",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1184,7 +1201,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/pig-vs-shark",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1201,7 +1218,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/rv-there-yet",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1218,7 +1235,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/street-outlaws-end-game",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1235,7 +1252,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/street-outlaws-farmtruck-and-azn",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1252,7 +1269,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/tales-from-the-explorers-club",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1269,7 +1286,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/battlebots-bounty-hunters",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1286,7 +1303,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/gold-rush-freddy-dodges-mine-rescue",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1303,7 +1320,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/gold-rush-winters-fortune",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1320,7 +1337,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/mystery-at-blind-frog-ranch",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1337,7 +1354,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/saltwater-underground-with-nick-honachefsky",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": false,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1354,7 +1371,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/street-outlaws-americas-list",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1371,7 +1388,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/street-outlaws-mega-cash-days",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1388,7 +1405,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/undercover-billionaire-comeback-city",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1405,7 +1422,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/100-days-wild",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1422,7 +1439,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/dino-hunters",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1439,7 +1456,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/expedition-x",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1456,7 +1473,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/growing-belushi",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1473,7 +1490,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/homestead-rescue-raney-ranch",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1490,7 +1507,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/josh-gates-tonight",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1507,7 +1524,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/moonshiners-master-distiller",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1524,7 +1541,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/mysteries-of-the-deep",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1541,7 +1558,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/naked-and-afraid-foreign-exchange-2020",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1558,7 +1575,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/reclaimed",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": false,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1575,7 +1592,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/secrets-in-the-ice",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1592,7 +1609,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/street-outlaws-fastest-in-america",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1609,7 +1626,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/undiscovered",
     "enrich_status": "unmatched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z"
+    "last_seen": "2026-10-26T06:43:50.047Z"
   },
   {
     "id": "acervocult:discovery:serie-8-days",
@@ -1624,7 +1641,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/8-days",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1641,7 +1658,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/ed-stafford-first-man-out",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1658,7 +1675,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/gold-rush-dave-turins-lost-mine",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1675,7 +1692,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/moonshiners-whiskey-business",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1686,13 +1703,13 @@
     "year": 2019,
     "director": "Ramy Romany",
     "type": "series",
-    "imdb_id": "tt10703406",
+    "imdb_id": "tt12189156",
     "tmdb_id": 102294,
     "poster": "https://images.justwatch.com/poster/305715154/s332/mummies-unwrapped.jpg",
     "source_url": "https://www.justwatch.com/us/tv-show/mummies-unwrapped",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1709,7 +1726,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/the-rvers",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1726,7 +1743,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/extinct-or-alive",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1743,7 +1760,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/gold-rush-white-water",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1760,7 +1777,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/naked-and-afraid-savage",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": false,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1777,7 +1794,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/outback-opal-hunters",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1794,7 +1811,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/street-outlaws-memphis",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1811,7 +1828,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/street-outlaws-no-prep-kings",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1828,7 +1845,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/tethered",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": false,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1845,7 +1862,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/coopers-treasure",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1862,7 +1879,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/gold-rush-parkers-trail",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1879,7 +1896,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/i-was-prey",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1896,7 +1913,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/legendary-locations",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1913,7 +1930,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/rogue-earth",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": false,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1930,7 +1947,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/deadliest-catch-dungeon-cove",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1947,7 +1964,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/diesel-brothers",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1964,7 +1981,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/homestead-rescue",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1981,7 +1998,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/street-outlaws-new-orleans",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -1998,7 +2015,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/battlebots-2015",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2015,7 +2032,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/expedition-unknown",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2032,7 +2049,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/naked-and-afraid-xl",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2049,7 +2066,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/the-last-alaskans",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2066,7 +2083,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/tut",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2083,7 +2100,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/alaskan-bush-people",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2100,7 +2117,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/edge-of-alaska",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2117,7 +2134,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/fast-n-loud-demolition-theater",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2134,7 +2151,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/marooned-with-ed-stafford",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2151,7 +2168,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/raiders-of-the-lost-art",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2168,7 +2185,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/the-island-with-bear-grylls",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2185,7 +2202,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/dude-youre-screwed",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2202,7 +2219,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/naked-and-afraid",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2213,13 +2230,13 @@
     "year": 2013,
     "director": null,
     "type": "series",
-    "imdb_id": "tt3027156",
+    "imdb_id": "tt30428139",
     "tmdb_id": 236070,
     "poster": "https://images.justwatch.com/poster/306801524/s332/street-outlaws.jpg",
     "source_url": "https://www.justwatch.com/us/tv-show/street-outlaws",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2236,7 +2253,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/bering-sea-gold",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2253,7 +2270,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/dangerous-waters",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2270,7 +2287,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/fast-n-loud",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2287,7 +2304,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/gold-rush-dirt-to-riches",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2304,7 +2321,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/jungle-gold",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2321,7 +2338,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/yukon-men",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2333,12 +2350,12 @@
     "director": null,
     "type": "series",
     "imdb_id": "tt1877010",
-    "tmdb_id": 248622,
+    "tmdb_id": 63313,
     "poster": "https://images.justwatch.com/poster/149256693/s332/alaska-the-last-frontier.jpg",
     "source_url": "https://www.justwatch.com/us/tv-show/alaska-the-last-frontier",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2355,7 +2372,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/moonshiners",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2372,7 +2389,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/airplane-repo",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2389,7 +2406,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/dual-survival",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2406,7 +2423,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/ghost-adventures",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2423,7 +2440,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/natures-deadliest",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": false,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2440,7 +2457,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/prototype-this",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2457,7 +2474,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/smash-lab",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2474,7 +2491,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/storm-chasers",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2491,7 +2508,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/man-vs-wild",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2508,7 +2525,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/deadliest-catch",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2525,7 +2542,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/dirty-jobs",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2542,7 +2559,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/american-chopper",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2559,7 +2576,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/extreme-engineering",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2576,7 +2593,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/mythbusters",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2588,12 +2605,12 @@
     "director": null,
     "type": "series",
     "imdb_id": "tt4595526",
-    "tmdb_id": 218073,
+    "tmdb_id": 76426,
     "poster": "https://images.justwatch.com/poster/319724494/s332/minute-by-minute.jpg",
     "source_url": "https://www.justwatch.com/us/tv-show/minute-by-minute",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": false,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   },
@@ -2610,7 +2627,7 @@
     "source_url": "https://www.justwatch.com/us/tv-show/shark-week",
     "enrich_status": "matched",
     "first_seen": "2026-10-17T21:33:14.032Z",
-    "last_seen": "2026-10-19T06:38:11.657Z",
+    "last_seen": "2026-10-26T06:43:50.047Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-17T21:33:14.451Z"
   }

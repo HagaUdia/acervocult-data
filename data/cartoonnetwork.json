@@ -1,5 +1,22 @@
 [
   {
+    "id": "acervocult:cartoonnetwork:serie-jungle-beat",
+    "source": "cartoonnetwork",
+    "name": "O Ritmo da Selva",
+    "year": 2003,
+    "director": "Brent Dawes",
+    "type": "series",
+    "imdb_id": "tt3282216",
+    "tmdb_id": 112432,
+    "poster": "https://images.justwatch.com/poster/139211240/s332/jungle-beat.jpg",
+    "source_url": "https://www.justwatch.com/br/serie/jungle-beat",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-26T06:43:45.778Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-26T06:43:45.807Z"
+  },
+  {
     "id": "acervocult:cartoonnetwork:serie-chapolin-e-os-colorados",
     "source": "cartoonnetwork",
     "name": "Chapolin e os Colorados",
@@ -12,7 +29,7 @@
     "source_url": "https://www.justwatch.com/br/serie/chapolin-e-os-colorados",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -29,7 +46,7 @@
     "source_url": "https://www.justwatch.com/br/serie/hora-de-aventuras-missoes-lendarias",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -46,7 +63,7 @@
     "source_url": "https://www.justwatch.com/br/serie/o-mundo-sem-filtro-de-any-malu",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -63,7 +80,7 @@
     "source_url": "https://www.justwatch.com/br/serie/regular-show-as-cassetes-perdidas",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -80,7 +97,7 @@
     "source_url": "https://www.justwatch.com/br/filme/straight-outta-nowhere-scooby-doo-meets-courage-the-cowardly-dog",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -97,7 +114,7 @@
     "source_url": "https://www.justwatch.com/br/serie/o-incrivelmente-estranho-mundo-de-gumball",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -114,7 +131,7 @@
     "source_url": "https://www.justwatch.com/br/filme/turma-da-monica-jovem-incertezas",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": false,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -131,7 +148,7 @@
     "source_url": "https://www.justwatch.com/br/serie/beas-block",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -148,7 +165,7 @@
     "source_url": "https://www.justwatch.com/br/serie/formula-dreams",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -165,7 +182,7 @@
     "source_url": "https://www.justwatch.com/br/serie/franjinha-e-milena-em-busca-da-ciencia",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -182,7 +199,7 @@
     "source_url": "https://www.justwatch.com/br/serie/megamente-manda",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -199,7 +216,7 @@
     "source_url": "https://www.justwatch.com/br/serie/lets-go-mandy",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": false,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -216,7 +233,7 @@
     "source_url": "https://www.justwatch.com/br/serie/pictoline-the-secret-life-of-your-mind",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -233,7 +250,7 @@
     "source_url": "https://www.justwatch.com/br/serie/my-adventures-with-superman",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -250,7 +267,7 @@
     "source_url": "https://www.justwatch.com/br/serie/cuquin",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -267,7 +284,7 @@
     "source_url": "https://www.justwatch.com/br/serie/fright-krewe",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -284,7 +301,7 @@
     "source_url": "https://www.justwatch.com/br/serie/gremlins-secrets-of-the-mogwai",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -301,7 +318,7 @@
     "source_url": "https://www.justwatch.com/br/serie/juca",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": false,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -318,7 +335,7 @@
     "source_url": "https://www.justwatch.com/br/serie/minibods",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -335,7 +352,7 @@
     "source_url": "https://www.justwatch.com/br/filme/craig-before-the-creek",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -352,7 +369,7 @@
     "source_url": "https://www.justwatch.com/br/serie/rey-mysterio-vs-the-darkness",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -369,7 +386,7 @@
     "source_url": "https://www.justwatch.com/br/serie/silly-sundays",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -386,7 +403,7 @@
     "source_url": "https://www.justwatch.com/br/serie/tiny-toons-looniversidade",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -403,7 +420,7 @@
     "source_url": "https://www.justwatch.com/br/serie/tom-and-jerry",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-19T06:38:08.300Z"
   },
@@ -420,7 +437,7 @@
     "source_url": "https://www.justwatch.com/br/serie/use-sua-voz",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -437,7 +454,7 @@
     "source_url": "https://www.justwatch.com/br/serie/the-heroic-quest-of-the-valiant-prince-ivandoe",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -454,7 +471,7 @@
     "source_url": "https://www.justwatch.com/br/serie/batwheels",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -471,7 +488,7 @@
     "source_url": "https://www.justwatch.com/br/serie/bugs-bunny-builders",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -488,7 +505,7 @@
     "source_url": "https://www.justwatch.com/br/filme/cartoon-network-animated-through-the-years",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z"
+    "last_seen": "2026-10-26T06:43:45.778Z"
   },
   {
     "id": "acervocult:cartoonnetwork:serie-interstellar-ella",
@@ -503,7 +520,7 @@
     "source_url": "https://www.justwatch.com/br/serie/interstellar-ella",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -520,7 +537,7 @@
     "source_url": "https://www.justwatch.com/br/filme/fantastic-beasts-a-natural-history",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -537,7 +554,7 @@
     "source_url": "https://www.justwatch.com/br/filme/fazenda-do-zenon-bartolinho-uma-aventura-cheia-de-penas",
     "enrich_status": "unmatched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": false,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -554,7 +571,7 @@
     "source_url": "https://www.justwatch.com/br/serie/meekah",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -571,7 +588,7 @@
     "source_url": "https://www.justwatch.com/br/serie/sesame-workshops-mecha-builders",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": false,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -588,7 +605,7 @@
     "source_url": "https://www.justwatch.com/br/serie/we-baby-bears",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -605,7 +622,7 @@
     "source_url": "https://www.justwatch.com/br/serie/pop-paper-city",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -622,7 +639,7 @@
     "source_url": "https://www.justwatch.com/br/serie/summer-memories",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -639,7 +656,7 @@
     "source_url": "https://www.justwatch.com/br/serie/the-croods-family-tree",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -656,7 +673,7 @@
     "source_url": "https://www.justwatch.com/br/filme/ben-10-010",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -673,7 +690,7 @@
     "source_url": "https://www.justwatch.com/br/filme/ben-gen-10",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -690,7 +707,7 @@
     "source_url": "https://www.justwatch.com/br/serie/big-blue",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -707,7 +724,7 @@
     "source_url": "https://www.justwatch.com/br/serie/blippi-wonders",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -724,7 +741,7 @@
     "source_url": "https://www.justwatch.com/br/serie/dodo",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -741,7 +758,7 @@
     "source_url": "https://www.justwatch.com/br/serie/dragons-the-nine-realms",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -758,7 +775,7 @@
     "source_url": "https://www.justwatch.com/br/serie/harry-potter-hogwarts-tournament-of-houses",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -775,7 +792,7 @@
     "source_url": "https://www.justwatch.com/br/serie/jellystone",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -792,7 +809,7 @@
     "source_url": "https://www.justwatch.com/br/serie/milo",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -809,7 +826,7 @@
     "source_url": "https://www.justwatch.com/br/serie/odo",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -826,7 +843,7 @@
     "source_url": "https://www.justwatch.com/br/serie/frankeldas-book-of-spooks",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -843,7 +860,7 @@
     "source_url": "https://www.justwatch.com/br/filme/tom-and-jerry-2021",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -860,7 +877,7 @@
     "source_url": "https://www.justwatch.com/br/serie/any-malu-show",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -877,7 +894,7 @@
     "source_url": "https://www.justwatch.com/br/filme/ben-10-versus-the-universe-the-movie",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -894,7 +911,7 @@
     "source_url": "https://www.justwatch.com/br/filme/bita-e-o-circo",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z"
+    "last_seen": "2026-10-26T06:43:45.778Z"
   },
   {
     "id": "acervocult:cartoonnetwork:serie-adventure-time-distant-lands",
@@ -909,7 +926,7 @@
     "source_url": "https://www.justwatch.com/br/serie/adventure-time-distant-lands",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -926,7 +943,7 @@
     "source_url": "https://www.justwatch.com/br/serie/looney-tunes-cartoons",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -943,7 +960,7 @@
     "source_url": "https://www.justwatch.com/br/serie/mias-magic-playground",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -960,7 +977,7 @@
     "source_url": "https://www.justwatch.com/br/filme/we-bare-bears-the-movie",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -977,7 +994,7 @@
     "source_url": "https://www.justwatch.com/br/serie/the-gumball-chronicles",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -994,7 +1011,7 @@
     "source_url": "https://www.justwatch.com/br/serie/darwins-yearbook",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1011,7 +1028,7 @@
     "source_url": "https://www.justwatch.com/br/serie/morphle",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1028,7 +1045,7 @@
     "source_url": "https://www.justwatch.com/br/filme/teen-titans-go-vs-teen-titans",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1045,7 +1062,7 @@
     "source_url": "https://www.justwatch.com/br/serie/scooby-doo-and-guess-who",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1062,7 +1079,7 @@
     "source_url": "https://www.justwatch.com/br/serie/steven-universo-futuro",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1079,7 +1096,7 @@
     "source_url": "https://www.justwatch.com/br/filme/steven-universe-the-movie",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1096,7 +1113,7 @@
     "source_url": "https://www.justwatch.com/br/serie/turma-da-monica-jovem",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1113,7 +1130,7 @@
     "source_url": "https://www.justwatch.com/br/serie/turma-do-cueio",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1130,7 +1147,7 @@
     "source_url": "https://www.justwatch.com/br/serie/weeboom",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1147,7 +1164,7 @@
     "source_url": "https://www.justwatch.com/br/serie/summer-camp-island",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1164,7 +1181,7 @@
     "source_url": "https://www.justwatch.com/br/filme/bff-girls",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1181,7 +1198,7 @@
     "source_url": "https://www.justwatch.com/br/serie/cleo-and-cuquin",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1198,7 +1215,7 @@
     "source_url": "https://www.justwatch.com/br/filme/dc-super-hero-girls-legends-of-atlantis",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1215,7 +1232,7 @@
     "source_url": "https://www.justwatch.com/br/serie/total-dramarama",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1232,7 +1249,7 @@
     "source_url": "https://www.justwatch.com/br/serie/apple-and-onion",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1249,7 +1266,7 @@
     "source_url": "https://www.justwatch.com/br/serie/craig-of-the-creek",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1266,7 +1283,7 @@
     "source_url": "https://www.justwatch.com/br/filme/teen-titans-go-o-filme",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1283,7 +1300,7 @@
     "source_url": "https://www.justwatch.com/br/serie/toontorial",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": false,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1300,7 +1317,7 @@
     "source_url": "https://www.justwatch.com/br/filme/troll-e-o-reino-de-ervod",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1317,7 +1334,7 @@
     "source_url": "https://www.justwatch.com/br/filme/bita-e-a-natureza",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z"
+    "last_seen": "2026-10-26T06:43:45.778Z"
   },
   {
     "id": "acervocult:cartoonnetwork:serie-dorothy-and-the-wizard-of-oz",
@@ -1332,7 +1349,7 @@
     "source_url": "https://www.justwatch.com/br/serie/dorothy-and-the-wizard-of-oz",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1349,7 +1366,7 @@
     "source_url": "https://www.justwatch.com/br/filme/lego-batman-o-filme",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1366,7 +1383,7 @@
     "source_url": "https://www.justwatch.com/br/serie/lucas-the-spider",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1383,7 +1400,7 @@
     "source_url": "https://www.justwatch.com/br/serie/oswaldo",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1400,7 +1417,7 @@
     "source_url": "https://www.justwatch.com/br/serie/villainous",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1417,7 +1434,7 @@
     "source_url": "https://www.justwatch.com/br/serie/the-powerpuff-girls-2016",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1434,7 +1451,7 @@
     "source_url": "https://www.justwatch.com/br/serie/ben-10-2016",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1451,7 +1468,7 @@
     "source_url": "https://www.justwatch.com/br/filme/cegonhas",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1468,7 +1485,7 @@
     "source_url": "https://www.justwatch.com/br/serie/grizzy-et-les-lemmings",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1485,7 +1502,7 @@
     "source_url": "https://www.justwatch.com/br/filme/animais-fantasticos-e-onde-habitam",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1502,7 +1519,7 @@
     "source_url": "https://www.justwatch.com/br/filme/bita-e-o-corpo-humano",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z"
+    "last_seen": "2026-10-26T06:43:45.778Z"
   },
   {
     "id": "acervocult:cartoonnetwork:serie-nuni",
@@ -1517,7 +1534,7 @@
     "source_url": "https://www.justwatch.com/br/serie/nuni",
     "enrich_status": "unmatched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z"
+    "last_seen": "2026-10-26T06:43:45.778Z"
   },
   {
     "id": "acervocult:cartoonnetwork:bita-e-o-nosso-dia-2015",
@@ -1532,7 +1549,7 @@
     "source_url": "https://www.justwatch.com/br/filme/bita-e-o-nosso-dia-2015",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z"
+    "last_seen": "2026-10-26T06:43:45.778Z"
   },
   {
     "id": "acervocult:cartoonnetwork:serie-oddbods",
@@ -1547,7 +1564,7 @@
     "source_url": "https://www.justwatch.com/br/serie/oddbods",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1564,7 +1581,7 @@
     "source_url": "https://www.justwatch.com/br/serie/otra-semana-en-cartoon",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-19T06:38:08.300Z"
   },
@@ -1581,7 +1598,7 @@
     "source_url": "https://www.justwatch.com/br/filme/regular-show-o-filme",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1598,7 +1615,7 @@
     "source_url": "https://www.justwatch.com/br/filme/scooby-doo-e-kiss-em-misterios-do-rock-n-roll",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-19T06:38:08.300Z"
   },
@@ -1615,7 +1632,7 @@
     "source_url": "https://www.justwatch.com/br/filme/team-hot-wheels-build-the-epic-race",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1632,7 +1649,7 @@
     "source_url": "https://www.justwatch.com/br/filme/team-hot-wheels-the-skills-to-thrill",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1649,7 +1666,7 @@
     "source_url": "https://www.justwatch.com/br/serie/we-bare-bears",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1666,7 +1683,7 @@
     "source_url": "https://www.justwatch.com/br/filme/bita-e-os-animais",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z"
+    "last_seen": "2026-10-26T06:43:45.778Z"
   },
   {
     "id": "acervocult:cartoonnetwork:serie-clarence",
@@ -1681,7 +1698,7 @@
     "source_url": "https://www.justwatch.com/br/serie/clarence",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1698,7 +1715,7 @@
     "source_url": "https://www.justwatch.com/br/filme/team-hot-wheels-mandando-bem",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1715,7 +1732,7 @@
     "source_url": "https://www.justwatch.com/br/serie/irmao-do-jorel",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1732,7 +1749,7 @@
     "source_url": "https://www.justwatch.com/br/filme/bita-e-as-brincadeiras",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z"
+    "last_seen": "2026-10-26T06:43:45.778Z"
   },
   {
     "id": "acervocult:cartoonnetwork:o-filme-lego",
@@ -1747,7 +1764,7 @@
     "source_url": "https://www.justwatch.com/br/filme/o-filme-lego",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1764,7 +1781,7 @@
     "source_url": "https://www.justwatch.com/br/serie/over-the-garden-wall",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1781,7 +1798,7 @@
     "source_url": "https://www.justwatch.com/br/serie/the-tom-and-jerry-show",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1798,7 +1815,7 @@
     "source_url": "https://www.justwatch.com/br/serie/monica-toy",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1815,7 +1832,7 @@
     "source_url": "https://www.justwatch.com/br/serie/mundo-bita",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1832,7 +1849,7 @@
     "source_url": "https://www.justwatch.com/br/serie/steven-universe",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1849,7 +1866,7 @@
     "source_url": "https://www.justwatch.com/br/serie/teen-titans-go",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1866,7 +1883,7 @@
     "source_url": "https://www.justwatch.com/br/serie/uncle-grandpa",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1883,7 +1900,7 @@
     "source_url": "https://www.justwatch.com/br/serie/la-cq",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1900,7 +1917,7 @@
     "source_url": "https://www.justwatch.com/br/filme/ben-10-destruicao-alienigena",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1917,7 +1934,7 @@
     "source_url": "https://www.justwatch.com/br/serie/ben-10-omniverse",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1934,7 +1951,7 @@
     "source_url": "https://www.justwatch.com/br/filme/johnny-bravo-vai-para-bollywood",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1951,7 +1968,7 @@
     "source_url": "https://www.justwatch.com/br/serie/looney-tunes",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1968,7 +1985,7 @@
     "source_url": "https://www.justwatch.com/br/serie/the-amazing-world-of-gumball",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -1985,7 +2002,7 @@
     "source_url": "https://www.justwatch.com/br/serie/regular-show",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2002,7 +2019,7 @@
     "source_url": "https://www.justwatch.com/br/serie/ben-10-ultimate-alien",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2019,7 +2036,7 @@
     "source_url": "https://www.justwatch.com/br/serie/hora-de-aventura",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2036,7 +2053,7 @@
     "source_url": "https://www.justwatch.com/br/serie/generator-rex",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2053,7 +2070,7 @@
     "source_url": "https://www.justwatch.com/br/filme/scooby-doo-e-a-maldicao-do-monstro-do-lago",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2070,7 +2087,7 @@
     "source_url": "https://www.justwatch.com/br/serie/scooby-doo-misterio-s-a",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2087,7 +2104,7 @@
     "source_url": "https://www.justwatch.com/br/serie/sym-bionic-titan",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2104,7 +2121,7 @@
     "source_url": "https://www.justwatch.com/br/serie/la-gallina-pintadita",
     "enrich_status": "unmatched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z"
+    "last_seen": "2026-10-26T06:43:45.778Z"
   },
   {
     "id": "acervocult:cartoonnetwork:du-dudu-e-edu-todos-contra-os-dus",
@@ -2119,7 +2136,7 @@
     "source_url": "https://www.justwatch.com/br/filme/du-dudu-e-edu-todos-contra-os-dus",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2136,7 +2153,7 @@
     "source_url": "https://www.justwatch.com/br/filme/lanterna-verde-primeiro-voo",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2153,7 +2170,7 @@
     "source_url": "https://www.justwatch.com/br/filme/scooby-doo-o-misterio-comeca",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2170,7 +2187,7 @@
     "source_url": "https://www.justwatch.com/br/filme/fosters-movie-destination-imagination",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2187,7 +2204,7 @@
     "source_url": "https://www.justwatch.com/br/serie/the-marvelous-misadventures-of-flapjack",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2204,7 +2221,7 @@
     "source_url": "https://www.justwatch.com/br/serie/ben-10-alien-force",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2221,7 +2238,7 @@
     "source_url": "https://www.justwatch.com/br/filme/ben-10-corrida-contra-o-tempo",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2238,7 +2255,7 @@
     "source_url": "https://www.justwatch.com/br/filme/underfist-loucura-de-halloween-as-aventuras-assustadoras-de-billy-e-mandy",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2255,7 +2272,7 @@
     "source_url": "https://www.justwatch.com/br/filme/ben-10-o-segredo-do-omnitrix",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2272,7 +2289,7 @@
     "source_url": "https://www.justwatch.com/br/filme/billy-e-mandy-a-grande-aventura-contra-o-papao",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2289,7 +2306,7 @@
     "source_url": "https://www.justwatch.com/br/serie/chowder",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2306,7 +2323,7 @@
     "source_url": "https://www.justwatch.com/br/serie/total-drama-island",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2323,7 +2340,7 @@
     "source_url": "https://www.justwatch.com/br/filme/knd-operacao-z-e-r-o",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2340,7 +2357,7 @@
     "source_url": "https://www.justwatch.com/br/serie/lottie-dottie-chicken",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2357,7 +2374,7 @@
     "source_url": "https://www.justwatch.com/br/filme/jovens-titas-missao-toquio",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2374,7 +2391,7 @@
     "source_url": "https://www.justwatch.com/br/serie/ben-10",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2391,7 +2408,7 @@
     "source_url": "https://www.justwatch.com/br/filme/billy-e-mandy-salvam-o-natal",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2408,7 +2425,7 @@
     "source_url": "https://www.justwatch.com/br/filme/ed-edd-n-eddys-boo-haw-haw",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2425,7 +2442,7 @@
     "source_url": "https://www.justwatch.com/br/filme/ed-edd-n-eddys-hanky-panky-hullabaloo",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2442,7 +2459,7 @@
     "source_url": "https://www.justwatch.com/br/serie/meu-amigo-da-escola-e-um-macaco",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2454,12 +2471,12 @@
     "director": null,
     "type": "series",
     "imdb_id": "tt0487849",
-    "tmdb_id": 2437,
+    "tmdb_id": 339208,
     "poster": "https://images.justwatch.com/poster/300727007/s332/pocoyo.jpg",
     "source_url": "https://www.justwatch.com/br/serie/pocoyo",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2476,7 +2493,7 @@
     "source_url": "https://www.justwatch.com/br/serie/fosters-home-for-imaginary-friends",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2493,7 +2510,7 @@
     "source_url": "https://www.justwatch.com/br/filme/fosters-home-for-imaginary-friends-house-of-bloos",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2510,7 +2527,7 @@
     "source_url": "https://www.justwatch.com/br/filme/ed-edd-n-eddys-jingle-jingle-jangle",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2527,7 +2544,7 @@
     "source_url": "https://www.justwatch.com/br/filme/scooby-doo-2-monsters-unleashed",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2544,7 +2561,7 @@
     "source_url": "https://www.justwatch.com/br/serie/os-jovens-titas",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2561,7 +2578,7 @@
     "source_url": "https://www.justwatch.com/br/serie/a-turma-do-bairro",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2578,7 +2595,7 @@
     "source_url": "https://www.justwatch.com/br/serie/baby-looney-tunes",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2595,7 +2612,7 @@
     "source_url": "https://www.justwatch.com/br/serie/mucha-lucha",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2612,7 +2629,7 @@
     "source_url": "https://www.justwatch.com/br/serie/naruto",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2629,7 +2646,7 @@
     "source_url": "https://www.justwatch.com/br/serie/o-que-ha-de-novo-scooby-doo",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2646,7 +2663,7 @@
     "source_url": "https://www.justwatch.com/br/filme/scooby-doo",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2663,7 +2680,7 @@
     "source_url": "https://www.justwatch.com/br/serie/the-grim-adventures-of-billy-and-mandy",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2680,7 +2697,7 @@
     "source_url": "https://www.justwatch.com/br/serie/courage-the-cowardly-dog",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2697,7 +2714,7 @@
     "source_url": "https://www.justwatch.com/br/filme/o-laboratorio-de-dexter-a-viagem-de-dexter",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2714,7 +2731,7 @@
     "source_url": "https://www.justwatch.com/br/serie/du-dudu-e-edu",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2731,7 +2748,7 @@
     "source_url": "https://www.justwatch.com/br/serie/the-powerpuff-girls",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2748,7 +2765,7 @@
     "source_url": "https://www.justwatch.com/br/filme/scooby-doo-na-ilha-dos-zumbis",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2765,7 +2782,7 @@
     "source_url": "https://www.justwatch.com/br/serie/i-am-weasel",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2782,7 +2799,7 @@
     "source_url": "https://www.justwatch.com/br/serie/johnny-bravo",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2799,7 +2816,7 @@
     "source_url": "https://www.justwatch.com/br/serie/vaca-e-frango",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2816,7 +2833,7 @@
     "source_url": "https://www.justwatch.com/br/serie/o-laboratorio-de-dexter",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2833,7 +2850,7 @@
     "source_url": "https://www.justwatch.com/br/filme/space-jam-o-jogo-do-seculo",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2850,7 +2867,7 @@
     "source_url": "https://www.justwatch.com/br/serie/freakazoid",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2867,7 +2884,7 @@
     "source_url": "https://www.justwatch.com/br/serie/pinky-e-o-cerebro",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2884,7 +2901,7 @@
     "source_url": "https://www.justwatch.com/br/serie/animaniacs",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2895,13 +2912,13 @@
     "year": 1990,
     "director": "Alfonso Ribeiro, Chuck Vinson, Jeff Melman",
     "type": "series",
-    "imdb_id": "tt0098800",
+    "imdb_id": "tt45470785",
     "tmdb_id": 1892,
     "poster": "https://images.justwatch.com/poster/304453392/s332/the-fresh-prince-of-bel-air.jpg",
     "source_url": "https://www.justwatch.com/br/serie/the-fresh-prince-of-bel-air",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2918,7 +2935,7 @@
     "source_url": "https://www.justwatch.com/br/serie/thundercats",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2929,13 +2946,13 @@
     "year": 1976,
     "director": "José Marcio Nicolosi",
     "type": "series",
-    "imdb_id": "tt5480832",
+    "imdb_id": "tt2765302",
     "tmdb_id": 67431,
     "poster": "https://images.justwatch.com/poster/339046306/s332/turma-da-monica.jpg",
     "source_url": "https://www.justwatch.com/br/serie/turma-da-monica",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2952,7 +2969,7 @@
     "source_url": "https://www.justwatch.com/br/serie/rua-sesamo",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2969,7 +2986,7 @@
     "source_url": "https://www.justwatch.com/br/serie/scooby-doo-cade-voce",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -2986,7 +3003,7 @@
     "source_url": "https://www.justwatch.com/br/serie/corrida-maluca",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -3003,7 +3020,7 @@
     "source_url": "https://www.justwatch.com/br/serie/manda-chuva",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -3020,7 +3037,7 @@
     "source_url": "https://www.justwatch.com/br/serie/os-flintstones",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   },
@@ -3037,7 +3054,7 @@
     "source_url": "https://www.justwatch.com/br/serie/tom-e-jerry",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:49:42.048Z",
-    "last_seen": "2026-10-19T06:38:08.293Z",
+    "last_seen": "2026-10-26T06:43:45.778Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:49:42.087Z"
   }

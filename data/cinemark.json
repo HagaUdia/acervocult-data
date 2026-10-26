@@ -1,5 +1,141 @@
 [
   {
+    "id": "acervocult:cinemark:a-caixa-do-demonio",
+    "source": "cinemark",
+    "name": "A Caixa do Demônio",
+    "year": 2026,
+    "director": "Daniel Stamm",
+    "type": "movie",
+    "imdb_id": "tt37369064",
+    "tmdb_id": 1500890,
+    "poster": "https://images.justwatch.com/poster/355425662/s332/a-caixa-do-demonio.jpg",
+    "source_url": "https://www.justwatch.com/br/filme/a-caixa-do-demonio",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-26T06:43:30.071Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-26T06:43:30.092Z"
+  },
+  {
+    "id": "acervocult:cinemark:bts-world-tour-arirang-in-buenos-aires-live-viewing",
+    "source": "cinemark",
+    "name": "BTS World Tour 'Arirang' in Buenos Aires: Live Viewing",
+    "year": 2026,
+    "director": null,
+    "type": "movie",
+    "imdb_id": "tt45591705",
+    "tmdb_id": 1770237,
+    "poster": "https://images.justwatch.com/poster/354580161/s332/bts-world-tour-arirang-in-buenos-aires-live-viewing.jpg",
+    "source_url": "https://www.justwatch.com/br/filme/bts-world-tour-arirang-in-buenos-aires-live-viewing",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-26T06:43:30.071Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-26T06:43:30.092Z"
+  },
+  {
+    "id": "acervocult:cinemark:daniel-and-the-fiery-furnace",
+    "source": "cinemark",
+    "name": "Daniel and the Fiery Furnace",
+    "year": 2026,
+    "director": "Matthew Kooman, Daniel Kooman",
+    "type": "movie",
+    "imdb_id": "tt37542993",
+    "tmdb_id": 1706702,
+    "poster": "https://images.justwatch.com/poster/346031974/s332/daniel-and-the-fiery-furnace.jpg",
+    "source_url": "https://www.justwatch.com/br/filme/daniel-and-the-fiery-furnace",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-26T06:43:30.071Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-26T06:43:30.092Z"
+  },
+  {
+    "id": "acervocult:cinemark:o-preco-do-prazer",
+    "source": "cinemark",
+    "name": "I Want Your Sex",
+    "year": 2026,
+    "director": "Gregg Araki",
+    "type": "movie",
+    "imdb_id": "tt32332915",
+    "tmdb_id": 1288059,
+    "poster": "https://images.justwatch.com/poster/351069638/s332/o-preco-do-prazer.jpg",
+    "source_url": "https://www.justwatch.com/br/filme/o-preco-do-prazer",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-26T06:43:30.071Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-26T06:43:30.092Z"
+  },
+  {
+    "id": "acervocult:cinemark:the-social-reckoning",
+    "source": "cinemark",
+    "name": "O Veredito Social",
+    "year": 2026,
+    "director": "Aaron Sorkin",
+    "type": "movie",
+    "imdb_id": "tt37510326",
+    "tmdb_id": 1281331,
+    "poster": "https://images.justwatch.com/poster/346837448/s332/the-social-reckoning.jpg",
+    "source_url": "https://www.justwatch.com/br/filme/the-social-reckoning",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-26T06:43:30.071Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-26T06:43:30.092Z"
+  },
+  {
+    "id": "acervocult:cinemark:zona-zero",
+    "source": "cinemark",
+    "name": "Zona Zero",
+    "year": 2026,
+    "director": "Yeon Sang-ho",
+    "type": "movie",
+    "imdb_id": "tt34385135",
+    "tmdb_id": 1375646,
+    "poster": "https://images.justwatch.com/poster/345573063/s332/zona-zero.jpg",
+    "source_url": "https://www.justwatch.com/br/filme/zona-zero",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-26T06:43:30.071Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-26T06:43:30.092Z"
+  },
+  {
+    "id": "acervocult:cinemark:ein-madchen-namens-willow",
+    "source": "cinemark",
+    "name": "Willow e A Floresta Encantada",
+    "year": 2025,
+    "director": "Mike Marzuk",
+    "type": "movie",
+    "imdb_id": "tt35300281",
+    "tmdb_id": 1176932,
+    "poster": "https://images.justwatch.com/poster/355190559/s332/ein-madchen-namens-willow.jpg",
+    "source_url": "https://www.justwatch.com/br/filme/ein-madchen-namens-willow",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-26T06:43:30.071Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-26T06:43:30.092Z"
+  },
+  {
+    "id": "acervocult:cinemark:godzilla-minus-one",
+    "source": "cinemark",
+    "name": "Godzilla Minus One",
+    "year": 2023,
+    "director": "Takashi Yamazaki",
+    "type": "movie",
+    "imdb_id": "tt23289160",
+    "tmdb_id": 940721,
+    "poster": "https://images.justwatch.com/poster/347744356/s332/godzilla-minus-one.jpg",
+    "source_url": "https://www.justwatch.com/br/filme/godzilla-minus-one",
+    "enrich_status": "matched",
+    "first_seen": "2026-10-26T06:43:30.071Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-10-26T06:43:30.092Z"
+  },
+  {
     "id": "acervocult:cinemark:get-out",
     "source": "cinemark",
     "name": "Foge",
@@ -12,7 +148,7 @@
     "source_url": "https://www.justwatch.com/br/filme/get-out",
     "enrich_status": "matched",
     "first_seen": "2026-10-19T06:37:58.573Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-19T06:37:58.574Z"
   },
@@ -29,7 +165,7 @@
     "source_url": "https://www.justwatch.com/br/filme/carrie-a-estranha",
     "enrich_status": "matched",
     "first_seen": "2026-10-19T06:37:58.573Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-19T06:37:58.574Z"
   },
@@ -46,7 +182,7 @@
     "source_url": "https://www.justwatch.com/br/filme/o-exorcista",
     "enrich_status": "matched",
     "first_seen": "2026-10-19T06:37:58.573Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-19T06:37:58.574Z"
   },
@@ -63,7 +199,7 @@
     "source_url": "https://www.justwatch.com/br/filme/os-passaros",
     "enrich_status": "matched",
     "first_seen": "2026-10-19T06:37:58.573Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-19T06:37:58.574Z"
   },
@@ -80,7 +216,7 @@
     "source_url": "https://www.justwatch.com/br/filme/des-controle-2025",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -97,7 +233,7 @@
     "source_url": "https://www.justwatch.com/br/filme/a-maravilhosa-arvore-encantada",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -114,7 +250,7 @@
     "source_url": "https://www.justwatch.com/br/filme/dentro-da-baleia",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -131,7 +267,7 @@
     "source_url": "https://www.justwatch.com/br/filme/a-fazenda-dos-animais",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -148,7 +284,7 @@
     "source_url": "https://www.justwatch.com/br/filme/always-lalisa",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -165,7 +301,7 @@
     "source_url": "https://www.justwatch.com/br/filme/antartida-2026",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -182,7 +318,7 @@
     "source_url": "https://www.justwatch.com/br/filme/authentic-games-no-imperio-desconectado",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -199,7 +335,7 @@
     "source_url": "https://www.justwatch.com/br/filme/colegas-e-o-herdeiro",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -216,7 +352,7 @@
     "source_url": "https://www.justwatch.com/br/filme/acme",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -233,7 +369,7 @@
     "source_url": "https://www.justwatch.com/br/filme/digger-2026",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -267,7 +403,7 @@
     "source_url": "https://www.justwatch.com/br/filme/era-uma-vez-minha-1a-vez",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -284,7 +420,7 @@
     "source_url": "https://www.justwatch.com/br/filme/galinha-pintadinha-o-filme",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -301,7 +437,7 @@
     "source_url": "https://www.justwatch.com/br/filme/gatos-no-museu-2-tesouros-do-egito",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -318,7 +454,7 @@
     "source_url": "https://www.justwatch.com/br/filme/heart-of-the-beast-herois-inseparaveis",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -335,7 +471,7 @@
     "source_url": "https://www.justwatch.com/br/filme/hope-2026",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -352,7 +488,7 @@
     "source_url": "https://www.justwatch.com/br/filme/minha-amiga",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -369,7 +505,7 @@
     "source_url": "https://www.justwatch.com/br/filme/muito-prazer-2026",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -386,7 +522,7 @@
     "source_url": "https://www.justwatch.com/br/filme/nem-toda-historia-de-amor-acaba-em-morte",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -403,7 +539,7 @@
     "source_url": "https://www.justwatch.com/br/filme/o-advogado-de-deus",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -420,7 +556,7 @@
     "source_url": "https://www.justwatch.com/br/filme/o-diario-de-pilar-na-amazonia-2026",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -437,7 +573,7 @@
     "source_url": "https://www.justwatch.com/br/filme/o-velho-fusca-2023",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -471,7 +607,7 @@
     "source_url": "https://www.justwatch.com/br/filme/precisamos-falar",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -488,7 +624,7 @@
     "source_url": "https://www.justwatch.com/br/filme/quinze-dias",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -505,7 +641,7 @@
     "source_url": "https://www.justwatch.com/br/filme/rio-de-sangue",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -522,7 +658,7 @@
     "source_url": "https://www.justwatch.com/br/filme/sacrifice-2026",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -539,7 +675,7 @@
     "source_url": "https://www.justwatch.com/br/filme/se-eu-fosse-voce-3-2026",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -556,7 +692,7 @@
     "source_url": "https://www.justwatch.com/br/filme/street-fighter",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -573,7 +709,7 @@
     "source_url": "https://www.justwatch.com/br/filme/tad-and-the-magic-lamp",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -590,7 +726,7 @@
     "source_url": "https://www.justwatch.com/br/filme/the-fox-sisters",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -607,7 +743,7 @@
     "source_url": "https://www.justwatch.com/br/filme/toy-story-5",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -624,7 +760,7 @@
     "source_url": "https://www.justwatch.com/br/filme/outra-mamae",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -641,7 +777,7 @@
     "source_url": "https://www.justwatch.com/br/filme/verity",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -675,7 +811,7 @@
     "source_url": "https://www.justwatch.com/br/filme/jogos-vorazes-a-cantiga-dos-passaros-e-das-serpentes",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -692,7 +828,7 @@
     "source_url": "https://www.justwatch.com/br/filme/a-bruxa",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -709,7 +845,7 @@
     "source_url": "https://www.justwatch.com/br/filme/the-hunger-games-a-revolta-parte-2",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -726,7 +862,7 @@
     "source_url": "https://www.justwatch.com/br/filme/jogos-vorazes-a-esperanca-parte-1",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -743,7 +879,7 @@
     "source_url": "https://www.justwatch.com/br/filme/jogos-vorazes-em-chamas",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -760,7 +896,7 @@
     "source_url": "https://www.justwatch.com/br/filme/jogos-vorazes",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -777,7 +913,7 @@
     "source_url": "https://www.justwatch.com/br/filme/a-hora-do-pesadelo",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -794,7 +930,7 @@
     "source_url": "https://www.justwatch.com/br/filme/homem-aranha",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
@@ -811,7 +947,7 @@
     "source_url": "https://www.justwatch.com/br/filme/space-jam-o-jogo-do-seculo",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:47:27.038Z",
-    "last_seen": "2026-10-19T06:37:58.573Z",
+    "last_seen": "2026-10-26T06:43:30.071Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:47:27.073Z"
   },
