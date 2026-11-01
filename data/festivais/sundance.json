@@ -2,7 +2,7 @@
   "id": "sundance",
   "label": "Sundance",
   "kind": "festival",
-  "updated_at": "2026-09-28T11:26:30.375Z",
+  "updated_at": "2026-11-01T07:00:52.865Z",
   "editions": [
     {
       "year": 2026,
@@ -3486,12 +3486,17 @@
             "Rafael Manuel"
           ],
           "imdb_id": "tt29512008",
-          "wikidata_id": null,
+          "wikidata_id": "Q137836697",
           "type": "movie",
           "categories": [
             {
               "id": "acquisitions",
               "label": "Acquisitions",
+              "result": "selected"
+            },
+            {
+              "id": "world-cinema-dramatic-competition",
+              "label": "World Cinema Dramatic Competition",
               "result": "selected"
             }
           ],

@@ -2,7 +2,7 @@
   "id": "mostrasp",
   "label": "Mostra Internacional de Cinema de São Paulo",
   "kind": "festival",
-  "updated_at": "2026-10-13T23:32:31.960Z",
+  "updated_at": "2026-11-01T09:23:28.323Z",
   "editions": [
     {
       "year": 2026,
@@ -32,15 +32,15 @@
         },
         {
           "name": "144 - Apocalipse Não",
-          "original_name": null,
-          "year": null,
+          "original_name": "144 - Apocalipse Não",
+          "year": 2026,
           "director": [
             "J.P. Cuenca"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt50137043",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -48,7 +48,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:144-apocalipse-nao",
+          "key": "tt50137043",
           "first_seen": "2026-10-13T23:32:31.960Z"
         },
         {
@@ -4267,15 +4267,15 @@
         },
         {
           "name": "Marcos e Arnaldo",
-          "original_name": null,
-          "year": null,
+          "original_name": "Marcos e Arnaldo",
+          "year": 2026,
           "director": [
             "Santiago Dellape"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt49650353",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -4283,20 +4283,20 @@
               "result": "selected"
             }
           ],
-          "key": "t:marcos-e-arnaldo",
+          "key": "tt49650353",
           "first_seen": "2026-10-13T23:32:31.960Z"
         },
         {
           "name": "Maria de Maria",
-          "original_name": null,
-          "year": null,
+          "original_name": "Maria de Maria",
+          "year": 2026,
           "director": [
             "Luiza Shelling Tubaldini"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt36753089",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -4304,7 +4304,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:maria-de-maria",
+          "key": "tt36753089",
           "first_seen": "2026-10-13T23:32:31.960Z"
         },
         {
@@ -4330,14 +4330,14 @@
         {
           "name": "Maturidade",
           "original_name": "ЭРЕЗЕ",
-          "year": null,
+          "year": 2026,
           "director": [
             "Narghiza Dotieva"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt49733586",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -4345,7 +4345,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:maturidade",
+          "key": "tt49733586",
           "first_seen": "2026-10-13T23:32:31.960Z"
         },
         {
@@ -5241,15 +5241,15 @@
         },
         {
           "name": "O Capitão Engarrafado",
-          "original_name": null,
-          "year": null,
+          "original_name": "O Capitão Engarrafado",
+          "year": 2026,
           "director": [
             "Guilherme Reis"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt41342463",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -5257,7 +5257,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-capitao-engarrafado",
+          "key": "tt41342463",
           "first_seen": "2026-10-13T23:32:31.960Z"
         },
         {
@@ -5737,16 +5737,16 @@
         },
         {
           "name": "O Projeto",
-          "original_name": null,
-          "year": null,
+          "original_name": "O Projeto",
+          "year": 2026,
           "director": [
             "Sabrina Fidalgo",
             "Yvan Rodic"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt27480831",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -5754,7 +5754,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-projeto",
+          "key": "tt27480831",
           "first_seen": "2026-10-13T23:32:31.960Z"
         },
         {
@@ -7208,15 +7208,15 @@
         },
         {
           "name": "Sem Pai Nem Mãe",
-          "original_name": null,
-          "year": null,
+          "original_name": "Sem Pai Nem Mãe",
+          "year": 2026,
           "director": [
             "André Klotzel"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt9533506",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -7224,7 +7224,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:sem-pai-nem-mae",
+          "key": "tt9533506",
           "first_seen": "2026-10-13T23:32:31.960Z"
         },
         {
@@ -8189,6 +8189,48 @@
           ],
           "key": "t:zoom-in-zoom-out",
           "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "Amadeo e o Hipotético Mundo Novo",
+          "original_name": "Amadeo e o Hipotético Mundo Novo",
+          "year": 2026,
+          "director": [
+            "Edu Felistoque",
+            "Brenda Lígia"
+          ],
+          "imdb_id": "tt43299790",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "selecao",
+              "label": "Seleção",
+              "result": "selected"
+            }
+          ],
+          "key": "tt43299790",
+          "first_seen": "2026-11-01T09:23:28.323Z"
+        },
+        {
+          "name": "Tudo Pode Ser Visto",
+          "original_name": "You Can See Everything",
+          "year": 2026,
+          "director": [
+            "Nathan Fielder",
+            "Lance Oppenheim"
+          ],
+          "imdb_id": "tt45368240",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "selecao",
+              "label": "Seleção",
+              "result": "selected"
+            }
+          ],
+          "key": "tt45368240",
+          "first_seen": "2026-11-01T09:23:28.323Z"
         }
       ]
     },
@@ -10180,14 +10222,14 @@
         {
           "name": "Com Hasan em Gaza",
           "original_name": "Ma’ Hasan Fi Ghazza",
-          "year": null,
+          "year": 2025,
           "director": [
             "Kamal Aljafari"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt37538502",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -10195,7 +10237,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:com-hasan-em-gaza",
+          "key": "tt37538502",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -37228,14 +37270,14 @@
         {
           "name": "A Maioria",
           "original_name": "Bi Hameh-Chiz",
-          "year": null,
+          "year": 2021,
           "director": [
             "Mohsen Gharaei"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt13971916",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -37243,7 +37285,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-maioria",
+          "key": "tt13971916",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -94817,14 +94859,14 @@
         {
           "name": "África Negra Mármore Branco",
           "original_name": "Africa Nera Marmo Bianco",
-          "year": null,
+          "year": 2012,
           "director": [
             "Clemente Bicocchi"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1732573",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -94832,7 +94874,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:africa-negra-marmore-branco",
+          "key": "tt1732573",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {

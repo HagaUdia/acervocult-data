@@ -2,7 +2,7 @@
   "id": "berlim",
   "label": "Berlim",
   "kind": "festival",
-  "updated_at": "2026-10-15T07:00:33.304Z",
+  "updated_at": "2026-11-01T07:00:52.865Z",
   "editions": [
     {
       "year": 2026,
@@ -2047,7 +2047,7 @@
             "Takuya Uchiyama"
           ],
           "imdb_id": "tt39212906",
-          "wikidata_id": null,
+          "wikidata_id": "Q137569684",
           "type": "movie",
           "categories": [
             {
@@ -5791,6 +5791,26 @@
           ],
           "key": "tt33565722",
           "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "Filipiñana",
+          "original_name": "Filipiñana",
+          "year": 2026,
+          "director": [
+            "Rafael Manuel"
+          ],
+          "imdb_id": "tt29512008",
+          "wikidata_id": "Q137836697",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "perspectives",
+              "label": "Perspectives",
+              "result": "selected"
+            }
+          ],
+          "key": "tt29512008",
+          "first_seen": "2026-11-01T07:00:52.865Z"
         }
       ]
     },

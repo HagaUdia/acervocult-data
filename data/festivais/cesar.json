@@ -2,7 +2,7 @@
   "id": "cesar",
   "label": "César (França)",
   "kind": "award",
-  "updated_at": "2026-09-28T11:26:30.375Z",
+  "updated_at": "2026-11-01T09:23:28.323Z",
   "editions": [
     {
       "year": 2026,
@@ -1028,13 +1028,15 @@
         },
         {
           "name": "Big Boys Don’t Cry",
-          "original_name": null,
-          "year": null,
-          "director": [],
+          "original_name": "Big Boys Dont Cry.",
+          "year": 2026,
+          "director": [
+            "Muhammad Mustapha"
+          ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt49063087",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "best-fiction-short-film",
@@ -1042,7 +1044,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:big-boys-dont-cry",
+          "key": "tt49063087",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -19808,15 +19810,15 @@
         },
         {
           "name": "Mesrine",
-          "original_name": null,
-          "year": null,
+          "original_name": "L'instinct de mort",
+          "year": 2008,
           "director": [
             "Jean-François Richet"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1259014",
           "wikidata_id": "Q2063364",
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "best-film-presented-by-sean-penn-and-charlotte-gainsbourg",
@@ -19854,7 +19856,7 @@
               "result": "nominee"
             }
           ],
-          "key": "wd:Q2063364",
+          "key": "tt1259014",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {

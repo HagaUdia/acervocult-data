@@ -2,7 +2,7 @@
   "id": "rio",
   "label": "Festival do Rio",
   "kind": "festival",
-  "updated_at": "2026-10-13T23:32:31.960Z",
+  "updated_at": "2026-11-01T09:23:28.323Z",
   "editions": [
     {
       "year": 2026,
@@ -33,15 +33,15 @@
         {
           "name": "144 – Apocalipse Não",
           "original_name": "144 – Apocalypse Not",
-          "year": null,
+          "year": 2026,
           "director": [
             "João Paulo Cuenca"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt50137043",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-brasil-competicao-novos-rumos",
@@ -49,7 +49,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:144-apocalipse-nao",
+          "key": "tt50137043",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -158,15 +158,15 @@
         {
           "name": "A Casa do Pai",
           "original_name": "The Father's House",
-          "year": null,
+          "year": 2026,
           "director": [
             "Patrick Sampaio"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt49798027",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premiere-brasil-panorama-carioca-de-curtas",
@@ -174,7 +174,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-casa-do-pai",
+          "key": "tt49798027",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -660,15 +660,15 @@
         {
           "name": "Baile das Luzes",
           "original_name": "Baile das Luzes",
-          "year": null,
+          "year": 2026,
           "director": [
             "Vincent Rosenblatt"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt48883477",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-brasil-retratos",
@@ -676,7 +676,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:baile-das-luzes",
+          "key": "tt48883477",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -3578,16 +3578,16 @@
         {
           "name": "Malick",
           "original_name": "Malick",
-          "year": null,
+          "year": 2026,
           "director": [
             "Cassio Tolpolar",
             "Modou Awa Dieye"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt49234925",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-brasil-competicao-novos-rumos",
@@ -3595,21 +3595,21 @@
               "result": "selected"
             }
           ],
-          "key": "t:malick",
+          "key": "tt49234925",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Maria de Maria",
           "original_name": "Maria of Maria",
-          "year": null,
+          "year": 2026,
           "director": [
             "Luiza Shelling Tubaldini"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt36753089",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-brasil-competicao-de-longas-metragens-ficcao",
@@ -3617,7 +3617,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:maria-de-maria",
+          "key": "tt36753089",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -3894,15 +3894,15 @@
         {
           "name": "Casa em Queda",
           "original_name": "Falling House",
-          "year": null,
+          "year": 2026,
           "director": [
             "Mohsen Gharaei"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt43704167",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "expectativa",
@@ -3910,7 +3910,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:casa-em-queda",
+          "key": "tt43704167",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -4252,15 +4252,15 @@
         {
           "name": "O Capitão Engarrafado",
           "original_name": "The Bottled Captain",
-          "year": null,
+          "year": 2026,
           "director": [
             "Guilherme Reis"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt41342463",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-brasil-nova-geracao",
@@ -4268,7 +4268,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-capitao-engarrafado",
+          "key": "tt41342463",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -6020,16 +6020,16 @@
         {
           "name": "Autor Desconhecido",
           "original_name": "Unknown Author",
-          "year": null,
+          "year": 2026,
           "director": [
             "Daniel Wierman",
             "Paulo Menezes"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt49885258",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premiere-brasil-hors-concours-especial",
@@ -6037,7 +6037,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:autor-desconhecido",
+          "key": "tt49885258",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -6411,16 +6411,16 @@
         },
         {
           "name": "Anatomia do Caos",
-          "original_name": null,
-          "year": null,
+          "original_name": "Anatomia do Caos",
+          "year": 2026,
           "director": [
             "Dandara Ferreira"
           ],
           "people": [],
           "year_hint": 2025,
-          "imdb_id": null,
+          "imdb_id": "tt35095917",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "cinema-circulacao",
@@ -6428,7 +6428,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:anatomia-do-caos",
+          "key": "tt35095917",
           "first_seen": "2026-10-13T23:32:31.960Z"
         },
         {
@@ -7166,6 +7166,27 @@
           ],
           "key": "tt35856037",
           "first_seen": "2026-10-13T23:32:31.960Z"
+        },
+        {
+          "name": "Amadeo e o Hipotético Mundo Novo",
+          "original_name": "Amadeo e o Hipotético Mundo Novo",
+          "year": 2026,
+          "director": [
+            "Edu Felistoque",
+            "Brenda Lígia"
+          ],
+          "imdb_id": "tt43299790",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "premiere-brasil-nova-geracao",
+              "label": "Première Brasil: Nova Geração",
+              "result": "selected"
+            }
+          ],
+          "key": "tt43299790",
+          "first_seen": "2026-11-01T09:23:28.323Z"
         }
       ]
     },

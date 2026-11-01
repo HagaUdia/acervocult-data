@@ -2,7 +2,7 @@
   "id": "efa",
   "label": "Prêmios do Cinema Europeu (EFA)",
   "kind": "award",
-  "updated_at": "2026-10-15T07:00:33.304Z",
+  "updated_at": "2026-11-01T09:23:28.323Z",
   "editions": [
     {
       "year": 2026,
@@ -117,7 +117,7 @@
             "Olivier Clert"
           ],
           "imdb_id": "tt10569744",
-          "wikidata_id": null,
+          "wikidata_id": "Q141827108",
           "type": "movie",
           "categories": [
             {
@@ -157,7 +157,7 @@
             "Sébastien Laudenbach"
           ],
           "imdb_id": "tt29034109",
-          "wikidata_id": null,
+          "wikidata_id": "Q141781336",
           "type": "movie",
           "categories": [
             {
@@ -307,13 +307,15 @@
         },
         {
           "name": "Letters from the Silenced Country",
-          "original_name": null,
-          "year": null,
-          "director": [],
+          "original_name": "Listy",
+          "year": 2026,
+          "director": [
+            "Andrei Kutsila"
+          ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt43704405",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "documentary",
@@ -321,7 +323,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:letters-from-the-silenced-country",
+          "key": "tt43704405",
           "first_seen": "2026-10-15T07:00:33.304Z"
         },
         {
@@ -646,13 +648,13 @@
         },
         {
           "name": "Diane in the Loop",
-          "original_name": null,
-          "year": null,
+          "original_name": "Un détour par Diane",
+          "year": 2026,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt38693221",
           "wikidata_id": "Q141697787",
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "fiction",
@@ -660,7 +662,7 @@
               "result": "nominee"
             }
           ],
-          "key": "wd:Q141697787",
+          "key": "tt38693221",
           "first_seen": "2026-10-15T07:00:33.304Z"
         },
         {
@@ -1260,6 +1262,87 @@
           ],
           "key": "tt39228759",
           "first_seen": "2026-10-15T07:00:33.304Z"
+        },
+        {
+          "name": "Gentle Monster",
+          "original_name": "Gentle Monster",
+          "year": 2026,
+          "director": [
+            "Marie Kreutzer"
+          ],
+          "imdb_id": "tt37020296",
+          "wikidata_id": "Q136335212",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt37020296",
+          "first_seen": "2026-11-01T09:23:28.323Z"
+        },
+        {
+          "name": "Red Rocks",
+          "original_name": "Les roches rouges",
+          "year": 2026,
+          "director": [
+            "Bruno Dumont"
+          ],
+          "imdb_id": "tt31383175",
+          "wikidata_id": "Q139674083",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt31383175",
+          "first_seen": "2026-11-01T09:23:28.323Z"
+        },
+        {
+          "name": "Salvation",
+          "original_name": "Kurtulus",
+          "year": 2026,
+          "director": [
+            "Emin Alper"
+          ],
+          "imdb_id": "tt36472181",
+          "wikidata_id": "Q138031189",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "fiction",
+              "label": "Fiction",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt36472181",
+          "first_seen": "2026-11-01T09:23:28.323Z"
+        },
+        {
+          "name": "European Casting Director",
+          "original_name": null,
+          "year": null,
+          "director": [],
+          "people": [
+            "European Cinematographer"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "crafts-arts-categories",
+              "label": "Crafts & Arts Categories",
+              "result": "nominee"
+            }
+          ],
+          "key": "t:european-casting-director",
+          "first_seen": "2026-11-01T09:23:28.323Z"
         }
       ]
     },

@@ -2,7 +2,7 @@
   "id": "gramado",
   "label": "Festival de Gramado",
   "kind": "festival",
-  "updated_at": "2026-09-28T11:26:30.375Z",
+  "updated_at": "2026-11-01T09:23:28.323Z",
   "editions": [
     {
       "year": 2026,
@@ -246,17 +246,17 @@
         },
         {
           "name": "O Projeto",
-          "original_name": null,
-          "year": null,
+          "original_name": "O Projeto",
+          "year": 2026,
           "director": [
             "Sabrina Fidalgo"
           ],
           "people": [
             "Sabrina Fidalgo"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt27480831",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "longas-metragens-documentais",
@@ -269,7 +269,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-projeto",
+          "key": "tt27480831",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {

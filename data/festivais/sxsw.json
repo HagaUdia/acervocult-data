@@ -2,7 +2,7 @@
   "id": "sxsw",
   "label": "SXSW",
   "kind": "festival",
-  "updated_at": "2026-10-15T07:00:33.304Z",
+  "updated_at": "2026-11-01T09:23:28.323Z",
   "editions": [
     {
       "year": 2026,
@@ -1581,7 +1581,7 @@
             "Dave Boyle"
           ],
           "imdb_id": "tt38589433",
-          "wikidata_id": null,
+          "wikidata_id": "Q141801228",
           "type": "movie",
           "categories": [
             {
@@ -2794,7 +2794,7 @@
             "Pranav Bhasin"
           ],
           "imdb_id": "tt39370613",
-          "wikidata_id": null,
+          "wikidata_id": "Q141921133",
           "type": "short",
           "categories": [
             {
@@ -3654,6 +3654,26 @@
           ],
           "key": "t:son-of-a-bikram",
           "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "We Are The Shaggs",
+          "original_name": "We Are the Shaggs",
+          "year": 2026,
+          "director": [
+            "Ken Kwapis"
+          ],
+          "imdb_id": "tt2674362",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "24-beats-per-second",
+              "label": "24 Beats Per Second",
+              "result": "selected"
+            }
+          ],
+          "key": "tt2674362",
+          "first_seen": "2026-11-01T09:23:28.323Z"
         }
       ]
     },

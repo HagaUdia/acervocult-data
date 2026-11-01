@@ -2,7 +2,7 @@
   "id": "annecy",
   "label": "Annecy",
   "kind": "festival",
-  "updated_at": "2026-10-13T23:32:31.960Z",
+  "updated_at": "2026-11-01T09:23:28.323Z",
   "editions": [
     {
       "year": 2026,
@@ -214,7 +214,7 @@
             "Olivier Clert"
           ],
           "imdb_id": "tt10569744",
-          "wikidata_id": null,
+          "wikidata_id": "Q141827108",
           "type": "movie",
           "categories": [
             {
@@ -661,23 +661,30 @@
         },
         {
           "name": "Béni",
-          "original_name": null,
-          "year": null,
-          "director": [],
+          "original_name": "Blessed",
+          "year": 2025,
+          "director": [
+            "Birute Sodeikaite"
+          ],
           "people": [
             "Birute Sodeikaite"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt49692658",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selection-officielle",
               "label": "Sélection officielle",
               "result": "selected"
+            },
+            {
+              "id": "short-films",
+              "label": "Short films",
+              "result": "selected"
             }
           ],
-          "key": "t:beni",
+          "key": "tt49692658",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -6953,15 +6960,15 @@
         },
         {
           "name": "Blessed",
-          "original_name": null,
-          "year": null,
+          "original_name": "Blessed",
+          "year": 2025,
           "director": [
             "Birute Sodeikaite"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt49692658",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-films",
@@ -6969,7 +6976,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:blessed",
+          "key": "tt49692658",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -8252,15 +8259,15 @@
         },
         {
           "name": "Hold It Together",
-          "original_name": null,
-          "year": null,
+          "original_name": "Sundruð",
+          "year": 2026,
           "director": [
             "Fan Sissoko"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt42055357",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "perspectives",
@@ -8273,7 +8280,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:hold-it-together",
+          "key": "tt42055357",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -9341,17 +9348,17 @@
         },
         {
           "name": "The Mirage of a Dream",
-          "original_name": null,
-          "year": null,
+          "original_name": "The Mirage of a Dream",
+          "year": 2026,
           "director": [
             "Kalyani B"
           ],
           "people": [
             "National Institutes of Design"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt49692680",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "graduation-films",
@@ -9359,7 +9366,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-mirage-of-a-dream",
+          "key": "tt49692680",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -9743,12 +9750,17 @@
             "Jérémie Degruson"
           ],
           "imdb_id": "tt7081280",
-          "wikidata_id": null,
+          "wikidata_id": "Q140319951",
           "type": "movie",
           "categories": [
             {
               "id": "annecy-presents",
               "label": "Annecy Presents",
+              "result": "selected"
+            },
+            {
+              "id": "annecy-presente",
+              "label": "Annecy Présente",
               "result": "selected"
             }
           ],
@@ -19146,17 +19158,17 @@
         },
         {
           "name": "Poppy Flowers",
-          "original_name": null,
-          "year": null,
+          "original_name": "Moonid",
+          "year": 2024,
           "director": [
             "Evridiki Papaiakovou"
           ],
           "people": [
             "Estonian Academy of Arts"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt49692860",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "graduation-films",
@@ -19164,7 +19176,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:poppy-flowers",
+          "key": "tt49692860",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {

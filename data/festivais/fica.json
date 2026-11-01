@@ -2,7 +2,7 @@
   "id": "fica",
   "label": "FICA — Cinema e Vídeo Ambiental (Goiás)",
   "kind": "festival",
-  "updated_at": "2026-09-28T11:26:30.375Z",
+  "updated_at": "2026-11-01T09:23:28.323Z",
   "editions": [
     {
       "year": 2026,
@@ -465,17 +465,17 @@
         },
         {
           "name": "REPLIKKA",
-          "original_name": null,
-          "year": null,
+          "original_name": "Replika",
+          "year": 2025,
           "director": [
             "Piratá Waurá",
             "Heloisa Passos"
           ],
           "people": [],
           "year_hint": 2025,
-          "imdb_id": null,
+          "imdb_id": "tt43500427",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mostra-cinema-indigena-e-povos-tradicionais",
@@ -483,7 +483,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:replikka",
+          "key": "tt43500427",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {

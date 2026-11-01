@@ -2,7 +2,7 @@
   "id": "london",
   "label": "BFI London Film Festival",
   "kind": "festival",
-  "updated_at": "2026-09-28T11:26:30.375Z",
+  "updated_at": "2026-11-01T07:00:52.865Z",
   "editions": [
     {
       "year": 2026,
@@ -567,6 +567,11 @@
               "id": "official-competition",
               "label": "Official Competition",
               "result": "selected"
+            },
+            {
+              "id": "premio-best-film",
+              "label": "Prêmio: Best Film",
+              "result": "winner"
             }
           ],
           "key": "tt37801860",
@@ -707,6 +712,11 @@
               "id": "first-feature-competition",
               "label": "First Feature Competition",
               "result": "selected"
+            },
+            {
+              "id": "premio-best-first-feature-sutherland-award-for-best-first-feature",
+              "label": "Prêmio: Best First Feature (Sutherland Award for Best First Feature)",
+              "result": "winner"
             }
           ],
           "key": "tt37740247",
@@ -867,6 +877,11 @@
               "id": "first-feature-competition",
               "label": "First Feature Competition",
               "result": "selected"
+            },
+            {
+              "id": "premio-special-mention",
+              "label": "Prêmio: Special Mention",
+              "result": "winner"
             }
           ],
           "key": "tt37578559",
@@ -947,6 +962,11 @@
               "id": "documentary-competition",
               "label": "Documentary Competition",
               "result": "selected"
+            },
+            {
+              "id": "premio-best-documentary-grierson-award-for-best-documentary",
+              "label": "Prêmio: Best Documentary (Grierson Award for Best Documentary)",
+              "result": "winner"
             }
           ],
           "key": "tt14829578",
@@ -1029,6 +1049,11 @@
               "id": "documentary-competition",
               "label": "Documentary Competition",
               "result": "selected"
+            },
+            {
+              "id": "premio-special-mention",
+              "label": "Prêmio: Special Mention",
+              "result": "winner"
             }
           ],
           "key": "tt43704509",
@@ -1069,6 +1094,11 @@
               "id": "short-films-competition",
               "label": "Short Films Competition",
               "result": "selected"
+            },
+            {
+              "id": "premio-best-short-film",
+              "label": "Prêmio: Best Short Film",
+              "result": "winner"
             }
           ],
           "key": "tt35735239",
@@ -1089,6 +1119,11 @@
               "id": "short-films-competition",
               "label": "Short Films Competition",
               "result": "selected"
+            },
+            {
+              "id": "premio-special-mention",
+              "label": "Prêmio: Special Mention",
+              "result": "winner"
             }
           ],
           "key": "tt41857868",
@@ -3031,15 +3066,15 @@
         },
         {
           "name": "To the North",
-          "original_name": null,
-          "year": null,
+          "original_name": "To the North",
+          "year": 2026,
           "director": [
             "Amer Nasser"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt49479236",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "altered-states",
@@ -3047,7 +3082,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:to-the-north",
+          "key": "tt49479236",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -3296,6 +3331,46 @@
           ],
           "key": "t:panelstory",
           "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "I Play Rock",
+          "original_name": "I Play Rocky",
+          "year": 2026,
+          "director": [
+            "Peter Farrelly"
+          ],
+          "imdb_id": "tt11995650",
+          "wikidata_id": "Q136524973",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "gala",
+              "label": "Gala",
+              "result": "selected"
+            }
+          ],
+          "key": "tt11995650",
+          "first_seen": "2026-11-01T07:00:52.865Z"
+        },
+        {
+          "name": "Filipiñana",
+          "original_name": "Filipiñana",
+          "year": 2026,
+          "director": [
+            "Rafael Manuel"
+          ],
+          "imdb_id": "tt29512008",
+          "wikidata_id": "Q137836697",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "dare",
+              "label": "Dare",
+              "result": "selected"
+            }
+          ],
+          "key": "tt29512008",
+          "first_seen": "2026-11-01T07:00:52.865Z"
         }
       ]
     },

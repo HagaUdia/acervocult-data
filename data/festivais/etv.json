@@ -2,7 +2,7 @@
   "id": "etv",
   "label": "É Tudo Verdade",
   "kind": "festival",
-  "updated_at": "2026-09-28T11:26:30.375Z",
+  "updated_at": "2026-11-01T09:23:28.323Z",
   "editions": [
     {
       "year": 2026,
@@ -223,16 +223,16 @@
         },
         {
           "name": "Natureza Morta",
-          "original_name": null,
-          "year": null,
+          "original_name": "Natureza Morta",
+          "year": 2025,
           "director": [
             "Diran Serafim"
           ],
           "people": [],
           "year_hint": 2025,
-          "imdb_id": null,
+          "imdb_id": "tt49236630",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "competicao-brasileira-de-curta-metragem",
@@ -240,7 +240,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:natureza-morta",
+          "key": "tt49236630",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
