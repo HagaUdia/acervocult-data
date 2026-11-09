@@ -1,6 +1,727 @@
 {
   "runs": [
     {
+      "startedAt": "2026-11-09T16:16:17.727Z",
+      "finishedAt": "2026-11-09T17:01:44.239Z",
+      "only": null,
+      "results": [
+        {
+          "source": "belasartes",
+          "label": "[C] Belas Artes à La Carte",
+          "method": "tmdb-provedor",
+          "primary": "api-descoberta",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "api-descoberta",
+              "count": 0,
+              "ms": 4,
+              "error": "sem API descoberta — preencha \"belasartes\" em collector/sources/_apis-descobertas.json (ver _apis-descobertas.md)"
+            },
+            {
+              "method": "tmdb-provedor",
+              "count": 589,
+              "ms": 9253,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 589,
+            "validos": 589,
+            "revisao": 1,
+            "novos": 1,
+            "atualizados": 588,
+            "completados": 1,
+            "total": 589,
+            "no_catalogo": 569,
+            "capas_sem_metahub": 5,
+            "capas_conferidas": 1,
+            "tmdb_matched": 589,
+            "tmdb_unmatched": 0
+          },
+          "warnings": [],
+          "ms": 20357
+        },
+        {
+          "source": "filmicca",
+          "label": "[C] Filmicca",
+          "method": "ssr-magine + tmdb-provedor",
+          "primary": "api-descoberta",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "api-descoberta",
+              "count": 0,
+              "ms": 0,
+              "error": "sem API descoberta — preencha \"filmicca\" em collector/sources/_apis-descobertas.json (ver _apis-descobertas.md)"
+            },
+            {
+              "method": "ssr-magine",
+              "count": 127,
+              "ms": 8973,
+              "error": null
+            },
+            {
+              "method": "tmdb-provedor",
+              "count": 632,
+              "ms": 7382,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 759,
+            "validos": 759,
+            "revisao": 0,
+            "novos": 17,
+            "atualizados": 576,
+            "completados": 3,
+            "total": 717,
+            "no_catalogo": 611,
+            "capas_sem_metahub": 1,
+            "capas_conferidas": 2,
+            "tmdb_matched": 745,
+            "tmdb_unmatched": 14
+          },
+          "warnings": [],
+          "ms": 48035
+        },
+        {
+          "source": "reservaimovision",
+          "label": "[C] Reserva Imovision",
+          "method": "sitemap+fichas + tmdb-provedor",
+          "primary": "sitemap+fichas",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "sitemap+fichas",
+              "count": 726,
+              "ms": 1461281,
+              "error": null
+            },
+            {
+              "method": "api-descoberta",
+              "count": 0,
+              "ms": 33,
+              "error": "sem API descoberta — preencha \"reservaimovision\" em collector/sources/_apis-descobertas.json (ver _apis-descobertas.md)"
+            },
+            {
+              "method": "tmdb-provedor",
+              "count": 199,
+              "ms": 2817,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 925,
+            "validos": 674,
+            "revisao": 274,
+            "novos": 1,
+            "atualizados": 537,
+            "completados": 1,
+            "total": 541,
+            "no_catalogo": 524,
+            "capas_sem_metahub": 2,
+            "capas_conferidas": 1,
+            "tmdb_matched": 671,
+            "tmdb_unmatched": 254
+          },
+          "warnings": [],
+          "ms": 1518840
+        },
+        {
+          "source": "telabrasil",
+          "label": "[C] Tela Brasil",
+          "method": null,
+          "primary": "carga-manual",
+          "status": "sem-dados",
+          "attempts": [
+            {
+              "method": "carga-manual",
+              "count": 0,
+              "ms": 2,
+              "error": "sem carga manual — peça a relação de obras pelo Fala.BR e grave em data/_manual/telabrasil.csv"
+            }
+          ],
+          "stats": {
+            "coletados": 0,
+            "acervo": 0
+          },
+          "warnings": [],
+          "ms": 5
+        },
+        {
+          "source": "itaucultural",
+          "label": "[C] Itaú Cultural",
+          "method": "browser+colecoes",
+          "primary": "browser+colecoes",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "browser+colecoes",
+              "count": 222,
+              "ms": 50192,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 222,
+            "validos": 222,
+            "revisao": 0,
+            "novos": 15,
+            "atualizados": 206,
+            "completados": 4,
+            "total": 330,
+            "no_catalogo": 148,
+            "capas_sem_metahub": 0,
+            "capas_conferidas": 0,
+            "tmdb_matched": 167,
+            "tmdb_unmatched": 55
+          },
+          "warnings": [],
+          "ms": 77214
+        },
+        {
+          "source": "oldflix",
+          "label": "[C] Oldflix",
+          "method": "tmdb-provedor",
+          "primary": "tmdb-provedor",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "tmdb-provedor",
+              "count": 866,
+              "ms": 9333,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 866,
+            "validos": 865,
+            "revisao": 1,
+            "novos": 0,
+            "atualizados": 865,
+            "completados": 1,
+            "total": 866,
+            "no_catalogo": 846,
+            "capas_sem_metahub": 6,
+            "capas_conferidas": 0,
+            "tmdb_matched": 866,
+            "tmdb_unmatched": 0
+          },
+          "warnings": [],
+          "ms": 21892
+        },
+        {
+          "source": "libreflix",
+          "label": "[C] Libreflix",
+          "method": "listagens+fichas",
+          "primary": "listagens+fichas",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "listagens+fichas",
+              "count": 160,
+              "ms": 474334,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 160,
+            "validos": 160,
+            "revisao": 0,
+            "novos": 0,
+            "atualizados": 160,
+            "completados": 2,
+            "total": 160,
+            "no_catalogo": 69,
+            "capas_sem_metahub": 3,
+            "capas_conferidas": 0,
+            "tmdb_matched": 146,
+            "tmdb_unmatched": 14
+          },
+          "warnings": [],
+          "ms": 497780
+        },
+        {
+          "source": "curtaon",
+          "label": "[C] Curta! On",
+          "method": "tmdb-provedor",
+          "primary": "api-descoberta",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "api-descoberta",
+              "count": 0,
+              "ms": 16,
+              "error": "sem API descoberta — preencha \"curtaon\" em collector/sources/_apis-descobertas.json (ver _apis-descobertas.md)"
+            },
+            {
+              "method": "tmdb-provedor",
+              "count": 210,
+              "ms": 2573,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 210,
+            "validos": 209,
+            "revisao": 1,
+            "novos": 2,
+            "atualizados": 207,
+            "completados": 3,
+            "total": 216,
+            "no_catalogo": 177,
+            "capas_sem_metahub": 0,
+            "capas_conferidas": 2,
+            "tmdb_matched": 210,
+            "tmdb_unmatched": 0
+          },
+          "warnings": [],
+          "ms": 14417
+        },
+        {
+          "source": "mubi",
+          "label": "[C] Mubi",
+          "method": "tmdb-provedor",
+          "primary": "tmdb-provedor",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "tmdb-provedor",
+              "count": 579,
+              "ms": 6237,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 579,
+            "validos": 579,
+            "revisao": 0,
+            "novos": 9,
+            "atualizados": 570,
+            "completados": 1,
+            "total": 625,
+            "no_catalogo": 609,
+            "capas_sem_metahub": 2,
+            "capas_conferidas": 9,
+            "tmdb_matched": 579,
+            "tmdb_unmatched": 0
+          },
+          "warnings": [],
+          "ms": 17546
+        },
+        {
+          "source": "criterion",
+          "label": "[C] Criterion Channel",
+          "method": "tmdb-provedor",
+          "primary": "tmdb-provedor",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "tmdb-provedor",
+              "count": 2395,
+              "ms": 25159,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 2395,
+            "validos": 2395,
+            "revisao": 0,
+            "novos": 3,
+            "atualizados": 2392,
+            "completados": 9,
+            "total": 3098,
+            "no_catalogo": 2905,
+            "capas_sem_metahub": 35,
+            "capas_conferidas": 3,
+            "tmdb_matched": 2395,
+            "tmdb_unmatched": 0
+          },
+          "warnings": [],
+          "ms": 81028
+        },
+        {
+          "source": "bfiplayer",
+          "label": "[C] BFI Player",
+          "method": "tmdb-provedor",
+          "primary": "tmdb-provedor",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "tmdb-provedor",
+              "count": 4432,
+              "ms": 48925,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 4432,
+            "validos": 4432,
+            "revisao": 0,
+            "novos": 11,
+            "atualizados": 4421,
+            "completados": 13,
+            "total": 4520,
+            "no_catalogo": 3522,
+            "capas_sem_metahub": 287,
+            "capas_conferidas": 12,
+            "tmdb_matched": 4432,
+            "tmdb_unmatched": 0
+          },
+          "warnings": [],
+          "ms": 295296
+        },
+        {
+          "source": "artetv",
+          "label": "[C] Arte.tv",
+          "method": "tmdb-provedor",
+          "primary": "tmdb-provedor",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "tmdb-provedor",
+              "count": 315,
+              "ms": 3890,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 315,
+            "validos": 315,
+            "revisao": 0,
+            "novos": 17,
+            "atualizados": 297,
+            "completados": 2,
+            "total": 414,
+            "no_catalogo": 309,
+            "capas_sem_metahub": 10,
+            "capas_conferidas": 15,
+            "tmdb_matched": 315,
+            "tmdb_unmatched": 0
+          },
+          "warnings": [],
+          "ms": 35074
+        },
+        {
+          "source": "cinemark",
+          "label": "[C] Cinemark",
+          "method": "justwatch-pacote",
+          "primary": "justwatch-pacote",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "justwatch-pacote",
+              "count": 54,
+              "ms": 463,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 54,
+            "validos": 54,
+            "revisao": 0,
+            "novos": 11,
+            "atualizados": 43,
+            "completados": 0,
+            "total": 78,
+            "no_catalogo": 77,
+            "capas_sem_metahub": 1,
+            "capas_conferidas": 10,
+            "tmdb_matched": 10,
+            "tmdb_unmatched": 0
+          },
+          "warnings": [],
+          "ms": 3512
+        },
+        {
+          "source": "cineflix",
+          "label": "[C] Cineflix",
+          "method": "justwatch-pacote",
+          "primary": "justwatch-pacote",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "justwatch-pacote",
+              "count": 23,
+              "ms": 320,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 23,
+            "validos": 23,
+            "revisao": 0,
+            "novos": 0,
+            "atualizados": 23,
+            "completados": 0,
+            "total": 23,
+            "no_catalogo": 22,
+            "capas_sem_metahub": 0,
+            "capas_conferidas": 0,
+            "tmdb_matched": 0,
+            "tmdb_unmatched": 1
+          },
+          "warnings": [],
+          "ms": 906
+        },
+        {
+          "source": "cinepolis",
+          "label": "[C] Cinépolis",
+          "method": "justwatch-pacote",
+          "primary": "justwatch-pacote",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "justwatch-pacote",
+              "count": 20,
+              "ms": 267,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 20,
+            "validos": 20,
+            "revisao": 0,
+            "novos": 0,
+            "atualizados": 20,
+            "completados": 1,
+            "total": 20,
+            "no_catalogo": 20,
+            "capas_sem_metahub": 2,
+            "capas_conferidas": 0,
+            "tmdb_matched": 2,
+            "tmdb_unmatched": 0
+          },
+          "warnings": [],
+          "ms": 817
+        },
+        {
+          "source": "arte1",
+          "label": "[C] Arte1",
+          "method": "justwatch-pacote",
+          "primary": "justwatch-pacote",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "justwatch-pacote",
+              "count": 84,
+              "ms": 825,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 84,
+            "validos": 84,
+            "revisao": 0,
+            "novos": 0,
+            "atualizados": 84,
+            "completados": 0,
+            "total": 85,
+            "no_catalogo": 82,
+            "capas_sem_metahub": 2,
+            "capas_conferidas": 0,
+            "tmdb_matched": 5,
+            "tmdb_unmatched": 2
+          },
+          "warnings": [],
+          "ms": 2972
+        },
+        {
+          "source": "tvbrasilplay",
+          "label": "[C] TV Brasil Play",
+          "method": "justwatch-pacote",
+          "primary": "justwatch-pacote",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "justwatch-pacote",
+              "count": 48,
+              "ms": 269,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 48,
+            "validos": 48,
+            "revisao": 0,
+            "novos": 4,
+            "atualizados": 44,
+            "completados": 2,
+            "total": 53,
+            "no_catalogo": 51,
+            "capas_sem_metahub": 8,
+            "capas_conferidas": 4,
+            "tmdb_matched": 9,
+            "tmdb_unmatched": 2
+          },
+          "warnings": [],
+          "ms": 4910
+        },
+        {
+          "source": "multishow",
+          "label": "[C] Multishow",
+          "method": "justwatch-pacote",
+          "primary": "justwatch-pacote",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "justwatch-pacote",
+              "count": 48,
+              "ms": 474,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 48,
+            "validos": 48,
+            "revisao": 0,
+            "novos": 0,
+            "atualizados": 48,
+            "completados": 4,
+            "total": 48,
+            "no_catalogo": 42,
+            "capas_sem_metahub": 6,
+            "capas_conferidas": 1,
+            "tmdb_matched": 5,
+            "tmdb_unmatched": 5
+          },
+          "warnings": [],
+          "ms": 3637
+        },
+        {
+          "source": "cartoonnetwork",
+          "label": "[C] Cartoon Network",
+          "method": "justwatch-pacote",
+          "primary": "justwatch-pacote",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "justwatch-pacote",
+              "count": 182,
+              "ms": 2566,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 182,
+            "validos": 182,
+            "revisao": 0,
+            "novos": 1,
+            "atualizados": 181,
+            "completados": 8,
+            "total": 185,
+            "no_catalogo": 176,
+            "capas_sem_metahub": 6,
+            "capas_conferidas": 1,
+            "tmdb_matched": 15,
+            "tmdb_unmatched": 3
+          },
+          "warnings": [],
+          "ms": 6108
+        },
+        {
+          "source": "discovery",
+          "label": "[C] Discovery Channel",
+          "method": "justwatch-pacote",
+          "primary": "justwatch-pacote",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "justwatch-pacote",
+              "count": 157,
+              "ms": 2705,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 157,
+            "validos": 156,
+            "revisao": 1,
+            "novos": 0,
+            "atualizados": 156,
+            "completados": 7,
+            "total": 156,
+            "no_catalogo": 146,
+            "capas_sem_metahub": 13,
+            "capas_conferidas": 0,
+            "tmdb_matched": 4,
+            "tmdb_unmatched": 11
+          },
+          "warnings": [],
+          "ms": 4102
+        },
+        {
+          "source": "nationalgeographic",
+          "label": "[C] National Geographic",
+          "method": "justwatch-pacote",
+          "primary": "justwatch-pacote",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "justwatch-pacote",
+              "count": 124,
+              "ms": 2547,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 124,
+            "validos": 124,
+            "revisao": 0,
+            "novos": 2,
+            "atualizados": 122,
+            "completados": 8,
+            "total": 127,
+            "no_catalogo": 123,
+            "capas_sem_metahub": 16,
+            "capas_conferidas": 2,
+            "tmdb_matched": 12,
+            "tmdb_unmatched": 3
+          },
+          "warnings": [],
+          "ms": 3694
+        },
+        {
+          "source": "bbc",
+          "label": "[C] BBC Streming",
+          "method": "justwatch-pacote + historico-bbc",
+          "primary": "justwatch-pacote",
+          "status": "ok",
+          "attempts": [
+            {
+              "method": "justwatch-pacote",
+              "count": 1538,
+              "ms": 35288,
+              "error": null
+            },
+            {
+              "method": "historico-bbc",
+              "count": 11,
+              "ms": 3,
+              "error": null
+            }
+          ],
+          "stats": {
+            "coletados": 1549,
+            "validos": 1549,
+            "revisao": 0,
+            "novos": 84,
+            "atualizados": 1465,
+            "completados": 93,
+            "total": 1613,
+            "no_catalogo": 1555,
+            "capas_sem_metahub": 132,
+            "capas_conferidas": 84,
+            "tmdb_matched": 93,
+            "tmdb_unmatched": 56
+          },
+          "warnings": [],
+          "ms": 68370
+        }
+      ]
+    },
+    {
       "startedAt": "2026-11-02T06:00:20.481Z",
       "finishedAt": "2026-11-02T06:44:45.817Z",
       "only": null,

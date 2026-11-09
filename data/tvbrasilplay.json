@@ -1,5 +1,73 @@
 [
   {
+    "id": "acervocult:tvbrasilplay:nascer-parto-humanizado-no-brasil",
+    "source": "tvbrasilplay",
+    "name": "Nascer: Parto Humanizado no Brasil",
+    "year": 2023,
+    "director": null,
+    "type": "movie",
+    "imdb_id": "tt34927732",
+    "tmdb_id": null,
+    "poster": "https://images.justwatch.com/poster/323011481/s332/nascer-parto-humanizado-no-brasil.jpg",
+    "source_url": "https://www.justwatch.com/br/filme/nascer-parto-humanizado-no-brasil",
+    "enrich_status": "unmatched",
+    "first_seen": "2026-11-09T17:00:16.254Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
+    "poster_metahub": false,
+    "poster_checked_at": "2026-11-09T17:00:16.276Z"
+  },
+  {
+    "id": "acervocult:tvbrasilplay:panteras",
+    "source": "tvbrasilplay",
+    "name": "Panteras",
+    "year": 2022,
+    "director": "Breno Baptista",
+    "type": "movie",
+    "imdb_id": "tt23461400",
+    "tmdb_id": 975755,
+    "poster": "https://images.justwatch.com/poster/300779506/s332/panteras.jpg",
+    "source_url": "https://www.justwatch.com/br/filme/panteras",
+    "enrich_status": "matched",
+    "first_seen": "2026-11-09T17:00:16.254Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-11-09T17:00:16.276Z"
+  },
+  {
+    "id": "acervocult:tvbrasilplay:amores-de-chumbo",
+    "source": "tvbrasilplay",
+    "name": "Amores de Chumbo",
+    "year": 2017,
+    "director": "Tuca Siqueira",
+    "type": "movie",
+    "imdb_id": "tt8790694",
+    "tmdb_id": 480408,
+    "poster": "https://images.justwatch.com/poster/25238025/s332/amores-de-chumbo.jpg",
+    "source_url": "https://www.justwatch.com/br/filme/amores-de-chumbo",
+    "enrich_status": "matched",
+    "first_seen": "2026-11-09T17:00:16.254Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-11-09T17:00:16.276Z"
+  },
+  {
+    "id": "acervocult:tvbrasilplay:vazio-do-lado-de-fora",
+    "source": "tvbrasilplay",
+    "name": "Vazio do lado de fora",
+    "year": 2016,
+    "director": "Eduardo Brandão Pinto",
+    "type": "movie",
+    "imdb_id": "tt7619684",
+    "tmdb_id": 472180,
+    "poster": "https://images.justwatch.com/poster/343624535/s332/vazio-do-lado-de-fora.jpg",
+    "source_url": "https://www.justwatch.com/br/filme/vazio-do-lado-de-fora",
+    "enrich_status": "matched",
+    "first_seen": "2026-11-09T17:00:16.254Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-11-09T17:00:16.276Z"
+  },
+  {
     "id": "acervocult:tvbrasilplay:marcia-haydee-uma-vida-pela-danca",
     "source": "tvbrasilplay",
     "name": "Marcia Haydée: Uma Vida Pela Dança",
@@ -12,7 +80,7 @@
     "source_url": "https://www.justwatch.com/br/filme/marcia-haydee-uma-vida-pela-danca",
     "enrich_status": "matched",
     "first_seen": "2026-11-02T06:44:01.929Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-11-02T06:44:01.948Z"
   },
@@ -29,7 +97,7 @@
     "source_url": "https://www.justwatch.com/br/serie/alem-da-lenda",
     "enrich_status": "matched",
     "first_seen": "2026-10-19T06:38:03.312Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": false,
     "poster_checked_at": "2026-10-19T06:38:03.314Z"
   },
@@ -46,7 +114,7 @@
     "source_url": "https://www.justwatch.com/br/filme/uma-jornada-pelo-design-thinking",
     "enrich_status": "unmatched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": false,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -63,7 +131,7 @@
     "source_url": "https://www.justwatch.com/br/filme/brasil-visto-do-alto",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -80,7 +148,7 @@
     "source_url": "https://www.justwatch.com/br/filme/ensinando-como-apreciar-vinhos",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -97,7 +165,7 @@
     "source_url": "https://www.justwatch.com/br/filme/a-praia-do-fim-do-mundo",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -114,7 +182,7 @@
     "source_url": "https://www.justwatch.com/br/filme/alipio",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": false,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -131,7 +199,7 @@
     "source_url": "https://www.justwatch.com/br/filme/amor-rebelde",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -142,13 +210,13 @@
     "year": 2021,
     "director": "Luís Igreja",
     "type": "movie",
-    "imdb_id": "tt15094520",
+    "imdb_id": "tt15015278",
     "tmdb_id": 882973,
     "poster": "https://images.justwatch.com/poster/320692402/s332/poropopo.jpg",
     "source_url": "https://www.justwatch.com/br/filme/poropopo",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -165,7 +233,7 @@
     "source_url": "https://www.justwatch.com/br/serie/a-wild-year-on-earth",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -182,7 +250,7 @@
     "source_url": "https://www.justwatch.com/br/filme/como-vivem-os-bravos",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": false,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -199,7 +267,7 @@
     "source_url": "https://www.justwatch.com/br/filme/mulher-oceano",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -216,7 +284,7 @@
     "source_url": "https://www.justwatch.com/br/filme/swingueira",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -233,7 +301,7 @@
     "source_url": "https://www.justwatch.com/br/filme/distorcao",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -250,7 +318,7 @@
     "source_url": "https://www.justwatch.com/br/filme/pajeu",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -284,7 +352,7 @@
     "source_url": "https://www.justwatch.com/br/filme/che-memorias-de-um-ano-secreto",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -301,7 +369,7 @@
     "source_url": "https://www.justwatch.com/br/filme/o-desmonte-do-monte",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -318,7 +386,7 @@
     "source_url": "https://www.justwatch.com/br/serie/os-chocolix",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -352,7 +420,7 @@
     "source_url": "https://www.justwatch.com/br/serie/julio-and-verne-os-irmaos-gemiais",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -369,7 +437,7 @@
     "source_url": "https://www.justwatch.com/br/filme/dolores",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -386,7 +454,7 @@
     "source_url": "https://www.justwatch.com/br/filme/o-mundo-sem-nos",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z"
+    "last_seen": "2026-11-09T17:00:16.254Z"
   },
   {
     "id": "acervocult:tvbrasilplay:clarisse-or-something-about-us",
@@ -401,7 +469,7 @@
     "source_url": "https://www.justwatch.com/br/filme/clarisse-or-something-about-us",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -418,7 +486,7 @@
     "source_url": "https://www.justwatch.com/br/serie/el-diario-de-mika",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -435,7 +503,7 @@
     "source_url": "https://www.justwatch.com/br/filme/um-filme-de-cinema",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -452,7 +520,7 @@
     "source_url": "https://www.justwatch.com/br/filme/a-misteriosa-morte-de-perola",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -486,7 +554,7 @@
     "source_url": "https://www.justwatch.com/br/filme/galaxias",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": false,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -498,12 +566,12 @@
     "director": null,
     "type": "series",
     "imdb_id": "tt12987664",
-    "tmdb_id": 206564,
+    "tmdb_id": 67809,
     "poster": "https://images.justwatch.com/poster/293976937/s332/mundo-bita.jpg",
     "source_url": "https://www.justwatch.com/br/serie/mundo-bita",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -520,7 +588,7 @@
     "source_url": "https://www.justwatch.com/br/filme/na-quadrada-das-aguas-perdidas",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": false,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -537,7 +605,7 @@
     "source_url": "https://www.justwatch.com/br/filme/entre-lua-a-casa-e-sua",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z"
+    "last_seen": "2026-11-09T17:00:16.254Z"
   },
   {
     "id": "acervocult:tvbrasilplay:peixonauta-agente-secreto-da-o-s-t-r-a",
@@ -569,7 +637,7 @@
     "source_url": "https://www.justwatch.com/br/filme/retrato-de-uma-paisagem",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -586,7 +654,7 @@
     "source_url": "https://www.justwatch.com/br/serie/trunk-train",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -603,7 +671,7 @@
     "source_url": "https://www.justwatch.com/br/serie/carrapatos-e-catapultas",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -637,7 +705,7 @@
     "source_url": "https://www.justwatch.com/br/filme/devocao",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -654,7 +722,7 @@
     "source_url": "https://www.justwatch.com/br/filme/transversais-2008",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": false,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -671,7 +739,7 @@
     "source_url": "https://www.justwatch.com/br/filme/cartola-musica-para-os-olhos",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -688,7 +756,7 @@
     "source_url": "https://www.justwatch.com/br/filme/o-grao",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -705,7 +773,7 @@
     "source_url": "https://www.justwatch.com/br/filme/glauber-o-filme-labirinto-do-brasil",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -722,7 +790,7 @@
     "source_url": "https://www.justwatch.com/br/filme/separacoes",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -739,7 +807,7 @@
     "source_url": "https://www.justwatch.com/br/filme/lua-cambara-nas-escadarias-do-palacio",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -756,7 +824,7 @@
     "source_url": "https://www.justwatch.com/br/filme/corisco-and-dada",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -773,7 +841,7 @@
     "source_url": "https://www.justwatch.com/br/filme/nem-tudo-e-verdade",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -790,7 +858,7 @@
     "source_url": "https://www.justwatch.com/br/filme/o-beijo-no-asfalto",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -807,7 +875,7 @@
     "source_url": "https://www.justwatch.com/br/filme/ladroes-de-cinema",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   },
@@ -824,7 +892,7 @@
     "source_url": "https://www.justwatch.com/br/filme/o-bandido-da-luz-vermelha",
     "enrich_status": "matched",
     "first_seen": "2026-10-16T03:48:44.318Z",
-    "last_seen": "2026-11-02T06:44:01.929Z",
+    "last_seen": "2026-11-09T17:00:16.254Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-16T03:48:44.356Z"
   }
