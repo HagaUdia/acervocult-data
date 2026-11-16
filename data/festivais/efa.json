@@ -2,7 +2,7 @@
   "id": "efa",
   "label": "Prêmios do Cinema Europeu (EFA)",
   "kind": "award",
-  "updated_at": "2026-11-01T09:23:28.323Z",
+  "updated_at": "2026-11-16T10:52:36.918Z",
   "editions": [
     {
       "year": 2026,
@@ -43,6 +43,11 @@
               "id": "animation",
               "label": "Animation",
               "result": "nominee"
+            },
+            {
+              "id": "european-animated-film",
+              "label": "European Animated Film",
+              "result": "nominee"
             }
           ],
           "key": "tt27672817",
@@ -62,6 +67,16 @@
             {
               "id": "animation",
               "label": "Animation",
+              "result": "nominee"
+            },
+            {
+              "id": "european-animated-film",
+              "label": "European Animated Film",
+              "result": "nominee"
+            },
+            {
+              "id": "european-young-audience-award",
+              "label": "European Young Audience Award",
               "result": "nominee"
             }
           ],
@@ -83,6 +98,11 @@
             {
               "id": "animation",
               "label": "Animation",
+              "result": "nominee"
+            },
+            {
+              "id": "european-animated-film",
+              "label": "European Animated Film",
               "result": "nominee"
             }
           ],
@@ -124,6 +144,11 @@
               "id": "animation",
               "label": "Animation",
               "result": "nominee"
+            },
+            {
+              "id": "european-animated-film",
+              "label": "European Animated Film",
+              "result": "nominee"
             }
           ],
           "key": "tt10569744",
@@ -163,6 +188,11 @@
             {
               "id": "animation",
               "label": "Animation",
+              "result": "nominee"
+            },
+            {
+              "id": "european-animated-film",
+              "label": "European Animated Film",
               "result": "nominee"
             }
           ],
@@ -321,6 +351,11 @@
               "id": "documentary",
               "label": "Documentary",
               "result": "nominee"
+            },
+            {
+              "id": "european-documentary",
+              "label": "European Documentary",
+              "result": "nominee"
             }
           ],
           "key": "tt43704405",
@@ -341,6 +376,21 @@
             {
               "id": "documentary",
               "label": "Documentary",
+              "result": "nominee"
+            },
+            {
+              "id": "european-sound",
+              "label": "European Sound",
+              "result": "nominee"
+            },
+            {
+              "id": "european-documentary",
+              "label": "European Documentary",
+              "result": "nominee"
+            },
+            {
+              "id": "nominations",
+              "label": "Nominations",
               "result": "nominee"
             }
           ],
@@ -380,6 +430,11 @@
               "id": "documentary",
               "label": "Documentary",
               "result": "nominee"
+            },
+            {
+              "id": "european-documentary",
+              "label": "European Documentary",
+              "result": "nominee"
             }
           ],
           "key": "tt41593500",
@@ -400,6 +455,11 @@
             {
               "id": "documentary",
               "label": "Documentary",
+              "result": "nominee"
+            },
+            {
+              "id": "european-documentary",
+              "label": "European Documentary",
               "result": "nominee"
             }
           ],
@@ -442,6 +502,11 @@
               "id": "documentary",
               "label": "Documentary",
               "result": "nominee"
+            },
+            {
+              "id": "european-documentary",
+              "label": "European Documentary",
+              "result": "nominee"
             }
           ],
           "key": "tt32368068",
@@ -480,6 +545,11 @@
               "id": "fiction",
               "label": "Fiction",
               "result": "nominee"
+            },
+            {
+              "id": "european-actor",
+              "label": "European Actor",
+              "result": "nominee"
             }
           ],
           "key": "tt41593304",
@@ -499,6 +569,11 @@
             {
               "id": "fiction",
               "label": "Fiction",
+              "result": "nominee"
+            },
+            {
+              "id": "european-composer",
+              "label": "European Composer",
               "result": "nominee"
             }
           ],
@@ -581,6 +656,21 @@
               "id": "fiction",
               "label": "Fiction",
               "result": "nominee"
+            },
+            {
+              "id": "european-actress",
+              "label": "European Actress",
+              "result": "nominee"
+            },
+            {
+              "id": "european-composer",
+              "label": "European Composer",
+              "result": "nominee"
+            },
+            {
+              "id": "nominations",
+              "label": "Nominations",
+              "result": "nominee"
             }
           ],
           "key": "tt36770512",
@@ -620,6 +710,21 @@
             {
               "id": "fiction",
               "label": "Fiction",
+              "result": "nominee"
+            },
+            {
+              "id": "european-cinematographer",
+              "label": "European Cinematographer",
+              "result": "nominee"
+            },
+            {
+              "id": "european-make-up-hair-artist",
+              "label": "European Make-Up & Hair Artist",
+              "result": "nominee"
+            },
+            {
+              "id": "nominations",
+              "label": "Nominations",
               "result": "nominee"
             }
           ],
@@ -700,6 +805,21 @@
               "id": "fiction",
               "label": "Fiction",
               "result": "nominee"
+            },
+            {
+              "id": "european-actor",
+              "label": "European Actor",
+              "result": "nominee"
+            },
+            {
+              "id": "european-casting-director",
+              "label": "European Casting Director",
+              "result": "nominee"
+            },
+            {
+              "id": "nominations",
+              "label": "Nominations",
+              "result": "nominee"
             }
           ],
           "key": "tt37363222",
@@ -719,6 +839,21 @@
             {
               "id": "fiction",
               "label": "Fiction",
+              "result": "nominee"
+            },
+            {
+              "id": "european-director",
+              "label": "European Director",
+              "result": "nominee"
+            },
+            {
+              "id": "european-screenwriter",
+              "label": "European Screenwriter",
+              "result": "nominee"
+            },
+            {
+              "id": "nominations",
+              "label": "Nominations",
               "result": "nominee"
             }
           ],
@@ -740,6 +875,66 @@
               "id": "fiction",
               "label": "Fiction",
               "result": "nominee"
+            },
+            {
+              "id": "european-film",
+              "label": "European Film",
+              "result": "nominee"
+            },
+            {
+              "id": "european-director",
+              "label": "European Director",
+              "result": "nominee"
+            },
+            {
+              "id": "european-screenwriter",
+              "label": "European Screenwriter",
+              "result": "nominee"
+            },
+            {
+              "id": "european-actress",
+              "label": "European Actress",
+              "result": "nominee"
+            },
+            {
+              "id": "european-actor",
+              "label": "European Actor",
+              "result": "nominee"
+            },
+            {
+              "id": "european-casting-director",
+              "label": "European Casting Director",
+              "result": "nominee"
+            },
+            {
+              "id": "european-cinematographer",
+              "label": "European Cinematographer",
+              "result": "nominee"
+            },
+            {
+              "id": "european-editor",
+              "label": "European Editor",
+              "result": "nominee"
+            },
+            {
+              "id": "european-make-up-hair-artist",
+              "label": "European Make-Up & Hair Artist",
+              "result": "nominee"
+            },
+            {
+              "id": "european-production-designer",
+              "label": "European Production Designer",
+              "result": "nominee"
+            },
+            {
+              "id": "european-sound",
+              "label": "European Sound",
+              "result": "nominee"
+            },
+            {
+              "id": "nominations",
+              "label": "Nominations",
+              "result": "nominee"
             }
           ],
           "key": "tt37304295",
@@ -759,6 +954,36 @@
             {
               "id": "fiction",
               "label": "Fiction",
+              "result": "nominee"
+            },
+            {
+              "id": "european-film",
+              "label": "European Film",
+              "result": "nominee"
+            },
+            {
+              "id": "european-director",
+              "label": "European Director",
+              "result": "nominee"
+            },
+            {
+              "id": "european-screenwriter",
+              "label": "European Screenwriter",
+              "result": "nominee"
+            },
+            {
+              "id": "european-actress",
+              "label": "European Actress",
+              "result": "nominee"
+            },
+            {
+              "id": "european-actor",
+              "label": "European Actor",
+              "result": "nominee"
+            },
+            {
+              "id": "nominations",
+              "label": "Nominations",
               "result": "nominee"
             }
           ],
@@ -800,6 +1025,11 @@
               "id": "fiction",
               "label": "Fiction",
               "result": "nominee"
+            },
+            {
+              "id": "european-young-audience-award",
+              "label": "European Young Audience Award",
+              "result": "nominee"
             }
           ],
           "key": "tt36840995",
@@ -829,7 +1059,9 @@
           "name": "I Matter",
           "original_name": "Eu contez",
           "year": 2026,
-          "director": [],
+          "director": [
+            "Alina Șerban"
+          ],
           "imdb_id": "tt29256288",
           "wikidata_id": "Q141710273",
           "type": "movie",
@@ -837,6 +1069,11 @@
             {
               "id": "fiction",
               "label": "Fiction",
+              "result": "nominee"
+            },
+            {
+              "id": "european-young-audience-award",
+              "label": "European Young Audience Award",
               "result": "nominee"
             }
           ],
@@ -899,6 +1136,61 @@
               "id": "fiction",
               "label": "Fiction",
               "result": "nominee"
+            },
+            {
+              "id": "european-film",
+              "label": "European Film",
+              "result": "nominee"
+            },
+            {
+              "id": "european-director",
+              "label": "European Director",
+              "result": "nominee"
+            },
+            {
+              "id": "european-screenwriter",
+              "label": "European Screenwriter",
+              "result": "nominee"
+            },
+            {
+              "id": "european-casting-director",
+              "label": "European Casting Director",
+              "result": "nominee"
+            },
+            {
+              "id": "european-cinematographer",
+              "label": "European Cinematographer",
+              "result": "nominee"
+            },
+            {
+              "id": "european-costume-designer",
+              "label": "European Costume Designer",
+              "result": "nominee"
+            },
+            {
+              "id": "european-editor",
+              "label": "European Editor",
+              "result": "nominee"
+            },
+            {
+              "id": "european-make-up-hair-artist",
+              "label": "European Make-Up & Hair Artist",
+              "result": "nominee"
+            },
+            {
+              "id": "european-production-designer",
+              "label": "European Production Designer",
+              "result": "nominee"
+            },
+            {
+              "id": "european-sound",
+              "label": "European Sound",
+              "result": "nominee"
+            },
+            {
+              "id": "nominations",
+              "label": "Nominations",
+              "result": "nominee"
             }
           ],
           "key": "tt35511966",
@@ -919,6 +1211,11 @@
               "id": "fiction",
               "label": "Fiction",
               "result": "nominee"
+            },
+            {
+              "id": "european-film",
+              "label": "European Film",
+              "result": "nominee"
             }
           ],
           "key": "tt36107185",
@@ -938,6 +1235,21 @@
             {
               "id": "fiction",
               "label": "Fiction",
+              "result": "nominee"
+            },
+            {
+              "id": "european-director",
+              "label": "European Director",
+              "result": "nominee"
+            },
+            {
+              "id": "european-screenwriter",
+              "label": "European Screenwriter",
+              "result": "nominee"
+            },
+            {
+              "id": "nominations",
+              "label": "Nominations",
               "result": "nominee"
             }
           ],
@@ -978,6 +1290,31 @@
             {
               "id": "fiction",
               "label": "Fiction",
+              "result": "nominee"
+            },
+            {
+              "id": "european-actress",
+              "label": "European Actress",
+              "result": "nominee"
+            },
+            {
+              "id": "european-composer",
+              "label": "European Composer",
+              "result": "nominee"
+            },
+            {
+              "id": "european-costume-designer",
+              "label": "European Costume Designer",
+              "result": "nominee"
+            },
+            {
+              "id": "european-production-designer",
+              "label": "European Production Designer",
+              "result": "nominee"
+            },
+            {
+              "id": "nominations",
+              "label": "Nominations",
               "result": "nominee"
             }
           ],
@@ -1059,6 +1396,11 @@
               "id": "fiction",
               "label": "Fiction",
               "result": "nominee"
+            },
+            {
+              "id": "european-actor",
+              "label": "European Actor",
+              "result": "nominee"
             }
           ],
           "key": "tt33451014",
@@ -1106,21 +1448,26 @@
         },
         {
           "name": "The Guest",
-          "original_name": null,
-          "year": null,
+          "original_name": "Gæsten",
+          "year": 2026,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt39378214",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "fiction",
               "label": "Fiction",
               "result": "nominee"
+            },
+            {
+              "id": "european-discovery-prix-fipresci",
+              "label": "European Discovery – Prix FIPRESCI",
+              "result": "nominee"
             }
           ],
-          "key": "t:the-guest",
+          "key": "tt39378214",
           "first_seen": "2026-10-15T07:00:33.304Z"
         },
         {
@@ -1218,6 +1565,26 @@
               "id": "fiction",
               "label": "Fiction",
               "result": "nominee"
+            },
+            {
+              "id": "european-film",
+              "label": "European Film",
+              "result": "nominee"
+            },
+            {
+              "id": "european-actress",
+              "label": "European Actress",
+              "result": "nominee"
+            },
+            {
+              "id": "european-costume-designer",
+              "label": "European Costume Designer",
+              "result": "nominee"
+            },
+            {
+              "id": "nominations",
+              "label": "Nominations",
+              "result": "nominee"
             }
           ],
           "key": "tt34888026",
@@ -1237,6 +1604,11 @@
             {
               "id": "fiction",
               "label": "Fiction",
+              "result": "nominee"
+            },
+            {
+              "id": "european-editor",
+              "label": "European Editor",
               "result": "nominee"
             }
           ],
@@ -1277,6 +1649,11 @@
             {
               "id": "fiction",
               "label": "Fiction",
+              "result": "nominee"
+            },
+            {
+              "id": "european-actress",
+              "label": "European Actress",
               "result": "nominee"
             }
           ],
@@ -1343,6 +1720,190 @@
           ],
           "key": "t:european-casting-director",
           "first_seen": "2026-11-01T09:23:28.323Z"
+        },
+        {
+          "name": "17",
+          "original_name": "17",
+          "year": 2026,
+          "director": [],
+          "imdb_id": "tt37775862",
+          "wikidata_id": "Q137836699",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "european-discovery-prix-fipresci",
+              "label": "European Discovery – Prix FIPRESCI",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt37775862",
+          "first_seen": "2026-11-16T10:52:36.918Z"
+        },
+        {
+          "name": "At Night",
+          "original_name": "La Nuit",
+          "year": 2026,
+          "director": [],
+          "imdb_id": "tt30460036",
+          "wikidata_id": "Q141251284",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "european-discovery-prix-fipresci",
+              "label": "European Discovery – Prix FIPRESCI",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt30460036",
+          "first_seen": "2026-11-16T10:52:36.918Z"
+        },
+        {
+          "name": "Cute",
+          "original_name": null,
+          "year": null,
+          "director": [],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "european-discovery-prix-fipresci",
+              "label": "European Discovery – Prix FIPRESCI",
+              "result": "nominee"
+            }
+          ],
+          "key": "t:cute",
+          "first_seen": "2026-11-16T10:52:36.918Z"
+        },
+        {
+          "name": "Flesh and Fuel",
+          "original_name": "Du fioul dans les artères",
+          "year": 2026,
+          "director": [],
+          "imdb_id": "tt35495082",
+          "wikidata_id": "Q139890200",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "european-discovery-prix-fipresci",
+              "label": "European Discovery – Prix FIPRESCI",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt35495082",
+          "first_seen": "2026-11-16T10:52:36.918Z"
+        },
+        {
+          "name": "Thirteen in Gaza",
+          "original_name": "Thirteen in Gaza",
+          "year": 2026,
+          "director": [],
+          "imdb_id": "tt43743832",
+          "wikidata_id": "Q141664522",
+          "type": "movie",
+          "categories": [
+            {
+              "id": "european-discovery-prix-fipresci",
+              "label": "European Discovery – Prix FIPRESCI",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt43743832",
+          "first_seen": "2026-11-16T10:52:36.918Z"
+        },
+        {
+          "name": "God Is Shy",
+          "original_name": "Dieu est timide",
+          "year": 2025,
+          "director": [],
+          "imdb_id": "tt37675860",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "european-short-film-prix-vimeo",
+              "label": "European Short Film – Prix Vimeo",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt37675860",
+          "first_seen": "2026-11-16T10:52:36.918Z"
+        },
+        {
+          "name": "L'Mina",
+          "original_name": null,
+          "year": 2025,
+          "director": [],
+          "imdb_id": "tt28493053",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "european-short-film-prix-vimeo",
+              "label": "European Short Film – Prix Vimeo",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt28493053",
+          "first_seen": "2026-11-16T10:52:36.918Z"
+        },
+        {
+          "name": "Morning Circle",
+          "original_name": "Morgenkreis",
+          "year": 2025,
+          "director": [],
+          "imdb_id": "tt37855298",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "european-short-film-prix-vimeo",
+              "label": "European Short Film – Prix Vimeo",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt37855298",
+          "first_seen": "2026-11-16T10:52:36.918Z"
+        },
+        {
+          "name": "The End",
+          "original_name": null,
+          "year": null,
+          "director": [],
+          "people": [
+            "Niki Lindroth von Bahr"
+          ],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "european-short-film-prix-vimeo",
+              "label": "European Short Film – Prix Vimeo",
+              "result": "nominee"
+            }
+          ],
+          "key": "t:the-end",
+          "first_seen": "2026-11-16T10:52:36.918Z"
+        },
+        {
+          "name": "Unleaded 95",
+          "original_name": null,
+          "year": 2025,
+          "director": [],
+          "imdb_id": "tt37505140",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "european-short-film-prix-vimeo",
+              "label": "European Short Film – Prix Vimeo",
+              "result": "nominee"
+            }
+          ],
+          "key": "tt37505140",
+          "first_seen": "2026-11-16T10:52:36.918Z"
         }
       ]
     },
@@ -1982,12 +2543,12 @@
         {
           "name": "The North",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt35331003",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "feature-film",
@@ -1995,7 +2556,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:the-north",
+          "key": "tt35331003",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -2778,12 +3339,12 @@
         {
           "name": "The Shards",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt34191290",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "documentary",
@@ -2791,7 +3352,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:the-shards",
+          "key": "tt34191290",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -6015,12 +6576,12 @@
         {
           "name": "The Hearing",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt29703128",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "documentary",
@@ -6028,7 +6589,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:the-hearing",
+          "key": "tt29703128",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -6170,12 +6731,12 @@
         {
           "name": "Paradise",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt21308888",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "documentary",
@@ -6183,7 +6744,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:paradise",
+          "key": "tt21308888",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -6325,15 +6886,15 @@
         {
           "name": "Been There",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [],
           "people": [
             "Locarno Film Festival",
             "selected at Locarno Film Festival"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt28365411",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-films",
@@ -6341,21 +6902,21 @@
               "result": "nominee"
             }
           ],
-          "key": "t:been-there",
+          "key": "tt28365411",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "The Birthday Party",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [],
           "people": [
             "Curtas Vila do Conde",
             "selected at Curtas Vila do Conde"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt27664169",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-films",
@@ -6363,7 +6924,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:the-birthday-party",
+          "key": "tt27664169",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -6418,14 +6979,14 @@
         {
           "name": "The Debutante",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [],
           "people": [
             "selected at Black Nights Film Festival"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt18777240",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-films",
@@ -6433,22 +6994,22 @@
               "result": "nominee"
             }
           ],
-          "key": "t:the-debutante",
+          "key": "tt18777240",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Emotional Architecture 1959",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [],
           "people": [
             "Mona León Siminiani",
             "Valladolid International Film Festival",
             "selected at Valladolid International Film Festival"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt22863216",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-films",
@@ -6456,20 +7017,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:emotional-architecture-1959",
+          "key": "tt22863216",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "A Free Run",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [],
           "people": [
             "selected at Uppsala Short Film Festival"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt18305854",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-films",
@@ -6477,7 +7038,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:a-free-run",
+          "key": "tt18305854",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -6531,16 +7092,16 @@
         },
         {
           "name": "How I Learned to Hang Laundry",
-          "original_name": null,
-          "year": null,
+          "original_name": "Kako sem se naucila obesati perilo",
+          "year": 2023,
           "director": [],
           "people": [
             "Sarajevo Film Festival",
             "selected at Sarajevo Film Festival"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt26699523",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-films",
@@ -6548,20 +7109,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:how-i-learned-to-hang-laundry",
+          "key": "tt26699523",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "I Can See the Sun But I Can't Feel It Yet",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [],
           "people": [
             "selected at Kurzfilm Festival Hamburg"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt27547608",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-films",
@@ -6569,7 +7130,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:i-can-see-the-sun-but-i-cant-feel-it-yet",
+          "key": "tt27547608",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -6596,15 +7157,15 @@
         {
           "name": "Les Chenilles",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [],
           "people": [
             "Berlin International Film Festival",
             "selected at Berlin International Film Festival"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt25967938",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-films",
@@ -6612,7 +7173,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:les-chenilles",
+          "key": "tt25967938",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -6639,15 +7200,15 @@
         {
           "name": "Red Ears",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [],
           "people": [
             "Tampere Film Festival",
             "selected at Tampere Film Festival"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt27399173",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-films",
@@ -6655,20 +7216,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:red-ears",
+          "key": "tt27399173",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Remember How I Used to Ride a White Horse",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [],
           "people": [
             "VIENNA SHORTS"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt29521046",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-films",
@@ -6676,21 +7237,21 @@
               "result": "nominee"
             }
           ],
-          "key": "t:remember-how-i-used-to-ride-a-white-horse",
+          "key": "tt29521046",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "A Short Trip",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [],
           "people": [
             "Venice Film Festival",
             "selected at Venice Film Festival"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt28507877",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-films",
@@ -6698,21 +7259,21 @@
               "result": "nominee"
             }
           ],
-          "key": "t:a-short-trip",
+          "key": "tt28507877",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "There Are People in the Forest",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [],
           "people": [
             "Kraków Film Festival",
             "selected at Kraków Film Festival"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt28861920",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-films",
@@ -6720,21 +7281,21 @@
               "result": "nominee"
             }
           ],
-          "key": "t:there-are-people-in-the-forest",
+          "key": "tt28861920",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Things Unheard Of",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [],
           "people": [
             "Motovun Film Festival",
             "selected at Motovun Film Festival"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt28005037",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-films",
@@ -6742,7 +7303,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:things-unheard-of",
+          "key": "tt28005037",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -8248,14 +8809,14 @@
         {
           "name": "The Bayview",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [],
           "people": [
             "Clermont-Ferrand International Short Film Festival"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt18293278",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -8263,20 +8824,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:the-bayview",
+          "key": "tt18293278",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Becoming Male in the Middle Ages",
-          "original_name": null,
-          "year": null,
+          "original_name": "Tornar-se um Homem na Idade Média",
+          "year": 2022,
           "director": [],
           "people": [
             "International Film Festival Rotterdam"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt16980836",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -8284,20 +8845,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:becoming-male-in-the-middle-ages",
+          "key": "tt16980836",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Cherries",
-          "original_name": null,
-          "year": null,
+          "original_name": "Uogos",
+          "year": 2022,
           "director": [],
           "people": [
             "Cannes Film Festival"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt18937168",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -8305,20 +8866,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:cherries",
+          "key": "tt18937168",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Dad's Sneakers",
-          "original_name": null,
-          "year": null,
+          "original_name": "Papyni krosivky",
+          "year": 2021,
           "director": [],
           "people": [
             "Kort Film Festival Leuven"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt14965102",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -8326,7 +8887,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:dads-sneakers",
+          "key": "tt14965102",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -8381,14 +8942,14 @@
         {
           "name": "Handbook",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [],
           "people": [
             "International Short Film Festival Nijmegen"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt19370656",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -8396,7 +8957,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:handbook",
+          "key": "tt19370656",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -8427,14 +8988,14 @@
         {
           "name": "Le Saboteur",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [],
           "people": [
             "Tampere Film Festival"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt21228706",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -8442,7 +9003,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:le-saboteur",
+          "key": "tt21228706",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -8473,14 +9034,14 @@
         {
           "name": "Memoir of a Veering Storm",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [],
           "people": [
             "DokuFest"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt17275588",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -8488,20 +9049,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:memoir-of-a-veering-storm",
+          "key": "tt17275588",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Neighbour Abdi",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [],
           "people": [
             "Locarno Film Festival"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt21632552",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -8509,7 +9070,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:neighbour-abdi",
+          "key": "tt21632552",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -8535,15 +9096,15 @@
         {
           "name": "North Pole",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [],
           "people": [
             "International Festival of Documentary",
             "Short Film of Bilbao"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt14469014",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -8551,20 +9112,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:north-pole",
+          "key": "tt14469014",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "On Solid Ground",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [],
           "people": [
             "Internationale Kurzfilmtage Winterthur"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt14812820",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -8572,7 +9133,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:on-solid-ground",
+          "key": "tt14812820",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -8598,14 +9159,14 @@
         {
           "name": "The Red Suitcase",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [],
           "people": [
             "Tirana International Film Festival"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt22763378",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -8613,20 +9174,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:the-red-suitcase",
+          "key": "tt22763378",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "The Salamander Child",
-          "original_name": null,
-          "year": null,
+          "original_name": "L'enfant salamandre",
+          "year": 2021,
           "director": [],
           "people": [
             "Drama International Short Film Festival"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt15018628",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -8634,7 +9195,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:the-salamander-child",
+          "key": "tt15018628",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -8681,14 +9242,14 @@
         {
           "name": "The Sower of Stars",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [],
           "people": [
             "Berlin International Film Festival"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt17068762",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -8696,7 +9257,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:the-sower-of-stars",
+          "key": "tt17068762",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -8771,14 +9332,14 @@
         {
           "name": "Urban Solutions",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [],
           "people": [
             "Encounters Film Festival"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt21221016",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -8786,20 +9347,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:urban-solutions",
+          "key": "tt21221016",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "When I Smile My Eyes Close",
-          "original_name": null,
-          "year": null,
+          "original_name": "Otan gelao kleinoun ta matia mou",
+          "year": 2020,
           "director": [],
           "people": [
             "Cork International Film Festival"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt11994016",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -8807,7 +9368,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:when-i-smile-my-eyes-close",
+          "key": "tt11994016",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -9062,7 +9623,7 @@
         {
           "name": "My Neighbors' Neighbors",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [
             "Anne-Laure Daffis",
             "Léo Marchand"
@@ -9071,9 +9632,9 @@
             "Anne-Laure Daffis",
             "Léo Marchand"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt15502904",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "european-animated-feature-film",
@@ -9081,7 +9642,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:my-neighbors-neighbors",
+          "key": "tt15502904",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -10492,12 +11053,12 @@
         {
           "name": "All-In",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt6767728",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "documentary",
@@ -10505,7 +11066,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:all-in",
+          "key": "tt6767728",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -10731,12 +11292,12 @@
         {
           "name": "The Other Side of the River",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt14599510",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "documentary",
@@ -10744,7 +11305,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:the-other-side-of-the-river",
+          "key": "tt14599510",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -10791,12 +11352,12 @@
         {
           "name": "The News",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt12670428",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -10804,7 +11365,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:the-news",
+          "key": "tt12670428",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -10829,12 +11390,12 @@
         {
           "name": "Maalbeek",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt13332920",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -10842,7 +11403,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:maalbeek",
+          "key": "tt13332920",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -10887,15 +11448,15 @@
         },
         {
           "name": "Blue Fear",
-          "original_name": null,
-          "year": null,
+          "original_name": "Filles bleues, peur blanche",
+          "year": 2020,
           "director": [],
           "people": [
             "Cork International Film Festival"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt10346180",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -10903,21 +11464,21 @@
               "result": "nominee"
             }
           ],
-          "key": "t:blue-fear",
+          "key": "tt10346180",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Precious",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [],
           "people": [
             "Black Nights Film Festival",
             "PÖFF Shorts"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt13376466",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -10925,7 +11486,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:precious",
+          "key": "tt13376466",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -10970,14 +11531,14 @@
         {
           "name": "Flowers Blooming in Our Throats",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [],
           "people": [
             "International Film Festival Rotterdam"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt14034834",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -10985,7 +11546,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:flowers-blooming-in-our-throats",
+          "key": "tt14034834",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -11018,15 +11579,15 @@
         },
         {
           "name": "Mission: Hebron",
-          "original_name": null,
-          "year": null,
+          "original_name": "HaMesima Hevron",
+          "year": 2020,
           "director": [],
           "people": [
             "Tampere Film Festival"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt13721328",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -11034,7 +11595,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:mission-hebron",
+          "key": "tt13721328",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -11177,14 +11738,14 @@
         {
           "name": "Armadila",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [],
           "people": [
             "Motovun Film Festival"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt12750062",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -11192,7 +11753,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:armadila",
+          "key": "tt12750062",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -11275,14 +11836,14 @@
         {
           "name": "Fall of the Ibis King",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [],
           "people": [
             "Venice Film Festival"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt15118352",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -11290,18 +11851,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:fall-of-the-ibis-king",
+          "key": "tt15118352",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Zonder Meer",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt13577792",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -11309,20 +11870,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:zonder-meer",
+          "key": "tt13577792",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Nha Sunhu",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [],
           "people": [
             "Drama International Short Film Festival"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt15127856",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -11330,7 +11891,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:nha-sunhu",
+          "key": "tt15127856",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -11361,14 +11922,14 @@
         {
           "name": "The Morning After",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [
             "Méliane Marcaggi"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt10965792",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "european-comedy",
@@ -11376,7 +11937,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:the-morning-after",
+          "key": "tt10965792",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -12848,12 +13409,12 @@
         {
           "name": "Community Gardens",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt10415722",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -12861,20 +13422,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:community-gardens",
+          "key": "tt10415722",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Things That Happen in the Bathroom",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [],
           "people": [
             "Cork Film Festival"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt10671172",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -12882,7 +13443,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:things-that-happen-in-the-bathroom",
+          "key": "tt10671172",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -12909,12 +13470,12 @@
         {
           "name": "Lake of Happiness",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt9684264",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -12922,20 +13483,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:lake-of-happiness",
+          "key": "tt9684264",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "The Bite",
-          "original_name": null,
-          "year": null,
+          "original_name": "A Mordida",
+          "year": 2019,
           "director": [],
           "people": [
             "International Film Festival Rotterdam"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt10800658",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -12943,20 +13504,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:the-bite",
+          "key": "tt10800658",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Invisible Hero",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [],
           "people": [
             "Clermont-Ferrand International Short Film Festival"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt10219526",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -12964,7 +13525,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:invisible-hero",
+          "key": "tt10219526",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -13050,15 +13611,15 @@
         },
         {
           "name": "The Golden Buttons",
-          "original_name": null,
-          "year": null,
+          "original_name": "Zolotye Pugovitzi",
+          "year": 2019,
           "director": [],
           "people": [
             "Krakow Film Festival"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt13837936",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -13066,7 +13627,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:the-golden-buttons",
+          "key": "tt13837936",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -13093,14 +13654,14 @@
         {
           "name": "Nha Mila",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [],
           "people": [
             "Curtas Vila do Conde - International Film Festival"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt12946610",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -13108,20 +13669,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:nha-mila",
+          "key": "tt12946610",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "To the Dusty Sea",
-          "original_name": null,
-          "year": null,
+          "original_name": "À la Mer Poussière",
+          "year": 2020,
           "director": [],
           "people": [
             "Motovun Film Festival"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt12631886",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -13129,20 +13690,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:to-the-dusty-sea",
+          "key": "tt12631886",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "People on Saturday",
-          "original_name": null,
-          "year": null,
+          "original_name": "Menschen am Samstag",
+          "year": 2020,
           "director": [],
           "people": [
             "Locarno Film Festival"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt12283160",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -13150,7 +13711,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:people-on-saturday",
+          "key": "tt12283160",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -13220,13 +13781,13 @@
         },
         {
           "name": "Favourites",
-          "original_name": null,
-          "year": null,
+          "original_name": "Favoriten",
+          "year": 2019,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt10094226",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -13234,7 +13795,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:favourites",
+          "key": "tt10094226",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -15068,15 +15629,15 @@
         {
           "name": "Reconstruction",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [
             "Jiří Havlíček",
             "Ondřej Novák"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt8406656",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film",
@@ -15084,7 +15645,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:reconstruction",
+          "key": "tt8406656",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -24486,17 +25047,17 @@
         },
         {
           "name": "Butter Lamp",
-          "original_name": null,
-          "year": null,
+          "original_name": "La lampe au beurre de yak",
+          "year": 2013,
           "director": [
             "Hu Wei"
           ],
           "people": [
             "Drama Short Film Nominee"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt2922078",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film",
@@ -24504,7 +25065,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:butter-lamp",
+          "key": "tt2922078",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -24713,17 +25274,17 @@
         },
         {
           "name": "Nuclear Waste",
-          "original_name": null,
-          "year": null,
+          "original_name": "Yaderni wydhody",
+          "year": 2012,
           "director": [
             "Myroslav Slaboshpytskiy"
           ],
           "people": [
             "Grimstad Short Film Nominee"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt2261688",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film",
@@ -24731,7 +25292,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:nuclear-waste",
+          "key": "tt2261688",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -27061,12 +27622,12 @@
         {
           "name": "Maria's Way",
           "original_name": null,
-          "year": null,
+          "year": 2009,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1504684",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film",
@@ -27074,18 +27635,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:marias-way",
+          "key": "tt1504684",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Talleres Clandestinos",
           "original_name": null,
-          "year": null,
+          "year": 2010,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1729663",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film",
@@ -27093,7 +27654,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:talleres-clandestinos",
+          "key": "tt1729663",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -27119,16 +27680,16 @@
         },
         {
           "name": "Diarchy",
-          "original_name": null,
-          "year": null,
+          "original_name": "Diarchia",
+          "year": 2010,
           "director": [],
           "people": [
             "Ferdinando Cito Filomarino • Italy",
             "France"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt1695771",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film",
@@ -27136,7 +27697,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:diarchy",
+          "key": "tt1695771",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -29018,17 +29579,17 @@
         },
         {
           "name": "Развод по албански / Razvod po albanski",
-          "original_name": null,
-          "year": null,
+          "original_name": "Razvod po albanski",
+          "year": 2008,
           "director": [
             "Adela Peeva"
           ],
           "people": [
             "Adela Peeva"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt1314833",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "european-documentary-prix-arte",
@@ -29036,7 +29597,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:razvod-po-albanski",
+          "key": "tt1314833",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -29102,12 +29663,12 @@
         {
           "name": "Adjustment",
           "original_name": null,
-          "year": null,
+          "year": 2006,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0977198",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "european-shortfilm-prix-uip",
@@ -29115,7 +29676,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:adjustment",
+          "key": "tt0977198",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -33919,16 +34480,16 @@
         {
           "name": "Cool & Crazy",
           "original_name": null,
-          "year": null,
+          "year": 2001,
           "director": [
             "Knut Erik Jensen"
           ],
           "people": [
             "Knut Erik Jensen"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0276189",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "best-documentary",
@@ -33936,7 +34497,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:cool-crazy",
+          "key": "tt0276189",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {

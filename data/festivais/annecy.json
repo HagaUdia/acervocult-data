@@ -2,7 +2,7 @@
   "id": "annecy",
   "label": "Annecy",
   "kind": "festival",
-  "updated_at": "2026-11-01T09:23:28.323Z",
+  "updated_at": "2026-11-16T10:52:36.918Z",
   "editions": [
     {
       "year": 2026,
@@ -929,6 +929,11 @@
               "id": "selection-officielle",
               "label": "Sélection officielle",
               "result": "selected"
+            },
+            {
+              "id": "short-films",
+              "label": "Short films",
+              "result": "selected"
             }
           ],
           "key": "tt36724193",
@@ -1081,6 +1086,16 @@
             {
               "id": "premio-courts-metrages",
               "label": "Prêmio: Courts métrages",
+              "result": "winner"
+            },
+            {
+              "id": "short-films",
+              "label": "Short films",
+              "result": "selected"
+            },
+            {
+              "id": "premio-alexeieff-parker-award",
+              "label": "Prêmio: Alexeïeff – Parker Award",
               "result": "winner"
             }
           ],
@@ -1731,15 +1746,15 @@
         },
         {
           "name": "Una vez en un cuerpo",
-          "original_name": null,
-          "year": null,
+          "original_name": "Una vez en un cuerpo",
+          "year": 2025,
           "director": [],
           "people": [
             "María Cristina Pérez González"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt37507660",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "perspectives",
@@ -1747,7 +1762,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:una-vez-en-un-cuerpo",
+          "key": "tt37507660",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -2251,14 +2266,14 @@
         {
           "name": "Builder",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "Ryoji Yamada"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt43601302",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "midnight-shorts",
@@ -2271,7 +2286,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:builder",
+          "key": "tt43601302",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -2434,12 +2449,12 @@
         {
           "name": "La Robe peau",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt39674675",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "midnight-shorts",
@@ -2447,7 +2462,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:la-robe-peau",
+          "key": "tt39674675",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -2727,14 +2742,14 @@
         {
           "name": "What Is, Is Now",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [],
           "people": [
             "Jikke Lesterhuis"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt38755603",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "wtf",
@@ -2742,7 +2757,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:what-is-is-now",
+          "key": "tt38755603",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -2878,6 +2893,16 @@
               "id": "premio-films-de-television-et-de-commande",
               "label": "Prêmio: Films de télévision et de commande",
               "result": "winner"
+            },
+            {
+              "id": "television",
+              "label": "Television",
+              "result": "selected"
+            },
+            {
+              "id": "premio-cristal-for-best-tv-production",
+              "label": "Prêmio: Cristal for Best TV Production",
+              "result": "winner"
             }
           ],
           "key": "tt42440609",
@@ -2909,16 +2934,16 @@
         {
           "name": "Le Chant des orages",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [
             "Caroline Attia"
           ],
           "people": [
             "Caroline Attia"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt39109035",
           "wikidata_id": null,
-          "type": null,
+          "type": "tvSpecial",
           "categories": [
             {
               "id": "films-de-television",
@@ -2931,7 +2956,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:le-chant-des-orages",
+          "key": "tt39109035",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -3761,6 +3786,16 @@
               "id": "premio-films-de-television-et-de-commande",
               "label": "Prêmio: Films de télévision et de commande",
               "result": "winner"
+            },
+            {
+              "id": "commissioned-films",
+              "label": "Commissioned Films",
+              "result": "selected"
+            },
+            {
+              "id": "premio-cristal-for-best-commissioned-film",
+              "label": "Prêmio: Cristal for Best Commissioned Film",
+              "result": "winner"
             }
           ],
           "key": "tt39165092",
@@ -4233,14 +4268,14 @@
         {
           "name": "Renversement",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [],
           "people": [
             "Len Herzog"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt41483656",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "uvres-immersives",
@@ -4248,7 +4283,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:renversement",
+          "key": "tt41483656",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -4568,15 +4603,15 @@
         {
           "name": "Uncanny Valley",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [],
           "people": [
             "Paul Wenninger",
             "2015"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt36414870",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "la-guerre-yes-sir",
@@ -4584,7 +4619,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:uncanny-valley",
+          "key": "tt36414870",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -4809,15 +4844,15 @@
         {
           "name": "Stanley",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [],
           "people": [
             "Suzie Templeton",
             "1999"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt22015938",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "inquietante-etrangete",
@@ -4825,7 +4860,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:stanley",
+          "key": "tt22015938",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -5641,14 +5676,14 @@
         {
           "name": "Samurai Ballerina : L'Étoile de Paris en fleur",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [],
           "people": [
             "Gorō Taniguchi"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt37874634",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "annecy-presente",
@@ -5656,7 +5691,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:samurai-ballerina-letoile-de-paris-en-fleur",
+          "key": "tt37874634",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -6803,6 +6838,16 @@
               "id": "premio-films-de-fin-detudes",
               "label": "Prêmio: Films de fin d'études",
               "result": "winner"
+            },
+            {
+              "id": "graduation-films",
+              "label": "Graduation Films",
+              "result": "selected"
+            },
+            {
+              "id": "premio-jury-award",
+              "label": "Prêmio: Jury Award",
+              "result": "winner"
             }
           ],
           "key": "tt39049110",
@@ -6811,16 +6856,16 @@
         {
           "name": "Křehce",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "Jamaica Kindlová"
           ],
           "people": [
             "Jamaica Kindlová"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt43625051",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-films-de-fin-detudes",
@@ -6828,7 +6873,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:krehce",
+          "key": "tt43625051",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -7045,14 +7090,14 @@
         {
           "name": "Water Girl",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [
             "Sandra Demazières"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt36724193",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-films",
@@ -7060,7 +7105,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:water-girl",
+          "key": "tt36724193",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -7150,14 +7195,14 @@
         {
           "name": "My Bellyaching Skin",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "Etienne Bonnet"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt43650967",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-films",
@@ -7170,7 +7215,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:my-bellyaching-skin",
+          "key": "tt43650967",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -7301,14 +7346,14 @@
         {
           "name": "The Great Dreamscape",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "Rémi Durin"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt42440609",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "television",
@@ -7321,7 +7366,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:the-great-dreamscape",
+          "key": "tt42440609",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -7525,14 +7570,14 @@
         {
           "name": "Song of the Storms",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [
             "Caroline Attia"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt39109035",
           "wikidata_id": null,
-          "type": null,
+          "type": "tvSpecial",
           "categories": [
             {
               "id": "television",
@@ -7545,7 +7590,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:song-of-the-storms",
+          "key": "tt39109035",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -7700,8 +7745,8 @@
         },
         {
           "name": "Unloved",
-          "original_name": null,
-          "year": null,
+          "original_name": "Le mal-aimé",
+          "year": 2025,
           "director": [
             "Illogic Studio",
             "Victor Caire",
@@ -7709,9 +7754,9 @@
             "Théophile Dufresne"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt39165092",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "commissioned-films",
@@ -7724,7 +7769,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:unloved",
+          "key": "tt39165092",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -8149,15 +8194,15 @@
         },
         {
           "name": "Once in a Body",
-          "original_name": null,
-          "year": null,
+          "original_name": "Una vez en un cuerpo",
+          "year": 2025,
           "director": [
             "María Cristina Pérez González"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt37507660",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "perspectives",
@@ -8165,7 +8210,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:once-in-a-body",
+          "key": "tt37507660",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -8547,14 +8592,14 @@
         {
           "name": "Eyeliner",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "Aisha Boudjillouli"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt40639239",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "graduation-films",
@@ -8562,7 +8607,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:eyeliner",
+          "key": "tt40639239",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -8868,14 +8913,14 @@
         {
           "name": "Dying Embers",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [
             "Léa Pulini"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt39049110",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "graduation-films",
@@ -8888,7 +8933,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:dying-embers",
+          "key": "tt39049110",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -9791,15 +9836,15 @@
         {
           "name": "CALM, the Last Tale of Horacio Quiroga",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "María Ruisánchez",
             "Álvaro León"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt45239436",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "midnight-specials",
@@ -9807,7 +9852,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:calm-the-last-tale-of-horacio-quiroga",
+          "key": "tt45239436",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -10324,12 +10369,12 @@
         {
           "name": "You Are Not Part of the Cake",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt42373256",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-titmouse-wtf-award",
@@ -10337,18 +10382,18 @@
               "result": "winner"
             }
           ],
-          "key": "t:you-are-not-part-of-the-cake",
+          "key": "tt42373256",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "I Have A",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt41705508",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-titmouse-wtf-jury-distinction",
@@ -10356,8 +10401,50 @@
               "result": "winner"
             }
           ],
-          "key": "t:i-have-a",
+          "key": "tt41705508",
           "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Muyi",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Julien Chheng"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "contrechamp",
+              "label": "Contrechamp",
+              "result": "selected"
+            }
+          ],
+          "key": "t:muyi",
+          "first_seen": "2026-11-16T10:52:36.918Z"
+        },
+        {
+          "name": "Girl in the Clouds",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Philippe Riche"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "annecy-presents",
+              "label": "Annecy Presents",
+              "result": "selected"
+            }
+          ],
+          "key": "t:girl-in-the-clouds",
+          "first_seen": "2026-11-16T10:52:36.918Z"
         }
       ]
     },
@@ -11049,17 +11136,17 @@
         },
         {
           "name": "Kaptein Sabeltann og Grevinnen av Grel",
-          "original_name": null,
-          "year": null,
+          "original_name": "Kaptein Sabeltann og Grevinnen av Gral",
+          "year": 2025,
           "director": [],
           "people": [
             "Yaprak Morali",
             "Are Austnes",
             "Rasmus A. Sivertsen"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt33540970",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "annecy-presente",
@@ -11067,7 +11154,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:kaptein-sabeltann-og-grevinnen-av-grel",
+          "key": "tt33540970",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -11482,15 +11569,15 @@
         {
           "name": "Asparagus",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [],
           "people": [
             "Suzan Pitt",
             "1978"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt42769182",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "annecy-classics",
@@ -11498,20 +11585,20 @@
               "result": "selected"
             }
           ],
-          "key": "t:asparagus",
+          "key": "tt42769182",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "9 milionů barev",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [],
           "people": [
             "Bára Anna Stejskalová"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt35994552",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selection-officielle",
@@ -11519,7 +11606,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:9-milionu-barev",
+          "key": "tt35994552",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -11774,15 +11861,15 @@
         {
           "name": "La Fille qui explose",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [],
           "people": [
             "Caroline Poggi",
             "Jonathan Vinel"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt32897715",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selection-officielle",
@@ -11790,7 +11877,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:la-fille-qui-explose",
+          "key": "tt32897715",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -12808,16 +12895,16 @@
         {
           "name": "Le Grand Party annuel des créatures de la Lune",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [
             "Francis Desharnais"
           ],
           "people": [
             "Francis Desharnais"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt37241413",
           "wikidata_id": "Q134958813",
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "jeune-public",
@@ -12830,7 +12917,7 @@
               "result": "winner"
             }
           ],
-          "key": "wd:Q134958813",
+          "key": "tt37241413",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -13882,16 +13969,16 @@
         {
           "name": "Les Oiseaux",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [],
           "people": [
             "Enedis",
             "Jean-Charles Kerninon",
             "Clément Lauricella"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt39382243",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "films-de-commande",
@@ -13899,7 +13986,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:les-oiseaux",
+          "key": "tt39382243",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -15325,14 +15412,14 @@
         {
           "name": "Happiness",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [],
           "people": [
             "2017"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt36610502",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "steve-cutts",
@@ -15340,7 +15427,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:happiness",
+          "key": "tt36610502",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -15434,15 +15521,15 @@
         {
           "name": "Magnetism",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [],
           "people": [
             "Vacationer",
             "2018"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt29627256",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "raman-djafari",
@@ -15450,7 +15537,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:magnetism",
+          "key": "tt29627256",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -15523,15 +15610,15 @@
         {
           "name": "Worms",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [],
           "people": [
             "Ashnikko",
             "2023"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt35528810",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "raman-djafari",
@@ -15539,7 +15626,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:worms",
+          "key": "tt35528810",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -15768,16 +15855,16 @@
         {
           "name": "La Gaviota",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [],
           "people": [
             "Limousine",
             "Jérôme Combe",
             "2012"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt38111468",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "jerome-combe-et-fortiche",
@@ -15785,7 +15872,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:la-gaviota",
+          "key": "tt38111468",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -16572,14 +16659,14 @@
         {
           "name": "The Dying World",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [],
           "people": [
             "Lauren Tsai"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt39183193",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "midnight-shorts",
@@ -16587,7 +16674,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-dying-world",
+          "key": "tt39183193",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -17662,14 +17749,14 @@
         {
           "name": "The Magician",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [
             "Bogdan Mureşanu"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt36272589",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-films",
@@ -17677,7 +17764,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-magician",
+          "key": "tt36272589",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -18565,16 +18652,16 @@
         {
           "name": "Arachnophobia",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "Melita Sandrin"
           ],
           "people": [
             "University of Nova Gorica"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt44932581",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "graduation-films",
@@ -18582,7 +18669,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:arachnophobia",
+          "key": "tt44932581",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -18897,7 +18984,7 @@
         {
           "name": "Football Stuff",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [
             "Alejandro Ara Alonso",
             "Matilde Chicharro Randet",
@@ -18906,9 +18993,9 @@
             "Sara García Jiménez"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt37590298",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "graduation-films",
@@ -18916,7 +19003,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:football-stuff",
+          "key": "tt37590298",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -21541,14 +21628,14 @@
         {
           "name": "Gina Kamentsky's Pinocchio in 70 mm",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [],
           "people": [
             "Gina Kamentsky"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt32264837",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selection-officielle",
@@ -21556,7 +21643,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:gina-kamentskys-pinocchio-in-70-mm",
+          "key": "tt32264837",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -22239,16 +22326,16 @@
         {
           "name": "Hey Dad",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [
             "Weifan Wang"
           ],
           "people": [
             "Wei Fan Wang"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt37403763",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "perspectives",
@@ -22256,7 +22343,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:hey-dad",
+          "key": "tt37403763",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -22529,16 +22616,16 @@
         {
           "name": "Basha",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [
             "Anirban Paul"
           ],
           "people": [
             "Paul Anirban"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt32056468",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "jeune-public",
@@ -22551,7 +22638,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:basha",
+          "key": "tt32056468",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -23523,15 +23610,15 @@
         {
           "name": "The Seed",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [],
           "people": [
             "Eeksaurus",
             "Suresh Eriyat"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt31318113",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "films-de-commande",
@@ -23539,7 +23626,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-seed",
+          "key": "tt31318113",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -23611,15 +23698,15 @@
         {
           "name": "Change the Ending",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [],
           "people": [
             "Alzheimer's Research UK",
             "Derek Picken"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt29346897",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "films-de-commande",
@@ -23627,7 +23714,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:change-the-ending",
+          "key": "tt29346897",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -23726,16 +23813,16 @@
         },
         {
           "name": "Étoile filante",
-          "original_name": null,
-          "year": null,
+          "original_name": "L'étoile filante",
+          "year": 2023,
           "director": [],
           "people": [
             "Chien Méchant",
             "Kelzang Ravach"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt21962898",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "films-de-commande",
@@ -23743,7 +23830,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:etoile-filante",
+          "key": "tt21962898",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -27149,14 +27236,14 @@
         {
           "name": "Aquatic",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [
             "Shiva Sadegh Asadi"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt32272873",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-films",
@@ -27164,7 +27251,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:aquatic",
+          "key": "tt32272873",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -27939,14 +28026,14 @@
         {
           "name": "The Change of the Wheel",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [
             "Begoña Arostegui"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt33069728",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "perspectives",
@@ -27954,7 +28041,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-change-of-the-wheel",
+          "key": "tt33069728",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -28411,14 +28498,14 @@
         {
           "name": "To Be a Seed",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [
             "Julia Granillo Tostado"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt32262787",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "graduation-films",
@@ -28426,7 +28513,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:to-be-a-seed",
+          "key": "tt32262787",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -30222,14 +30309,14 @@
         {
           "name": "Electra",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [],
           "people": [
             "Daria Kaschcheeva"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt27683631",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selection-officielle",
@@ -30237,7 +30324,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:electra",
+          "key": "tt27683631",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -30406,14 +30493,14 @@
         {
           "name": "Last Order",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [],
           "people": [
             "Jo Hang-jin"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt14857618",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selection-officielle",
@@ -30421,7 +30508,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:last-order",
+          "key": "tt14857618",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -31021,15 +31108,15 @@
         {
           "name": "Sjeti se kako sam jahala bijelog konja",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [],
           "people": [
             "Ivana Bosnjak Volda",
             "Thomas Johnson Volda"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt29521046",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "perspectives",
@@ -31037,7 +31124,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:sjeti-se-kako-sam-jahala-bijelog-konja",
+          "key": "tt29521046",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -31125,14 +31212,14 @@
         {
           "name": "Colocation sauvage",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [],
           "people": [
             "Armelle Mercat-Junot"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt21991208",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "jeune-public",
@@ -31140,7 +31227,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:colocation-sauvage",
+          "key": "tt21991208",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -32223,15 +32310,15 @@
         {
           "name": "Park Voyage",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [],
           "people": [
             "M+",
             "Yuk Ki Florence Lee"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt36812531",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "films-de-commande",
@@ -32239,7 +32326,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:park-voyage",
+          "key": "tt36812531",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -33292,15 +33379,15 @@
         {
           "name": "Snowfall",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [],
           "people": [
             "Conor Whelan",
             "2014"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt32218121",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "on-est-bien-ou-le-c-ur-nous-mene",
@@ -33308,7 +33395,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:snowfall",
+          "key": "tt32218121",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -33695,15 +33782,15 @@
         {
           "name": "Sensory Overload",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [],
           "people": [
             "Moise Ganza",
             "2021"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt32509479",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "la-difference-sinvite-au-festival-coup-de-projecteur-sur-les-troubles-du-neurodeveloppement",
@@ -33711,7 +33798,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:sensory-overload",
+          "key": "tt32509479",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -35109,14 +35196,14 @@
         {
           "name": "Deux Sœurs",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [],
           "people": [
             "Anna Budanova"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt20862272",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selection-officielle",
@@ -35124,7 +35211,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:deux-s-urs",
+          "key": "tt20862272",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -35277,14 +35364,14 @@
         {
           "name": "Lakkeh",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [],
           "people": [
             "Shiva Sadegh Asadi"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt20211866",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selection-officielle",
@@ -35292,7 +35379,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:lakkeh",
+          "key": "tt20211866",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -35888,14 +35975,14 @@
         {
           "name": "Pandaların Nesli Nasıl Tükendi?",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [],
           "people": [
             "Halim Yentür"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt36941824",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "perspectives",
@@ -35903,7 +35990,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:pandalar-n-nesli-nas-l-tukendi",
+          "key": "tt36941824",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -35954,14 +36041,14 @@
         {
           "name": "Rites of Spring",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [],
           "people": [
             "Yiorgos Tsangaris"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt27287361",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "perspectives",
@@ -35969,7 +36056,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:rites-of-spring",
+          "key": "tt27287361",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -37096,16 +37183,16 @@
         {
           "name": "Hématome",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [],
           "people": [
             "L'Impératrice",
             "Roxane Lumeret",
             "Jocelyn Charles"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt23710050",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "films-de-commande",
@@ -37113,7 +37200,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:hematome",
+          "key": "tt23710050",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -37446,14 +37533,14 @@
         {
           "name": "Déjà-vu",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [],
           "people": [
             "Dennis Stein-Schomburg"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt29213488",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "uvres-vr",
@@ -37461,7 +37548,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:deja-vu",
+          "key": "tt29213488",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -37623,15 +37710,15 @@
         {
           "name": "Night Bus",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [],
           "people": [
             "Joe Hseih",
             "2019"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt10262428",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-introducing-the-annie-awards",
@@ -37639,7 +37726,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:night-bus",
+          "key": "tt10262428",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -37933,15 +38020,15 @@
         {
           "name": "L'Animation française, cet autre cinéma",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [],
           "people": [
             "Mickaël Royer",
             "2021"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt15673504",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "annecy-classics",
@@ -37949,7 +38036,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:lanimation-francaise-cet-autre-cinema",
+          "key": "tt15673504",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -38038,16 +38125,16 @@
         },
         {
           "name": "Summer Ghost",
-          "original_name": null,
-          "year": null,
+          "original_name": "Samâ gôsuto",
+          "year": 2021,
           "director": [],
           "people": [
             "Ioundraw",
             "2021"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt15052770",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "midnight-specials",
@@ -38055,7 +38142,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:summer-ghost",
+          "key": "tt15052770",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -39084,14 +39171,14 @@
         {
           "name": "Conversations with a Whale",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [],
           "people": [
             "Anna Bergmann"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt14305706",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selection-officielle",
@@ -39099,7 +39186,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:conversations-with-a-whale",
+          "key": "tt14305706",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -39145,14 +39232,14 @@
         {
           "name": "Le Journal de Darwin",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [],
           "people": [
             "Georges Schwizgebel"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt14835400",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selection-officielle",
@@ -39160,7 +39247,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:le-journal-de-darwin",
+          "key": "tt14835400",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -39836,14 +39923,14 @@
         {
           "name": "Amayi",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [],
           "people": [
             "Subarna Das"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt16238718",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "perspectives",
@@ -39851,7 +39938,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:amayi",
+          "key": "tt16238718",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -39986,15 +40073,15 @@
         {
           "name": "La copia feliz del edén",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [],
           "people": [
             "Samuel Restucci",
             "Emilio Romero"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt34881160",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "perspectives",
@@ -40002,7 +40089,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:la-copia-feliz-del-eden",
+          "key": "tt34881160",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -40132,14 +40219,14 @@
         {
           "name": "Quarantine",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [],
           "people": [
             "Ivan Andreevski"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt12152650",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "perspectives",
@@ -40147,20 +40234,20 @@
               "result": "selected"
             }
           ],
-          "key": "t:quarantine",
+          "key": "tt12152650",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Room 5",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [],
           "people": [
             "Francis Yushau Brown"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt11524102",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "perspectives",
@@ -40168,7 +40255,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:room-5",
+          "key": "tt11524102",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -41704,16 +41791,16 @@
         {
           "name": "Why Didn't This Body Decompose?",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [],
           "people": [
             "TED-Ed",
             "Ivana Bosnjak",
             "Thomas Johnson"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt13999628",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "films-de-commande",
@@ -41721,7 +41808,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:why-didnt-this-body-decompose",
+          "key": "tt13999628",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -41814,15 +41901,15 @@
         {
           "name": "Dislokacije",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [],
           "people": [
             "Veljko",
             "Milivoj Popovic"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt27813537",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "uvres-vr",
@@ -41830,7 +41917,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:dislokacije",
+          "key": "tt27813537",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -42081,14 +42168,14 @@
         {
           "name": "Tarantino by Victor Haegelin",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [],
           "people": [
             "Victor Haegelin"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt18927212",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "wtf-2021",
@@ -42096,7 +42183,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:tarantino-by-victor-haegelin",
+          "key": "tt18927212",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -42122,14 +42209,14 @@
         {
           "name": "Merenneito purnukassa",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [],
           "people": [
             "Tomi Malkki"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt15338152",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "wtf-2021",
@@ -42137,7 +42224,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:merenneito-purnukassa",
+          "key": "tt15338152",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -42165,14 +42252,14 @@
         {
           "name": "The Dip",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [],
           "people": [
             "Simona Mehandzheiva"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt17558262",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "wtf-2021",
@@ -42180,21 +42267,21 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-dip",
+          "key": "tt17558262",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Releasing Spell",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [],
           "people": [
             "Markéta Magidová",
             "2021"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt18927702",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "wtf-2021",
@@ -42202,7 +42289,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:releasing-spell",
+          "key": "tt18927702",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -43600,14 +43687,14 @@
         {
           "name": "My Galactic Twin Galaction",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [],
           "people": [
             "Aleksandr Sasha Svirsky"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt12133126",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selection-officielle",
@@ -43615,7 +43702,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:my-galactic-twin-galaction",
+          "key": "tt12133126",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -44102,15 +44189,15 @@
         {
           "name": "Migrant",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [],
           "people": [
             "Esteban Ezequiel Dalinger",
             "César Daniel Iezzi"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt7932708",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "perspectives",
@@ -44118,7 +44205,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:migrant",
+          "key": "tt7932708",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -44745,14 +44832,14 @@
         {
           "name": "Wieczór",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [],
           "people": [
             "Marcin Gizycki"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt10116032",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "off-limits",
@@ -44760,7 +44847,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:wieczor",
+          "key": "tt10116032",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -44900,14 +44987,14 @@
         {
           "name": "Non-Non rétrécit",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [],
           "people": [
             "Wassim Boutaleb"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt11320000",
           "wikidata_id": null,
-          "type": null,
+          "type": "tvSpecial",
           "categories": [
             {
               "id": "films-de-television",
@@ -44915,7 +45002,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:non-non-retrecit",
+          "key": "tt11320000",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -45296,15 +45383,15 @@
         {
           "name": "Grace",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [],
           "people": [
             "Leukemia & Lymphoma Society",
             "Natalie Labarre"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt6163142",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "films-de-commande",
@@ -45312,7 +45399,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:grace",
+          "key": "tt6163142",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -45610,15 +45697,15 @@
         {
           "name": "Rebellion",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [],
           "people": [
             "Vow",
             "Parallel Teeth"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt11091976",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "films-de-commande",
@@ -45626,7 +45713,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:rebellion",
+          "key": "tt11091976",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -45918,15 +46005,15 @@
         {
           "name": "Farse",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [],
           "people": [
             "Robin Jensen",
             "2019"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt12478442",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "wtf2020",
@@ -45934,7 +46021,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:farse",
+          "key": "tt12478442",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -48244,15 +48331,15 @@
         },
         {
           "name": "The Juggler",
-          "original_name": null,
-          "year": null,
+          "original_name": "Zonglierius",
+          "year": 2018,
           "director": [],
           "people": [
             "Skirmanta Jakaite"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt8398762",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selection-principale",
@@ -48260,7 +48347,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-juggler",
+          "key": "tt8398762",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -48478,14 +48565,14 @@
         {
           "name": "Mustererkenntnis",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [],
           "people": [
             "Thorsten Fleisch"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt9777856",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "off-limits",
@@ -48493,7 +48580,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:mustererkenntnis",
+          "key": "tt9777856",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -48625,14 +48712,14 @@
         {
           "name": "Gorgam-o-Gale Mibaram",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [],
           "people": [
             "Amir Houshang Moein"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt10074222",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "perspectives",
@@ -48640,7 +48727,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:gorgam-o-gale-mibaram",
+          "key": "tt10074222",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -48687,14 +48774,14 @@
         {
           "name": "Mascot",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [],
           "people": [
             "Dohyung Kim"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt14046418",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "perspectives",
@@ -48702,7 +48789,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:mascot",
+          "key": "tt14046418",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -49255,14 +49342,14 @@
         {
           "name": "The Emperor's Newest Clothes",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [],
           "people": [
             "Simon Wilches-Castro"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt9042884",
           "wikidata_id": null,
-          "type": null,
+          "type": "tvMovie",
           "categories": [
             {
               "id": "films-de-television",
@@ -49270,7 +49357,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-emperors-newest-clothes",
+          "key": "tt9042884",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -51138,14 +51225,14 @@
         {
           "name": "Reruns",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [],
           "people": [
             "2018"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt7769648",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "le-grand-sommeil",
@@ -51153,7 +51240,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:reruns",
+          "key": "tt7769648",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -52095,15 +52182,15 @@
         {
           "name": "GoodLuckYonpey",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [],
           "people": [
             "Shota Shimizu",
             "2018"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt11020164",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "wtf2019",
@@ -52111,7 +52198,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:goodluckyonpey",
+          "key": "tt11020164",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -53669,14 +53756,14 @@
         {
           "name": "Sellők és Rinocéroszok",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [],
           "people": [
             "Viktória Traub"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt7947134",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selection-principale",
@@ -53684,7 +53771,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:sellok-es-rinoceroszok",
+          "key": "tt7947134",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -53792,14 +53879,14 @@
         {
           "name": "Telefonul",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [],
           "people": [
             "Anca Damian"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt8478236",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selection-principale",
@@ -53807,7 +53894,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:telefonul",
+          "key": "tt8478236",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -53898,14 +53985,14 @@
         {
           "name": "Jaune",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [],
           "people": [
             "Ivana Šebestová"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt7724688",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selection-principale",
@@ -53913,7 +54000,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:jaune",
+          "key": "tt7724688",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -54362,15 +54449,15 @@
         {
           "name": "Neputovanja",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [],
           "people": [
             "Ana Nedeljkovic",
             "Nikola Majdak"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt8574350",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "perspectives",
@@ -54378,7 +54465,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:neputovanja",
+          "key": "tt8574350",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -55111,15 +55198,15 @@
         {
           "name": "The Supporting Act",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [],
           "people": [
             "BBC One",
             "Elliot Dear"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt7743592",
           "wikidata_id": null,
-          "type": null,
+          "type": "video",
           "categories": [
             {
               "id": "films-de-commande",
@@ -55127,7 +55214,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-supporting-act",
+          "key": "tt7743592",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -55200,15 +55287,15 @@
         {
           "name": "Sunshine",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [],
           "people": [
             "Day One",
             "Guilherme Marcondes"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt9480674",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "films-de-commande",
@@ -55216,7 +55303,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:sunshine",
+          "key": "tt9480674",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -56354,15 +56441,15 @@
         {
           "name": "Utopia",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [],
           "people": [
             "Jacques Rouxel",
             "1994"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt9174008",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "lanimation-au-cinema-des-armees",
@@ -56370,7 +56457,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:utopia",
+          "key": "tt9174008",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -56458,15 +56545,15 @@
         {
           "name": "Impromptu",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [],
           "people": [
             "Maria Lorenzo Hernandez",
             "2017"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt27626121",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "classique",
@@ -56474,21 +56561,21 @@
               "result": "selected"
             }
           ],
-          "key": "t:impromptu",
+          "key": "tt27626121",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Parade\" de Satie",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [
             "Koji Yamamura",
             "2016"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt5755446",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "classique",
@@ -56496,7 +56583,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:parade-de-satie",
+          "key": "tt5755446",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -57139,16 +57226,16 @@
         {
           "name": "Invasion",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [],
           "people": [
             "Hugo Ramirez",
             "Olivier Patté",
             "2014"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt6215368",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "pop-rock",
@@ -57156,7 +57243,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:invasion",
+          "key": "tt6215368",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -57187,15 +57274,15 @@
         {
           "name": "No Place Like Home",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [],
           "people": [
             "Rosto",
             "2008"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt7302090",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "tetralogie-de-rosto",
@@ -57203,7 +57290,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:no-place-like-home",
+          "key": "tt7302090",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -57250,14 +57337,14 @@
         {
           "name": "Reruns",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [],
           "people": [
             "2018"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt7769648",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "tetralogie-de-rosto",
@@ -57265,7 +57352,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:reruns",
+          "key": "tt7769648",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -58727,14 +58814,14 @@
         {
           "name": "1917 - Der Wahre Oktober",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [],
           "people": [
             "Katrin Rothe"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt6489962",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "hors-competition",
@@ -58742,7 +58829,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:1917-der-wahre-oktober",
+          "key": "tt6489962",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -59157,14 +59244,14 @@
         {
           "name": "Black Barbie",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [
             "Arthur Comfort"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt12426780",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "en-competition",
@@ -59172,7 +59259,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:black-barbie",
+          "key": "tt12426780",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -59644,14 +59731,14 @@
         {
           "name": "It Is My Fault",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [
             "Liu Sha"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt6097654",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "en-competition",
@@ -59659,7 +59746,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:it-is-my-fault",
+          "key": "tt6097654",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -60630,14 +60717,14 @@
         {
           "name": "Tühi ruum",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [
             "Ülo Pikkov"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt10137024",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "en-competition",
@@ -60645,7 +60732,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:tuhi-ruum",
+          "key": "tt10137024",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -61016,15 +61103,15 @@
         {
           "name": "Le Vent dans les roseaux",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [],
           "people": [
             "Nicolas Liguori",
             "Arnaud Demuynck"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt10108068",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "films-de-television",
@@ -61032,7 +61119,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:le-vent-dans-les-roseaux",
+          "key": "tt10108068",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -61650,16 +61737,16 @@
         {
           "name": "Perfect World",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [],
           "people": [
             "Katie Melua",
             "Saul Freed",
             "Karni Arieli"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt4023328",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "films-de-commande",
@@ -61667,7 +61754,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:perfect-world",
+          "key": "tt4023328",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -62106,15 +62193,15 @@
         {
           "name": "Chainsaw",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [],
           "people": [
             "Dennis Tupicoff",
             "2007"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt5106418",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "gl-amour",
@@ -62122,7 +62209,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:chainsaw",
+          "key": "tt5106418",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -63539,15 +63626,15 @@
         {
           "name": "Blind",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [
             "Lu Chen",
             "2014"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt1935089",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "chine-nouvelle-generation-1",
@@ -63555,7 +63642,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:blind",
+          "key": "tt1935089",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -64884,14 +64971,14 @@
         {
           "name": "La Chasse",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [],
           "people": [
             "1979"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt6089078",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "le-grand-sommeil",
@@ -64899,7 +64986,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:la-chasse",
+          "key": "tt6089078",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -65868,15 +65955,15 @@
         {
           "name": "Allô, c'est ta mère",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [
             "Daniel Sterlin-Altman",
             "2016"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt16286904",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "wtf-programme",
@@ -65884,7 +65971,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:allo-cest-ta-mere",
+          "key": "tt16286904",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -66778,14 +66865,14 @@
         {
           "name": "Parade » de Satie",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [
             "Koji Yamamura"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt5755446",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "en-competition",
@@ -66793,7 +66880,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:parade-de-satie",
+          "key": "tt5755446",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -67118,14 +67205,14 @@
         {
           "name": "Gaidot Jauno gadu",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [
             "Vladimir Leschiov"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt5481076",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "en-competition",
@@ -67133,20 +67220,20 @@
               "result": "selected"
             }
           ],
-          "key": "t:gaidot-jauno-gadu",
+          "key": "tt5481076",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Ginny",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [
             "Jirkuff Susi"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt6789116",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "en-competition",
@@ -67154,7 +67241,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:ginny",
+          "key": "tt6789116",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -67417,14 +67504,14 @@
         {
           "name": "Nœvus",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [
             "Samuel Yal"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt6920892",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "en-competition",
@@ -67432,7 +67519,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:n-vus",
+          "key": "tt6920892",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -67970,14 +68057,14 @@
         {
           "name": "Branded Dreams",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [
             "Studio Smack"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt6069796",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "hors-competition",
@@ -67985,7 +68072,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:branded-dreams",
+          "key": "tt6069796",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -68134,14 +68221,14 @@
         {
           "name": "Mr Blue Footed Booby",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [
             "Gino Baldeon"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt6040154",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "hors-competition",
@@ -68149,7 +68236,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:mr-blue-footed-booby",
+          "key": "tt6040154",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -68176,14 +68263,14 @@
         {
           "name": "No-Go Zone",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [
             "L'Atelier collectif"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt8159898",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "hors-competition",
@@ -68191,7 +68278,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:no-go-zone",
+          "key": "tt8159898",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -69196,14 +69283,14 @@
         {
           "name": "Eight",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [
             "Mehdi Alibeygi"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt38865057",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "films-de-commande",
@@ -69211,7 +69298,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:eight",
+          "key": "tt38865057",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -69456,15 +69543,15 @@
         {
           "name": "Narcose",
           "original_name": null,
-          "year": null,
+          "year": 2013,
           "director": [],
           "people": [
             "Meteor",
             "Martin Sek"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt3472900",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "films-de-commande",
@@ -69472,7 +69559,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:narcose",
+          "key": "tt3472900",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -69675,15 +69762,15 @@
         {
           "name": "Animals",
           "original_name": null,
-          "year": null,
+          "year": 2014,
           "director": [],
           "people": [
             "Slack",
             "Smith & Foulkes"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt3297554",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "films-de-commande",
@@ -69691,7 +69778,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:animals",
+          "key": "tt3297554",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -71416,15 +71503,15 @@
         {
           "name": "Rêve d'enfant",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [],
           "people": [
             "Christophe Gérard",
             "2015"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt5134790",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "animation-francaise-leffet-miroir",
@@ -71432,7 +71519,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:reve-denfant",
+          "key": "tt5134790",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -71675,15 +71762,15 @@
         {
           "name": "Crack",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [],
           "people": [
             "Ahn Yong-hae",
             "2014"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt4424356",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "les-classiques-des-classiques",
@@ -71691,7 +71778,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:crack",
+          "key": "tt4424356",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -71717,15 +71804,15 @@
         {
           "name": "Deer Flower",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [
             "Kim Kangmin",
             "2015"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt5134912",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "les-classiques-des-classiques",
@@ -71733,7 +71820,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:deer-flower",
+          "key": "tt5134912",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -72323,14 +72410,14 @@
         {
           "name": "Alateadvuse maja",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [],
           "people": [
             "Priit Tender"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt31567133",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "en-competition",
@@ -72338,7 +72425,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:alateadvuse-maja",
+          "key": "tt31567133",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -73178,14 +73265,14 @@
         {
           "name": "The Night of the Naporitan",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [
             "Yusuke Sakamoto"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt5923182",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "en-competition",
@@ -73193,7 +73280,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-night-of-the-naporitan",
+          "key": "tt5923182",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -74693,15 +74780,15 @@
         {
           "name": "Trailer",
           "original_name": null,
-          "year": null,
+          "year": 2014,
           "director": [],
           "people": [
             "MadSkills Motocross 2",
             "Marc-Antoine Deleplanque"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt4417012",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "films-de-commande",
@@ -74709,7 +74796,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:trailer",
+          "key": "tt4417012",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -76160,14 +76247,14 @@
         {
           "name": "Gli immacolati",
           "original_name": null,
-          "year": null,
+          "year": 2014,
           "director": [],
           "people": [
             "Benoît Estrade"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt3246862",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "en-competition",
@@ -76175,7 +76262,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:gli-immacolati",
+          "key": "tt3246862",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -76312,14 +76399,14 @@
         {
           "name": "Hotzanak, for Your Own Safety",
           "original_name": null,
-          "year": null,
+          "year": 2014,
           "director": [],
           "people": [
             "Isibene Onederr"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt3288040",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "en-competition",
@@ -76327,21 +76414,21 @@
               "result": "selected"
             }
           ],
-          "key": "t:hotzanak-for-your-own-safety",
+          "key": "tt3288040",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Invasion",
           "original_name": null,
-          "year": null,
+          "year": 2014,
           "director": [],
           "people": [
             "Hugo Ramirez",
             "Olivier Patté"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt3635712",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "en-competition",
@@ -76349,7 +76436,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:invasion",
+          "key": "tt3635712",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -77289,14 +77376,14 @@
         {
           "name": "Laznia",
           "original_name": null,
-          "year": null,
+          "year": 2013,
           "director": [],
           "people": [
             "Ducki Tomek"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt3202012",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "hors-competition",
@@ -77304,7 +77391,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:laznia",
+          "key": "tt3202012",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -77497,14 +77584,14 @@
         {
           "name": "Rob 'n Ron",
           "original_name": null,
-          "year": null,
+          "year": 2013,
           "director": [],
           "people": [
             "Magnus Moller"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt2932516",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "hors-competition",
@@ -77512,7 +77599,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:rob-n-ron",
+          "key": "tt2932516",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -77830,14 +77917,14 @@
         {
           "name": "Doctor Lollipop",
           "original_name": null,
-          "year": null,
+          "year": 2013,
           "director": [],
           "people": [
             "Aliki Grafft"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt2782742",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "films-de-television",
@@ -77845,7 +77932,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:doctor-lollipop",
+          "key": "tt2782742",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -78195,14 +78282,14 @@
         {
           "name": "Disco Toccata",
           "original_name": null,
-          "year": null,
+          "year": 2013,
           "director": [],
           "people": [
             "Grégoire Pont"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt3051924",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "films-de-commande",
@@ -78215,7 +78302,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:disco-toccata",
+          "key": "tt3051924",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -79871,15 +79958,15 @@
         },
         {
           "name": "La noria",
-          "original_name": null,
-          "year": null,
+          "original_name": "La Noria",
+          "year": 2012,
           "director": [],
           "people": [
             "2012"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt2349723",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mexique-la-danse-des-morts",
@@ -79887,20 +79974,20 @@
               "result": "selected"
             }
           ],
-          "key": "t:la-noria",
+          "key": "tt2349723",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Lluvia en los ojos",
           "original_name": null,
-          "year": null,
+          "year": 2013,
           "director": [],
           "people": [
             "2012"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt3181734",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mexique-la-danse-des-morts",
@@ -79908,7 +79995,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:lluvia-en-los-ojos",
+          "key": "tt3181734",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -80183,14 +80270,14 @@
         {
           "name": "Princesse",
           "original_name": null,
-          "year": null,
+          "year": 2014,
           "director": [],
           "people": [
             "2010"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt4114706",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "canada-les-visiteurs-du-soir",
@@ -80198,7 +80285,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:princesse",
+          "key": "tt4114706",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -81658,15 +81745,15 @@
         },
         {
           "name": "Oripeaux",
-          "original_name": null,
-          "year": null,
+          "original_name": "Oripeaux",
+          "year": 2014,
           "director": [],
           "people": [
             "2014"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt3622102",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "dansez-maintenant",
@@ -81674,7 +81761,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:oripeaux",
+          "key": "tt3622102",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -82422,14 +82509,14 @@
         {
           "name": "Dji. Death Fails",
           "original_name": null,
-          "year": null,
+          "year": 2012,
           "director": [],
           "people": [
             "Dimitri Volosin"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt2569366",
           "wikidata_id": null,
-          "type": null,
+          "type": "video",
           "categories": [
             {
               "id": "courts-metrages",
@@ -82437,7 +82524,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:dji-death-fails",
+          "key": "tt2569366",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -82617,15 +82704,15 @@
         },
         {
           "name": "Kalté",
-          "original_name": null,
-          "year": null,
+          "original_name": "Kalté",
+          "year": 2013,
           "director": [],
           "people": [
             "Reda Bartkute"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt2915298",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "courts-metrages",
@@ -82633,7 +82720,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:kalte",
+          "key": "tt2915298",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -82960,14 +83047,14 @@
         {
           "name": "Not Over",
           "original_name": null,
-          "year": null,
+          "year": 2012,
           "director": [],
           "people": [
             "Hayai Toru"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt3044390",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "courts-metrages",
@@ -82975,7 +83062,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:not-over",
+          "key": "tt3044390",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -83374,15 +83461,15 @@
         },
         {
           "name": "Comme des lapins",
-          "original_name": null,
-          "year": null,
+          "original_name": "Comme des lapins (Chroniques de la poisse, chap.2)",
+          "year": 2013,
           "director": [],
           "people": [
             "Osman Cerfon"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt2917288",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "hors-competition",
@@ -83390,7 +83477,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:comme-des-lapins",
+          "key": "tt2917288",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -83664,14 +83751,14 @@
         {
           "name": "N'Djekoh",
           "original_name": null,
-          "year": null,
+          "year": 2013,
           "director": [],
           "people": [
             "Grégory Sukiennik"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt2597860",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "hors-competition",
@@ -83679,7 +83766,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:ndjekoh",
+          "key": "tt2597860",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -84093,12 +84180,12 @@
         {
           "name": "Equestrian",
           "original_name": null,
-          "year": null,
+          "year": 2003,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0382673",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "dispositifs",
@@ -84106,7 +84193,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:equestrian",
+          "key": "tt0382673",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -84153,15 +84240,15 @@
         },
         {
           "name": "Portrait",
-          "original_name": null,
-          "year": null,
+          "original_name": "Portret",
+          "year": 2011,
           "director": [],
           "people": [
             "Stanislaw Lenartowicz"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt13535506",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "dispositifs",
@@ -84169,7 +84256,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:portrait",
+          "key": "tt13535506",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -84446,15 +84533,15 @@
         {
           "name": "Phantom",
           "original_name": null,
-          "year": null,
+          "year": 2013,
           "director": [],
           "people": [
             "René Perraudin",
             "Uwe Schrader"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt1922685",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "photo-synthese",
@@ -84462,7 +84549,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:phantom",
+          "key": "tt1922685",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -86349,16 +86436,16 @@
         {
           "name": "Let's Go!",
           "original_name": null,
-          "year": null,
+          "year": 2011,
           "director": [],
           "people": [
             "Stuck in the Sound",
             "Alexis Beaumont",
             "Rémi Godin"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt2072155",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "chanson",
@@ -86366,7 +86453,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:lets-go",
+          "key": "tt2072155",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -87306,14 +87393,14 @@
         {
           "name": "La Fenêtre",
           "original_name": null,
-          "year": null,
+          "year": 2012,
           "director": [],
           "people": [
             "1998"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt2559296",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "le-grand-sommeil",
@@ -87321,7 +87408,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:la-fenetre",
+          "key": "tt2559296",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -87471,14 +87558,14 @@
         {
           "name": "The Flying Machine",
           "original_name": null,
-          "year": null,
+          "year": 2010,
           "director": [],
           "people": [
             "2011"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt1537314",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "projections-en-plein-air",
@@ -87486,7 +87573,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-flying-machine",
+          "key": "tt1537314",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -87661,12 +87748,12 @@
         {
           "name": "7596 Frames",
           "original_name": null,
-          "year": null,
+          "year": 2012,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2557740",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "courts-metrages",
@@ -87674,7 +87761,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:7596-frames",
+          "key": "tt2557740",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -87905,14 +87992,14 @@
         {
           "name": "Fresh Guacamole",
           "original_name": null,
-          "year": null,
+          "year": 2012,
           "director": [],
           "people": [
             "Adam Pesapane"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt2309977",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "courts-metrages",
@@ -87920,7 +88007,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:fresh-guacamole",
+          "key": "tt2309977",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -89261,14 +89348,14 @@
         {
           "name": "Ohtlik rändetee",
           "original_name": null,
-          "year": null,
+          "year": 2011,
           "director": [],
           "people": [
             "Christin Peets"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt16245114",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "films-educatifs-scientifiques-ou-dentreprise",
@@ -89276,7 +89363,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:ohtlik-randetee",
+          "key": "tt16245114",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -90209,14 +90296,14 @@
         {
           "name": "Clean Carousel",
           "original_name": null,
-          "year": null,
+          "year": 2010,
           "director": [],
           "people": [
             "Andreas Bodker"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt1605678",
           "wikidata_id": null,
-          "type": null,
+          "type": "video",
           "categories": [
             {
               "id": "courts-metrages",
@@ -90224,7 +90311,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:clean-carousel",
+          "key": "tt1605678",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -91938,17 +92025,17 @@
         },
         {
           "name": "A Better World",
-          "original_name": null,
-          "year": null,
+          "original_name": "Hævnen",
+          "year": 2010,
           "director": [],
           "people": [
             "Nike",
             "Tom Brown",
             "Daniel Gray"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt1340107",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "films-publicitaires",
@@ -91956,7 +92043,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-better-world",
+          "key": "tt1340107",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -92698,12 +92785,12 @@
         {
           "name": "Crash Bang Wallow",
           "original_name": null,
-          "year": null,
+          "year": 2010,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2501100",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "en-competition",
@@ -92711,7 +92798,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:crash-bang-wallow",
+          "key": "tt2501100",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -92762,12 +92849,12 @@
         {
           "name": "Fløjteløs",
           "original_name": null,
-          "year": null,
+          "year": 2010,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1672753",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "en-competition",
@@ -92775,18 +92862,18 @@
               "result": "selected"
             }
           ],
-          "key": "t:fl-jtel-s",
+          "key": "tt1672753",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Fröken märkvärdig & karriären",
-          "original_name": null,
-          "year": null,
+          "original_name": "Fröken Märkvärdig & karriären",
+          "year": 2010,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1763257",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "en-competition",
@@ -92794,7 +92881,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:froken-markvardig-karriaren",
+          "key": "tt1763257",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -92904,12 +92991,12 @@
         {
           "name": "La Femme-squelette",
           "original_name": null,
-          "year": null,
+          "year": 2009,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1567362",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "en-competition",
@@ -92917,18 +93004,18 @@
               "result": "selected"
             }
           ],
-          "key": "t:la-femme-squelette",
+          "key": "tt1567362",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Le Silence sous l'écorce",
-          "original_name": null,
-          "year": null,
+          "original_name": "Le silence sous l'écorce",
+          "year": 2010,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1714674",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "en-competition",
@@ -92936,7 +93023,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:le-silence-sous-lecorce",
+          "key": "tt1714674",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -92987,12 +93074,12 @@
         {
           "name": "Let's Pollute",
           "original_name": null,
-          "year": null,
+          "year": 2009,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1470652",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "en-competition",
@@ -93000,18 +93087,18 @@
               "result": "selected"
             }
           ],
-          "key": "t:lets-pollute",
+          "key": "tt1470652",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Light Forms",
           "original_name": null,
-          "year": null,
+          "year": 2010,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3143118",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "en-competition",
@@ -93019,7 +93106,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:light-forms",
+          "key": "tt3143118",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -93073,12 +93160,12 @@
         {
           "name": "Love patate",
           "original_name": null,
-          "year": null,
+          "year": 2010,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1661065",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "en-competition",
@@ -93086,18 +93173,18 @@
               "result": "selected"
             }
           ],
-          "key": "t:love-patate",
+          "key": "tt1661065",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Mémoire fossile",
           "original_name": null,
-          "year": null,
+          "year": 2009,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1660631",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "en-competition",
@@ -93105,7 +93192,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:memoire-fossile",
+          "key": "tt1660631",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -93130,12 +93217,12 @@
         {
           "name": "Monstre sacré",
           "original_name": null,
-          "year": null,
+          "year": 2010,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1714687",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "en-competition",
@@ -93143,18 +93230,18 @@
               "result": "selected"
             }
           ],
-          "key": "t:monstre-sacre",
+          "key": "tt1714687",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Nespavanje ne ubija",
-          "original_name": null,
-          "year": null,
+          "original_name": "Nespavanje ne ubija",
+          "year": 2010,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2064878",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "en-competition",
@@ -93162,18 +93249,18 @@
               "result": "selected"
             }
           ],
-          "key": "t:nespavanje-ne-ubija",
+          "key": "tt2064878",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Old Fangs",
           "original_name": null,
-          "year": null,
+          "year": 2009,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1693816",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "en-competition",
@@ -93181,7 +93268,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:old-fangs",
+          "key": "tt1693816",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -93206,12 +93293,12 @@
         {
           "name": "Poppy",
           "original_name": null,
-          "year": null,
+          "year": 2009,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1458968",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "en-competition",
@@ -93219,7 +93306,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:poppy",
+          "key": "tt1458968",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -93332,12 +93419,12 @@
         {
           "name": "Teclópolis",
           "original_name": null,
-          "year": null,
+          "year": 2009,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1623151",
           "wikidata_id": null,
-          "type": null,
+          "type": "video",
           "categories": [
             {
               "id": "en-competition",
@@ -93345,18 +93432,18 @@
               "result": "selected"
             }
           ],
-          "key": "t:teclopolis",
+          "key": "tt1623151",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "The Art of Drowning",
           "original_name": null,
-          "year": null,
+          "year": 2009,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1464588",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "en-competition",
@@ -93364,18 +93451,18 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-art-of-drowning",
+          "key": "tt1464588",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "The Cow Who Wanted to Be a Hamburger",
           "original_name": null,
-          "year": null,
+          "year": 2010,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1625161",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "en-competition",
@@ -93383,7 +93470,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-cow-who-wanted-to-be-a-hamburger",
+          "key": "tt1625161",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -94802,14 +94889,14 @@
         {
           "name": "Sour \"Hibi No Neiro",
           "original_name": null,
-          "year": null,
+          "year": 2009,
           "director": [],
           "people": [
             "Prix du meilleur vidéoclip"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt3142774",
           "wikidata_id": null,
-          "type": null,
+          "type": "video",
           "categories": [
             {
               "id": "premio-films-de-commande",
@@ -94817,7 +94904,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:sour-hibi-no-neiro",
+          "key": "tt3142774",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -94844,14 +94931,14 @@
         {
           "name": "Kungfu Bunny 3 - Counterattack",
           "original_name": null,
-          "year": null,
+          "year": 2009,
           "director": [],
           "people": [
             "Prix du jury junior pour un film de fin d'étude"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt3142892",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-films-de-fin-detudes",
@@ -94859,20 +94946,20 @@
               "result": "winner"
             }
           ],
-          "key": "t:kungfu-bunny-3-counterattack",
+          "key": "tt3142892",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Lebensader",
           "original_name": null,
-          "year": null,
+          "year": 2009,
           "director": [],
           "people": [
             "Mention spéciale"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt1542915",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-films-de-fin-detudes",
@@ -94880,20 +94967,20 @@
               "result": "winner"
             }
           ],
-          "key": "t:lebensader",
+          "key": "tt1542915",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Sauvage",
           "original_name": null,
-          "year": null,
+          "year": 2010,
           "director": [],
           "people": [
             "Prix spécial du jury"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt1756719",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-films-de-fin-detudes",
@@ -94901,20 +94988,20 @@
               "result": "winner"
             }
           ],
-          "key": "t:sauvage",
+          "key": "tt1756719",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "The Lighthouse Keeper",
           "original_name": null,
-          "year": null,
+          "year": 2009,
           "director": [],
           "people": [
             "Prix du meilleur film de fin d'étude"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt3039094",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-films-de-fin-detudes",
@@ -94922,7 +95009,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:the-lighthouse-keeper",
+          "key": "tt3039094",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {

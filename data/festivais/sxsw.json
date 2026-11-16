@@ -2,7 +2,7 @@
   "id": "sxsw",
   "label": "SXSW",
   "kind": "festival",
-  "updated_at": "2026-11-01T09:23:28.323Z",
+  "updated_at": "2026-11-16T10:52:36.918Z",
   "editions": [
     {
       "year": 2026,
@@ -1068,7 +1068,7 @@
             "Alyse Walsh"
           ],
           "imdb_id": "tt39827932",
-          "wikidata_id": null,
+          "wikidata_id": "Q141921140",
           "type": "movie",
           "categories": [
             {
@@ -1184,16 +1184,16 @@
         {
           "name": "The Dads",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "Luchina Fisher"
           ],
           "people": [
             "Luchina Fisher"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt39655938",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "documentary-spotlight",
@@ -1201,7 +1201,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-dads",
+          "key": "tt39655938",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -2526,14 +2526,14 @@
         {
           "name": "Gamberra",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "Marine Auclair March"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt39370117",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "narrative-short-competition",
@@ -2541,7 +2541,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:gamberra",
+          "key": "tt39370117",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -3132,14 +3132,14 @@
         {
           "name": "Praying Mantis",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [
             "Joe Hsieh"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt37673263",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "animated-short-competition",
@@ -3147,7 +3147,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:praying-mantis",
+          "key": "tt37673263",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -3520,14 +3520,14 @@
         {
           "name": "Woodstockers",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [],
           "people": [
             "Corbin Bernsen"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt35629741",
           "wikidata_id": null,
-          "type": null,
+          "type": "tvMovie",
           "categories": [
             {
               "id": "tv-spotlight",
@@ -3535,7 +3535,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:woodstockers",
+          "key": "tt35629741",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -3561,12 +3561,12 @@
         {
           "name": "Birth is For P*ssies",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt39369952",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "independent-tv-competition",
@@ -3574,7 +3574,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:birth-is-for-p-ssies",
+          "key": "tt39369952",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -3639,12 +3639,12 @@
         {
           "name": "Son of a Bikram",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt37359393",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "independent-tv-competition",
@@ -3652,7 +3652,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:son-of-a-bikram",
+          "key": "tt37359393",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -6886,15 +6886,15 @@
         {
           "name": "Lurk",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [
             "Mairin Hart",
             "Josh Wallace Kerrigan"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt35563008",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "midnight-short-competition",
@@ -6902,7 +6902,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:lurk",
+          "key": "tt35563008",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -7224,12 +7224,12 @@
         {
           "name": "Cigarettes",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt30496036",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "independent-tv-competition",
@@ -7237,7 +7237,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:cigarettes",
+          "key": "tt30496036",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -7262,12 +7262,12 @@
         {
           "name": "F-ckUps Anonymous",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt35523381",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "independent-tv-competition",
@@ -7275,7 +7275,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:f-ckups-anonymous",
+          "key": "tt35523381",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -7319,12 +7319,12 @@
         {
           "name": "Stars Diner",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt35524198",
           "wikidata_id": null,
-          "type": null,
+          "type": "tvMovie",
           "categories": [
             {
               "id": "independent-tv-competition",
@@ -7332,7 +7332,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:stars-diner",
+          "key": "tt35524198",
           "first_seen": "2026-09-28T11:26:30.375Z"
         }
       ]
@@ -10523,14 +10523,14 @@
         {
           "name": "La Perra",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [
             "Carla Melo Gampert"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt27770907",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "animated-short-competition",
@@ -10538,7 +10538,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:la-perra",
+          "key": "tt27770907",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -13702,12 +13702,12 @@
         {
           "name": "A Guide to Not Dying Completely Alone",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt26156728",
           "wikidata_id": null,
-          "type": null,
+          "type": "tvShort",
           "categories": [
             {
               "id": "independent-tv-pilot-competition",
@@ -13715,7 +13715,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-guide-to-not-dying-completely-alone",
+          "key": "tt26156728",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -13760,12 +13760,12 @@
         {
           "name": "Harbor Island",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt26163852",
           "wikidata_id": null,
-          "type": null,
+          "type": "tvMovie",
           "categories": [
             {
               "id": "independent-tv-pilot-competition",
@@ -13773,7 +13773,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:harbor-island",
+          "key": "tt26163852",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -14641,14 +14641,14 @@
         {
           "name": "Sandwich Cat",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [
             "David Fidalgo"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt26219586",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "animated-shorts-competition",
@@ -14661,7 +14661,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:sandwich-cat",
+          "key": "tt26219586",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -14687,14 +14687,14 @@
         {
           "name": "Sprout",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [
             "Zora Kovac"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt26219808",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "animated-shorts-competition",
@@ -14702,21 +14702,21 @@
               "result": "selected"
             }
           ],
-          "key": "t:sprout",
+          "key": "tt26219808",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "A Tiny Man",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [
             "Aude David",
             "Mikaël Gaudin"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt9445960",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "animated-shorts-competition",
@@ -14724,7 +14724,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-tiny-man",
+          "key": "tt9445960",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -17240,12 +17240,12 @@
         {
           "name": "Awayy",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt15597634",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "episodic-pilot-competition",
@@ -17253,7 +17253,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:awayy",
+          "key": "tt15597634",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -17363,12 +17363,12 @@
         {
           "name": "Aspirational Slut",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt17519948",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-narrative-shorts-competition",
@@ -17376,18 +17376,18 @@
               "result": "winner"
             }
           ],
-          "key": "t:aspirational-slut",
+          "key": "tt17519948",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "The Sentence of Michael Thompson",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt17680038",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-documentary-shorts-competition",
@@ -17395,18 +17395,18 @@
               "result": "winner"
             }
           ],
-          "key": "t:the-sentence-of-michael-thompson",
+          "key": "tt17680038",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Five Cents",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt18547012",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-animated-shorts-competition",
@@ -17414,18 +17414,18 @@
               "result": "winner"
             }
           ],
-          "key": "t:five-cents",
+          "key": "tt18547012",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Tank Fairy",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt15393466",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-midnight-shorts-competition",
@@ -17433,7 +17433,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:tank-fairy",
+          "key": "tt15393466",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -17458,12 +17458,12 @@
         {
           "name": "The Voice Actress",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt17158478",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-mailchimp-support-the-shorts-award",
@@ -17471,7 +17471,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:the-voice-actress",
+          "key": "tt17158478",
           "first_seen": "2026-09-28T11:26:30.375Z"
         }
       ]

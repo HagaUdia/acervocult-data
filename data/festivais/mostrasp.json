@@ -2,7 +2,7 @@
   "id": "mostrasp",
   "label": "Mostra Internacional de Cinema de São Paulo",
   "kind": "festival",
-  "updated_at": "2026-11-01T09:23:28.323Z",
+  "updated_at": "2026-11-16T10:52:36.918Z",
   "editions": [
     {
       "year": 2026,
@@ -384,14 +384,14 @@
         {
           "name": "A Escuta",
           "original_name": "Thính Giác",
-          "year": null,
+          "year": 2026,
           "director": [
             "Lê Bảo"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt38857159",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -399,7 +399,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-escuta",
+          "key": "tt38857159",
           "first_seen": "2026-10-13T23:32:31.960Z"
         },
         {
@@ -546,14 +546,14 @@
         {
           "name": "A Marca do Jaguar - O Despertar do Fogo",
           "original_name": "La Marca del Jaguar - El Despertar del Fuego",
-          "year": null,
+          "year": 2026,
           "director": [
             "Victor Mayorga"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt21107832",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -561,7 +561,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-marca-do-jaguar-o-despertar-do-fogo",
+          "key": "tt21107832",
           "first_seen": "2026-10-13T23:32:31.960Z"
         },
         {
@@ -628,14 +628,14 @@
         {
           "name": "A Noite e os Dias de Miguel Burnier",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "João Dumans"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt41813966",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -643,7 +643,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-noite-e-os-dias-de-miguel-burnier",
+          "key": "tt41813966",
           "first_seen": "2026-10-13T23:32:31.960Z"
         },
         {
@@ -690,14 +690,14 @@
         {
           "name": "A Prisioneira",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "Francisco Ramalho Jr"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt32634571",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -705,7 +705,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-prisioneira",
+          "key": "tt32634571",
           "first_seen": "2026-10-13T23:32:31.960Z"
         },
         {
@@ -1100,16 +1100,16 @@
         {
           "name": "Alucinação",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "Leo Caetano",
             "Renato Terra",
             "Marcos Caetano"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt51057542",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -1117,7 +1117,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:alucinacao",
+          "key": "tt51057542",
           "first_seen": "2026-10-13T23:32:31.960Z"
         },
         {
@@ -1285,14 +1285,14 @@
         {
           "name": "Aqueles que Assobiam no Escuro",
           "original_name": "Karanlıkta Islık Çalanlar",
-          "year": null,
+          "year": 2025,
           "director": [
             "Pınar Yorgancıoğlu"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt38941846",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -1300,7 +1300,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:aqueles-que-assobiam-no-escuro",
+          "key": "tt38941846",
           "first_seen": "2026-10-13T23:32:31.960Z"
         },
         {
@@ -1691,14 +1691,14 @@
         {
           "name": "Blocos Erráticos",
           "original_name": "Bloques Erráticos",
-          "year": null,
+          "year": 2026,
           "director": [
             "Thomas Woodroffe"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt43725589",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -1706,7 +1706,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:blocos-erraticos",
+          "key": "tt43725589",
           "first_seen": "2026-10-13T23:32:31.960Z"
         },
         {
@@ -2182,15 +2182,15 @@
         {
           "name": "Cinco Anos, Quatro Meses",
           "original_name": "Cinco Años, Cuatro Meses",
-          "year": null,
+          "year": 2026,
           "director": [
             "Esteban Hoyos García",
             "Juan Miguel Gelacio"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt43636173",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -2198,7 +2198,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:cinco-anos-quatro-meses",
+          "key": "tt43636173",
           "first_seen": "2026-10-13T23:32:31.960Z"
         },
         {
@@ -2225,14 +2225,14 @@
         {
           "name": "Clarice Vê Estrelas",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "Letícia Pires"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt32615472",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -2240,7 +2240,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:clarice-ve-estrelas",
+          "key": "tt32615472",
           "first_seen": "2026-10-13T23:32:31.960Z"
         },
         {
@@ -2454,14 +2454,14 @@
         {
           "name": "Crônicas do Cerco",
           "original_name": "Chronicles from the Siege",
-          "year": null,
+          "year": 2026,
           "director": [
             "Abdallah Alkhatib"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt34734549",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -2469,7 +2469,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:cronicas-do-cerco",
+          "key": "tt34734549",
           "first_seen": "2026-10-13T23:32:31.960Z"
         },
         {
@@ -4123,14 +4123,14 @@
         {
           "name": "Look Back",
           "original_name": "Rukku Bakku",
-          "year": null,
+          "year": 2026,
           "director": [
             "Hirokazu Kore-eda"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt39094466",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -4138,7 +4138,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:look-back",
+          "key": "tt39094466",
           "first_seen": "2026-10-13T23:32:31.960Z"
         },
         {
@@ -4247,14 +4247,14 @@
         {
           "name": "Marcha das Onças",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "Lawrence Wahba"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt37042061",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -4262,7 +4262,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:marcha-das-oncas",
+          "key": "tt37042061",
           "first_seen": "2026-10-13T23:32:31.960Z"
         },
         {
@@ -4873,14 +4873,14 @@
         {
           "name": "Neste Quarto",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "Ana Rocha de Sousa"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt49405641",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -4888,20 +4888,20 @@
               "result": "selected"
             }
           ],
-          "key": "t:neste-quarto",
+          "key": "tt49405641",
           "first_seen": "2026-10-13T23:32:31.960Z"
         },
         {
           "name": "Ney por Trás das Máscaras",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "Esmir Filho"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt42932006",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -4909,7 +4909,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:ney-por-tras-das-mascaras",
+          "key": "tt42932006",
           "first_seen": "2026-10-13T23:32:31.960Z"
         },
         {
@@ -5284,14 +5284,14 @@
         {
           "name": "O Deserto de Luiza",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "Alan Minas"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt33510646",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -5299,7 +5299,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-deserto-de-luiza",
+          "key": "tt33510646",
           "first_seen": "2026-10-13T23:32:31.960Z"
         },
         {
@@ -6105,14 +6105,14 @@
         {
           "name": "Oceânico",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "Guilherme Coelho"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt33513652",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -6120,7 +6120,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:oceanico",
+          "key": "tt33513652",
           "first_seen": "2026-10-13T23:32:31.960Z"
         },
         {
@@ -6146,14 +6146,14 @@
         {
           "name": "Olívia e o Terremoto Invisível",
           "original_name": "L’Olívia i el Terratrèmol Invisible",
-          "year": null,
+          "year": 2025,
           "director": [
             "Irene Iborra Rizo"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt27757752",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -6161,7 +6161,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:olivia-e-o-terremoto-invisivel",
+          "key": "tt27757752",
           "first_seen": "2026-10-13T23:32:31.960Z"
         },
         {
@@ -6944,14 +6944,14 @@
         {
           "name": "Robert Wilson & the CIVIL warS",
           "original_name": null,
-          "year": null,
+          "year": 1987,
           "director": [
             "Howard Brookner"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0299116",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -6959,7 +6959,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:robert-wilson-the-civil-wars",
+          "key": "tt0299116",
           "first_seen": "2026-10-13T23:32:31.960Z"
         },
         {
@@ -7394,15 +7394,15 @@
         {
           "name": "Squel, Confissões de uma Porta-bandeira",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "Zeca Brito",
             "Celina Torrealba"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt40999978",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -7410,7 +7410,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:squel-confissoes-de-uma-porta-bandeira",
+          "key": "tt40999978",
           "first_seen": "2026-10-13T23:32:31.960Z"
         },
         {
@@ -7538,14 +7538,14 @@
         {
           "name": "Tempo à Faca",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "Diogo Oliveira"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt42205491",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -7553,7 +7553,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:tempo-a-faca",
+          "key": "tt42205491",
           "first_seen": "2026-10-13T23:32:31.960Z"
         },
         {
@@ -8231,6 +8231,24 @@
           ],
           "key": "tt45368240",
           "first_seen": "2026-11-01T09:23:28.323Z"
+        },
+        {
+          "name": "Hunter’s Moon",
+          "original_name": "Kaatti Ri Raatti",
+          "year": 2026,
+          "director": [],
+          "imdb_id": "tt34424705",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "selecao",
+              "label": "Seleção",
+              "result": "selected"
+            }
+          ],
+          "key": "tt34424705",
+          "first_seen": "2026-11-16T10:52:36.918Z"
         }
       ]
     },
@@ -8787,14 +8805,14 @@
         {
           "name": "A Sombra do Meu Pai",
           "original_name": "My Father’s Shadow",
-          "year": null,
+          "year": 2025,
           "director": [
             "Akinola Davies Jr"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt35695538",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -8802,7 +8820,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-sombra-do-meu-pai",
+          "key": "tt35695538",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -9200,14 +9218,14 @@
         {
           "name": "Apolo de Dia Atena de Noite",
           "original_name": "Gündüz Apollon Gece Athena",
-          "year": null,
+          "year": 2024,
           "director": [
             "Emine Yıldırım"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt31970755",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -9215,7 +9233,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:apolo-de-dia-atena-de-noite",
+          "key": "tt31970755",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -10508,14 +10526,14 @@
         {
           "name": "D.P.A. 4 - O Fantástico Reino de Ondion",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [
             "Mauro Lima"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt33009208",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -10523,7 +10541,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:d-p-a-4-o-fantastico-reino-de-ondion",
+          "key": "tt33009208",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -13463,14 +13481,14 @@
         {
           "name": "O Pai e o Pajé",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [
             "lawarete Kaiabi"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt38514980",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -13478,7 +13496,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-pai-e-o-paje",
+          "key": "tt38514980",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -14009,14 +14027,14 @@
         {
           "name": "Pipas",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [
             "Walter Thompson-Hernández"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt36591391",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -14024,7 +14042,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:pipas",
+          "key": "tt36591391",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -14677,15 +14695,15 @@
         {
           "name": "Selva",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [
             "Esteban Hoyos García",
             "Juan Miguel Gelacio"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt29102411",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -14693,7 +14711,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:selva",
+          "key": "tt29102411",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -15166,14 +15184,14 @@
         {
           "name": "The Big Cube",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [
             "Menghui Huan"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt37599510",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selecao",
@@ -15181,7 +15199,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-big-cube",
+          "key": "tt37599510",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -15879,14 +15897,14 @@
         {
           "name": "Woman and Child",
           "original_name": "Zan O Bacheh",
-          "year": null,
+          "year": 2025,
           "director": [
             "Saeed Roustaee"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt36631507",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -15894,7 +15912,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:woman-and-child",
+          "key": "tt36631507",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -16600,14 +16618,14 @@
         {
           "name": "A Simple Silence",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [
             "Craig Quintero"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt32990077",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selecao",
@@ -16615,7 +16633,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-simple-silence",
+          "key": "tt32990077",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -16661,14 +16679,14 @@
         {
           "name": "A Vida É uma Cadela",
           "original_name": "Chiennes de Vies",
-          "year": null,
+          "year": 2023,
           "director": [
             "Xavier Seron"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt30128378",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -16676,7 +16694,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-vida-e-uma-cadela",
+          "key": "tt30128378",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -17068,14 +17086,14 @@
         {
           "name": "Amizade",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [
             "Cao Guimaraes"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt30304737",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -17083,7 +17101,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:amizade",
+          "key": "tt30304737",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -17171,14 +17189,14 @@
         {
           "name": "Antídoto",
           "original_name": "Antidote",
-          "year": null,
+          "year": 2024,
           "director": [
             "James Jones"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt32143856",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -17186,7 +17204,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:antidoto",
+          "key": "tt32143856",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -18782,14 +18800,14 @@
         {
           "name": "Era",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [
             "Veniamin Ilyassov"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt30804361",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -18797,7 +18815,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:era",
+          "key": "tt30804361",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -19789,14 +19807,14 @@
         {
           "name": "Joqtau",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [
             "Aruan Anartay"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt32886701",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -19804,7 +19822,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:joqtau",
+          "key": "tt32886701",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -20861,14 +20879,14 @@
         {
           "name": "Não Nos Moverão",
           "original_name": "No Nos Moverán",
-          "year": null,
+          "year": 2024,
           "director": [
             "Pierre Saint Martin Castellanos"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt31113406",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -20876,7 +20894,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:nao-nos-moverao",
+          "key": "tt31113406",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -21252,7 +21270,7 @@
         {
           "name": "O Grande Natal dos Animais",
           "original_name": "Le grande Noël des Animaux",
-          "year": null,
+          "year": 2024,
           "director": [
             "Haruna Kishi",
             "Olesya Shchukina",
@@ -21262,9 +21280,9 @@
             "Camille Alméras"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt33077003",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -21272,7 +21290,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-grande-natal-dos-animais",
+          "key": "tt33077003",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -21786,14 +21804,14 @@
         {
           "name": "Odradek",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [
             "Guilherme de Almeida Prado"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5777832",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -21801,7 +21819,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:odradek",
+          "key": "tt5777832",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -22525,14 +22543,14 @@
         {
           "name": "Quando a Folha da Nogueira Ficar Amarela",
           "original_name": "Demo Ke Pelê Gozan Benî Zer",
-          "year": null,
+          "year": 2024,
           "director": [
             "Mehmet Ali Konar"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt31099522",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -22540,7 +22558,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:quando-a-folha-da-nogueira-ficar-amarela",
+          "key": "tt31099522",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -23536,14 +23554,14 @@
         {
           "name": "Tempo de Ser Forte",
           "original_name": "Time to Be Strong",
-          "year": null,
+          "year": 2024,
           "director": [
             "Namkoong Sun"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt33372514",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -23551,7 +23569,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:tempo-de-ser-forte",
+          "key": "tt33372514",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -24024,14 +24042,14 @@
         {
           "name": "Um Daqueles Dias em que Hemme Morre",
           "original_name": "Hemme’nin öldüğü günlerden biri",
-          "year": null,
+          "year": 2024,
           "director": [
             "Murat Fıratoğlu"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt33030347",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -24039,7 +24057,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:um-daqueles-dias-em-que-hemme-morre",
+          "key": "tt33030347",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -25975,14 +25993,14 @@
         {
           "name": "Bem-Vindos",
           "original_name": "Tillsammans",
-          "year": null,
+          "year": 2023,
           "director": [
             "Lukas Moodysson"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt20414550",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -25990,7 +26008,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:bem-vindos",
+          "key": "tt20414550",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -26279,14 +26297,14 @@
         {
           "name": "Como Você Se Atreve a Desejar Algo Tão Terrível",
           "original_name": "Chetor Jorata Kardi In Arezooie Mozakhraf Ra Bekoni",
-          "year": null,
+          "year": 2022,
           "director": [
             "Mania Akbari"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt16970102",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -26294,7 +26312,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:como-voce-se-atreve-a-desejar-algo-tao-terrivel",
+          "key": "tt16970102",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -26362,14 +26380,14 @@
         {
           "name": "Criatura",
           "original_name": "Creatura",
-          "year": null,
+          "year": 2023,
           "director": [
             "Elena Martín Gimeno"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt21869176",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -26377,7 +26395,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:criatura",
+          "key": "tt21869176",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -26445,14 +26463,14 @@
         {
           "name": "Da Cor e da Tinta",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [
             "Weimin Zhang"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt16022830",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -26460,7 +26478,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:da-cor-e-da-tinta",
+          "key": "tt16022830",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -26526,14 +26544,14 @@
         {
           "name": "Dentro do Casulo Amarelo",
           "original_name": "Bên Trong Vo Kén Vàng",
-          "year": null,
+          "year": 2023,
           "director": [
             "Pham Thien An"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt10399622",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -26541,7 +26559,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:dentro-do-casulo-amarelo",
+          "key": "tt10399622",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -26647,14 +26665,14 @@
         {
           "name": "Do Coração",
           "original_name": "Par Cœurs",
-          "year": null,
+          "year": 2022,
           "director": [
             "Benoît Jacquot"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt23781384",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -26662,7 +26680,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:do-coracao",
+          "key": "tt23781384",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -28768,14 +28786,14 @@
         {
           "name": "Noite e Dia - Lima Barreto, Obra e Vida",
           "original_name": "Night and Day - Lima Barreto, Work and Life",
-          "year": null,
+          "year": 2023,
           "director": [
             "Rodrigo Grota"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt29429433",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -28783,7 +28801,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:noite-e-dia-lima-barreto-obra-e-vida",
+          "key": "tt29429433",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -29564,14 +29582,14 @@
         {
           "name": "O Silêncio das Sirenes",
           "original_name": "Heshtja e Sirenave",
-          "year": null,
+          "year": 2023,
           "director": [
             "Gazmend Nela"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt30517060",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -29579,7 +29597,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-silencio-das-sirenes",
+          "key": "tt30517060",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -30281,14 +30299,14 @@
         {
           "name": "Quartos Vermelhos",
           "original_name": "Les Chambres Rouge",
-          "year": null,
+          "year": 2023,
           "director": [
             "Pascal Plante"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt22207786",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -30296,7 +30314,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:quartos-vermelhos",
+          "key": "tt22207786",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -31799,14 +31817,14 @@
         {
           "name": "Utopia Tropical",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [
             "João Amorim"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt29742408",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -31814,7 +31832,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:utopia-tropical",
+          "key": "tt29742408",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -32878,14 +32896,14 @@
         {
           "name": "Andor",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [
             "Vitor Vilaverde Dias"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt27430566",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -32893,7 +32911,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:andor",
+          "key": "tt27430566",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -34724,15 +34742,15 @@
         },
         {
           "name": "Los Reyes del Mundo",
-          "original_name": null,
-          "year": null,
+          "original_name": "Los reyes del mundo",
+          "year": 2022,
           "director": [
             "Laura Mora"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt15399372",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -34740,7 +34758,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:los-reyes-del-mundo",
+          "key": "tt15399372",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -34766,14 +34784,14 @@
         {
           "name": "Lupicínio Rodrigues: Confissões de um Sofredor",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [
             "Alfredo Manevy"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt34459147",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -34781,7 +34799,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:lupicinio-rodrigues-confissoes-de-um-sofredor",
+          "key": "tt34459147",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -35213,14 +35231,14 @@
         {
           "name": "Nossa Pátria Está Onde Somos Amados",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [
             "Felipe Hirsch"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt21098722",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -35228,7 +35246,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:nossa-patria-esta-onde-somos-amados",
+          "key": "tt21098722",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -35334,14 +35352,14 @@
         {
           "name": "O Excesso Nos Salvará",
           "original_name": "Excess Will Save Us",
-          "year": null,
+          "year": 2022,
           "director": [
             "Morgane Dziurla-Petit"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt17007298",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -35349,7 +35367,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-excesso-nos-salvara",
+          "key": "tt17007298",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -35703,14 +35721,14 @@
         {
           "name": "Os Irmãos de Leila",
           "original_name": "Leila`s Brothers",
-          "year": null,
+          "year": 2022,
           "director": [
             "Saeed Roustaee"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt19653180",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -35718,7 +35736,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:os-irmaos-de-leila",
+          "key": "tt19653180",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -36963,14 +36981,14 @@
         {
           "name": "A Chiara",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [
             "Jonas Carpignano"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt14324296",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -36978,7 +36996,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-chiara",
+          "key": "tt14324296",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -37105,14 +37123,14 @@
         {
           "name": "A Floresta Silenciosa",
           "original_name": "The Silent Forest",
-          "year": null,
+          "year": 2020,
           "director": [
             "Ko Chen-nien"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt12396992",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -37120,7 +37138,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-floresta-silenciosa",
+          "key": "tt12396992",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -37653,14 +37671,14 @@
         {
           "name": "Anatomia",
           "original_name": "Anatomy",
-          "year": null,
+          "year": 2021,
           "director": [
             "Ola Jankowska"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt15132118",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -37668,7 +37686,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:anatomia",
+          "key": "tt15132118",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -38475,15 +38493,15 @@
         {
           "name": "Despedida",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [
             "Luciana Mazeto",
             "Vinícius Lopes"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt22698554",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -38491,7 +38509,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:despedida",
+          "key": "tt22698554",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -39406,14 +39424,14 @@
         {
           "name": "Listen",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [
             "Ana Rocha de Sousa"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt6627168",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -39421,7 +39439,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:listen",
+          "key": "tt6627168",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -39849,14 +39867,14 @@
         {
           "name": "Mickey na Estrada",
           "original_name": "Mickey on the Road",
-          "year": null,
+          "year": 2020,
           "director": [
             "Lu Mian-Mian"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt11861034",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -39864,7 +39882,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:mickey-na-estrada",
+          "key": "tt11861034",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -40053,15 +40071,15 @@
         {
           "name": "Na Prisão Evin",
           "original_name": "At the End of Evin",
-          "year": null,
+          "year": 2021,
           "director": [
             "Mohammed Torab-Beig",
             "Mehdi Torab-Beig"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt12698500",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -40069,7 +40087,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:na-prisao-evin",
+          "key": "tt12698500",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -41616,14 +41634,14 @@
         {
           "name": "Terra Distante",
           "original_name": "Uzak Ülke",
-          "year": null,
+          "year": 2020,
           "director": [
             "Erkan Yazıcı"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt12172640",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -41631,7 +41649,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:terra-distante",
+          "key": "tt12172640",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -42351,15 +42369,15 @@
         {
           "name": "A Marina",
           "original_name": "La Marina",
-          "year": null,
+          "year": 2020,
           "director": [
             "Étienne Galloy",
             "Christophe Levac"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt13957312",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -42367,7 +42385,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-marina",
+          "key": "tt13957312",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -42821,14 +42839,14 @@
         {
           "name": "Calazar",
           "original_name": "Kala Azar",
-          "year": null,
+          "year": 2020,
           "director": [
             "Janis Rafa"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt10006160",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -42836,7 +42854,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:calazar",
+          "key": "tt10006160",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -46700,14 +46718,14 @@
         {
           "name": "Abismo Tropical",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [
             "Paulo Caldas"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt10268220",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -46715,7 +46733,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:abismo-tropical",
+          "key": "tt10268220",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -46944,14 +46962,14 @@
         {
           "name": "Andrey Tarkovsky: Uma Oração de Cinema",
           "original_name": "Andrey Tarkovsky: A Cinema Prayer",
-          "year": null,
+          "year": 2019,
           "director": [
             "Andrey A. Tarkovsky"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt10850518",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -46959,7 +46977,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:andrey-tarkovsky-uma-oracao-de-cinema",
+          "key": "tt10850518",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -49447,14 +49465,14 @@
         {
           "name": "Limpeza",
           "original_name": "Clean Up",
-          "year": null,
+          "year": 2018,
           "director": [
             "Kwon Man-ki "
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt9024126",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -49462,7 +49480,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:limpeza",
+          "key": "tt9024126",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -49589,15 +49607,15 @@
         },
         {
           "name": "Maggie",
-          "original_name": null,
-          "year": null,
+          "original_name": "Megi",
+          "year": 2018,
           "director": [
             "Yi Ok-seop"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt9000062",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -49605,7 +49623,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:maggie",
+          "key": "tt9000062",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -49631,15 +49649,15 @@
         {
           "name": "Mataindios",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [
             "Oscar Sánchez",
             "Robert Julca"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt10623116",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -49647,7 +49665,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:mataindios",
+          "key": "tt10623116",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -51646,14 +51664,14 @@
         {
           "name": "Segundo Passo",
           "original_name": "2nd Step",
-          "year": null,
+          "year": 2018,
           "director": [
             "Jörg Courtial"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt11947806",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selecao",
@@ -51661,7 +51679,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:segundo-passo",
+          "key": "tt11947806",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -52600,7 +52618,7 @@
         {
           "name": "Vizinhos",
           "original_name": "Lin Li",
-          "year": null,
+          "year": 2019,
           "director": [
             "Jenna Bass",
             "Han Yan",
@@ -52609,9 +52627,9 @@
             "Beatriz Seigner"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt12265290",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -52619,7 +52637,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:vizinhos",
+          "key": "tt12265290",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -53301,14 +53319,14 @@
         {
           "name": "A Última Criança",
           "original_name": "Last Child",
-          "year": null,
+          "year": 2017,
           "director": [
             "Shin Dong-seok"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt8118056",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -53316,7 +53334,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-ultima-crianca",
+          "key": "tt8118056",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -54378,14 +54396,14 @@
         {
           "name": "Con el Viento",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [
             "Meritxell Colell Aparicio"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt6238798",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -54393,7 +54411,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:con-el-viento",
+          "key": "tt6238798",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -54743,14 +54761,14 @@
         {
           "name": "Enigma",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [
             "Ignacio Juricic Merillán"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt9045270",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -54758,7 +54776,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:enigma",
+          "key": "tt9045270",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -55717,14 +55735,14 @@
         {
           "name": "Jumpman",
           "original_name": "Podbrosy",
-          "year": null,
+          "year": 2018,
           "director": [
             "Ivan I. Tverdovsky"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt8462858",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -55732,7 +55750,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:jumpman",
+          "key": "tt8462858",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -56696,14 +56714,14 @@
         {
           "name": "O Homem Pykante - Diálogos com Pimenta",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [
             "Edgar Pêra"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt9411324",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -56711,7 +56729,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-homem-pykante-dialogos-com-pimenta",
+          "key": "tt9411324",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -57737,14 +57755,14 @@
         {
           "name": "Retablo",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [
             "Álvaro Delgado-Aparicio L."
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt7761590",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -57752,7 +57770,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:retablo",
+          "key": "tt7761590",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -58302,14 +58320,14 @@
         {
           "name": "Thunder Road",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [
             "Jim Cummings"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt7738450",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -58317,7 +58335,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:thunder-road",
+          "key": "tt7738450",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -59023,14 +59041,14 @@
         {
           "name": "1917 - O Outubro Real",
           "original_name": "1917 - Der Wahre Oktober",
-          "year": null,
+          "year": 2017,
           "director": [
             "Katrin Rothe"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt6489962",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -59038,7 +59056,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:1917-o-outubro-real",
+          "key": "tt6489962",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -61160,14 +61178,14 @@
         {
           "name": "Ciao Ciao",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [
             "Song Chuan"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3956334",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -61175,7 +61193,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:ciao-ciao",
+          "key": "tt3956334",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -61584,14 +61602,14 @@
         {
           "name": "Desaparecer no Nada",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [
             "Pedro Maia"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt7655240",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -61599,7 +61617,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:desaparecer-no-nada",
+          "key": "tt7655240",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -62898,15 +62916,15 @@
         },
         {
           "name": "Júlia Ist",
-          "original_name": null,
-          "year": null,
+          "original_name": "Júlia ist",
+          "year": 2017,
           "director": [
             "Elena Martín Gimeno"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt6597612",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -62914,7 +62932,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:julia-ist",
+          "key": "tt6597612",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -63527,14 +63545,14 @@
         {
           "name": "Missing Johnny",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [
             "Huang Xi"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt7010456",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -63542,7 +63560,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:missing-johnny",
+          "key": "tt7010456",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -65040,14 +65058,14 @@
         {
           "name": "Person to Person",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [
             "Dustin Guy Defa"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5247026",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -65055,7 +65073,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:person-to-person",
+          "key": "tt5247026",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -66765,15 +66783,15 @@
         {
           "name": "We Who Remain",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [
             "Trevor Snapp",
             "Sam Wolson"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt6264118",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selecao",
@@ -66781,7 +66799,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:we-who-remain",
+          "key": "tt6264118",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -67512,14 +67530,14 @@
         {
           "name": "Aranha Vermelha",
           "original_name": "Czerwony Pająk",
-          "year": null,
+          "year": 2015,
           "director": [
             "Marcin Koszałka"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4817256",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -67527,7 +67545,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:aranha-vermelha",
+          "key": "tt4817256",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -68841,14 +68859,14 @@
         {
           "name": "Ederly",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [
             "Piotr Dumała"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5172986",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -68856,7 +68874,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:ederly",
+          "key": "tt5172986",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -71841,14 +71859,14 @@
         {
           "name": "Os Hedonistas",
           "original_name": "The Hedonists",
-          "year": null,
+          "year": 2016,
           "director": [
             "Jia Zhangke "
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5732566",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selecao",
@@ -71856,7 +71874,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:os-hedonistas",
+          "key": "tt5732566",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -73371,14 +73389,14 @@
         {
           "name": "Wróblewski Segundo Wajda",
           "original_name": "Wróblewski według Wajdy",
-          "year": null,
+          "year": 2016,
           "director": [
             "Andrzej Wajda"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt18229646",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selecao",
@@ -73386,7 +73404,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:wroblewski-segundo-wajda",
+          "key": "tt18229646",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -73432,14 +73450,14 @@
         {
           "name": "Zoology",
           "original_name": "Zoologiya",
-          "year": null,
+          "year": 2016,
           "director": [
             "Ivan I. Tverdovsky"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5133392",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -73447,7 +73465,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:zoology",
+          "key": "tt5133392",
           "first_seen": "2026-09-28T11:26:30.375Z"
         }
       ]
@@ -75270,14 +75288,14 @@
         {
           "name": "Deuses",
           "original_name": "Bogowie",
-          "year": null,
+          "year": 2014,
           "director": [
             "Łukasz Palkowski"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3745620",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -75285,7 +75303,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:deuses",
+          "key": "tt3745620",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -76310,14 +76328,14 @@
         {
           "name": "Krisha",
           "original_name": null,
-          "year": null,
+          "year": 2014,
           "director": [
             "Trey Edward Shults"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3091288",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selecao",
@@ -76325,7 +76343,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:krisha",
+          "key": "tt3091288",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -77161,14 +77179,14 @@
         {
           "name": "Nós Monstros",
           "original_name": "Wir Monsters",
-          "year": null,
+          "year": 2015,
           "director": [
             "Sebastian Ko "
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4074652",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -77176,7 +77194,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:nos-monstros",
+          "key": "tt4074652",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -78313,15 +78331,15 @@
         {
           "name": "Pervert Park",
           "original_name": null,
-          "year": null,
+          "year": 2014,
           "director": [
             "Lasse Barkfors",
             "Frida Barkfors"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4074304",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -78329,7 +78347,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:pervert-park",
+          "key": "tt4074304",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -79552,15 +79570,15 @@
         },
         {
           "name": "Visita ou Memórias e Confissões",
-          "original_name": null,
-          "year": null,
+          "original_name": "Visita ou Memórias e Confissões",
+          "year": 1993,
           "director": [
             "Manoel de Oliveira"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0084870",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -79568,7 +79586,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:visita-ou-memorias-e-confissoes",
+          "key": "tt0084870",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -81358,14 +81376,14 @@
         {
           "name": "Brincante",
           "original_name": null,
-          "year": null,
+          "year": 2014,
           "director": [
             "Walter Carvalho"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3847420",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -81373,7 +81391,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:brincante",
+          "key": "tt3847420",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -83519,14 +83537,14 @@
         {
           "name": "Mapa",
           "original_name": null,
-          "year": null,
+          "year": 2012,
           "director": [
             "León Siminiani"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2494396",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -83534,7 +83552,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:mapa",
+          "key": "tt2494396",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -83924,15 +83942,15 @@
         },
         {
           "name": "Non-Fiction Diary",
-          "original_name": null,
-          "year": null,
+          "original_name": "Non-pik-syeon da-i-eo-li",
+          "year": 2013,
           "director": [
             "Jung Yoon-suk"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3265218",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -83940,7 +83958,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:non-fiction-diary",
+          "key": "tt3265218",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -90366,14 +90384,14 @@
         {
           "name": "Mofo",
           "original_name": "Küf",
-          "year": null,
+          "year": 2012,
           "director": [
             "Ali Aydın"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2384530",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -90381,7 +90399,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:mofo",
+          "key": "tt2384530",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -92883,14 +92901,14 @@
         {
           "name": "São Silvestre",
           "original_name": null,
-          "year": null,
+          "year": 2013,
           "director": [
             "Lina Chamie"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2165082",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -92898,7 +92916,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:sao-silvestre",
+          "key": "tt2165082",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -93007,14 +93025,14 @@
         {
           "name": "Sexo, Drogas & Impostos",
           "original_name": "Spies Og Glistrup",
-          "year": null,
+          "year": 2013,
           "director": [
             "Christoffer Boe"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2191400",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -93022,7 +93040,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:sexo-drogas-impostos",
+          "key": "tt2191400",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -93193,14 +93211,14 @@
         {
           "name": "Sunshine Boys",
           "original_name": "1999, Myeon-Hoe",
-          "year": null,
+          "year": 2012,
           "director": [
             "Kim Tae-gon"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2556228",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -93208,7 +93226,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:sunshine-boys",
+          "key": "tt2556228",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -94510,14 +94528,14 @@
         {
           "name": "A História de Tomy Ungerer",
           "original_name": "Far Out Isn´t Far Enough: The Tomi Ungerer History",
-          "year": null,
+          "year": 2012,
           "director": [
             "Brad Bernstein"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1974254",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -94525,7 +94543,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-historia-de-tomy-ungerer",
+          "key": "tt1974254",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -94672,14 +94690,14 @@
         {
           "name": "À Sombra da República",
           "original_name": "A L´Ombre De La République",
-          "year": null,
+          "year": 2011,
           "director": [
             "Stéphane Mercurio"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1915534",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -94687,7 +94705,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-sombra-da-republica",
+          "key": "tt1915534",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -96775,14 +96793,14 @@
         {
           "name": "Hanna Arendt",
           "original_name": null,
-          "year": null,
+          "year": 2012,
           "director": [
             "Margarethe Von Trotta"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1674773",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -96790,7 +96808,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:hanna-arendt",
+          "key": "tt1674773",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -97821,14 +97839,14 @@
         {
           "name": "Memories Look At Me",
           "original_name": "Ji Yi Wang Zhe Wo",
-          "year": null,
+          "year": 2012,
           "director": [
             "Song Fang"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2332516",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -97836,7 +97854,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:memories-look-at-me",
+          "key": "tt2332516",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -98088,15 +98106,15 @@
         },
         {
           "name": "Mystery",
-          "original_name": null,
-          "year": null,
+          "original_name": "Fu cheng mi shi",
+          "year": 2012,
           "director": [
             "Lou Ye"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2369127",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -98104,7 +98122,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:mystery",
+          "key": "tt2369127",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -99480,15 +99498,15 @@
         },
         {
           "name": "Padak",
-          "original_name": null,
-          "year": null,
+          "original_name": "Pa-dak pa-dak",
+          "year": 2012,
           "director": [
             "Lee Dae-hee"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2164058",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -99496,7 +99514,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:padak",
+          "key": "tt2164058",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -100395,16 +100413,16 @@
         {
           "name": "Satyrianas, 78 Horas Em 78 Minutos",
           "original_name": null,
-          "year": null,
+          "year": 2012,
           "director": [
             "Daniel Gaggini",
             "Fausto Noro",
             "Otávio Pacheco"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2486152",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -100412,7 +100430,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:satyrianas-78-horas-em-78-minutos",
+          "key": "tt2486152",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -101940,14 +101958,14 @@
         {
           "name": "A Visita Maravilhosa",
           "original_name": "La Visita Meraigliosa. Viaggio in Italia Sulle Tracce Di Nino Rota",
-          "year": null,
+          "year": 2011,
           "director": [
             "MAURO GIOIA"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1998268",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -101955,7 +101973,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-visita-maravilhosa",
+          "key": "tt1998268",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -102247,14 +102265,14 @@
         {
           "name": "As Neves do Kilimanjaro",
           "original_name": "Les Neiges Du Kilimanjaro",
-          "year": null,
+          "year": 2011,
           "director": [
             "Robert Guédiguian"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1852006",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -102262,7 +102280,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:as-neves-do-kilimanjaro",
+          "key": "tt1852006",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -104012,14 +104030,14 @@
         {
           "name": "Jogos de Verão",
           "original_name": "Giochi D`Estate",
-          "year": null,
+          "year": 2011,
           "director": [
             "Rolando Cola"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1753865",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -104027,7 +104045,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:jogos-de-verao",
+          "key": "tt1753865",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -104488,14 +104506,14 @@
         {
           "name": "Marcelo Yuka No Caminho das Setas",
           "original_name": null,
-          "year": null,
+          "year": 2011,
           "director": [
             "Daniela Broitman"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2359171",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -104503,7 +104521,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:marcelo-yuka-no-caminho-das-setas",
+          "key": "tt2359171",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -105082,14 +105100,14 @@
         {
           "name": "O Dominador",
           "original_name": "Haunters",
-          "year": null,
+          "year": 2010,
           "director": [
             "Kim Min-suk"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1900891",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -105097,7 +105115,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-dominador",
+          "key": "tt1900891",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -107524,14 +107542,14 @@
         {
           "name": "A Fábrica de Tigres",
           "original_name": "The Tiger Factory",
-          "year": null,
+          "year": 2010,
           "director": [
             "Woo Ming Jin"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1646982",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -107539,7 +107557,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-fabrica-de-tigres",
+          "key": "tt1646982",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -107687,14 +107705,14 @@
         {
           "name": "A Mulher Invisível",
           "original_name": "La Femme Invisible",
-          "year": null,
+          "year": 2009,
           "director": [
             "Agathe Teyssier"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1252602",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -107702,7 +107720,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-mulher-invisivel",
+          "key": "tt1252602",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -107748,14 +107766,14 @@
         {
           "name": "A Rebelião de Kautokeino",
           "original_name": "Kautokeino-Opproret",
-          "year": null,
+          "year": 2008,
           "director": [
             "Nils Gaup"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0479937",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -107763,7 +107781,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-rebeliao-de-kautokeino",
+          "key": "tt0479937",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -108194,14 +108212,14 @@
         {
           "name": "Air Doll",
           "original_name": "Kuki Ningyo",
-          "year": null,
+          "year": 2009,
           "director": [
             "Hirokazu Kore-eda"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1371630",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -108209,7 +108227,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:air-doll",
+          "key": "tt1371630",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -108844,14 +108862,14 @@
         {
           "name": "Biloba",
           "original_name": null,
-          "year": null,
+          "year": 2009,
           "director": [
             "Sofia Papachristou"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1334326",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -108859,7 +108877,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:biloba",
+          "key": "tt1334326",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -109150,12 +109168,12 @@
         {
           "name": "Carnaval Dos Deuses",
           "original_name": null,
-          "year": null,
+          "year": 2010,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2076816",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selecao",
@@ -109163,7 +109181,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:carnaval-dos-deuses",
+          "key": "tt2076816",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -109472,14 +109490,14 @@
         {
           "name": "Confusão Sob Lençóis",
           "original_name": "Imbroglio Nel Lenzuolo",
-          "year": null,
+          "year": 2010,
           "director": [
             "Alfonso Arau"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0965429",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -109487,7 +109505,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:confusao-sob-lencois",
+          "key": "tt0965429",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -109901,15 +109919,15 @@
         },
         {
           "name": "Distant Thunder",
-          "original_name": null,
-          "year": null,
+          "original_name": "Mi cheng",
+          "year": 2010,
           "director": [
             "Zhang Jiarui"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1805334",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -109917,7 +109935,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:distant-thunder",
+          "key": "tt1805334",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -110820,14 +110838,14 @@
         {
           "name": "Histórias Reais de um Mentiroso",
           "original_name": null,
-          "year": null,
+          "year": 2010,
           "director": [
             "Mariana Caltabiano"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1997594",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -110835,7 +110853,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:historias-reais-de-um-mentiroso",
+          "key": "tt1997594",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -111025,14 +111043,14 @@
         {
           "name": "Impacto",
           "original_name": "Bay Rong",
-          "year": null,
+          "year": 2009,
           "director": [
             "Le Thanh Son"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1571565",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -111040,7 +111058,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:impacto",
+          "key": "tt1571565",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -111391,14 +111409,14 @@
         {
           "name": "Livro Iraniano de Receitas",
           "original_name": "Dastoore Ashpazi",
-          "year": null,
+          "year": 2010,
           "director": [
             "Mohammad Shirvani"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2251375",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -111406,7 +111424,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:livro-iraniano-de-receitas",
+          "key": "tt2251375",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -111577,15 +111595,15 @@
         {
           "name": "Machete",
           "original_name": null,
-          "year": null,
+          "year": 2010,
           "director": [
             "Robert Rodriguez",
             "Ethan Maniquis"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0985694",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -111593,7 +111611,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:machete",
+          "key": "tt0985694",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -111619,14 +111637,14 @@
         {
           "name": "Mamma Gogo",
           "original_name": "Mamma Gógó",
-          "year": null,
+          "year": 2010,
           "director": [
             "Fridrik Thór Fridriksson"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1438466",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -111634,7 +111652,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:mamma-gogo",
+          "key": "tt1438466",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -112742,14 +112760,14 @@
         {
           "name": "O Homem Que Virá",
           "original_name": "L‘uomo Che Verra",
-          "year": null,
+          "year": 2009,
           "director": [
             "Giorgio Diritti"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1351672",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -112757,7 +112775,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-homem-que-vira",
+          "key": "tt1351672",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -113600,14 +113618,14 @@
         {
           "name": "Peepli Ao Vivo",
           "original_name": "Peeplilive",
-          "year": null,
+          "year": 2010,
           "director": [
             "Anusha Rizvi"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1447508",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -113615,7 +113633,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:peepli-ao-vivo",
+          "key": "tt1447508",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -113823,14 +113841,14 @@
         {
           "name": "Porta a Porta – A Política em Dois Tempos",
           "original_name": null,
-          "year": null,
+          "year": 2010,
           "director": [
             "Marcelo Brennand"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5037676",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -113838,7 +113856,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:porta-a-porta-a-politica-em-dois-tempos",
+          "key": "tt5037676",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -115688,14 +115706,14 @@
         {
           "name": "14 18 o Som e a Fúria",
           "original_name": "Le Bruit Et La Fureur",
-          "year": null,
+          "year": 2008,
           "director": [
             "JEAN FRANÇOIS DELASSUS"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1323562",
           "wikidata_id": null,
-          "type": null,
+          "type": "tvMovie",
           "categories": [
             {
               "id": "selecao",
@@ -115703,7 +115721,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:14-18-o-som-e-a-furia",
+          "key": "tt1323562",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -115932,14 +115950,14 @@
         {
           "name": "A Casa de Palha",
           "original_name": "In the House of Straw",
-          "year": null,
+          "year": 2009,
           "director": [
             "Yeo Siew Hua"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2632162",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -115947,7 +115965,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-casa-de-palha",
+          "key": "tt2632162",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -116259,14 +116277,14 @@
         {
           "name": "A Mente Que Mente",
           "original_name": "The Great Buck Howard",
-          "year": null,
+          "year": 2008,
           "director": [
             "SEAN MC GINLY"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0460810",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -116274,7 +116292,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-mente-que-mente",
+          "key": "tt0460810",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -117767,14 +117785,14 @@
         {
           "name": "Coweb",
           "original_name": "Zhang Wu Shuang",
-          "year": null,
+          "year": 2009,
           "director": [
             "XIN XIN XIONG"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1392899",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -117782,7 +117800,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:coweb",
+          "key": "tt1392899",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -119342,15 +119360,15 @@
         {
           "name": "Kfz 1348",
           "original_name": null,
-          "year": null,
+          "year": 2008,
           "director": [
             "MARCELO PEDROSO",
             "Gabriel Mascaro"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1455682",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -119358,7 +119376,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:kfz-1348",
+          "key": "tt1455682",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -119808,12 +119826,12 @@
         {
           "name": "Mentiras",
           "original_name": null,
-          "year": null,
+          "year": 2007,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1024732",
           "wikidata_id": null,
-          "type": null,
+          "type": "video",
           "categories": [
             {
               "id": "selecao",
@@ -119821,7 +119839,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:mentiras",
+          "key": "tt1024732",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -120673,14 +120691,14 @@
         {
           "name": "O Homem Que Comia Cerejas",
           "original_name": "Mardi Ke Gilass Hayash Ra Khord",
-          "year": null,
+          "year": 2009,
           "director": [
             "PAYMAN HAGHANI"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1515194",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -120688,7 +120706,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-homem-que-comia-cerejas",
+          "key": "tt1515194",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -121571,14 +121589,14 @@
         {
           "name": "Peter & Vandy",
           "original_name": null,
-          "year": null,
+          "year": 2009,
           "director": [
             "JAY DI PIETRO"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1144551",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -121586,18 +121604,18 @@
               "result": "selected"
             }
           ],
-          "key": "t:peter-vandy",
+          "key": "tt1144551",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Phiro",
           "original_name": null,
-          "year": null,
+          "year": 2008,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1489925",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selecao",
@@ -121605,7 +121623,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:phiro",
+          "key": "tt1489925",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -121919,14 +121937,14 @@
         {
           "name": "Querido Lemon Lima",
           "original_name": "Dear Lemon Lima,",
-          "year": null,
+          "year": 2009,
           "director": [
             "Suzi Yoonessi"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1242423",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -121934,7 +121952,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:querido-lemon-lima",
+          "key": "tt1242423",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -122408,14 +122426,14 @@
         {
           "name": "Siri Ara",
           "original_name": null,
-          "year": null,
+          "year": 2008,
           "director": [
             "Rosemberg Cariry"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4097880",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -122423,7 +122441,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:siri-ara",
+          "key": "tt4097880",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -123182,14 +123200,14 @@
         {
           "name": "Uma Semana",
           "original_name": "One Week",
-          "year": null,
+          "year": 2008,
           "director": [
             "MICHAEL MC GOWAN"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1104806",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -123197,7 +123215,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:uma-semana",
+          "key": "tt1104806",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -123701,14 +123719,14 @@
         {
           "name": "9 Mm",
           "original_name": null,
-          "year": null,
+          "year": 2008,
           "director": [
             "TAYLAN BARMAN"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1185231",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -123716,7 +123734,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:9-mm",
+          "key": "tt1185231",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -126053,15 +126071,15 @@
         },
         {
           "name": "Cover Boy",
-          "original_name": null,
-          "year": null,
+          "original_name": "Cover boy: L'ultima rivoluzione",
+          "year": 2006,
           "director": [
             "CARMINE AMOROSO"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0494284",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -126069,7 +126087,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:cover-boy",
+          "key": "tt0494284",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -126136,14 +126154,14 @@
         {
           "name": "Cry Me a River",
           "original_name": "Heshang de Aiqing",
-          "year": null,
+          "year": 2008,
           "director": [
             "Jia Zhangke "
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1284578",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selecao",
@@ -126151,7 +126169,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:cry-me-a-river",
+          "key": "tt1284578",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -126505,14 +126523,14 @@
         {
           "name": "É Duro Ser Amado Por Cretinos",
           "original_name": "C´est Dur D´etre Aime Par Des Cons",
-          "year": null,
+          "year": 2008,
           "director": [
             "DANIEL LECONTE"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1289783",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -126520,20 +126538,20 @@
               "result": "selected"
             }
           ],
-          "key": "t:e-duro-ser-amado-por-cretinos",
+          "key": "tt1289783",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "E Guardarei No Coração",
           "original_name": "Et Dans Mon Coeur J´emporterai",
-          "year": null,
+          "year": 2007,
           "director": [
             "SUNG A YOON"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3861252",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selecao",
@@ -126541,7 +126559,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:e-guardarei-no-coracao",
+          "key": "tt3861252",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -126630,14 +126648,14 @@
         {
           "name": "El Greco",
           "original_name": null,
-          "year": null,
+          "year": 2007,
           "director": [
             "IANNIS SMARAGDIS"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0905329",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -126645,20 +126663,20 @@
               "result": "selected"
             }
           ],
-          "key": "t:el-greco",
+          "key": "tt0905329",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "El País Del Diablo",
           "original_name": null,
-          "year": null,
+          "year": 2007,
           "director": [
             "ANDRÉS DI TELLA"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1194122",
           "wikidata_id": null,
-          "type": null,
+          "type": "tvMovie",
           "categories": [
             {
               "id": "selecao",
@@ -126666,7 +126684,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:el-pais-del-diablo",
+          "key": "tt1194122",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -128962,14 +128980,14 @@
         {
           "name": "Ninguém É Perfeito",
           "original_name": "Nobody´s Perfect",
-          "year": null,
+          "year": 2008,
           "director": [
             "NIKO VON GLASOW"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1266093",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -128977,7 +128995,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:ninguem-e-perfeito",
+          "key": "tt1266093",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -129225,14 +129243,14 @@
         {
           "name": "O Dia de Trabalho",
           "original_name": "A Day´s Work",
-          "year": null,
+          "year": 2008,
           "director": [
             "EDWARD FELDMAN"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1202745",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selecao",
@@ -129240,7 +129258,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-dia-de-trabalho",
+          "key": "tt1202745",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -131367,14 +131385,14 @@
         {
           "name": "Sob as Bombas",
           "original_name": "Sous Les Bombs",
-          "year": null,
+          "year": 2007,
           "director": [
             "PHILIPPE ARACTINGI"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1094275",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -131382,7 +131400,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:sob-as-bombas",
+          "key": "tt1094275",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -132553,14 +132571,14 @@
         {
           "name": "A Arte Das Lágrimas",
           "original_name": "Kunsten at Graede I Kor",
-          "year": null,
+          "year": 2006,
           "director": [
             "PETER SCHØNAU FOG"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0495040",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -132568,7 +132586,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-arte-das-lagrimas",
+          "key": "tt0495040",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -132877,14 +132895,14 @@
         {
           "name": "A Ilha Da Morte",
           "original_name": "El Cayo de La Muerte",
-          "year": null,
+          "year": 2010,
           "director": [
             "WOLNEY OLIVEIRA"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1848870",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -132892,7 +132910,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-ilha-da-morte",
+          "key": "tt1848870",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -133895,14 +133913,14 @@
         {
           "name": "Blind Mountain",
           "original_name": "Mang Shan",
-          "year": null,
+          "year": 2007,
           "director": [
             "LI YANG"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1020972",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -133910,7 +133928,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:blind-mountain",
+          "key": "tt1020972",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -134328,14 +134346,14 @@
         {
           "name": "Casa Das Belas Adormecidas",
           "original_name": "Haus Der Schlafenden Schönen",
-          "year": null,
+          "year": 2006,
           "director": [
             "VADIM GLOWNA"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0844474",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -134343,20 +134361,20 @@
               "result": "selected"
             }
           ],
-          "key": "t:casa-das-belas-adormecidas",
+          "key": "tt0844474",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Cashback",
           "original_name": null,
-          "year": null,
+          "year": 2006,
           "director": [
             "SEAN ELLIS"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0460740",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -134364,7 +134382,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:cashback",
+          "key": "tt0460740",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -134779,14 +134797,14 @@
         {
           "name": "Delirious",
           "original_name": null,
-          "year": null,
+          "year": 2006,
           "director": [
             "TOM DI CILLO"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0412637",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -134794,7 +134812,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:delirious",
+          "key": "tt0412637",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -135083,12 +135101,12 @@
         {
           "name": "É o Que Você Usa",
           "original_name": "Tout Est Question de Fringues",
-          "year": null,
+          "year": 2006,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1482946",
           "wikidata_id": null,
-          "type": null,
+          "type": "video",
           "categories": [
             {
               "id": "selecao",
@@ -135096,7 +135114,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:e-o-que-voce-usa",
+          "key": "tt1482946",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -136034,14 +136052,14 @@
         {
           "name": "Hana",
           "original_name": "Hana Yori Mo Naho",
-          "year": null,
+          "year": 2006,
           "director": [
             "Hirokazu Kore-eda"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0464038",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -136049,20 +136067,20 @@
               "result": "selected"
             }
           ],
-          "key": "t:hana",
+          "key": "tt0464038",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Help Me Eros",
           "original_name": "Bang Bang Wo Ai Shen",
-          "year": null,
+          "year": 2007,
           "director": [
             "LEE KANG SHENG"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1076251",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -136070,7 +136088,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:help-me-eros",
+          "key": "tt1076251",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -136321,14 +136339,14 @@
         {
           "name": "Imprudencia",
           "original_name": "Imprudence",
-          "year": null,
+          "year": 2007,
           "director": [
             "Katell Quillévéré"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1647453",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selecao",
@@ -136336,7 +136354,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:imprudencia",
+          "key": "tt1647453",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -137307,14 +137325,14 @@
         {
           "name": "Mejor Es Que Gabriela No Se Muera",
           "original_name": null,
-          "year": null,
+          "year": 2007,
           "director": [
             "SERGIO UMANSKY"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0485129",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -137322,7 +137340,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:mejor-es-que-gabriela-no-se-muera",
+          "key": "tt0485129",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -138915,14 +138933,14 @@
         {
           "name": "Os Fragmentos de Tracey",
           "original_name": "The Tracey Fragments",
-          "year": null,
+          "year": 2007,
           "director": [
             "BRUCE MC DONALD"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0801526",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -138930,7 +138948,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:os-fragmentos-de-tracey",
+          "key": "tt0801526",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -140236,14 +140254,14 @@
         {
           "name": "Solstício de Verão",
           "original_name": "The Summer Solstice",
-          "year": null,
+          "year": 2007,
           "director": [
             "LI RUIJUN"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt17323432",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -140251,7 +140269,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:solsticio-de-verao",
+          "key": "tt17323432",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -141194,14 +141212,14 @@
         {
           "name": "Vida Selvagem",
           "original_name": "Das Wilde Leben",
-          "year": null,
+          "year": 2007,
           "director": [
             "ACHIM BORNHAK"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0764639",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -141209,7 +141227,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:vida-selvagem",
+          "key": "tt0764639",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -144319,14 +144337,14 @@
         {
           "name": "Fabricando Tom Zé",
           "original_name": null,
-          "year": null,
+          "year": 2006,
           "director": [
             "DECIO MATOS JR."
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0886487",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -144334,7 +144352,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:fabricando-tom-ze",
+          "key": "tt0886487",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -145426,14 +145444,14 @@
         {
           "name": "Little Red Flowers",
           "original_name": "Kan Shang Qu Hen Mei",
-          "year": null,
+          "year": 2006,
           "director": [
             "Zhang Yuan"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0492473",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -145441,20 +145459,20 @@
               "result": "selected"
             }
           ],
-          "key": "t:little-red-flowers",
+          "key": "tt0492473",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Lúcido",
           "original_name": null,
-          "year": null,
+          "year": 2005,
           "director": [
             "Sean Garrity "
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0434165",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -145462,7 +145480,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:lucido",
+          "key": "tt0434165",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -146068,14 +146086,14 @@
         {
           "name": "Negativos de Mc Laren",
           "original_name": "Mc Laren’s Negatives",
-          "year": null,
+          "year": 2006,
           "director": [
             "MARIE JOSÉE SAINT PIERRE"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1432071",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selecao",
@@ -146083,7 +146101,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:negativos-de-mc-laren",
+          "key": "tt1432071",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -147993,14 +148011,14 @@
         {
           "name": "Remissão",
           "original_name": null,
-          "year": null,
+          "year": 2007,
           "director": [
             "SILVIO COUTINHO"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt6448700",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -148008,7 +148026,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:remissao",
+          "key": "tt6448700",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -148511,14 +148529,14 @@
         {
           "name": "Still Life",
           "original_name": "Sanxia Haoren",
-          "year": null,
+          "year": 2006,
           "director": [
             "Jia Zhangke "
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0859765",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -148526,7 +148544,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:still-life",
+          "key": "tt0859765",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -151552,14 +151570,14 @@
         {
           "name": "Dumplings",
           "original_name": "Gaudzi",
-          "year": null,
+          "year": 2004,
           "director": [
             "FRUIT CHAN"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0472458",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -151567,7 +151585,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:dumplings",
+          "key": "tt0472458",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -152204,14 +152222,14 @@
         {
           "name": "Frozen",
           "original_name": null,
-          "year": null,
+          "year": 2005,
           "director": [
             "JULIET MC KOEN"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0376606",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -152219,7 +152237,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:frozen",
+          "key": "tt0376606",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -153660,14 +153678,14 @@
         {
           "name": "Mongolian Ping Pong",
           "original_name": "Lü Cao Di",
-          "year": null,
+          "year": 2005,
           "director": [
             "NING HAO"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0461804",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -153675,20 +153693,20 @@
               "result": "selected"
             }
           ],
-          "key": "t:mongolian-ping-pong",
+          "key": "tt0461804",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Moolaadé",
           "original_name": null,
-          "year": null,
+          "year": 2003,
           "director": [
             "OUSMANE SEMBENE E THIERNO FATY SOW"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0416991",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -153696,7 +153714,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:moolaade",
+          "key": "tt0416991",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -153806,14 +153824,14 @@
         {
           "name": "Muxe’s: Auténticas, Intrépidas Buscadoras Del Peligro",
           "original_name": null,
-          "year": null,
+          "year": 2005,
           "director": [
             "ALEJANDRA ISLAS"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0481952",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -153821,7 +153839,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:muxes-autenticas-intrepidas-buscadoras-del-peligro",
+          "key": "tt0481952",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -153908,15 +153926,15 @@
         {
           "name": "Noiva Do Silêncio",
           "original_name": "Hat Mua Roi Bao Lau",
-          "year": null,
+          "year": 2005,
           "director": [
             "DOAN MINH PHUONG",
             "DOAN THANH NGHIA"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0449972",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -153924,7 +153942,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:noiva-do-silencio",
+          "key": "tt0449972",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -154730,14 +154748,14 @@
         {
           "name": "O Rouxinol",
           "original_name": "Le Rossignol",
-          "year": null,
+          "year": 2005,
           "director": [
             "CHRISTIAN CHAUDER"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0457121",
           "wikidata_id": null,
-          "type": null,
+          "type": "tvMovie",
           "categories": [
             {
               "id": "selecao",
@@ -154745,7 +154763,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-rouxinol",
+          "key": "tt0457121",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -156017,14 +156035,14 @@
         {
           "name": "Selva",
           "original_name": "Rengeteg",
-          "year": null,
+          "year": 2003,
           "director": [
             "BENEDEK FLIEGAUG"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0358670",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -156032,7 +156050,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:selva",
+          "key": "tt0358670",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -156161,14 +156179,14 @@
         {
           "name": "Seven Swords",
           "original_name": "Qi Jian/Seven Swords",
-          "year": null,
+          "year": 2005,
           "director": [
             "Tsui Hark"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0429078",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -156176,7 +156194,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:seven-swords",
+          "key": "tt0429078",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -157504,14 +157522,14 @@
         {
           "name": "@Festivbercine.Ron",
           "original_name": null,
-          "year": null,
+          "year": 2004,
           "director": [
             "LOURDES ELIZARRÁS"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0432690",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -157519,7 +157537,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:festivbercine-ron",
+          "key": "tt0432690",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -158075,14 +158093,14 @@
         {
           "name": "A Pessoa É Para o Que Nasce",
           "original_name": null,
-          "year": null,
+          "year": 2003,
           "director": [
             "Roberto Berliner"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0390942",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -158090,7 +158108,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-pessoa-e-para-o-que-nasce",
+          "key": "tt0390942",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -158423,14 +158441,14 @@
         {
           "name": "Amanhecer",
           "original_name": "Om Jag Vänder Mig Om",
-          "year": null,
+          "year": 2003,
           "director": [
             "BJÖRN RUNGES"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0347457",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -158438,7 +158456,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:amanhecer",
+          "key": "tt0347457",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -159325,14 +159343,14 @@
         {
           "name": "Conseqüências",
           "original_name": "Lad de Små Born",
-          "year": null,
+          "year": 2004,
           "director": [
             "PAPRIKA STEEN"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0386582",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -159340,7 +159358,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:consequencias",
+          "key": "tt0386582",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -159775,14 +159793,14 @@
         {
           "name": "Dracula: Páginas Do Diário de uma Virgem",
           "original_name": "Dracula: Pages From a Virgin´s Diary",
-          "year": null,
+          "year": 2002,
           "director": [
             "Guy Maddin"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0293113",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -159790,7 +159808,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:dracula-paginas-do-diario-de-uma-virgem",
+          "key": "tt0293113",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -160787,14 +160805,14 @@
         {
           "name": "Herói",
           "original_name": "Ying Xiong",
-          "year": null,
+          "year": 2002,
           "director": [
             "Zhang Yimou"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0299977",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -160802,7 +160820,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:heroi",
+          "key": "tt0299977",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -161542,14 +161560,14 @@
         {
           "name": "Não Vivemos Mais Aqui",
           "original_name": "We Don´t Live Here Anymore",
-          "year": null,
+          "year": 2004,
           "director": [
             "JOHN CURRAN"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0361309",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -161557,7 +161575,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:nao-vivemos-mais-aqui",
+          "key": "tt0361309",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -162538,14 +162556,14 @@
         {
           "name": "Os Educadores",
           "original_name": "Fetten Jahre Sind Vorbei Die",
-          "year": null,
+          "year": 2004,
           "director": [
             "Hans Weingartner"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0408777",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -162553,7 +162571,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:os-educadores",
+          "key": "tt0408777",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -164668,14 +164686,14 @@
         {
           "name": "A Água… O Fogo",
           "original_name": "L´acqua... Il Fuoco",
-          "year": null,
+          "year": 2003,
           "director": [
             "LUCIANO EMMER"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0330252",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -164683,7 +164701,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-agua-o-fogo",
+          "key": "tt0330252",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -166672,15 +166690,15 @@
         },
         {
           "name": "Devot",
-          "original_name": null,
-          "year": null,
+          "original_name": "Devot",
+          "year": 2003,
           "director": [
             "IGOR ZARITZKI"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0331231",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -166688,7 +166706,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:devot",
+          "key": "tt0331231",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -168776,15 +168794,15 @@
         {
           "name": "O Agrimensor",
           "original_name": "L?arpenteur",
-          "year": null,
+          "year": 2001,
           "director": [
             "SARAH PETIT",
             "MICHEL KLEIN"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0325010",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -168792,7 +168810,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-agrimensor",
+          "key": "tt0325010",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -169389,14 +169407,14 @@
         {
           "name": "O Signo do Caos",
           "original_name": null,
-          "year": null,
+          "year": 2005,
           "director": [
             "Rogério Sganzerla"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0389377",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -169404,7 +169422,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-signo-do-caos",
+          "key": "tt0389377",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -169575,14 +169593,14 @@
         {
           "name": "Os Zafiros - Música Do Princípio Do Tempo",
           "original_name": "Los Zafiros - Music From the Edge of Time",
-          "year": null,
+          "year": 2002,
           "director": [
             "LORENZO DE STEFANO"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0380506",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -169590,7 +169608,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:os-zafiros-musica-do-principio-do-tempo",
+          "key": "tt0380506",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -170002,14 +170020,14 @@
         {
           "name": "Puro",
           "original_name": "Pure",
-          "year": null,
+          "year": 2002,
           "director": [
             "GILLIES MAC KINNON"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0308772",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -170017,7 +170035,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:puro",
+          "key": "tt0308772",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -170085,14 +170103,14 @@
         {
           "name": "Recife/Sevilha - João Cabral de Melo Neto",
           "original_name": null,
-          "year": null,
+          "year": 2003,
           "director": [
             "BEBETO ABRANTES"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt14781672",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -170100,7 +170118,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:recife-sevilha-joao-cabral-de-melo-neto",
+          "key": "tt14781672",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -170190,15 +170208,15 @@
         },
         {
           "name": "Robinson’s Crusoe",
-          "original_name": null,
-          "year": null,
+          "original_name": "Lu bin xun piao liu ji",
+          "year": 2003,
           "director": [
             "LIN CHENG SHENG"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0340642",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -170206,7 +170224,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:robinsons-crusoe",
+          "key": "tt0340642",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -173508,14 +173526,14 @@
         {
           "name": "Falcões",
           "original_name": "Fálkar",
-          "year": null,
+          "year": 2002,
           "director": [
             "Fridrik Thór Fridriksson"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0317469",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -173523,7 +173541,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:falcoes",
+          "key": "tt0317469",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -173650,14 +173668,14 @@
         {
           "name": "Free Dogma",
           "original_name": "Free Dogme",
-          "year": null,
+          "year": 2000,
           "director": [
             "ROGER NARBONNE"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3120890",
           "wikidata_id": null,
-          "type": null,
+          "type": "video",
           "categories": [
             {
               "id": "selecao",
@@ -173665,7 +173683,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:free-dogma",
+          "key": "tt3120890",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -174506,14 +174524,14 @@
         {
           "name": "Made in Iceland",
           "original_name": "Gemsar",
-          "year": null,
+          "year": 2002,
           "director": [
             "MIKAEL TORFASON"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0309626",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -174521,7 +174539,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:made-in-iceland",
+          "key": "tt0309626",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -174998,15 +175016,15 @@
         {
           "name": "No Bar",
           "original_name": null,
-          "year": null,
+          "year": 2002,
           "director": [
             "PAULO DE TARSO MENDONÇA",
             "CLEITON STRINGHINI"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0353811",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selecao",
@@ -175014,7 +175032,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:no-bar",
+          "key": "tt0353811",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -176065,14 +176083,14 @@
         {
           "name": "Para Onde Foram Todas as Flores?",
           "original_name": "Where Have All the Flowers Gone?",
-          "year": null,
+          "year": 2002,
           "director": [
             "GAO XIAOSONG"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0385893",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -176080,7 +176098,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:para-onde-foram-todas-as-flores",
+          "key": "tt0385893",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -176147,14 +176165,14 @@
         {
           "name": "Passagem Azul",
           "original_name": "Blue Gate Crossing",
-          "year": null,
+          "year": 2002,
           "director": [
             "YEE CHIH YEN"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0333764",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -176162,7 +176180,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:passagem-azul",
+          "key": "tt0333764",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -178106,14 +178124,14 @@
         {
           "name": "Águas Turvas",
           "original_name": "Treading Water",
-          "year": null,
+          "year": 2001,
           "director": [
             "LAUREN HIMMEL"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0287045",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -178121,7 +178139,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:aguas-turvas",
+          "key": "tt0287045",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -178494,14 +178512,14 @@
         {
           "name": "Breve Encontro",
           "original_name": "Bird in the Wire",
-          "year": null,
+          "year": 2001,
           "director": [
             "PHILLIP DONNELLONN"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0283264",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selecao",
@@ -178509,7 +178527,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:breve-encontro",
+          "key": "tt0283264",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -178762,14 +178780,14 @@
         {
           "name": "Cool and Crazy",
           "original_name": "Heftig Og Begeistret",
-          "year": null,
+          "year": 2001,
           "director": [
             "KNUT ERIK JENSEN"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0276189",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -178777,7 +178795,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:cool-and-crazy",
+          "key": "tt0276189",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -179777,14 +179795,14 @@
         {
           "name": "Homem Das Multidões",
           "original_name": "L?homme Des Foules",
-          "year": null,
+          "year": 2001,
           "director": [
             "JOHN LVOFF"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0250427",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -179792,20 +179810,20 @@
               "result": "selected"
             }
           ],
-          "key": "t:homem-das-multidoes",
+          "key": "tt0250427",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Honra Da Casa",
           "original_name": "Ungfrúin Góda Og Húsid",
-          "year": null,
+          "year": 1999,
           "director": [
             "GUDNY HALLDÓRSDÓTTIR"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0173387",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -179813,7 +179831,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:honra-da-casa",
+          "key": "tt0173387",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -179901,14 +179919,14 @@
         {
           "name": "Imperatriz Do Carnaval",
           "original_name": null,
-          "year": null,
+          "year": 2004,
           "director": [
             "MEDEIROS SCHULTZ"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1253577",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -179916,7 +179934,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:imperatriz-do-carnaval",
+          "key": "tt1253577",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -179982,14 +180000,14 @@
         {
           "name": "Irmãos Waikiki",
           "original_name": "Waikiki Brothers",
-          "year": null,
+          "year": 2001,
           "director": [
             "IM SOONRYE"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0297462",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -179997,7 +180015,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:irmaos-waikiki",
+          "key": "tt0297462",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -180407,14 +180425,14 @@
         {
           "name": "Meu Compadre, Zé Ketti",
           "original_name": null,
-          "year": null,
+          "year": 2003,
           "director": [
             "NELSON PEREIRA DOS SANTOS"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0318441",
           "wikidata_id": null,
-          "type": null,
+          "type": "video",
           "categories": [
             {
               "id": "selecao",
@@ -180422,7 +180440,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:meu-compadre-ze-ketti",
+          "key": "tt0318441",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -180815,14 +180833,14 @@
         {
           "name": "O Astronauta Americano",
           "original_name": "The American Astronaut",
-          "year": null,
+          "year": 2001,
           "director": [
             "CORY MC ABEE"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0243759",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -180830,7 +180848,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-astronauta-americano",
+          "key": "tt0243759",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -180857,14 +180875,14 @@
         {
           "name": "O Caminho Para Kandahar",
           "original_name": "Safar E Gandehar",
-          "year": null,
+          "year": 2001,
           "director": [
             "Mohsen Makhmalbaf"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0283431",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -180872,7 +180890,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-caminho-para-kandahar",
+          "key": "tt0283431",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -181551,14 +181569,14 @@
         {
           "name": "Pachito Rex",
           "original_name": "Pachito Rex, Me Voy Pero No Del Todo",
-          "year": null,
+          "year": 2001,
           "director": [
             "FABIÁN HOFFMAN"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0280001",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -181566,7 +181584,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:pachito-rex",
+          "key": "tt0280001",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -182951,14 +182969,14 @@
         {
           "name": "A Enfermeira Betty",
           "original_name": "Nurse Betty",
-          "year": null,
+          "year": 2000,
           "director": [
             "NEIL LA BUTE"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0171580",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -182966,7 +182984,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-enfermeira-betty",
+          "key": "tt0171580",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -183516,14 +183534,14 @@
         {
           "name": "Amor Proibido",
           "original_name": "Chunhy Ang",
-          "year": null,
+          "year": 2000,
           "director": [
             "IM KWON TAEK"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0245837",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -183531,7 +183549,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:amor-proibido",
+          "key": "tt0245837",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -183597,14 +183615,14 @@
         {
           "name": "Anjos Do Universo",
           "original_name": "Angels of the Universe",
-          "year": null,
+          "year": 2000,
           "director": [
             "Fridrik Thór Fridriksson"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0233651",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -183612,7 +183630,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:anjos-do-universo",
+          "key": "tt0233651",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -184205,14 +184223,14 @@
         {
           "name": "Cheiradores de Cola",
           "original_name": "Huelepega",
-          "year": null,
+          "year": 1999,
           "director": [
             "ELIA SCHNEIDER"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0229414",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -184220,7 +184238,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:cheiradores-de-cola",
+          "key": "tt0229414",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -184369,14 +184387,14 @@
         {
           "name": "Crazy English",
           "original_name": "Fengkuang Yingyu",
-          "year": null,
+          "year": 1999,
           "director": [
             "Zhang Yuan"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0210677",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -184384,7 +184402,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:crazy-english",
+          "key": "tt0210677",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -185491,14 +185509,14 @@
         {
           "name": "Histórias Reais",
           "original_name": "True Stories",
-          "year": null,
+          "year": 2002,
           "director": [
             "Murad M. Ibragimbekov"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0322787",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -185506,7 +185524,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:historias-reais",
+          "key": "tt0322787",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -186698,14 +186716,14 @@
         {
           "name": "O Malandro e a Donzela",
           "original_name": "Shark Skin Man and Peach Hip Girl",
-          "year": null,
+          "year": 1998,
           "director": [
             "KATSUHITO ISHI"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0169222",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -186713,7 +186731,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-malandro-e-a-donzela",
+          "key": "tt0169222",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -187110,14 +187128,14 @@
         {
           "name": "Os Irmãos Willians",
           "original_name": "The Willians Brothers",
-          "year": null,
+          "year": 2000,
           "director": [
             "RICARDO DANTAS"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0298937",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selecao",
@@ -187125,7 +187143,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:os-irmaos-willians",
+          "key": "tt0298937",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -188004,14 +188022,14 @@
         {
           "name": "Senta a Pua!",
           "original_name": null,
-          "year": null,
+          "year": 1999,
           "director": [
             "Erik de Castro"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0320443",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -188019,7 +188037,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:senta-a-pua",
+          "key": "tt0320443",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -188270,15 +188288,15 @@
         },
         {
           "name": "Time and Tide",
-          "original_name": null,
-          "year": null,
+          "original_name": "Shun liu ni liu",
+          "year": 2000,
           "director": [
             "Tsui Hark"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0251433",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -188286,7 +188304,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:time-and-tide",
+          "key": "tt0251433",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -189983,14 +190001,14 @@
         {
           "name": "Minazuki",
           "original_name": null,
-          "year": null,
+          "year": 1999,
           "director": [
             "MOCHIZUKI ROKURO"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0210173",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -189998,7 +190016,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:minazuki",
+          "key": "tt0210173",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -191313,12 +191331,12 @@
         {
           "name": "A Vaca",
           "original_name": "The Cow",
-          "year": null,
+          "year": 1994,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0110281",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -191326,7 +191344,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-vaca",
+          "key": "tt0110281",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -192491,14 +192509,14 @@
         {
           "name": "O Ano Após Dayton",
           "original_name": "Das Jahr Nach Dayton",
-          "year": null,
+          "year": 1997,
           "director": [
             "NIKOLAUS GEYHALTER"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0133027",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -192506,7 +192524,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-ano-apos-dayton",
+          "key": "tt0133027",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -192878,14 +192896,14 @@
         {
           "name": "O Toque Do Oboé",
           "original_name": "A La Muerte Llegaremos Vivos",
-          "year": null,
+          "year": 1998,
           "director": [
             "CLAUDIO MAC DOWELL"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0197049",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -192893,7 +192911,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-toque-do-oboe",
+          "key": "tt0197049",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -193751,14 +193769,14 @@
         {
           "name": "Você Sozinho Não Pode Ver",
           "original_name": "You Alone Can`t See",
-          "year": null,
+          "year": 1998,
           "director": [
             "TOMOYUKI AKAISHI"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0923754",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -193766,7 +193784,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:voce-sozinho-nao-pode-ver",
+          "key": "tt0923754",
           "first_seen": "2026-09-28T11:26:30.375Z"
         }
       ]
@@ -193821,14 +193839,14 @@
         {
           "name": "A Ilha Do Diabo",
           "original_name": "Devil’s Island",
-          "year": null,
+          "year": 1996,
           "director": [
             "Fridrik Thór Fridriksson"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0116116",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -193836,7 +193854,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-ilha-do-diabo",
+          "key": "tt0116116",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -194046,14 +194064,14 @@
         {
           "name": "Champagne Safári",
           "original_name": "The Saffari Champagne",
-          "year": null,
+          "year": 1995,
           "director": [
             "GEORGE UNGAR"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0112657",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -194061,7 +194079,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:champagne-safari",
+          "key": "tt0112657",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -194480,14 +194498,14 @@
         {
           "name": "Fique Frio",
           "original_name": "Keep Cool",
-          "year": null,
+          "year": 1997,
           "director": [
             "Zhang Yimou"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0120543",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -194495,7 +194513,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:fique-frio",
+          "key": "tt0120543",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -195496,15 +195514,15 @@
         },
         {
           "name": "O Testamento Do Senhor Napomuceno",
-          "original_name": null,
-          "year": null,
+          "original_name": "O Testamento do Senhor Napumoceno",
+          "year": 1997,
           "director": [
             "FRANCISCO MANSO"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0120313",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -195512,7 +195530,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-testamento-do-senhor-napomuceno",
+          "key": "tt0120313",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -196643,14 +196661,14 @@
         {
           "name": "Brasília, um Dia em Fevereiro",
           "original_name": null,
-          "year": null,
+          "year": 1997,
           "director": [
             "Maria Ramos"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0884850",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -196658,7 +196676,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:brasilia-um-dia-em-fevereiro",
+          "key": "tt0884850",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -196911,14 +196929,14 @@
         {
           "name": "Delicada Atração",
           "original_name": "Beautiful Thing",
-          "year": null,
+          "year": 1996,
           "director": [
             "HETTIE MAC DONALD"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0115640",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -196926,7 +196944,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:delicada-atracao",
+          "key": "tt0115640",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -197196,14 +197214,14 @@
         {
           "name": "Febre Gelada",
           "original_name": "Cold Fever",
-          "year": null,
+          "year": 1995,
           "director": [
             "Fridrik Thór Fridriksson"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0109028",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -197211,7 +197229,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:febre-gelada",
+          "key": "tt0109028",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -197421,15 +197439,15 @@
         },
         {
           "name": "Harry & Sonja",
-          "original_name": null,
-          "year": null,
+          "original_name": "Harry & Sonja",
+          "year": 1996,
           "director": [
             "BJÖRN RUNGES"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0116494",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -197437,20 +197455,20 @@
               "result": "selected"
             }
           ],
-          "key": "t:harry-sonja",
+          "key": "tt0116494",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Hu Du Men",
-          "original_name": null,
-          "year": null,
+          "original_name": "Hu Du Men",
+          "year": 1996,
           "director": [
             "SHU KEI"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0116576",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -197458,7 +197476,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:hu-du-men",
+          "key": "tt0116576",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -197669,14 +197687,14 @@
         {
           "name": "Maborosi",
           "original_name": "Maborosi No Hikari",
-          "year": null,
+          "year": 1995,
           "director": [
             "Hirokazu Kore-eda"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0113725",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -197684,7 +197702,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:maborosi",
+          "key": "tt0113725",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -199308,14 +199326,14 @@
         {
           "name": "Tropical Fish",
           "original_name": "Re Dai Yu",
-          "year": null,
+          "year": 1995,
           "director": [
             "CHEN YU HSUN"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0117970",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -199323,7 +199341,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:tropical-fish",
+          "key": "tt0117970",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -201253,14 +201271,14 @@
         {
           "name": "La Vie Rebours",
           "original_name": null,
-          "year": null,
+          "year": 1995,
           "director": [
             "GAËL MOREL"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0111623",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selecao",
@@ -201268,7 +201286,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:la-vie-rebours",
+          "key": "tt0111623",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -204541,14 +204559,14 @@
         {
           "name": "Estamos Aí, John...",
           "original_name": "There We Are, John...",
-          "year": null,
+          "year": 1994,
           "director": [
             "KEN MC MULLEN"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0108322",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selecao",
@@ -204556,7 +204574,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:estamos-ai-john",
+          "key": "tt0108322",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -205829,14 +205847,14 @@
         {
           "name": "Ninguém Me Ama",
           "original_name": "Personne Ne M` Aime",
-          "year": null,
+          "year": 1994,
           "director": [
             "MARION VERNOUX"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0110816",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -205844,7 +205862,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:ninguem-me-ama",
+          "key": "tt0110816",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -207361,14 +207379,14 @@
         {
           "name": "Tio Vânia em Nova York",
           "original_name": "Vanya on 42 Nd Street",
-          "year": null,
+          "year": 1994,
           "director": [
             "LOUIS MALLE"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0111590",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -207376,7 +207394,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:tio-vania-em-nova-york",
+          "key": "tt0111590",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -207543,14 +207561,14 @@
         {
           "name": "Trotsky",
           "original_name": null,
-          "year": null,
+          "year": 1994,
           "director": [
             "LEONID MARYAGIN"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0108396",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -207558,7 +207576,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:trotsky",
+          "key": "tt0108396",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -210194,14 +210212,14 @@
         {
           "name": "Os Filhos Da Natureza",
           "original_name": "Börn Nàttúrunnar",
-          "year": null,
+          "year": 1991,
           "director": [
             "Fridrik Thór Fridriksson"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0101526",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -210209,7 +210227,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:os-filhos-da-natureza",
+          "key": "tt0101526",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -210626,15 +210644,15 @@
         {
           "name": "Sou um Viciado em Sexo",
           "original_name": "I Am Sex Addict",
-          "year": null,
+          "year": 1993,
           "director": [
             "VIKRAM JAYANTI",
             "JOHN POWERS"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0192150",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -210642,7 +210660,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:sou-um-viciado-em-sexo",
+          "key": "tt0192150",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -211328,14 +211346,14 @@
         {
           "name": "Wallpaper, um Romance Erótico",
           "original_name": "Veggfódur, Erótísk Astarsaga",
-          "year": null,
+          "year": 1992,
           "director": [
             "JÚLÍUS KEMP"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0108478",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -211343,7 +211361,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:wallpaper-um-romance-erotico",
+          "key": "tt0108478",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -211788,14 +211806,14 @@
         {
           "name": "Cães de Aluguel",
           "original_name": "Reservoir Dogs",
-          "year": null,
+          "year": 1992,
           "director": [
             "QUENTIN TARANTINO"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0105236",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -211803,7 +211821,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:caes-de-aluguel",
+          "key": "tt0105236",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -212180,14 +212198,14 @@
         {
           "name": "El Juego de Mensajes Invisibles",
           "original_name": null,
-          "year": null,
+          "year": 1992,
           "director": [
             "Juan Pinzás"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0102169",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -212195,7 +212213,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:el-juego-de-mensajes-invisibles",
+          "key": "tt0102169",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -212749,14 +212767,14 @@
         {
           "name": "Mulheres de Saia",
           "original_name": "Donne Con Le Gonne",
-          "year": null,
+          "year": 1991,
           "director": [
             "FRANCESCO NUTTI"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0104122",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -212764,7 +212782,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:mulheres-de-saia",
+          "key": "tt0104122",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -213015,14 +213033,14 @@
         {
           "name": "O Homem Da Minha Vida",
           "original_name": "L` Homme de Ma Vie",
-          "year": null,
+          "year": 1992,
           "director": [
             "JEAN CHARLES TACCHELLA"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0104435",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -213030,7 +213048,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-homem-da-minha-vida",
+          "key": "tt0104435",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -213585,14 +213603,14 @@
         {
           "name": "Romance Proibido",
           "original_name": "The Playboys",
-          "year": null,
+          "year": 1992,
           "director": [
             "GILLIES MAC KINNON"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0105150",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -213600,7 +213618,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:romance-proibido",
+          "key": "tt0105150",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -215544,14 +215562,14 @@
         {
           "name": "Lua Fria",
           "original_name": "Lune Froide",
-          "year": null,
+          "year": 1991,
           "director": [
             "PATRICK BOUCHITEY"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0102358",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -215559,7 +215577,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:lua-fria",
+          "key": "tt0102358",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -215917,14 +215935,14 @@
         {
           "name": "O Despertar Do Desejo",
           "original_name": "L` Année de L` Éveil",
-          "year": null,
+          "year": 1991,
           "director": [
             "GÉRARD CORBIAU"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0101354",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -215932,7 +215950,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-despertar-do-desejo",
+          "key": "tt0101354",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -217032,14 +217050,14 @@
         {
           "name": "Um Dia Inesquecível",
           "original_name": "Aujourd` Hui Peut Être",
-          "year": null,
+          "year": 1991,
           "director": [
             "JEAN LOUIS BERTUCELLI"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0101382",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -217047,7 +217065,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:um-dia-inesquecivel",
+          "key": "tt0101382",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -217289,14 +217307,14 @@
         {
           "name": "Andorinhas Por um Fio",
           "original_name": "Skrivánci Na Niti",
-          "year": null,
+          "year": 1969,
           "director": [
             "JIRI MENZEL"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0064994",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -217304,7 +217322,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:andorinhas-por-um-fio",
+          "key": "tt0064994",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -220779,14 +220797,14 @@
         {
           "name": "Os Dois Fragonard",
           "original_name": "Les Deux Fragonard",
-          "year": null,
+          "year": 1989,
           "director": [
             "PHILIPPE LE GUAY"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0097192",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -220794,7 +220812,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:os-dois-fragonard",
+          "key": "tt0097192",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -222132,14 +222150,14 @@
         {
           "name": "Partilha",
           "original_name": "Partition",
-          "year": null,
+          "year": 1987,
           "director": [
             "KEN MC MULLEN"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0093704",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -222147,7 +222165,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:partilha",
+          "key": "tt0093704",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -222792,12 +222810,12 @@
         {
           "name": "Academy Leader Variations",
           "original_name": null,
-          "year": null,
+          "year": 1987,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0242248",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selecao",
@@ -222805,7 +222823,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:academy-leader-variations",
+          "key": "tt0242248",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -225156,14 +225174,14 @@
         {
           "name": "Morena",
           "original_name": null,
-          "year": null,
+          "year": 1986,
           "director": [
             "ANSSI MÄNTÄRI"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0091552",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -225171,7 +225189,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:morena",
+          "key": "tt0091552",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -228054,14 +228072,14 @@
         {
           "name": "A Longa Viagem",
           "original_name": null,
-          "year": null,
+          "year": 1985,
           "director": [
             "CHICO BOTELHO"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4706632",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selecao",
@@ -228069,7 +228087,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-longa-viagem",
+          "key": "tt4706632",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -228527,14 +228545,14 @@
         {
           "name": "Estranhos no Paraíso",
           "original_name": "Stranger than Paradise",
-          "year": null,
+          "year": 1984,
           "director": [
             "Jim Jarmusch"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0088184",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -228542,7 +228560,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:estranhos-no-paraiso",
+          "key": "tt0088184",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -230445,15 +230463,15 @@
         },
         {
           "name": "Gestos e Fragmentos",
-          "original_name": null,
-          "year": null,
+          "original_name": "Gestos & Fragmentos",
+          "year": 1982,
           "director": [
             "ALBERTO SEIXAS SANTOS"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0083997",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -230461,7 +230479,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:gestos-e-fragmentos",
+          "key": "tt0083997",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -230999,14 +231017,14 @@
         {
           "name": "Um Outro Jeito",
           "original_name": "Egymásra Nézve",
-          "year": null,
+          "year": 1982,
           "director": [
             "KÁROLY MAKK"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0083872",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -231014,7 +231032,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:um-outro-jeito",
+          "key": "tt0083872",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -231602,14 +231620,14 @@
         {
           "name": "O Santo E a Vedete",
           "original_name": null,
-          "year": null,
+          "year": 1982,
           "director": [
             "Luiz Rosemberg Filho"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0197850",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -231617,7 +231635,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-santo-e-a-vedete",
+          "key": "tt0197850",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -231951,14 +231969,14 @@
         {
           "name": "Yol",
           "original_name": null,
-          "year": null,
+          "year": 1982,
           "director": [
             "Yılmaz Güney"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0084934",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -231966,7 +231984,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:yol",
+          "key": "tt0084934",
           "first_seen": "2026-09-28T11:26:30.375Z"
         }
       ]
@@ -234017,12 +234035,12 @@
         {
           "name": "Recado de Chile",
           "original_name": null,
-          "year": null,
+          "year": 1979,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2943402",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selecao",
@@ -234030,7 +234048,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:recado-de-chile",
+          "key": "tt2943402",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -235128,14 +235146,14 @@
         {
           "name": "Torre Bela",
           "original_name": null,
-          "year": null,
+          "year": 1975,
           "director": [
             "Thomas Harlan"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0132055",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -235143,7 +235161,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:torre-bela",
+          "key": "tt0132055",
           "first_seen": "2026-09-28T11:26:30.375Z"
         }
       ]

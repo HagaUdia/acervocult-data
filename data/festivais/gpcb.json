@@ -2,7 +2,7 @@
   "id": "gpcb",
   "label": "Grande Prêmio do Cinema Brasileiro (Grande Otelo)",
   "kind": "award",
-  "updated_at": "2026-10-13T23:32:31.960Z",
+  "updated_at": "2026-11-16T10:52:36.918Z",
   "editions": [
     {
       "year": 2026,
@@ -1164,15 +1164,15 @@
         },
         {
           "name": "La misteriosa mirada del flamingo",
-          "original_name": null,
-          "year": null,
+          "original_name": "La misteriosa mirada del flamenco",
+          "year": 2025,
           "director": [],
           "people": [
             "Diego Céspedes"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt22237964",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "melhor-longa-metragem-ibero-americano",
@@ -1180,7 +1180,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:la-misteriosa-mirada-del-flamingo",
+          "key": "tt22237964",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -1303,12 +1303,12 @@
         {
           "name": "Amarela",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt32205774",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-de-ficcao",
@@ -1316,18 +1316,18 @@
               "result": "winner"
             }
           ],
-          "key": "t:amarela",
+          "key": "tt32205774",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Arame Farpado",
-          "original_name": null,
-          "year": null,
+          "original_name": "Arame farpado",
+          "year": 2025,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt35441599",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-de-ficcao",
@@ -1335,7 +1335,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:arame-farpado",
+          "key": "tt35441599",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -1379,12 +1379,12 @@
         {
           "name": "Peixe Morto",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt43031595",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-de-ficcao",
@@ -1392,7 +1392,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:peixe-morto",
+          "key": "tt43031595",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -1492,13 +1492,13 @@
         },
         {
           "name": "Replikka",
-          "original_name": null,
-          "year": null,
+          "original_name": "Replika",
+          "year": 2025,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt43500427",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-documentario",
@@ -1506,7 +1506,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:replikka",
+          "key": "tt43500427",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -1531,12 +1531,12 @@
         {
           "name": "Como Nasce um Rio",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt36626296",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-de-animacao",
@@ -1544,18 +1544,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:como-nasce-um-rio",
+          "key": "tt36626296",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Mãe da Manhã",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt36042489",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-de-animacao",
@@ -1563,7 +1563,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:mae-da-manha",
+          "key": "tt36042489",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -1607,12 +1607,12 @@
         {
           "name": "Uma Menina, um Rio",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt38795511",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-de-animacao",
@@ -1620,7 +1620,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:uma-menina-um-rio",
+          "key": "tt38795511",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -2924,12 +2924,12 @@
         {
           "name": "Helena de Guaratiba",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt34772766",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-de-ficcao",
@@ -2937,7 +2937,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:helena-de-guaratiba",
+          "key": "tt34772766",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -3002,12 +3002,12 @@
         {
           "name": "Zagêro",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt38946696",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-de-ficcao",
@@ -3015,7 +3015,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:zagero",
+          "key": "tt38946696",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -3040,12 +3040,12 @@
         {
           "name": "A Noite das Garrafadas",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt29549310",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-documentario",
@@ -3053,7 +3053,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:a-noite-das-garrafadas",
+          "key": "tt29549310",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -3116,12 +3116,12 @@
         {
           "name": "Vollúpya",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt16985534",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-documentario",
@@ -3129,18 +3129,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:vollupya",
+          "key": "tt16985534",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "A Menina e o Pote",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt32146261",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-de-animacao",
@@ -3148,7 +3148,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:a-menina-e-o-pote",
+          "key": "tt32146261",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -3193,12 +3193,12 @@
         {
           "name": "Hoje Eu Só Volto Amanhã",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt33298412",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-de-animacao",
@@ -3206,18 +3206,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:hoje-eu-so-volto-amanha",
+          "key": "tt33298412",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Kabuki",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt36983956",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-de-animacao",
@@ -3225,18 +3225,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:kabuki",
+          "key": "tt36983956",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Menino Monstro",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt33281485",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-de-animacao",
@@ -3244,7 +3244,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:menino-monstro",
+          "key": "tt33281485",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -3641,12 +3641,12 @@
         {
           "name": "Aumenta Que É Rock'n Roll",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt9221962",
           "wikidata_id": "Q125625635",
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "melhor-direcao",
@@ -3699,7 +3699,7 @@
               "result": "nominee"
             }
           ],
-          "key": "wd:Q125625635",
+          "key": "tt9221962",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -4139,12 +4139,12 @@
         {
           "name": "Nada Será Como Antes - A Música do Clube da Esquina",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt31921289",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "melhor-longa-metragem-documentario",
@@ -4152,7 +4152,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:nada-sera-como-antes-a-musica-do-clube-da-esquina",
+          "key": "tt31921289",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -4545,13 +4545,13 @@
         },
         {
           "name": "Os Animais Mais Fofos e Engraçados do Mundo",
-          "original_name": null,
-          "year": null,
+          "original_name": "Os Animais Mais Fofos e Engraçados do Mundo",
+          "year": 2023,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt26557869",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-de-ficcao",
@@ -4559,7 +4559,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:os-animais-mais-fofos-e-engracados-do-mundo",
+          "key": "tt26557869",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -4584,12 +4584,12 @@
         {
           "name": "Se Precisar de Algo",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt33265740",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-de-ficcao",
@@ -4597,7 +4597,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:se-precisar-de-algo",
+          "key": "tt33265740",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -4720,12 +4720,12 @@
         {
           "name": "Mulher Vestida de Sol",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt28465876",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-de-animacao",
@@ -4733,7 +4733,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:mulher-vestida-de-sol",
+          "key": "tt28465876",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -4777,12 +4777,12 @@
         {
           "name": "Lapso",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt30521212",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-de-animacao",
@@ -4790,7 +4790,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:lapso",
+          "key": "tt30521212",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -6145,12 +6145,12 @@
         {
           "name": "Big Bang",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt21284464",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-ficcao",
@@ -6158,7 +6158,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:big-bang",
+          "key": "tt21284464",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -6203,12 +6203,12 @@
         {
           "name": "Infantaria",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt20879118",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-ficcao",
@@ -6216,7 +6216,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:infantaria",
+          "key": "tt20879118",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -6241,12 +6241,12 @@
         {
           "name": "Último Domingo",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt22096568",
           "wikidata_id": "Q115840992",
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-ficcao",
@@ -6254,7 +6254,7 @@
               "result": "nominee"
             }
           ],
-          "key": "wd:Q115840992",
+          "key": "tt22096568",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -6279,12 +6279,12 @@
         {
           "name": "A Última Praga de Mojica",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt19494338",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-documentario",
@@ -6292,7 +6292,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:a-ultima-praga-de-mojica",
+          "key": "tt19494338",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -6393,12 +6393,12 @@
         {
           "name": "Meu Nome É Maalum",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt16254802",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-animacao",
@@ -6406,7 +6406,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:meu-nome-e-maalum",
+          "key": "tt16254802",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -7750,13 +7750,13 @@
         },
         {
           "name": "Céu de Agosto",
-          "original_name": null,
-          "year": null,
+          "original_name": "Céu de Agosto",
+          "year": 2021,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt14354724",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-ficcao",
@@ -7764,18 +7764,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:ceu-de-agosto",
+          "key": "tt14354724",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Chão de Fábrica",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt15727486",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-ficcao",
@@ -7783,18 +7783,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:chao-de-fabrica",
+          "key": "tt15727486",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Uma Paciência Selvagem Me Trouxe Até Aqui",
-          "original_name": null,
-          "year": null,
+          "original_name": "Uma Paciência Selvagem me Trouxe Até Aqui",
+          "year": 2021,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt15728022",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-ficcao",
@@ -7802,18 +7802,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:uma-paciencia-selvagem-me-trouxe-ate-aqui",
+          "key": "tt15728022",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Yaõkwa, Imagem e Memória",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt13929204",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-documentario",
@@ -7821,7 +7821,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:yaokwa-imagem-e-memoria",
+          "key": "tt13929204",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -7867,12 +7867,12 @@
         {
           "name": "Foi Um Tempo de Poesia",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt14939562",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-documentario",
@@ -7880,7 +7880,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:foi-um-tempo-de-poesia",
+          "key": "tt14939562",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -7924,12 +7924,12 @@
         {
           "name": "Aurora – A Rua Que Queria Ser Um Rio",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt14603094",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-animacao",
@@ -7937,7 +7937,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:aurora-a-rua-que-queria-ser-um-rio",
+          "key": "tt14603094",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -8946,12 +8946,12 @@
         {
           "name": "Os Under-Undergrounds, O Começo",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt9070758",
           "wikidata_id": "Q109279178",
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "melhor-longa-metragem-animacao",
@@ -8959,7 +8959,7 @@
               "result": "winner"
             }
           ],
-          "key": "wd:Q109279178",
+          "key": "tt9070758",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -9286,12 +9286,12 @@
         {
           "name": "5 Estrelas",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt11309690",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-ficcao",
@@ -9299,7 +9299,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:5-estrelas",
+          "key": "tt11309690",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -9343,12 +9343,12 @@
         {
           "name": "Perifericu",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt13516146",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-ficcao",
@@ -9356,18 +9356,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:perifericu",
+          "key": "tt13516146",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Receita de Caranguejo",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt13726844",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-ficcao",
@@ -9375,7 +9375,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:receita-de-caranguejo",
+          "key": "tt13726844",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -9418,13 +9418,13 @@
         },
         {
           "name": "Cinema Contemporâneo",
-          "original_name": null,
-          "year": null,
+          "original_name": "Cinema Contemporâneo",
+          "year": 2019,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt13663302",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-documentario",
@@ -9432,7 +9432,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:cinema-contemporaneo",
+          "key": "tt13663302",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -9457,12 +9457,12 @@
         {
           "name": "Minha História é Outra",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt13940978",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-documentario",
@@ -9470,18 +9470,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:minha-historia-e-outra",
+          "key": "tt13940978",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "O Que Pode um Corpo?",
-          "original_name": null,
-          "year": null,
+          "original_name": "O que pode um corpo?",
+          "year": 2020,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt13449158",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-documentario",
@@ -9489,7 +9489,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:o-que-pode-um-corpo",
+          "key": "tt13449158",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -9514,12 +9514,12 @@
         {
           "name": "Subsolo",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt13133456",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-animacao",
@@ -9527,7 +9527,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:subsolo",
+          "key": "tt13133456",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -9552,12 +9552,12 @@
         {
           "name": "O Homem das Gavetas",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt7551554",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-animacao",
@@ -9565,7 +9565,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:o-homem-das-gavetas",
+          "key": "tt7551554",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -10598,12 +10598,12 @@
         {
           "name": "Fevereiros",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt7683842",
           "wikidata_id": "Q86725869",
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "melhor-montagem-documentario",
@@ -10611,7 +10611,7 @@
               "result": "nominee"
             }
           ],
-          "key": "wd:Q86725869",
+          "key": "tt7683842",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -10858,12 +10858,12 @@
         {
           "name": "Viva Alfredinho!",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt13234938",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-documentario",
@@ -10871,7 +10871,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:viva-alfredinho",
+          "key": "tt13234938",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -10897,12 +10897,12 @@
         {
           "name": "Extratos",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt12396754",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-documentario",
@@ -10910,18 +10910,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:extratos",
+          "key": "tt12396754",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Fartura",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt13234882",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-documentario",
@@ -10929,18 +10929,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:fartura",
+          "key": "tt13234882",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Olhos D'água (TuãIngugu)",
-          "original_name": null,
-          "year": null,
+          "original_name": "Tuã Ingugu",
+          "year": 2019,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt11048212",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-documentario",
@@ -10948,18 +10948,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:olhos-dagua-tuaingugu",
+          "key": "tt11048212",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Ressurreição",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt12551930",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-animacao",
@@ -10967,7 +10967,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:ressurreicao",
+          "key": "tt12551930",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -10992,12 +10992,12 @@
         {
           "name": "Céu da Boca",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt12291002",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-animacao",
@@ -11005,18 +11005,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:ceu-da-boca",
+          "key": "tt12291002",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Poética de Barro",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt12415170",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-animacao",
@@ -11024,7 +11024,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:poetica-de-barro",
+          "key": "tt12415170",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -11049,12 +11049,12 @@
         {
           "name": "Sem Asas",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt13151452",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-ficcao",
@@ -11062,18 +11062,18 @@
               "result": "winner"
             }
           ],
-          "key": "t:sem-asas",
+          "key": "tt13151452",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Alfazema",
-          "original_name": null,
-          "year": null,
+          "original_name": "Alfazema",
+          "year": 2019,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt11193422",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-ficcao",
@@ -11081,7 +11081,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:alfazema",
+          "key": "tt11193422",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -11108,12 +11108,12 @@
         {
           "name": "Baile",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt11020498",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-ficcao",
@@ -11121,7 +11121,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:baile",
+          "key": "tt11020498",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -12153,12 +12153,12 @@
         {
           "name": "Cor De Pele",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt7828374",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-documentario",
@@ -12166,18 +12166,18 @@
               "result": "winner"
             }
           ],
-          "key": "t:cor-de-pele",
+          "key": "tt7828374",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Azul Vazante",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt12651584",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-documentario",
@@ -12185,7 +12185,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:azul-vazante",
+          "key": "tt12651584",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -12229,12 +12229,12 @@
         {
           "name": "Um Corpo Feminino",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt9500870",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-documentario",
@@ -12242,7 +12242,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:um-corpo-feminino",
+          "key": "tt9500870",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -12551,12 +12551,12 @@
         {
           "name": "Adeus À Carne",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5895080",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-ficcao",
@@ -12564,18 +12564,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:adeus-a-carne",
+          "key": "tt5895080",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Nova Iorque",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt7691660",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-ficcao",
@@ -12583,18 +12583,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:nova-iorque",
+          "key": "tt7691660",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Menino Pássaro",
-          "original_name": null,
-          "year": null,
+          "original_name": "Menino Pássaro",
+          "year": 2018,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt10642644",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-ficcao",
@@ -12602,18 +12602,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:menino-passaro",
+          "key": "tt10642644",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Peripatético",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5629718",
           "wikidata_id": "Q106710574",
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-ficcao",
@@ -12621,7 +12621,7 @@
               "result": "nominee"
             }
           ],
-          "key": "wd:Q106710574",
+          "key": "tt5629718",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -13394,12 +13394,12 @@
         {
           "name": "Soundtrack",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3332372",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "melhor-direcao-de-fotografia",
@@ -13412,7 +13412,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:soundtrack",
+          "key": "tt3332372",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -13457,13 +13457,13 @@
         },
         {
           "name": "La Vingança",
-          "original_name": null,
-          "year": null,
+          "original_name": "La Vingança",
+          "year": 2016,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2371365",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "melhor-longa-metragem-comedia",
@@ -13471,7 +13471,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:la-vinganca",
+          "key": "tt2371365",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -13796,12 +13796,12 @@
         {
           "name": "Em Busca da Terra Sem Males",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt7004698",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-documentario",
@@ -13809,7 +13809,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:em-busca-da-terra-sem-males",
+          "key": "tt7004698",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -13834,12 +13834,12 @@
         {
           "name": "O Quebra-Cabeça DE Sara",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt13272966",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-documentario",
@@ -13847,18 +13847,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:o-quebra-cabeca-de-sara",
+          "key": "tt13272966",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Vênus-Filó a Fadinha Lésbica",
-          "original_name": null,
-          "year": null,
+          "original_name": "Vênus : Filó, a Fadinha Lésbica",
+          "year": 2017,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt7824750",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-animacao",
@@ -13866,18 +13866,18 @@
               "result": "winner"
             }
           ],
-          "key": "t:venus-filo-a-fadinha-lesbica",
+          "key": "tt7824750",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Animais",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt6274252",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-animacao",
@@ -13885,7 +13885,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:animais",
+          "key": "tt6274252",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -13948,12 +13948,12 @@
         {
           "name": "Torre",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt7230136",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-animacao",
@@ -13961,7 +13961,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:torre",
+          "key": "tt7230136",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -14092,12 +14092,12 @@
         {
           "name": "De Tanto Olhar o Céu Gastei Meus Olhos",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt7143692",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-ficcao",
@@ -14105,7 +14105,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:de-tanto-olhar-o-ceu-gastei-meus-olhos",
+          "key": "tt7143692",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -14131,12 +14131,12 @@
         {
           "name": "Tentei",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt7612382",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-ficcao",
@@ -14144,18 +14144,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:tentei",
+          "key": "tt7612382",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "The Beast",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5845140",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-ficcao",
@@ -14163,18 +14163,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:the-beast",
+          "key": "tt5845140",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Vaca Profana",
-          "original_name": null,
-          "year": null,
+          "original_name": "Vaca Profana",
+          "year": 2017,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt7654112",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-ficcao",
@@ -14182,7 +14182,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:vaca-profana",
+          "key": "tt7654112",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -14635,14 +14635,14 @@
         {
           "name": "Clara",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [],
           "people": [
             "Sônia Braga"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt5480866",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-atriz",
@@ -14650,7 +14650,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:clara",
+          "key": "tt5480866",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -14823,14 +14823,14 @@
         {
           "name": "Sandra",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [
             "Alice Braga"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt5738732",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-atriz-coadjuvante",
@@ -14838,7 +14838,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:sandra",
+          "key": "tt5738732",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -14907,14 +14907,14 @@
         {
           "name": "Gilda",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [],
           "people": [
             "Sophie Charlotte"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt6298634",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "melhor-atriz-coadjuvante",
@@ -14922,7 +14922,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:gilda",
+          "key": "tt6298634",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -15447,12 +15447,12 @@
         {
           "name": "Buscando Helena",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt37286917",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-documentario",
@@ -15460,7 +15460,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:buscando-helena",
+          "key": "tt37286917",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -15485,12 +15485,12 @@
         {
           "name": "Abissal",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt6496838",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-documentario",
@@ -15498,7 +15498,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:abissal",
+          "key": "tt6496838",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -15523,12 +15523,12 @@
         {
           "name": "Índios no Poder",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt13405612",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-documentario",
@@ -15536,7 +15536,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:indios-no-poder",
+          "key": "tt13405612",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -15580,12 +15580,12 @@
         {
           "name": "Cartas",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5786926",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-animacao",
@@ -15593,7 +15593,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:cartas",
+          "key": "tt5786926",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -15618,12 +15618,12 @@
         {
           "name": "O Projeto Do Meu Pai",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt6477234",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-animacao",
@@ -15631,18 +15631,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:o-projeto-do-meu-pai",
+          "key": "tt6477234",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Quando Os Dias Eram Eternos",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt6069794",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-animacao",
@@ -15650,18 +15650,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:quando-os-dias-eram-eternos",
+          "key": "tt6069794",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Tango",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt6268834",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-animacao",
@@ -15669,7 +15669,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:tango",
+          "key": "tt6268834",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -15833,13 +15833,13 @@
         },
         {
           "name": "A Moça que Dançou com o Diabo",
-          "original_name": null,
-          "year": null,
+          "original_name": "A moça que dançou com o Diabo",
+          "year": 2016,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5645950",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-ficcao",
@@ -15847,7 +15847,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:a-moca-que-dancou-com-o-diabo",
+          "key": "tt5645950",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -15891,12 +15891,12 @@
         {
           "name": "Não Me Prometa Nada",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5713338",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-ficcao",
@@ -15904,7 +15904,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:nao-me-prometa-nada",
+          "key": "tt5713338",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -17029,7 +17029,7 @@
         {
           "name": "Brincante",
           "original_name": null,
-          "year": null,
+          "year": 2014,
           "director": [
             "Walter Carvalho"
           ],
@@ -17038,9 +17038,9 @@
             "Caio Gullane",
             "Debora Ivanov"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt3847420",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "melhor-documentario-de-longa-metragem",
@@ -17058,7 +17058,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:brincante",
+          "key": "tt3847420",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -17171,12 +17171,12 @@
         {
           "name": "Efeito Casimiro",
           "original_name": null,
-          "year": null,
+          "year": 2013,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3131536",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-documentario-de-curta-metragem",
@@ -17184,18 +17184,18 @@
               "result": "winner"
             }
           ],
-          "key": "t:efeito-casimiro",
+          "key": "tt3131536",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Do petróleo e do cinema",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt8966108",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-documentario-de-curta-metragem",
@@ -17203,7 +17203,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:do-petroleo-e-do-cinema",
+          "key": "tt8966108",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -17229,12 +17229,12 @@
         {
           "name": "Se essa lua fosse minha",
           "original_name": null,
-          "year": null,
+          "year": 2013,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3763446",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-documentario-de-curta-metragem",
@@ -17242,7 +17242,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:se-essa-lua-fosse-minha",
+          "key": "tt3763446",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -17325,13 +17325,13 @@
         },
         {
           "name": "A era de ouro",
-          "original_name": null,
-          "year": null,
+          "original_name": "A Era de Ouro",
+          "year": 2014,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4137992",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-de-ficcao",
@@ -17339,18 +17339,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:a-era-de-ouro",
+          "key": "tt4137992",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Nua por dentro do couro",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4759668",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-de-ficcao",
@@ -17358,7 +17358,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:nua-por-dentro-do-couro",
+          "key": "tt4759668",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -17428,12 +17428,12 @@
         {
           "name": "A pequena vendedora de fósforos",
           "original_name": null,
-          "year": null,
+          "year": 2014,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5093014",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-de-animacao",
@@ -17441,7 +17441,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:a-pequena-vendedora-de-fosforos",
+          "key": "tt5093014",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -17468,12 +17468,12 @@
         {
           "name": "Guida",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3839970",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-de-animacao",
@@ -17481,7 +17481,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:guida",
+          "key": "tt3839970",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -17506,12 +17506,12 @@
         {
           "name": "Viagem na chuva",
           "original_name": null,
-          "year": null,
+          "year": 2014,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3838594",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-de-animacao",
@@ -17519,7 +17519,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:viagem-na-chuva",
+          "key": "tt3838594",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -17684,17 +17684,17 @@
         },
         {
           "name": "Confissões de Adolescentes",
-          "original_name": null,
-          "year": null,
+          "original_name": "Confissões de Adolescente",
+          "year": 2013,
           "director": [
             "Daniel Filho"
           ],
           "people": [
             "Daniel Filho"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt2836364",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "melhor-longa-metragem-comedia",
@@ -17702,7 +17702,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:confissoes-de-adolescentes",
+          "key": "tt2836364",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -18670,14 +18670,14 @@
         {
           "name": "São Silvestre",
           "original_name": null,
-          "year": null,
+          "year": 2013,
           "director": [],
           "people": [
             "Lina Chamie"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt2165082",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "melhor-trilha-sonora",
@@ -18685,22 +18685,22 @@
               "result": "nominee"
             }
           ],
-          "key": "t:sao-silvestre",
+          "key": "tt2165082",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Flerte",
-          "original_name": null,
-          "year": null,
+          "original_name": "Flerte",
+          "year": 2014,
           "director": [
             "Hsu Chien"
           ],
           "people": [
             "Hsu Chien"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt3418594",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-ficcao",
@@ -18708,7 +18708,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:flerte",
+          "key": "tt3418594",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -20071,13 +20071,13 @@
         },
         {
           "name": "A Mão que Afaga",
-          "original_name": null,
-          "year": null,
+          "original_name": "A Mão Que Afaga",
+          "year": 2012,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2649330",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-ficcao",
@@ -20085,7 +20085,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:a-mao-que-afaga",
+          "key": "tt2649330",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -20108,13 +20108,13 @@
         },
         {
           "name": "A onda traz, o vento leva",
-          "original_name": null,
-          "year": null,
+          "original_name": "A Onda Traz, O Vento Leva",
+          "year": 2012,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2219208",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-ficcao",
@@ -20122,7 +20122,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:a-onda-traz-o-vento-leva",
+          "key": "tt2219208",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -21351,12 +21351,12 @@
         {
           "name": "Entre Muros",
           "original_name": null,
-          "year": null,
+          "year": 2011,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2156763",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-ficcao",
@@ -21364,18 +21364,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:entre-muros",
+          "key": "tt2156763",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Máscara Negra",
           "original_name": null,
-          "year": null,
+          "year": 2010,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1863333",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-ficcao",
@@ -21383,18 +21383,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:mascara-negra",
+          "key": "tt1863333",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Último Dia",
           "original_name": null,
-          "year": null,
+          "year": 2010,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5670206",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-ficcao",
@@ -21402,20 +21402,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:ultimo-dia",
+          "key": "tt5670206",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "A Verdadeira História da Bailarina de Vermelho",
           "original_name": null,
-          "year": null,
+          "year": 2010,
           "director": [],
           "people": [
             "Samir Abujamra"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt1780759",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-documentario",
@@ -21423,7 +21423,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:a-verdadeira-historia-da-bailarina-de-vermelho",
+          "key": "tt1780759",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -21468,12 +21468,12 @@
         {
           "name": "Ovos de Dinossauro na Sala de Estar",
           "original_name": null,
-          "year": null,
+          "year": 2011,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1978504",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-documentario",
@@ -21481,18 +21481,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:ovos-de-dinossauro-na-sala-de-estar",
+          "key": "tt1978504",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Praça Walt Disney",
           "original_name": null,
-          "year": null,
+          "year": 2011,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2084060",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-documentario",
@@ -21500,7 +21500,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:praca-walt-disney",
+          "key": "tt2084060",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -21524,13 +21524,13 @@
         },
         {
           "name": "Céu no Andar de Baixo",
-          "original_name": null,
-          "year": null,
+          "original_name": "O Céu No Andar De Baixo",
+          "year": 2010,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2281387",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-animacao",
@@ -21538,7 +21538,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:ceu-no-andar-de-baixo",
+          "key": "tt2281387",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -21565,12 +21565,12 @@
         {
           "name": "Céu, Inferno e Outras Partes do Corpo",
           "original_name": null,
-          "year": null,
+          "year": 2011,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4586324",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-animacao",
@@ -21578,7 +21578,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:ceu-inferno-e-outras-partes-do-corpo",
+          "key": "tt4586324",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -21603,12 +21603,12 @@
         {
           "name": "Furicó e Fiofó",
           "original_name": null,
-          "year": null,
+          "year": 2011,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt7820264",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-animacao",
@@ -21616,7 +21616,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:furico-e-fiofo",
+          "key": "tt7820264",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -22717,12 +22717,12 @@
         {
           "name": "Ave Maria ou Mãe dos Sertanejos",
           "original_name": null,
-          "year": null,
+          "year": 2009,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt9458084",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-documentario",
@@ -22730,7 +22730,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:ave-maria-ou-mae-dos-sertanejos",
+          "key": "tt9458084",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -22757,12 +22757,12 @@
         {
           "name": "Faço de Mim o Que Quero",
           "original_name": null,
-          "year": null,
+          "year": 2009,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt14488456",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-documentario",
@@ -22770,7 +22770,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:faco-de-mim-o-que-quero",
+          "key": "tt14488456",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -22815,12 +22815,12 @@
         {
           "name": "Anjos do Meio da Praça –",
           "original_name": null,
-          "year": null,
+          "year": 2010,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1849029",
           "wikidata_id": null,
-          "type": null,
+          "type": "video",
           "categories": [
             {
               "id": "melhor-curta-metragem-animacao",
@@ -22828,7 +22828,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:anjos-do-meio-da-praca",
+          "key": "tt1849029",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -22853,12 +22853,12 @@
         {
           "name": "Eu Queria Ser Um Monstro",
           "original_name": null,
-          "year": null,
+          "year": 2009,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt7819248",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-animacao",
@@ -22866,18 +22866,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:eu-queria-ser-um-monstro",
+          "key": "tt7819248",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Menina da Chuva",
           "original_name": null,
-          "year": null,
+          "year": 2010,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt7818772",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-animacao",
@@ -22885,7 +22885,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:menina-da-chuva",
+          "key": "tt7818772",
           "first_seen": "2026-09-28T11:26:30.375Z"
         }
       ]
@@ -23958,12 +23958,12 @@
         {
           "name": "Superbarroco",
           "original_name": null,
-          "year": null,
+          "year": 2008,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2746156",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-ficcao",
@@ -23971,18 +23971,18 @@
               "result": "winner"
             }
           ],
-          "key": "t:superbarroco",
+          "key": "tt2746156",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Booker Pittman",
           "original_name": null,
-          "year": null,
+          "year": 2008,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2332140",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-ficcao",
@@ -23990,7 +23990,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:booker-pittman",
+          "key": "tt2332140",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -24096,12 +24096,12 @@
         {
           "name": "A Arquitetura do Corpo",
           "original_name": null,
-          "year": null,
+          "year": 2008,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1649740",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-documentario",
@@ -24109,7 +24109,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:a-arquitetura-do-corpo",
+          "key": "tt1649740",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -24214,12 +24214,12 @@
         {
           "name": "Divino, De Repente",
           "original_name": null,
-          "year": null,
+          "year": 2009,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1489923",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-animacao",
@@ -24227,7 +24227,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:divino-de-repente",
+          "key": "tt1489923",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -25337,12 +25337,12 @@
         {
           "name": "Os Filmes que Não Fiz",
           "original_name": null,
-          "year": null,
+          "year": 2008,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2417592",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-ficcao",
@@ -25350,7 +25350,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:os-filmes-que-nao-fiz",
+          "key": "tt2417592",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -25375,12 +25375,12 @@
         {
           "name": "Os Sapatos de Aristeu",
           "original_name": null,
-          "year": null,
+          "year": 2008,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt7050798",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-ficcao",
@@ -25388,7 +25388,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:os-sapatos-de-aristeu",
+          "key": "tt7050798",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -25414,12 +25414,12 @@
         {
           "name": "Dreznica",
           "original_name": null,
-          "year": null,
+          "year": 2008,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3620610",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-documentario",
@@ -25427,7 +25427,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:dreznica",
+          "key": "tt3620610",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -25452,12 +25452,12 @@
         {
           "name": "Ismar",
           "original_name": null,
-          "year": null,
+          "year": 2007,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt16397428",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-documentario",
@@ -25465,7 +25465,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:ismar",
+          "key": "tt16397428",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -25490,12 +25490,12 @@
         {
           "name": "Rapsódia do Absurdo",
           "original_name": null,
-          "year": null,
+          "year": 2008,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1418920",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-documentario",
@@ -25503,7 +25503,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:rapsodia-do-absurdo",
+          "key": "tt1418920",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -25568,13 +25568,13 @@
         },
         {
           "name": "Passo",
-          "original_name": null,
-          "year": null,
+          "original_name": "Passo",
+          "year": 2007,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3709042",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-animacao",
@@ -25582,7 +25582,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:passo",
+          "key": "tt3709042",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -26637,12 +26637,12 @@
         {
           "name": "Infernos –",
           "original_name": null,
-          "year": null,
+          "year": 2006,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1813381",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-documentario",
@@ -26650,7 +26650,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:infernos",
+          "key": "tt1813381",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -26675,12 +26675,12 @@
         {
           "name": "Até o Sol Raiá",
           "original_name": null,
-          "year": null,
+          "year": 2007,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt7824612",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-animacao",
@@ -26688,18 +26688,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:ate-o-sol-raia",
+          "key": "tt7824612",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "O Jumento Santo e a Cidade que Acabou Antes de Começar",
           "original_name": null,
-          "year": null,
+          "year": 2007,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1637991",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-animacao",
@@ -26707,7 +26707,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:o-jumento-santo-e-a-cidade-que-acabou-antes-de-comecar",
+          "key": "tt1637991",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -26732,12 +26732,12 @@
         {
           "name": "Yansan",
           "original_name": null,
-          "year": null,
+          "year": 2006,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0934621",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-animacao",
@@ -26745,7 +26745,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:yansan",
+          "key": "tt0934621",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -26790,12 +26790,12 @@
         {
           "name": "Saliva",
           "original_name": null,
-          "year": null,
+          "year": 2007,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1057991",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-ficcao",
@@ -26803,18 +26803,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:saliva",
+          "key": "tt1057991",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Satori Uso",
           "original_name": null,
-          "year": null,
+          "year": 2007,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2915780",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-ficcao",
@@ -26822,7 +26822,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:satori-uso",
+          "key": "tt2915780",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -27830,12 +27830,12 @@
         {
           "name": "Soy Cuba - O Mamute Siberiano",
           "original_name": null,
-          "year": null,
+          "year": 2004,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0436784",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "melhor-longa-metragem-documentario",
@@ -27843,7 +27843,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:soy-cuba-o-mamute-siberiano",
+          "key": "tt0436784",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -29014,12 +29014,12 @@
         {
           "name": "A História da Eternidade",
           "original_name": null,
-          "year": null,
+          "year": 2003,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0415039",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-de-ficcao",
@@ -29027,20 +29027,20 @@
               "result": "winner"
             }
           ],
-          "key": "t:a-historia-da-eternidade",
+          "key": "tt0415039",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Da Janela do Meu Quarto",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [],
           "people": [
             "Cao Guimarães"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0802972",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-documentario",
@@ -29048,7 +29048,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:da-janela-do-meu-quarto",
+          "key": "tt0802972",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -29878,12 +29878,12 @@
         {
           "name": "Cartas da Mãe",
           "original_name": null,
-          "year": null,
+          "year": 2000,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0296550",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-documentario",
@@ -29891,7 +29891,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:cartas-da-mae",
+          "key": "tt0296550",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -29975,12 +29975,12 @@
         {
           "name": "Engolervilha",
           "original_name": null,
-          "year": null,
+          "year": 2003,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt8549084",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-animacao",
@@ -29988,7 +29988,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:engolervilha",
+          "key": "tt8549084",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -30841,12 +30841,12 @@
         {
           "name": "Como se Morre no Cinema",
           "original_name": null,
-          "year": null,
+          "year": 2002,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0333263",
           "wikidata_id": "Q106543391",
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem-documentario",
@@ -30854,7 +30854,7 @@
               "result": "winner"
             }
           ],
-          "key": "wd:Q106543391",
+          "key": "tt0333263",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -31427,14 +31427,14 @@
         {
           "name": "Chamado de Deus",
           "original_name": null,
-          "year": null,
+          "year": 2001,
           "director": [],
           "people": [
             "José Joffily"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0281708",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "melhor-longa-metragem-documentario",
@@ -31442,20 +31442,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:chamado-de-deus",
+          "key": "tt0281708",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Sonho de Rose - 10 Anos Depois",
           "original_name": null,
-          "year": null,
+          "year": 2000,
           "director": [],
           "people": [
             "Tetê Moraes"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0264029",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "melhor-longa-metragem-documentario",
@@ -31463,7 +31463,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:sonho-de-rose-10-anos-depois",
+          "key": "tt0264029",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -31569,14 +31569,14 @@
         {
           "name": "Meu Compadre Zé Ketti",
           "original_name": null,
-          "year": null,
+          "year": 2003,
           "director": [],
           "people": [
             "Nelson Pereira Dos Santos"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0318441",
           "wikidata_id": null,
-          "type": null,
+          "type": "video",
           "categories": [
             {
               "id": "melhor-curta-metragem",
@@ -31584,7 +31584,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:meu-compadre-ze-ketti",
+          "key": "tt0318441",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -31611,12 +31611,12 @@
         {
           "name": "Palíndromo",
           "original_name": null,
-          "year": null,
+          "year": 2001,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0277212",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem",
@@ -31624,7 +31624,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:palindromo",
+          "key": "tt0277212",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -31650,12 +31650,12 @@
         {
           "name": "Um Sol Alaranjado",
           "original_name": null,
-          "year": null,
+          "year": 2001,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0318153",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem",
@@ -31663,7 +31663,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:um-sol-alaranjado",
+          "key": "tt0318153",
           "first_seen": "2026-09-28T11:26:30.375Z"
         }
       ]
@@ -32266,12 +32266,12 @@
         {
           "name": "Almas em Chamas",
           "original_name": null,
-          "year": null,
+          "year": 2000,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0296499",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-filme-de-animacao",
@@ -32279,7 +32279,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:almas-em-chamas",
+          "key": "tt0296499",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -32324,12 +32324,12 @@
         {
           "name": "Chifre de Camaleão",
           "original_name": null,
-          "year": null,
+          "year": 2000,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0286542",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-filme-de-animacao",
@@ -32337,7 +32337,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:chifre-de-camaleao",
+          "key": "tt0286542",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -32364,12 +32364,12 @@
         {
           "name": "Outros",
           "original_name": null,
-          "year": null,
+          "year": 2000,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0296792",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-filme-de-curta-metragem",
@@ -32377,7 +32377,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:outros",
+          "key": "tt0296792",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -32421,12 +32421,12 @@
         {
           "name": "Pormenores",
           "original_name": null,
-          "year": null,
+          "year": 2000,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0296808",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-filme-de-curta-metragem",
@@ -32434,7 +32434,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:pormenores",
+          "key": "tt0296808",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -32479,12 +32479,12 @@
         {
           "name": "BMW Vermelho",
           "original_name": null,
-          "year": null,
+          "year": 2000,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0275950",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-filme-de-media-metragem",
@@ -32492,7 +32492,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:bmw-vermelho",
+          "key": "tt0275950",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -32537,12 +32537,12 @@
         {
           "name": "O Velho, o Mar e o Lago",
           "original_name": null,
-          "year": null,
+          "year": 2000,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0296917",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-filme-de-media-metragem",
@@ -32550,7 +32550,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:o-velho-o-mar-e-o-lago",
+          "key": "tt0296917",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -33216,12 +33216,12 @@
         {
           "name": "O Oitavo Selo",
           "original_name": null,
-          "year": null,
+          "year": 1999,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0203036",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem",
@@ -33229,18 +33229,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:o-oitavo-selo",
+          "key": "tt0203036",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Rota de Colisão",
           "original_name": null,
-          "year": null,
+          "year": 2000,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0228794",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-curta-metragem",
@@ -33248,7 +33248,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:rota-de-colisao",
+          "key": "tt0228794",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -33394,12 +33394,12 @@
         {
           "name": "Amassa que Elas Gostam",
           "original_name": null,
-          "year": null,
+          "year": 1998,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0219493",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "melhor-filme-de-animacao",
@@ -33407,7 +33407,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:amassa-que-elas-gostam",
+          "key": "tt0219493",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {

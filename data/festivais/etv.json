@@ -2,7 +2,7 @@
   "id": "etv",
   "label": "É Tudo Verdade",
   "kind": "festival",
-  "updated_at": "2026-11-01T09:23:28.323Z",
+  "updated_at": "2026-11-16T10:52:36.918Z",
   "editions": [
     {
       "year": 2026,
@@ -159,16 +159,16 @@
         {
           "name": "Baisanos",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [
             "Andrés Khamis Giacoman",
             "Francisca Khamis Giacoman"
           ],
           "people": [],
           "year_hint": 2025,
-          "imdb_id": null,
+          "imdb_id": "tt37504019",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "o-estado-das-coisas",
@@ -176,7 +176,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:baisanos",
+          "key": "tt37504019",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -669,14 +669,14 @@
         {
           "name": "Silêncio azul",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [
             "Matías Rojas Ruz"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt38493093",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "competicao-internacional-de-curta-metragem",
@@ -684,7 +684,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:silencio-azul",
+          "key": "tt38493093",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -2038,15 +2038,15 @@
         {
           "name": "Pau d‘Arco",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [
             "Ana Aranha"
           ],
           "people": [],
           "year_hint": 2025,
-          "imdb_id": null,
+          "imdb_id": "tt38122702",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "o-estado-das-coisas",
@@ -2054,7 +2054,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:pau-d-arco",
+          "key": "tt38122702",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -5949,15 +5949,15 @@
         {
           "name": "Cantos de trabalho",
           "original_name": null,
-          "year": null,
+          "year": 1955,
           "director": [
             "Humberto Mauro"
           ],
           "people": [],
           "year_hint": 1955,
-          "imdb_id": null,
+          "imdb_id": "tt10109524",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "homenagem-a-humberto-mauro",
@@ -5965,7 +5965,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:cantos-de-trabalho",
+          "key": "tt10109524",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -6011,15 +6011,15 @@
         {
           "name": "Um apólogo",
           "original_name": null,
-          "year": null,
+          "year": 1936,
           "director": [
             "Humberto Mauro"
           ],
           "people": [],
           "year_hint": 1939,
-          "imdb_id": null,
+          "imdb_id": "tt6806700",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "homenagem-a-humberto-mauro",
@@ -6027,7 +6027,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:um-apologo",
+          "key": "tt6806700",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -6289,16 +6289,16 @@
         {
           "name": "Cantos de um Livro Sagrado",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [
             "Cesar Gananian",
             "Cassiana Der Haroutiounian"
           ],
           "people": [],
           "year_hint": 2021,
-          "imdb_id": null,
+          "imdb_id": "tt15039670",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "competicao-brasileira-de-curta-metragem",
@@ -6306,7 +6306,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:cantos-de-um-livro-sagrado",
+          "key": "tt15039670",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -6462,15 +6462,15 @@
         {
           "name": "Quem de direito",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [
             "Ana Galizia"
           ],
           "people": [],
           "year_hint": 2022,
-          "imdb_id": null,
+          "imdb_id": "tt18226132",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "competicao-brasileira-de-curta-metragem",
@@ -6478,7 +6478,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:quem-de-direito",
+          "key": "tt18226132",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -6716,15 +6716,15 @@
         {
           "name": "SÍNDROME DOS QUIETOS",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [
             "León Siminiani"
           ],
           "people": [],
           "year_hint": 2021,
-          "imdb_id": null,
+          "imdb_id": "tt13498354",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "competicao-internacional-de-curta-metragem",
@@ -6732,7 +6732,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:sindrome-dos-quietos",
+          "key": "tt13498354",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -8334,15 +8334,15 @@
         {
           "name": "GOLPE DE OURO",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [
             "CHAIM LITEWSKI"
           ],
           "people": [],
           "year_hint": 2021,
-          "imdb_id": null,
+          "imdb_id": "tt14417604",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "o-estado-das-coisas",
@@ -8350,7 +8350,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:golpe-de-ouro",
+          "key": "tt14417604",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -9126,15 +9126,15 @@
         {
           "name": "ROGÉRIO DUARTE, O TROPIKAOSLISTA",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [
             "José Walter Lima"
           ],
           "people": [],
           "year_hint": 2016,
-          "imdb_id": null,
+          "imdb_id": "tt10498972",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "caetano-doc",
@@ -9142,7 +9142,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:rogerio-duarte-o-tropikaoslista",
+          "key": "tt10498972",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -9189,15 +9189,15 @@
         {
           "name": "OS DOCES BÁRBAROS",
           "original_name": null,
-          "year": null,
+          "year": 1977,
           "director": [
             "Tom Job Azulay"
           ],
           "people": [],
           "year_hint": 1977,
-          "imdb_id": null,
+          "imdb_id": "tt0247989",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "caetano-doc",
@@ -9205,7 +9205,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:os-doces-barbaros",
+          "key": "tt0247989",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -11057,15 +11057,15 @@
         {
           "name": "O Homem da Cabine",
           "original_name": null,
-          "year": null,
+          "year": 2009,
           "director": [
             "Cristiano Burlan"
           ],
           "people": [],
           "year_hint": 2007,
-          "imdb_id": null,
+          "imdb_id": "tt7684424",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "a-situacao-do-cinema",
@@ -11073,7 +11073,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-homem-da-cabine",
+          "key": "tt7684424",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -11984,14 +11984,14 @@
         {
           "name": "Che, Memórias de Um Ano Secreto",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [
             "Margarita Hernandez"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt10743538",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competicao-brasileira-de-longas-e-medias-metragens",
@@ -11999,7 +11999,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:che-memorias-de-um-ano-secreto",
+          "key": "tt10743538",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -12281,14 +12281,14 @@
         {
           "name": "Atentamente",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [
             "Camila Rodríguez Triana"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5713120",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competicao-latino-americana",
@@ -12296,7 +12296,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:atentamente",
+          "key": "tt5713120",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -14697,16 +14697,16 @@
         {
           "name": "O Deserto do Deserto",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [
             "Samir Abujamra",
             "Tito Gonzalez Garcia"
           ],
           "people": [],
           "year_hint": 2016,
-          "imdb_id": null,
+          "imdb_id": "tt5716094",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "o-estado-das-coisas",
@@ -14714,7 +14714,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-deserto-do-deserto",
+          "key": "tt5716094",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -15922,16 +15922,16 @@
         {
           "name": "A NAÇÃO QUE NÃO ESPEROU POR DEUS",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [
             "Lucia Murat",
             "Rodrigo Hinrichsen"
           ],
           "people": [],
           "year_hint": 2015,
-          "imdb_id": null,
+          "imdb_id": "tt4659524",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "hors-concours",
@@ -15939,7 +15939,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-nacao-que-nao-esperou-por-deus",
+          "key": "tt4659524",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -16031,16 +16031,16 @@
         {
           "name": "EU SOU CARLOS IMPERIAL",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [
             "Renato Terra",
             "Ricardo Calil"
           ],
           "people": [],
           "year_hint": 2014,
-          "imdb_id": null,
+          "imdb_id": "tt5841312",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competicao-brasileira-de-longas-e-medias-metragens",
@@ -16048,7 +16048,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:eu-sou-carlos-imperial",
+          "key": "tt5841312",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -16590,15 +16590,15 @@
         {
           "name": "UM FILME DE CINEMA",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [
             "Walter Carvalho"
           ],
           "people": [],
           "year_hint": 2014,
-          "imdb_id": null,
+          "imdb_id": "tt6412648",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competicao-brasileira-de-longas-e-medias-metragens",
@@ -16606,7 +16606,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:um-filme-de-cinema",
+          "key": "tt6412648",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -17866,16 +17866,16 @@
         {
           "name": "ROMEIROS DA GUIA",
           "original_name": null,
-          "year": null,
+          "year": 1962,
           "director": [
             "Vladimir Carvalho",
             "João Ramiro Mello"
           ],
           "people": [],
           "year_hint": 1962,
-          "imdb_id": null,
+          "imdb_id": "tt13482352",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "e-tudo-verdade-bndes",
@@ -17883,7 +17883,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:romeiros-da-guia",
+          "key": "tt13482352",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -18545,15 +18545,15 @@
         {
           "name": "Homem Comum",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [
             "Carlos Nader"
           ],
           "people": [],
           "year_hint": 2013,
-          "imdb_id": null,
+          "imdb_id": "tt3652622",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competicao-brasileira-de-longas-e-medias-metragens",
@@ -18561,7 +18561,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:homem-comum",
+          "key": "tt3652622",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -21252,12 +21252,12 @@
         {
           "name": "Purgatório",
           "original_name": null,
-          "year": null,
+          "year": 2012,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2734800",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "li",
@@ -21265,7 +21265,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:purgatorio",
+          "key": "tt2734800",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -23236,14 +23236,14 @@
         {
           "name": "- “Filhos de João, Admirável Mundo Novo Baiano“",
           "original_name": null,
-          "year": null,
+          "year": 2009,
           "director": [
             "Henrique Dantas."
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2050515",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-melhor-documentario-brasileiro-de-curta-metragem",
@@ -23251,7 +23251,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:filhos-de-joao-admiravel-mundo-novo-baiano",
+          "key": "tt2050515",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -23817,14 +23817,14 @@
         {
           "name": "Nello‘s",
           "original_name": null,
-          "year": null,
+          "year": 2007,
           "director": [
             "André Ristum"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt10919072",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-premio-aquisicao-canal-brasil-de-incentivo-ao-curta-metragem",
@@ -23837,7 +23837,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:nello-s",
+          "key": "tt10919072",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -24931,14 +24931,14 @@
         {
           "name": "Diário de Naná",
           "original_name": null,
-          "year": null,
+          "year": 2006,
           "director": [
             "Paschoal Samora"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2638748",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-premio",
@@ -24946,7 +24946,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:diario-de-nana",
+          "key": "tt2638748",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -25195,14 +25195,14 @@
         {
           "name": "Da Janela do Meu Quarto",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [
             "Cao"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0802972",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-melhor-documentario-longa-ou-media-metragem",
@@ -25220,7 +25220,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:da-janela-do-meu-quarto",
+          "key": "tt0802972",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -26821,14 +26821,14 @@
         {
           "name": "Dadá",
           "original_name": null,
-          "year": null,
+          "year": 2002,
           "director": [
             "Eduardo Vaissman"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0336231",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-premio-minc-de-documentarios",
@@ -26836,7 +26836,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:dada",
+          "key": "tt0336231",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -27617,14 +27617,14 @@
         {
           "name": "O Dia Que Não Existiu“",
           "original_name": null,
-          "year": null,
+          "year": 2004,
           "director": [
             "Paulo Markun"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0405620",
           "wikidata_id": null,
-          "type": null,
+          "type": "tvMovie",
           "categories": [
             {
               "id": "premio-melhor-documentario",
@@ -27632,7 +27632,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:o-dia-que-nao-existiu",
+          "key": "tt0405620",
           "first_seen": "2026-09-28T11:26:30.375Z"
         }
       ]

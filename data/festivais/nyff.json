@@ -2,7 +2,7 @@
   "id": "nyff",
   "label": "New York Film Festival",
   "kind": "festival",
-  "updated_at": "2026-09-28T11:26:30.375Z",
+  "updated_at": "2026-11-16T10:52:36.918Z",
   "editions": [
     {
       "year": 2026,
@@ -1038,17 +1038,17 @@
         },
         {
           "name": "Torino Shadow",
-          "original_name": null,
-          "year": null,
+          "original_name": "Du Ling zhi ying",
+          "year": 2026,
           "director": [
             "Jia Zhangke"
           ],
           "people": [
             "Jia Zhangke"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt42407244",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "spotlight-shorts",
@@ -1056,7 +1056,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:torino-shadow",
+          "key": "tt42407244",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -4005,14 +4005,14 @@
         {
           "name": "A Metamorphosis",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [
             "Lin Htet Aung"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt35674353",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "program-2-afterimages",
@@ -4020,7 +4020,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-metamorphosis",
+          "key": "tt35674353",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -5492,12 +5492,12 @@
         {
           "name": "Scénarios",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt32213622",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "spotlight",
@@ -5505,7 +5505,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:scenarios",
+          "key": "tt32213622",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -11851,15 +11851,15 @@
         },
         {
           "name": "All About My Sisters",
-          "original_name": null,
-          "year": null,
+          "original_name": "Jia ting lu xiang",
+          "year": 2021,
           "director": [
             "Wang Qiong"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt14683798",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "currents",
@@ -11867,7 +11867,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:all-about-my-sisters",
+          "key": "tt14683798",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -12280,15 +12280,15 @@
         },
         {
           "name": "Day Is Done",
-          "original_name": null,
-          "year": null,
+          "original_name": "Xia Wu Guo Qu Le Yi Ban",
+          "year": 2020,
           "director": [
             "Zhang Dalei"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt14018858",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-films",
@@ -12296,7 +12296,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:day-is-done",
+          "key": "tt14018858",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -13561,14 +13561,14 @@
         {
           "name": "The Calming",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [
             "Song Fang"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt11646456",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "main-slate",
@@ -13576,7 +13576,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-calming",
+          "key": "tt11646456",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -17179,16 +17179,16 @@
         {
           "name": "A Family Tour",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [
             "Ying Liang"
           ],
           "people": [
             "Ying Liang"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt8731042",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "main-slate",
@@ -17196,7 +17196,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-family-tour",
+          "key": "tt8731042",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -19942,17 +19942,17 @@
         },
         {
           "name": "The Worldly Cave",
-          "original_name": null,
-          "year": null,
+          "original_name": "Fan dong",
+          "year": 2017,
           "director": [
             "Zhou Tao"
           ],
           "people": [
             "Zhou Tao"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt9081620",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "projections",
@@ -19960,7 +19960,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-worldly-cave",
+          "key": "tt9081620",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -20754,14 +20754,14 @@
         {
           "name": "All Over the Place",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [
             "Mariana Sanguinetti"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt8760552",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "shorts",
@@ -20769,7 +20769,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:all-over-the-place",
+          "key": "tt8760552",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -22458,16 +22458,16 @@
         {
           "name": "The Hedonists",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [
             "Jia Zhangke"
           ],
           "people": [
             "Jia Zhangke"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt5732566",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "program-2-international-auteurs",
@@ -22475,7 +22475,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-hedonists",
+          "key": "tt5732566",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -22501,12 +22501,12 @@
         {
           "name": "Can’t Take My Eyes Off You",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5796208",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "shorts",
@@ -22514,18 +22514,18 @@
               "result": "selected"
             }
           ],
-          "key": "t:cant-take-my-eyes-off-you",
+          "key": "tt5796208",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Imposter",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5808600",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "shorts",
@@ -22533,18 +22533,18 @@
               "result": "selected"
             }
           ],
-          "key": "t:imposter",
+          "key": "tt5808600",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "New Gods",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5573322",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "shorts",
@@ -22552,7 +22552,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:new-gods",
+          "key": "tt5573322",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -22596,12 +22596,12 @@
         {
           "name": "What Happened to Her",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt6484778",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "shorts",
@@ -22609,18 +22609,18 @@
               "result": "selected"
             }
           ],
-          "key": "t:what-happened-to-her",
+          "key": "tt6484778",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Dramatic Relationships",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5151592",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "program-4-new-york-stories",
@@ -22628,7 +22628,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:dramatic-relationships",
+          "key": "tt5151592",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -22653,12 +22653,12 @@
         {
           "name": "I Turn to Jello",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5863732",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "program-4-new-york-stories",
@@ -22666,7 +22666,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:i-turn-to-jello",
+          "key": "tt5863732",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -22692,12 +22692,12 @@
         {
           "name": "Los Angeles Plays New York",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt15433516",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "program-4-new-york-stories",
@@ -22705,18 +22705,18 @@
               "result": "selected"
             }
           ],
-          "key": "t:los-angeles-plays-new-york",
+          "key": "tt15433516",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "This Castle Keep",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt6245670",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "program-4-new-york-stories",
@@ -22724,18 +22724,18 @@
               "result": "selected"
             }
           ],
-          "key": "t:this-castle-keep",
+          "key": "tt6245670",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Legal Smuggling with Christine Choy",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt6280100",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "program-5-documentaries",
@@ -22743,18 +22743,18 @@
               "result": "selected"
             }
           ],
-          "key": "t:legal-smuggling-with-christine-choy",
+          "key": "tt6280100",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "El Buzo",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5039776",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "program-5-documentaries",
@@ -22762,18 +22762,18 @@
               "result": "selected"
             }
           ],
-          "key": "t:el-buzo",
+          "key": "tt5039776",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Jean Nouvel: Reflections",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5597090",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "program-5-documentaries",
@@ -22781,7 +22781,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:jean-nouvel-reflections",
+          "key": "tt5597090",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -22827,12 +22827,12 @@
         {
           "name": "Brillo Box (3¢ off)",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5113136",
           "wikidata_id": null,
-          "type": null,
+          "type": "tvMovie",
           "categories": [
             {
               "id": "program-5-documentaries",
@@ -22840,7 +22840,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:brillo-box-3-off",
+          "key": "tt5113136",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -23244,14 +23244,14 @@
         {
           "name": "Ghost Children",
           "original_name": null,
-          "year": null,
+          "year": 1981,
           "director": [
             "João Vieira Torres"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt6164066",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "program-4-fade-out",
@@ -23259,7 +23259,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:ghost-children",
+          "key": "tt6164066",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -25293,14 +25293,14 @@
         {
           "name": "We Are Alive",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [
             "Carmen Castillo"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4495892",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "spotlight-on-documentary",
@@ -25308,7 +25308,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:we-are-alive",
+          "key": "tt4495892",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -25558,12 +25558,12 @@
         {
           "name": "How to Be a Villain",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4004288",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "shorts-programs",
@@ -25571,7 +25571,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:how-to-be-a-villain",
+          "key": "tt4004288",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -25596,12 +25596,12 @@
         {
           "name": "Sânge",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4459800",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "shorts-programs",
@@ -25609,18 +25609,18 @@
               "result": "selected"
             }
           ],
-          "key": "t:sange",
+          "key": "tt4459800",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Territory",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4384832",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "shorts-programs",
@@ -25628,7 +25628,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:territory",
+          "key": "tt4384832",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -25712,12 +25712,12 @@
         {
           "name": "The Lingerie Show",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4025976",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "program-3-animation",
@@ -25725,18 +25725,18 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-lingerie-show",
+          "key": "tt4025976",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Palm Rot",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4033206",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "program-3-animation",
@@ -25744,7 +25744,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:palm-rot",
+          "key": "tt4033206",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -25828,12 +25828,12 @@
         {
           "name": "Dragstrip",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4765248",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "program-4-new-york",
@@ -25841,18 +25841,18 @@
               "result": "selected"
             }
           ],
-          "key": "t:dragstrip",
+          "key": "tt4765248",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Hernia",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4881974",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "program-4-new-york",
@@ -25860,18 +25860,18 @@
               "result": "selected"
             }
           ],
-          "key": "t:hernia",
+          "key": "tt4881974",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "My Last Film",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5192174",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "program-4-new-york",
@@ -25879,18 +25879,18 @@
               "result": "selected"
             }
           ],
-          "key": "t:my-last-film",
+          "key": "tt5192174",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Review",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5810830",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "program-4-new-york",
@@ -25898,7 +25898,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:review",
+          "key": "tt5810830",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -25924,12 +25924,12 @@
         {
           "name": "Six Cents in the Pocket",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4977492",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "program-4-new-york",
@@ -25937,18 +25937,18 @@
               "result": "selected"
             }
           ],
-          "key": "t:six-cents-in-the-pocket",
+          "key": "tt4977492",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Special Features",
           "original_name": null,
-          "year": null,
+          "year": 2014,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4114716",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "program-4-new-york",
@@ -25956,18 +25956,18 @@
               "result": "selected"
             }
           ],
-          "key": "t:special-features",
+          "key": "tt4114716",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Sundae",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4518582",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "program-4-new-york",
@@ -25975,7 +25975,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:sundae",
+          "key": "tt4518582",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -26881,16 +26881,16 @@
         {
           "name": "Santa Teresa & Other Stories",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [
             "Nelson Carlo de Los Santos Arias"
           ],
           "people": [
             "Nelson Carlo de Los Santos Arias"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt5227588",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "program-10",
@@ -26898,7 +26898,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:santa-teresa-other-stories",
+          "key": "tt5227588",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -28976,17 +28976,17 @@
         },
         {
           "name": "Non-Fiction Diary",
-          "original_name": null,
-          "year": null,
+          "original_name": "Non-pik-syeon da-i-eo-li",
+          "year": 2013,
           "director": [
             "Jung Yoon-suk"
           ],
           "people": [
             "Jung Yoon-suk"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt3265218",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "spotlight-on-documentary",
@@ -28994,7 +28994,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:non-fiction-diary",
+          "key": "tt3265218",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -30675,14 +30675,14 @@
         {
           "name": "Sound of My Soul",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [
             "Wojciech Bąkowski"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt16382860",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "program-13",
@@ -30690,7 +30690,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:sound-of-my-soul",
+          "key": "tt16382860",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -32774,17 +32774,17 @@
         },
         {
           "name": "Butter Lamp",
-          "original_name": null,
-          "year": null,
+          "original_name": "La lampe au beurre de yak",
+          "year": 2013,
           "director": [
             "Hu Wei"
           ],
           "people": [
             "Hu Wei"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt2922078",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "program-2",
@@ -32792,7 +32792,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:butter-lamp",
+          "key": "tt2922078",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -36509,17 +36509,17 @@
         },
         {
           "name": "Chouga",
-          "original_name": null,
-          "year": null,
+          "original_name": "Shuga",
+          "year": 2007,
           "director": [
             "Darezhan Omirbaev"
           ],
           "people": [
             "Darezhan Omirbaev"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt1141663",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "main-slate",
@@ -36527,7 +36527,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:chouga",
+          "key": "tt1141663",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {

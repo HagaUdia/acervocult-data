@@ -2,7 +2,7 @@
   "id": "guadalajara",
   "label": "Festival de Guadalajara (FICG)",
   "kind": "festival",
-  "updated_at": "2026-11-01T09:23:28.323Z",
+  "updated_at": "2026-11-16T10:52:36.918Z",
   "editions": [
     {
       "year": 2026,
@@ -1000,14 +1000,14 @@
         {
           "name": "Flores",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "Job Samaniego Rivera"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt41578829",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-maguey-cortometrajes",
@@ -1015,7 +1015,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:flores",
+          "key": "tt41578829",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -1575,14 +1575,14 @@
         {
           "name": "Autokar",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [
             "Sylwia Szkiłądź"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt35050733",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-rigo-mora-premio-rigo-mora",
@@ -1590,7 +1590,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:autokar",
+          "key": "tt35050733",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -1825,15 +1825,15 @@
         },
         {
           "name": "Una vez en un cuerpo",
-          "original_name": null,
-          "year": null,
+          "original_name": "Una vez en un cuerpo",
+          "year": 2025,
           "director": [
             "María Cristina Pérez González"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt37507660",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-rigo-mora-premio-rigo-mora",
@@ -1841,7 +1841,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:una-vez-en-un-cuerpo",
+          "key": "tt37507660",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -1868,14 +1868,14 @@
         {
           "name": "1974",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "José Esteban Pavlovich"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt40841052",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-rigo-mora-ficcion",
@@ -1883,7 +1883,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:1974",
+          "key": "tt40841052",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -2720,14 +2720,14 @@
         {
           "name": "Cocaína negra",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "Cristóbal Valenzuela"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt43438651",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-rigo-mora-largometraje-fuera-de-competencia",
@@ -2735,7 +2735,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:cocaina-negra",
+          "key": "tt43438651",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -3221,15 +3221,15 @@
         },
         {
           "name": "Light Pillar",
-          "original_name": null,
-          "year": null,
+          "original_name": "Han ye deng zhu",
+          "year": 2026,
           "director": [
             "Xu Zao"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt32409947",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-rigo-mora-galas-a-beneficio",
@@ -3237,7 +3237,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:light-pillar",
+          "key": "tt32409947",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -3427,14 +3427,14 @@
         {
           "name": "I Heard That They Are Not Going To See Each Other Anymore",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "Wong Ka Ki"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt40558543",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-rigo-mora-documental",
@@ -3442,7 +3442,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:i-heard-that-they-are-not-going-to-see-each-other-anymore",
+          "key": "tt40558543",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -3687,14 +3687,14 @@
         {
           "name": "Destino de guerrero. La historia de Carlos Salcido",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "Gonzalo Lamela"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt41782589",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-rigo-mora-funciones-especiales",
@@ -3702,7 +3702,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:destino-de-guerrero-la-historia-de-carlos-salcido",
+          "key": "tt41782589",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -3944,15 +3944,15 @@
         },
         {
           "name": "#300 cartas",
-          "original_name": null,
-          "year": null,
+          "original_name": "300cartas",
+          "year": 2025,
           "director": [
             "Lucas Santa Ana"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt28806247",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-rigo-mora-guadalajara-construye",
@@ -3960,7 +3960,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:300-cartas",
+          "key": "tt28806247",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -4811,15 +4811,15 @@
         },
         {
           "name": "La guitarra flamenca de Yerai Cortés",
-          "original_name": null,
-          "year": null,
+          "original_name": "La guitarra flamenca de Yerai Cortés",
+          "year": 2024,
           "director": [
             "Antón Álvarez"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt33336813",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-mezcal-largometraje-iberoamericano-documental",
@@ -4832,7 +4832,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:la-guitarra-flamenca-de-yerai-cortes",
+          "key": "tt33336813",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -5236,14 +5236,14 @@
         {
           "name": "Ceremonia",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [
             "Dan Chávez"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt25439882",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-maguey-ficcion",
@@ -5251,7 +5251,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:ceremonia",
+          "key": "tt25439882",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -6246,14 +6246,14 @@
         {
           "name": "Año de casados",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "Pablo Camargo López"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt43441257",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-rigo-mora-ficcion",
@@ -6261,7 +6261,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:ano-de-casados",
+          "key": "tt43441257",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -7665,14 +7665,14 @@
         {
           "name": "Balatar Az Abrhaye Asidi",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [
             "Ali Asgari"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt34538577",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-rigo-mora-documental",
@@ -7680,7 +7680,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:balatar-az-abrhaye-asidi",
+          "key": "tt34538577",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -8736,14 +8736,14 @@
         {
           "name": "Después de las armas",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [
             "Héctor Alfonso Laso Machuca"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt32637655",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-mezcal-documental",
@@ -8751,7 +8751,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:despues-de-las-armas",
+          "key": "tt32637655",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -8891,14 +8891,14 @@
         {
           "name": "Creatura",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [
             "Elena Martín Gimeno"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt21869176",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-mezcal-largometraje-iberoamericano-de-ficcion",
@@ -8906,7 +8906,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:creatura",
+          "key": "tt21869176",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -9337,14 +9337,14 @@
         {
           "name": "Desire Lines",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [
             "Jules Rosskam"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt28510594",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-maguey-premio-maguey",
@@ -9352,7 +9352,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:desire-lines",
+          "key": "tt28510594",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -9717,15 +9717,15 @@
         {
           "name": "Un mexicano en la luna",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [
             "Francis Levy Lavalle",
             "José Luis Yáñez López"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt27053651",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-maguey-largometraje",
@@ -9738,7 +9738,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:un-mexicano-en-la-luna",
+          "key": "tt27053651",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -9794,14 +9794,14 @@
         {
           "name": "Dolores",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [
             "Cecilia Andalón Delgadillo"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt32544178",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-maguey-cortometrajes",
@@ -9819,7 +9819,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:dolores",
+          "key": "tt32544178",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -10583,15 +10583,15 @@
         },
         {
           "name": "Ella se queda",
-          "original_name": null,
-          "year": null,
+          "original_name": "Ella se queda",
+          "year": 2024,
           "director": [
             "Marinthia Gutiérrez Velazco"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt32146344",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-rigo-mora-ficcion",
@@ -10599,7 +10599,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:ella-se-queda",
+          "key": "tt32146344",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -10911,14 +10911,14 @@
         {
           "name": "Those Next to U",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [
             "Bernhard Hetzenauer"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt31040309",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-rigo-mora-documental",
@@ -10926,7 +10926,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:those-next-to-u",
+          "key": "tt31040309",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -11693,14 +11693,14 @@
         {
           "name": "Problemista",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [
             "Julio Torre"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt15078804",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-rigo-mora-galas-a-beneficio",
@@ -11708,7 +11708,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:problemista",
+          "key": "tt15078804",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -11871,14 +11871,14 @@
         {
           "name": "Omar + Cedric: If This Ever Gets Weird",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [
             "Nicolas Jack Davies"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt29629778",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-rigo-mora-son-de-cine-in-edit",
@@ -11891,7 +11891,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:omar-cedric-if-this-ever-gets-weird",
+          "key": "tt29629778",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -13020,14 +13020,14 @@
         {
           "name": "Mujeres del alba",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [
             "Jimena Montemayor Loyo"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt27608025",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-mezcal-ficcion",
@@ -13035,7 +13035,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:mujeres-del-alba",
+          "key": "tt27608025",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -13905,14 +13905,14 @@
         {
           "name": "El legado del fuego",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [
             "Eliseo Chirino Sandoval"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt28448846",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-maguey-cortometrajes",
@@ -13920,7 +13920,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:el-legado-del-fuego",
+          "key": "tt28448846",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -14668,14 +14668,14 @@
         {
           "name": "Um Caroço de Abacate",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [
             "Ary Zara"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt20194088",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-rigo-mora-ficcion",
@@ -14683,7 +14683,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:um-caroco-de-abacate",
+          "key": "tt20194088",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -15468,14 +15468,14 @@
         {
           "name": "The Cage is Looking for a Bird",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [
             "Malika Musaeva"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt26441515",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-rigo-mora-ficcion",
@@ -15483,7 +15483,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-cage-is-looking-for-a-bird",
+          "key": "tt26441515",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -15617,15 +15617,15 @@
         {
           "name": "Miucha, Voz Da Bossa Nova",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [
             "Liliane Muti",
             "Daniel Zarvos"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt21956346",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-rigo-mora-son-de-cine-in-edit",
@@ -15633,7 +15633,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:miucha-voz-da-bossa-nova",
+          "key": "tt21956346",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -16524,14 +16524,14 @@
         {
           "name": "Cuando cae la noche",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [
             "J. Daniel Zúñiga"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt20764202",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-mezcal-documental",
@@ -16539,7 +16539,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:cuando-cae-la-noche",
+          "key": "tt20764202",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -17634,15 +17634,15 @@
         {
           "name": "Flying Sailor",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [
             "Wendy Tilby",
             "Amanda Forbis"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt20240228",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-rigo-mora-premio-rigo-mora",
@@ -17650,20 +17650,20 @@
               "result": "selected"
             }
           ],
-          "key": "t:flying-sailor",
+          "key": "tt20240228",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "La frontera",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [
             "Christian Arredondo Narváez"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt35769279",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-rigo-mora-premio-rigo-mora",
@@ -17671,7 +17671,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:la-frontera",
+          "key": "tt35769279",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -18473,15 +18473,15 @@
         },
         {
           "name": "The Dress",
-          "original_name": null,
-          "year": null,
+          "original_name": "Sukienka",
+          "year": 2020,
           "director": [
             "Tadeusz Łysiak"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt12299764",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-rigo-mora-cortometraje",
@@ -18489,7 +18489,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-dress",
+          "key": "tt12299764",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -19081,15 +19081,15 @@
         {
           "name": "We Are He",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [
             "Constanza Castro",
             "Doménica Castro"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt16303872",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-rigo-mora-cortometrajes",
@@ -19097,7 +19097,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:we-are-he",
+          "key": "tt16303872",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -19858,14 +19858,14 @@
         {
           "name": "Poderoso Victoria",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [
             "Raúl Ramón"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt11872724",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-mezcal-premio-mezcal",
@@ -19878,7 +19878,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:poderoso-victoria",
+          "key": "tt11872724",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -19965,14 +19965,14 @@
         {
           "name": "El viaje de Paty",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [
             "Santiago Pedroche"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt12065048",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-mezcal-premio-mezcal",
@@ -19980,7 +19980,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:el-viaje-de-paty",
+          "key": "tt12065048",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -20045,15 +20045,15 @@
         },
         {
           "name": "Las consecuencias",
-          "original_name": null,
-          "year": null,
+          "original_name": "Las Consecuencias",
+          "year": 2021,
           "director": [
             "Claudia Pinto Emperador"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt9077376",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-mezcal-largometraje-iberoamericano-de-ficcion",
@@ -20061,7 +20061,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:las-consecuencias",
+          "key": "tt9077376",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -20237,14 +20237,14 @@
         {
           "name": "Bosco",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [
             "Alicia Cano Menoni"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt13988678",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-mezcal-largometraje-iberoamericano-documental",
@@ -20252,7 +20252,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:bosco",
+          "key": "tt13988678",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -20703,15 +20703,15 @@
         {
           "name": "Bob Cuspe — Nós Não Gostamos",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [
             "Gente",
             "Cesar Cabral"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt10376010",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-maguey-largometraje-internacional-de-animacion",
@@ -20719,7 +20719,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:bob-cuspe-nos-nao-gostamos",
+          "key": "tt10376010",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -21371,14 +21371,14 @@
         {
           "name": "Réveil sur Mars",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [
             "Dea Gjinovc"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt11905316",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-rigo-mora-documental",
@@ -21386,7 +21386,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:reveil-sur-mars",
+          "key": "tt11905316",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -22558,15 +22558,15 @@
         },
         {
           "name": "Tengo miedo torero",
-          "original_name": null,
-          "year": null,
+          "original_name": "Tengo Miedo Torero",
+          "year": 2020,
           "director": [
             "Rodrigo Sepúlveda"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt10879920",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-mezcal-largometraje-ficcion",
@@ -22584,7 +22584,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:tengo-miedo-torero",
+          "key": "tt10879920",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -23159,14 +23159,14 @@
         {
           "name": "La capa azul",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [
             "Alejandra López"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt8986884",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-mezcal-cortometraje-ficcion",
@@ -23174,7 +23174,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:la-capa-azul",
+          "key": "tt8986884",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -23656,15 +23656,15 @@
         },
         {
           "name": "Kokon",
-          "original_name": null,
-          "year": null,
+          "original_name": "Kokon",
+          "year": 2020,
           "director": [
             "Leonie Krippendorf"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt10107222",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-maguey-premio-maguey",
@@ -23672,7 +23672,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:kokon",
+          "key": "tt10107222",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -24537,15 +24537,15 @@
         },
         {
           "name": "Volverte a ver",
-          "original_name": null,
-          "year": null,
+          "original_name": "Volverte a Ver",
+          "year": 2021,
           "director": [
             "Carolina Corral Paredes"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt14211072",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-rigo-mora-de-cortometraje-de-animacion-internacional-documental",
@@ -24553,7 +24553,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:volverte-a-ver",
+          "key": "tt14211072",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -24825,14 +24825,14 @@
         {
           "name": "Retablo",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [
             "Álvaro Delgado-Aparicio L."
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt7761590",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-rigo-mora-de-cortometraje-de-animacion-internacional-ficcion",
@@ -24840,7 +24840,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:retablo",
+          "key": "tt7761590",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -24927,14 +24927,14 @@
         {
           "name": "La revolución y la tierra",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [
             "Gonzalo Benavente Secco"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt13091752",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-rigo-mora-de-cortometraje-de-animacion-internacional-documentales",
@@ -24942,7 +24942,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:la-revolucion-y-la-tierra",
+          "key": "tt13091752",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -25521,14 +25521,14 @@
         {
           "name": "A los once",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [
             "Carolina Admirable García"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt36473685",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-rigo-mora-de-cortometraje-de-animacion-internacional-mujeres-unidas",
@@ -25536,7 +25536,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-los-once",
+          "key": "tt36473685",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -25667,14 +25667,14 @@
         {
           "name": "No tocar",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [
             "Gera Sandoval"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt12805058",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-rigo-mora-de-cortometraje-de-animacion-internacional-largometrajes",
@@ -25682,7 +25682,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:no-tocar",
+          "key": "tt12805058",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -25854,14 +25854,14 @@
         {
           "name": "Solo un poco aquí",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [
             "Melisa González"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt11132028",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-rigo-mora-de-cortometraje-de-animacion-internacional-largometrajes",
@@ -25869,7 +25869,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:solo-un-poco-aqui",
+          "key": "tt11132028",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -26477,14 +26477,14 @@
         {
           "name": "Lupita – que retiemble la tierra",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [
             "Mónica Wise Robles"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt12608802",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-rigo-mora-de-cortometraje-de-animacion-internacional-documental",
@@ -26492,7 +26492,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:lupita-que-retiemble-la-tierra",
+          "key": "tt12608802",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -27298,14 +27298,14 @@
         {
           "name": "Oblatos, el vuelo que surcó la noche",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [
             "Acelo Ruiz Villanueva"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt26538113",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-mezcal-documental",
@@ -27313,7 +27313,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:oblatos-el-vuelo-que-surco-la-noche",
+          "key": "tt26538113",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -27697,15 +27697,15 @@
         },
         {
           "name": "Apuntes para una película de atracos",
-          "original_name": null,
-          "year": null,
+          "original_name": "Apuntes para una película de atracos",
+          "year": 2018,
           "director": [
             "León Siminiani"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5479590",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-mezcal-largometraje-iberoamericano-documental",
@@ -27713,7 +27713,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:apuntes-para-una-pelicula-de-atracos",
+          "key": "tt5479590",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -28136,14 +28136,14 @@
         {
           "name": "Ausencia",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [
             "Andrés Tudela"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt9344094",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-mezcal-cortometraje-iberoamericano",
@@ -28151,7 +28151,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:ausencia",
+          "key": "tt9344094",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -28351,14 +28351,14 @@
         {
           "name": "Historia de una aurora y dos ocasos",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [
             "Acelo Ruíz Villanueva"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt8178820",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-mezcal-cortometraje-iberoamericano",
@@ -28366,7 +28366,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:historia-de-una-aurora-y-dos-ocasos",
+          "key": "tt8178820",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -29483,17 +29483,17 @@
         },
         {
           "name": "Tito os pássaros",
-          "original_name": null,
-          "year": null,
+          "original_name": "Tito e os Pássaros",
+          "year": 2018,
           "director": [
             "Gustavo Steinberg",
             "Gabriel Bitar",
             "André Catoto"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt8327492",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-internacional-de-largometraje-de-animacion-premio-internacional-de-largometraje-de-animacion",
@@ -29501,7 +29501,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:tito-os-passaros",
+          "key": "tt8327492",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -29651,14 +29651,14 @@
         {
           "name": "Gorgam-o-Gale Mibaram",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [
             "Amir Houshang Moein"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt10074222",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-internacional-rigo-mora-de-cortometraje-de-animacion-premio-internacional-rigo-mora-de-cortometraje-de-animacion",
@@ -29666,7 +29666,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:gorgam-o-gale-mibaram",
+          "key": "tt10074222",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -30525,14 +30525,14 @@
         {
           "name": "Enigma",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [
             "Ignacio Juricic Merillán"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt9045270",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-internacional-rigo-mora-de-cortometraje-de-animacion-ficcion",
@@ -30540,7 +30540,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:enigma",
+          "key": "tt9045270",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -30804,14 +30804,14 @@
         {
           "name": "Jaar el lamento de las imágenes",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [
             "Paula Rodríguez Sickert"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt7502350",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-internacional-rigo-mora-de-cortometraje-de-animacion-documental",
@@ -30819,7 +30819,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:jaar-el-lamento-de-las-imagenes",
+          "key": "tt7502350",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -31007,14 +31007,14 @@
         {
           "name": "Inevitable",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [
             "Manuel Villaseñor"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt8083792",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-internacional-rigo-mora-de-cortometraje-de-animacion-largometraje",
@@ -31022,7 +31022,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:inevitable",
+          "key": "tt8083792",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -31159,14 +31159,14 @@
         {
           "name": "La bruja del fósforo paseante",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [
             "Sofía Carrillo"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt9098384",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-internacional-rigo-mora-de-cortometraje-de-animacion-cortometraje",
@@ -31174,7 +31174,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:la-bruja-del-fosforo-paseante",
+          "key": "tt9098384",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -32851,15 +32851,15 @@
         },
         {
           "name": "Restos de viento",
-          "original_name": null,
-          "year": null,
+          "original_name": "Restos de viento",
+          "year": 2017,
           "director": [
             "Jimena Montemayor Loyo"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4935898",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-mezcal-ficcion",
@@ -32867,7 +32867,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:restos-de-viento",
+          "key": "tt4935898",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -33077,14 +33077,14 @@
         {
           "name": "Rita, el documental",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [
             "Arturo Díaz Santana"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5239560",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-mezcal-documental",
@@ -33097,7 +33097,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:rita-el-documental",
+          "key": "tt5239560",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -33130,14 +33130,14 @@
         {
           "name": "Alanis",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [
             "Anahí Berner"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt7297954",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-mezcal-largometraje-iberoamericano-de-ficcion",
@@ -33145,7 +33145,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:alanis",
+          "key": "tt7297954",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -33592,14 +33592,14 @@
         {
           "name": "Robar a Rodin",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [
             "Cristóbal Valenzuela"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt7906948",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-mezcal-largometraje-iberoamericano-documental",
@@ -33607,7 +33607,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:robar-a-rodin",
+          "key": "tt7906948",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -33717,14 +33717,14 @@
         {
           "name": "Los viejos",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [
             "Rosana Matecki"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt7620612",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-mezcal-largometraje-iberoamericano-documental",
@@ -33737,7 +33737,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:los-viejos",
+          "key": "tt7620612",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -34273,15 +34273,15 @@
         {
           "name": "El hilo",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [
             "Pablo Polanco",
             "Pietro Bulgarelli"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt7029864",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-mezcal-cortometraje-iberoamericano",
@@ -34289,7 +34289,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:el-hilo",
+          "key": "tt7029864",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -34357,14 +34357,14 @@
         {
           "name": "O espírito do bosque",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [
             "Carla Saavedra Brychcy"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt6772480",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-mezcal-cortometraje-iberoamericano",
@@ -34372,7 +34372,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-espirito-do-bosque",
+          "key": "tt6772480",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -34874,14 +34874,14 @@
         {
           "name": "EnFemme",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [
             "Alba Barbé i Serra"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt7573778",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-proyecciones-especiales",
@@ -34894,7 +34894,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:enfemme",
+          "key": "tt7573778",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -35292,16 +35292,16 @@
         },
         {
           "name": "Tadeo 2: El secreto del rey Midas",
-          "original_name": null,
-          "year": null,
+          "original_name": "Tadeo Jones 2: El secreto del Rey Midas",
+          "year": 2017,
           "director": [
             "David Alonso",
             "Enrique Gato Borregán"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3896102",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-ficcion",
@@ -35314,7 +35314,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:tadeo-2-el-secreto-del-rey-midas",
+          "key": "tt3896102",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -35619,14 +35619,14 @@
         {
           "name": "Santa Ana",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [
             "César Pesquera"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt7143804",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "competencia-programa-shortcat",
@@ -35634,7 +35634,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:santa-ana",
+          "key": "tt7143804",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -36488,14 +36488,14 @@
         {
           "name": "La luz y la fuerza",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [
             "Alejandra Islas"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt7261788",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-retratos",
@@ -36503,7 +36503,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:la-luz-y-la-fuerza",
+          "key": "tt7261788",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -37324,14 +37324,14 @@
         {
           "name": "Enigma",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [
             "Ignacio Juricic Merillán"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt9045270",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-guadalajara-construye",
@@ -37339,7 +37339,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:enigma",
+          "key": "tt9045270",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -38043,14 +38043,14 @@
         {
           "name": "El maíz en tiempos de guerra",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [
             "Alberto Cortés Calderón"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5709636",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-mezcal-premio-mezcal",
@@ -38063,7 +38063,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:el-maiz-en-tiempos-de-guerra",
+          "key": "tt5709636",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -38858,15 +38858,15 @@
         {
           "name": "Río verde: El tiempo de los Yakurunas",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [
             "Diego Edgardo Sarmiento Pagán",
             "Álvaro Sarmiento Pagán"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt6486552",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-mezcal-largometraje-iberoamericano-documental",
@@ -38879,7 +38879,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:rio-verde-el-tiempo-de-los-yakurunas",
+          "key": "tt6486552",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -39398,14 +39398,14 @@
         {
           "name": "Lucha",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [
             "Eddie Rubio"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt6701258",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-mezcal-cortometraje-iberoamericano",
@@ -39413,7 +39413,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:lucha",
+          "key": "tt6701258",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -39460,14 +39460,14 @@
         {
           "name": "Nosotros y ellos",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [
             "Yordi Capó"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt7620080",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-mezcal-cortometraje-iberoamericano",
@@ -39475,7 +39475,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:nosotros-y-ellos",
+          "key": "tt7620080",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -40635,15 +40635,15 @@
         },
         {
           "name": "Gleissendes Glück",
-          "original_name": null,
-          "year": null,
+          "original_name": "Gleißendes Glück",
+          "year": 2016,
           "director": [
             "Sven Taddicken"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5903210",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-maguey-invitado-de-honor",
@@ -40651,7 +40651,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:gleissendes-gluck",
+          "key": "tt5903210",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -40838,14 +40838,14 @@
         {
           "name": "Café Waldluft",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [
             "Matthias Koßmehl"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5671246",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-maguey-documentales",
@@ -40853,7 +40853,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:cafe-waldluft",
+          "key": "tt5671246",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -40946,14 +40946,14 @@
         {
           "name": "Eat my Dream",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [
             "Jessica Dürwaldv"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt21157870",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-maguey-cortometraje",
@@ -40961,7 +40961,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:eat-my-dream",
+          "key": "tt21157870",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -41112,14 +41112,14 @@
         {
           "name": "Wert der Arbeit",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [
             "Matthias Koßmehl"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt6273156",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-maguey-cortometraje",
@@ -41127,7 +41127,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:wert-der-arbeit",
+          "key": "tt6273156",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -41977,15 +41977,15 @@
         },
         {
           "name": "Fuocoammare",
-          "original_name": null,
-          "year": null,
+          "original_name": "Fuocoammare",
+          "year": 2016,
           "director": [
             "Gianfranco Ros"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3652526",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-maguey-homenaje-postumo-donald-ranvaud",
@@ -41993,7 +41993,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:fuocoammare",
+          "key": "tt3652526",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -43340,15 +43340,15 @@
         },
         {
           "name": "Restos de viento",
-          "original_name": null,
-          "year": null,
+          "original_name": "Restos de viento",
+          "year": 2017,
           "director": [
             "Jimena Montemayor Loyo"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4935898",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-maguey-guadalajara-construye",
@@ -43356,7 +43356,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:restos-de-viento",
+          "key": "tt4935898",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -43896,14 +43896,14 @@
         {
           "name": "El charro de Toluquilla",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [
             "José Villalobos Romero"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5116404",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-hecho-en-mexico",
@@ -43921,7 +43921,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:el-charro-de-toluquilla",
+          "key": "tt5116404",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -44023,15 +44023,15 @@
         },
         {
           "name": "Distancias cortas",
-          "original_name": null,
-          "year": null,
+          "original_name": "Distancias cortas",
+          "year": 2015,
           "director": [
             "Alejandro Guzmán"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5048966",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-hecho-en-mexico",
@@ -44039,20 +44039,20 @@
               "result": "selected"
             }
           ],
-          "key": "t:distancias-cortas",
+          "key": "tt5048966",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Enamor(d)ados",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [
             "Gabriel Retes"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5447636",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-hecho-en-mexico",
@@ -44060,7 +44060,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:enamor-d-ados",
+          "key": "tt5447636",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -44500,14 +44500,14 @@
         {
           "name": "35 y soltera",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [
             "Paula Schargorodsky"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4450288",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-largometraje-iberoamericano-documental",
@@ -44515,7 +44515,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:35-y-soltera",
+          "key": "tt4450288",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -44667,15 +44667,15 @@
         },
         {
           "name": "Paciente",
-          "original_name": null,
-          "year": null,
+          "original_name": "Paciente",
+          "year": 2015,
           "director": [
             "Jorge Caballero"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5077744",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-largometraje-iberoamericano-documental",
@@ -44683,7 +44683,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:paciente",
+          "key": "tt5077744",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -45285,14 +45285,14 @@
         {
           "name": "San Cristóbal",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [
             "Omar Zúñiga Hidalgo"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4433560",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "competencia-oficial-cortometraje-iberoamericano",
@@ -45300,7 +45300,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:san-cristobal",
+          "key": "tt4433560",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -46500,16 +46500,16 @@
         },
         {
           "name": "Psiconautas, los niños olvidado",
-          "original_name": null,
-          "year": null,
+          "original_name": "Psiconautas, los niños olvidados",
+          "year": 2015,
           "director": [
             "Alberto Vázquez",
             "Pedro Rivero"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5004766",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-maguey-europa-nuevas-tendencias",
@@ -46517,7 +46517,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:psiconautas-los-ninos-olvidado",
+          "key": "tt5004766",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -46974,15 +46974,15 @@
         {
           "name": "La Tercera Raíz: buscando el origen del son",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [
             "Allen Reed Rickert",
             "Camilo Nu"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4806750",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-maguey-son-de-cine",
@@ -46990,7 +46990,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:la-tercera-raiz-buscando-el-origen-del-son",
+          "key": "tt4806750",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -47644,14 +47644,14 @@
         {
           "name": "Jerez y el misterio del palo cortado",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [
             "José Luis López Linares"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4545286",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-maguey-cine-culinario",
@@ -47659,7 +47659,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:jerez-y-el-misterio-del-palo-cortado",
+          "key": "tt4545286",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -48406,14 +48406,14 @@
         {
           "name": "Aurora",
           "original_name": null,
-          "year": null,
+          "year": 2014,
           "director": [
             "Rodrigo Sepúlveda"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3603470",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-maguey-largometraje-iberoamericano-de-ficcion",
@@ -48421,7 +48421,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:aurora",
+          "key": "tt3603470",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -48796,14 +48796,14 @@
         {
           "name": "My name is now, Elza Soares",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [
             "Elizabete Martins Campos"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4300924",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-maguey-largometraje-iberoamericano",
@@ -48811,7 +48811,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:my-name-is-now-elza-soares",
+          "key": "tt4300924",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -48836,15 +48836,15 @@
         },
         {
           "name": "Paco de Lucía, la búsqueda",
-          "original_name": null,
-          "year": null,
+          "original_name": "Paco de Lucía: la búsqueda",
+          "year": 2014,
           "director": [
             "Francisco Sánchez Varela"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4040896",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-maguey-largometraje-iberoamericano",
@@ -48857,20 +48857,20 @@
               "result": "selected"
             }
           ],
-          "key": "t:paco-de-lucia-la-busqueda",
+          "key": "tt4040896",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Persiguiendo al dragón",
-          "original_name": null,
-          "year": null,
+          "original_name": "Persiguiendo al dragón",
+          "year": 2014,
           "director": [
             "Juan Camilo Olmos Feris"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3839964",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-maguey-largometraje-iberoamericano",
@@ -48878,7 +48878,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:persiguiendo-al-dragon",
+          "key": "tt3839964",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -49663,14 +49663,14 @@
         {
           "name": "Três semanas em dezembro",
           "original_name": null,
-          "year": null,
+          "year": 2013,
           "director": [
             "Laura Gonçalves"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4668378",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-maguey-cortometraje-iberoamericano",
@@ -49678,7 +49678,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:tres-semanas-em-dezembro",
+          "key": "tt4668378",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -50995,15 +50995,15 @@
         },
         {
           "name": "Educazione Siberiana",
-          "original_name": null,
-          "year": null,
+          "original_name": "Educazione siberiana",
+          "year": 2013,
           "director": [
             "Gabriele Salvatore"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1697064",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-maguey-muestra-de-cine-contemporaneo",
@@ -51011,7 +51011,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:educazione-siberiana",
+          "key": "tt1697064",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -51156,16 +51156,16 @@
         },
         {
           "name": "Song’e Napule",
-          "original_name": null,
-          "year": null,
+          "original_name": "Song 'e Napule",
+          "year": 2013,
           "director": [
             "Antonio Manetti",
             "Marco Manetti"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3425772",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-maguey-muestra-de-cine-contemporaneo",
@@ -51173,7 +51173,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:songe-napule",
+          "key": "tt3425772",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -51673,14 +51673,14 @@
         {
           "name": "Rapsodeus",
           "original_name": null,
-          "year": null,
+          "year": 2011,
           "director": [
             "Bruno Bozzetto"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3707450",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-maguey-cavallette-de-de-bruno-bozzetto-italia",
@@ -51688,7 +51688,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:rapsodeus",
+          "key": "tt3707450",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -52352,14 +52352,14 @@
         {
           "name": "Circo Voador – A Nave",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [
             "Taina Menezes"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt12219548",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-maguey-son-de-cine",
@@ -52367,20 +52367,20 @@
               "result": "selected"
             }
           ],
-          "key": "t:circo-voador-a-nave",
+          "key": "tt12219548",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "¡Cuchíbiri cuchíbiri! La rumba de Peret",
           "original_name": null,
-          "year": null,
+          "year": 2013,
           "director": [
             "Carles Prats"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3283734",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-maguey-son-de-cine",
@@ -52388,7 +52388,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:cuchibiri-cuchibiri-la-rumba-de-peret",
+          "key": "tt3283734",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -54229,15 +54229,15 @@
         {
           "name": "La fabulosa y patética historia de un montaje llamado I love Romeo y Julieta",
           "original_name": null,
-          "year": null,
+          "year": 2014,
           "director": [
             "Manolo Caro",
             "Rodrigo Mendoza"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3605342",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-mezcal-premio-mezcal",
@@ -54250,7 +54250,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:la-fabulosa-y-patetica-historia-de-un-montaje-llamado-i-love-romeo-y-julieta",
+          "key": "tt3605342",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -54297,14 +54297,14 @@
         {
           "name": "Seguir viviendo",
           "original_name": null,
-          "year": null,
+          "year": 2014,
           "director": [
             "Alejandra Sánchez"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3837514",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-mezcal-premio-mezcal",
@@ -54312,7 +54312,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:seguir-viviendo",
+          "key": "tt3837514",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -54404,14 +54404,14 @@
         {
           "name": "Brasil",
           "original_name": null,
-          "year": null,
+          "year": 2014,
           "director": [
             "Aly Muritiba"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3408864",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-mezcal-cortometraje-iberoamericano",
@@ -54419,7 +54419,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:brasil",
+          "key": "tt3408864",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -54822,16 +54822,16 @@
         },
         {
           "name": "Liebre 105",
-          "original_name": null,
-          "year": null,
+          "original_name": "Historias Breves VIII: Liebre 105",
+          "year": 2013,
           "director": [
             "Sebastián Rotstein",
             "Federico Rotstein"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3216400",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-mezcal-cortometraje-iberoamericano",
@@ -54839,7 +54839,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:liebre-105",
+          "key": "tt3216400",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -55053,14 +55053,14 @@
         {
           "name": "El olvido",
           "original_name": null,
-          "year": null,
+          "year": 2014,
           "director": [
             "Fermín Rivera"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3715166",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-mezcal-cortometraje-iberoamericano",
@@ -55068,7 +55068,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:el-olvido",
+          "key": "tt3715166",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -55175,14 +55175,14 @@
         {
           "name": "Superficies",
           "original_name": null,
-          "year": null,
+          "year": 2013,
           "director": [
             "Martín Aliaga"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3718044",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-mezcal-cortometraje-iberoamericano",
@@ -55190,7 +55190,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:superficies",
+          "key": "tt3718044",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -55602,15 +55602,15 @@
         },
         {
           "name": "Viharsarok",
-          "original_name": null,
-          "year": null,
+          "original_name": "Viharsarok",
+          "year": 2014,
           "director": [
             "Àdám Csász"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2474310",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-maguey-premio-maguey",
@@ -55618,7 +55618,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:viharsarok",
+          "key": "tt2474310",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -55769,15 +55769,15 @@
         },
         {
           "name": "L’ autre maison",
-          "original_name": null,
-          "year": null,
+          "original_name": "L'autre maison",
+          "year": 2013,
           "director": [
             "Mathieu Roy"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1977034",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-maguey-largometraje",
@@ -55785,7 +55785,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:l-autre-maison",
+          "key": "tt1977034",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -56336,14 +56336,14 @@
         {
           "name": "Ariel",
           "original_name": null,
-          "year": null,
+          "year": 2013,
           "director": [
             "Laura Bar"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3614818",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-maguey-festival-internacional-de-cine-documental-de-montreal-ridm",
@@ -56351,7 +56351,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:ariel",
+          "key": "tt3614818",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -57402,14 +57402,14 @@
         {
           "name": "Karnaval",
           "original_name": null,
-          "year": null,
+          "year": 2013,
           "director": [
             "Can Kılcıoğlu"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2833386",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-maguey-panorama-internacional",
@@ -57417,7 +57417,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:karnaval",
+          "key": "tt2833386",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -58012,15 +58012,15 @@
         },
         {
           "name": "Rodencia y el diente de la princesa",
-          "original_name": null,
-          "year": null,
+          "original_name": "Rodencia y el diente de la princesa",
+          "year": 2012,
           "director": [
             "David Bisbano"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2439190",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-maguey-cine-para-ninos",
@@ -58028,7 +58028,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:rodencia-y-el-diente-de-la-princesa",
+          "key": "tt2439190",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -59462,15 +59462,15 @@
         },
         {
           "name": "La cigüeña metálica",
-          "original_name": null,
-          "year": null,
+          "original_name": "La cigüeña metálica",
+          "year": 2012,
           "director": [
             "Joan Lopéz Lloret"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2309870",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-documental-iberoamericano",
@@ -59478,7 +59478,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:la-ciguena-metalica",
+          "key": "tt2309870",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -59504,14 +59504,14 @@
         {
           "name": "Elevador",
           "original_name": null,
-          "year": null,
+          "year": 2013,
           "director": [
             "Adrián Ortiz Maciel"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3024918",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-documental-iberoamericano",
@@ -59519,7 +59519,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:elevador",
+          "key": "tt3024918",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -59566,14 +59566,14 @@
         {
           "name": "La huella del Dr. Ernesto Guevara",
           "original_name": null,
-          "year": null,
+          "year": 2013,
           "director": [
             "Jorge Denti"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2988802",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-documental-iberoamericano",
@@ -59581,7 +59581,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:la-huella-del-dr-ernesto-guevara",
+          "key": "tt2988802",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -60478,14 +60478,14 @@
         {
           "name": "La otra orilla",
           "original_name": null,
-          "year": null,
+          "year": 2013,
           "director": [
             "Natalia Mogue"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2782034",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-mezcal-cortometraje-iberoamericano",
@@ -60493,7 +60493,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:la-otra-orilla",
+          "key": "tt2782034",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -64424,14 +64424,14 @@
         {
           "name": "Celso Piña. El rebelde del acordeón",
           "original_name": null,
-          "year": null,
+          "year": 2012,
           "director": [
             "Alfredo Marrón Santander"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2777454",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-maguey-curaduria-de-enrique-blanc",
@@ -64439,7 +64439,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:celso-pina-el-rebelde-del-acordeon",
+          "key": "tt2777454",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -67236,14 +67236,14 @@
         {
           "name": "La habitación",
           "original_name": null,
-          "year": null,
+          "year": 2012,
           "director": [
             "Sebastián Quintanilla"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2676218",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "competencia-oficial-cortometraje-mexicano",
@@ -67251,7 +67251,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:la-habitacion",
+          "key": "tt2676218",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -68277,14 +68277,14 @@
         {
           "name": "Junkhearts",
           "original_name": null,
-          "year": null,
+          "year": 2011,
           "director": [
             "Tinge Krishnan"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1665746",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-largometraje",
@@ -68292,7 +68292,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:junkhearts",
+          "key": "tt1665746",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -70005,15 +70005,15 @@
         },
         {
           "name": "Terre outragée",
-          "original_name": null,
-          "year": null,
+          "original_name": "La terre outragée",
+          "year": 2011,
           "director": [
             "Michale Boganim"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1555084",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-panorama-internacional",
@@ -70021,7 +70021,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:terre-outragee",
+          "key": "tt1555084",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -70251,14 +70251,14 @@
         {
           "name": "Abuelos",
           "original_name": null,
-          "year": null,
+          "year": 2010,
           "director": [
             "Carla Valencia Dávila"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1815579",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-enfoque-ecuador",
@@ -70266,7 +70266,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:abuelos",
+          "key": "tt1815579",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -71612,15 +71612,15 @@
         },
         {
           "name": "Asalto al cine",
-          "original_name": null,
-          "year": null,
+          "original_name": "Asalto al cine",
+          "year": 2011,
           "director": [
             "Iria Gómez Conchero"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1741690",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-largometraje-mexicano-de-ficcion",
@@ -71628,7 +71628,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:asalto-al-cine",
+          "key": "tt1741690",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -72047,15 +72047,15 @@
         },
         {
           "name": "Riscado",
-          "original_name": null,
-          "year": null,
+          "original_name": "Riscado",
+          "year": 2010,
           "director": [
             "Gustavo Pizz"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1667333",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-largometraje-iberoamericano-de-ficcion",
@@ -72063,7 +72063,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:riscado",
+          "key": "tt1667333",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -72130,15 +72130,15 @@
         },
         {
           "name": "Agnus Dei – Cordero de Dios",
-          "original_name": null,
-          "year": null,
+          "original_name": "Agnus Dei: Cordero de Dios",
+          "year": 2011,
           "director": [
             "Alejandra Sánchez"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1865291",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-documental-mexicano",
@@ -72146,7 +72146,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:agnus-dei-cordero-de-dios",
+          "key": "tt1865291",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -72460,14 +72460,14 @@
         {
           "name": "Leite e Ferro",
           "original_name": null,
-          "year": null,
+          "year": 2009,
           "director": [
             "Claudia Priscila"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt12641046",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-documental-iberoamericano",
@@ -72475,7 +72475,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:leite-e-ferro",
+          "key": "tt12641046",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -72807,14 +72807,14 @@
         {
           "name": "Cristeros y federales",
           "original_name": null,
-          "year": null,
+          "year": 2011,
           "director": [
             "Isabel Cristina Fregosa"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1870362",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "competencia-oficial-cortometraje-mexicano",
@@ -72822,7 +72822,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:cristeros-y-federales",
+          "key": "tt1870362",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -73543,14 +73543,14 @@
         {
           "name": "Los teleféricos",
           "original_name": null,
-          "year": null,
+          "year": 2010,
           "director": [
             "Federico Actis"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1790769",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "competencia-oficial-cortometraje-iberoamericano",
@@ -73558,7 +73558,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:los-telefericos",
+          "key": "tt1790769",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -76134,15 +76134,15 @@
         },
         {
           "name": "Hora cero",
-          "original_name": null,
-          "year": null,
+          "original_name": "La hora cero",
+          "year": 2010,
           "director": [
             "Diego Velasco"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1322302",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-vox-populi-box-office",
@@ -76150,7 +76150,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:hora-cero",
+          "key": "tt1322302",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -76520,14 +76520,14 @@
         {
           "name": "Mamma Gógó",
           "original_name": null,
-          "year": null,
+          "year": 2010,
           "director": [
             "Fridrik Thor Fridriksson"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1438466",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-panorama-internacional",
@@ -76535,7 +76535,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:mamma-gogo",
+          "key": "tt1438466",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -76995,14 +76995,14 @@
         {
           "name": "La cebra",
           "original_name": null,
-          "year": null,
+          "year": 2011,
           "director": [
             "José Fernando Javier León Rodriguez"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1913060",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-guadalajara-construye",
@@ -77010,7 +77010,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:la-cebra",
+          "key": "tt1913060",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -77097,15 +77097,15 @@
         },
         {
           "name": "La sargento matacho",
-          "original_name": null,
-          "year": null,
+          "original_name": "La Sargento Matacho",
+          "year": 2015,
           "director": [
             "William González"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1894486",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-guadalajara-construye",
@@ -77113,7 +77113,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:la-sargento-matacho",
+          "key": "tt1894486",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -78201,14 +78201,14 @@
         {
           "name": "Visa al paraíso",
           "original_name": null,
-          "year": null,
+          "year": 2010,
           "director": [
             "Lilian Liberman"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1633281",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-documental-mexicano",
@@ -78216,7 +78216,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:visa-al-paraiso",
+          "key": "tt1633281",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -79287,15 +79287,15 @@
         },
         {
           "name": "Les Plages d’ Agnès",
-          "original_name": null,
-          "year": null,
+          "original_name": "Les plages d'Agnès",
+          "year": 2008,
           "director": [
             "Agnés Varda"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1129435",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-agnes-varda",
@@ -79303,7 +79303,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:les-plages-d-agnes",
+          "key": "tt1129435",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -80569,14 +80569,14 @@
         {
           "name": "Episode III- Enjoy Poverty",
           "original_name": null,
-          "year": null,
+          "year": 2009,
           "director": [
             "Renzo Martens"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1444307",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-sin-fronteras",
@@ -80584,7 +80584,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:episode-iii-enjoy-poverty",
+          "key": "tt1444307",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -80610,14 +80610,14 @@
         {
           "name": "Karaoke",
           "original_name": null,
-          "year": null,
+          "year": 2009,
           "director": [
             "Chris Chong Chan Fui"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1426370",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-sin-fronteras",
@@ -80625,7 +80625,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:karaoke",
+          "key": "tt1426370",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -81601,14 +81601,14 @@
         {
           "name": "La banda en la Isla de la Magia",
           "original_name": null,
-          "year": null,
+          "year": 2008,
           "director": [
             "Chalo Crespo"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1381263",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-cine-para-ninos",
@@ -81616,7 +81616,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:la-banda-en-la-isla-de-la-magia",
+          "key": "tt1381263",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -82366,14 +82366,14 @@
         {
           "name": "Bagatela",
           "original_name": null,
-          "year": null,
+          "year": 2009,
           "director": [
             "Jorge Caballero"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1413510",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-largometraje-documental-iberoamericano",
@@ -82381,20 +82381,20 @@
               "result": "selected"
             }
           ],
-          "key": "t:bagatela",
+          "key": "tt1413510",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "El diario de Agustín",
           "original_name": null,
-          "year": null,
+          "year": 2008,
           "director": [
             "Ignacio Ag üero"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2210579",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-largometraje-documental-iberoamericano",
@@ -82402,7 +82402,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:el-diario-de-agustin",
+          "key": "tt2210579",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -82724,15 +82724,15 @@
         },
         {
           "name": "El informe Toledo",
-          "original_name": null,
-          "year": null,
+          "original_name": "El informe Toledo",
+          "year": 2009,
           "director": [
             "Albino Álvarez G."
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1396481",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-largometraje-documental-mexicano",
@@ -82740,7 +82740,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:el-informe-toledo",
+          "key": "tt1396481",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -83374,14 +83374,14 @@
         {
           "name": "Apocalipsur",
           "original_name": null,
-          "year": null,
+          "year": 2005,
           "director": [
             "Javier Mejía"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0485583",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-invitado-de-honor",
@@ -83389,7 +83389,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:apocalipsur",
+          "key": "tt0485583",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -85197,15 +85197,15 @@
         },
         {
           "name": "Het paard van Sinterklaas",
-          "original_name": null,
-          "year": null,
+          "original_name": "Waar is het paard van Sinterklaas?",
+          "year": 2007,
           "director": [
             "Mischa Kamp"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0926766",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-holanda-para-ninos",
@@ -85213,7 +85213,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:het-paard-van-sinterklaas",
+          "key": "tt0926766",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -85585,14 +85585,14 @@
         {
           "name": "Radio la Colifata",
           "original_name": null,
-          "year": null,
+          "year": 2007,
           "director": [
             "Carlos Larrondo"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1560677",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-cinelandia",
@@ -85600,7 +85600,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:radio-la-colifata",
+          "key": "tt1560677",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -86154,14 +86154,14 @@
         {
           "name": "Os desafinados",
           "original_name": null,
-          "year": null,
+          "year": 2008,
           "director": [
             "Walter Lima"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0456122",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-largometraje-iberoamericano-de-ficcion",
@@ -86169,7 +86169,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:os-desafinados",
+          "key": "tt0456122",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -86537,14 +86537,14 @@
         {
           "name": "Mejor es que Gabriela no se muera",
           "original_name": null,
-          "year": null,
+          "year": 2007,
           "director": [
             "Sergio Umansky"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0485129",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-largometraje-mexicano-de-ficcion",
@@ -86552,7 +86552,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:mejor-es-que-gabriela-no-se-muera",
+          "key": "tt0485129",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -86884,14 +86884,14 @@
         {
           "name": "Siete instantes",
           "original_name": null,
-          "year": null,
+          "year": 2004,
           "director": [
             "Diana Cardozo"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1213143",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-documental-mexicano",
@@ -86899,7 +86899,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:siete-instantes",
+          "key": "tt1213143",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -87617,14 +87617,14 @@
         {
           "name": "Paseo",
           "original_name": null,
-          "year": null,
+          "year": 2007,
           "director": [
             "Arturo Ruiz"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1126626",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "competencia-oficial-cortometraje-iberoamericano",
@@ -87632,7 +87632,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:paseo",
+          "key": "tt1126626",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -88308,14 +88308,14 @@
         {
           "name": "El quinto penalti",
           "original_name": null,
-          "year": null,
+          "year": 2008,
           "director": [
             "Carlo Correa"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1204388",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "competencia-oficial-cortometraje-mexicano",
@@ -88323,7 +88323,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:el-quinto-penalti",
+          "key": "tt1204388",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -89363,14 +89363,14 @@
         {
           "name": "L’ homme qui marche",
           "original_name": null,
-          "year": null,
+          "year": 2007,
           "director": [
             "Aurélia Georges"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0825268",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-puntos-cardinales",
@@ -89378,7 +89378,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:l-homme-qui-marche",
+          "key": "tt0825268",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -89608,15 +89608,15 @@
         },
         {
           "name": "Bergman Island",
-          "original_name": null,
-          "year": null,
+          "original_name": "Bergman och filmen, Bergman och teatern, Bergman och Fårö",
+          "year": 2004,
           "director": [
             "Marie Nyrerod"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0469772",
           "wikidata_id": null,
-          "type": null,
+          "type": "tvMovie",
           "categories": [
             {
               "id": "competencia-oficial-espejos-y-ventanas",
@@ -89624,7 +89624,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:bergman-island",
+          "key": "tt0469772",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -92340,14 +92340,14 @@
         {
           "name": "Noticias de una guerra",
           "original_name": null,
-          "year": null,
+          "year": 2006,
           "director": [
             "Eterio Ortega Santillana"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0968297",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-espejos-y-ventajas",
@@ -92355,7 +92355,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:noticias-de-una-guerra",
+          "key": "tt0968297",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -93362,14 +93362,14 @@
         {
           "name": "Cashback",
           "original_name": null,
-          "year": null,
+          "year": 2006,
           "director": [
             "Sean Ellis"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0460740",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-europa-tendencias",
@@ -93377,7 +93377,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:cashback",
+          "key": "tt0460740",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -94511,14 +94511,14 @@
         {
           "name": "La caja de Yamasaki",
           "original_name": null,
-          "year": null,
+          "year": 2006,
           "director": [
             "José Manuel Cravioto"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0855744",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "competencia-oficial-cortometraje-mexicano",
@@ -94526,7 +94526,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:la-caja-de-yamasaki",
+          "key": "tt0855744",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -96113,14 +96113,14 @@
         {
           "name": "Aos Pedaços",
           "original_name": null,
-          "year": null,
+          "year": 2004,
           "director": [
             "Guilherme Marcondes"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2955974",
           "wikidata_id": null,
-          "type": null,
+          "type": "tvShort",
           "categories": [
             {
               "id": "competencia-oficial-los-animados-de-brasil",
@@ -96128,7 +96128,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:aos-pedacos",
+          "key": "tt2955974",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -97224,14 +97224,14 @@
         {
           "name": "Look Both Ways",
           "original_name": null,
-          "year": null,
+          "year": 2005,
           "director": [
             "Sarah Watts"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0382806",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-puntos-cardinales",
@@ -97239,7 +97239,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:look-both-ways",
+          "key": "tt0382806",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -97492,15 +97492,15 @@
         {
           "name": "Weisse Raben-Alptraum Tschetschenien",
           "original_name": null,
-          "year": null,
+          "year": 2005,
           "director": [
             "Johann Feindt",
             "Tamara Trampe"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0469223",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-espejos-y-ventanas",
@@ -97508,7 +97508,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:weisse-raben-alptraum-tschetschenien",
+          "key": "tt0469223",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -98024,15 +98024,15 @@
         },
         {
           "name": "Tiempo real",
-          "original_name": null,
-          "year": null,
+          "original_name": "Tiempo real",
+          "year": 2002,
           "director": [
             "Fabrizio Prada"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0369020",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-ibermedia",
@@ -98040,7 +98040,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:tiempo-real",
+          "key": "tt0369020",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -99574,14 +99574,14 @@
         {
           "name": "Preguntas sin respuesta",
           "original_name": null,
-          "year": null,
+          "year": 2005,
           "director": [
             "Rafael Montero"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0451868",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-jvc-largometraje-documental",
@@ -99589,7 +99589,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:preguntas-sin-respuesta",
+          "key": "tt0451868",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -100166,14 +100166,14 @@
         {
           "name": "El otro José",
           "original_name": null,
-          "year": null,
+          "year": 2005,
           "director": [
             "Alejandro Guzmán"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0451846",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-jvc-cortometraje-mexicano",
@@ -100181,7 +100181,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:el-otro-jose",
+          "key": "tt0451846",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -101396,14 +101396,14 @@
         {
           "name": "Moolaadé",
           "original_name": null,
-          "year": null,
+          "year": 2003,
           "director": [
             "Sembene Ousmane"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0416991",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-jvc-funciones-especiales",
@@ -101411,7 +101411,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:moolaade",
+          "key": "tt0416991",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -103589,14 +103589,14 @@
         {
           "name": "Sin destino",
           "original_name": null,
-          "year": null,
+          "year": 1999,
           "director": [
             "Leopoldo Laborde"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0274847",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "competencia-oficial-largometrajes-mexicanos",
@@ -103604,7 +103604,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:sin-destino",
+          "key": "tt0274847",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -108148,14 +108148,14 @@
         {
           "name": "Gertrudis Blues",
           "original_name": null,
-          "year": null,
+          "year": 2003,
           "director": [
             "Patricia Carrillo"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0343709",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-ocic-cortometrajes",
@@ -108163,7 +108163,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:gertrudis-blues",
+          "key": "tt0343709",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -108494,15 +108494,15 @@
         },
         {
           "name": "Manos libres",
-          "original_name": null,
-          "year": null,
+          "original_name": "Manos libres",
+          "year": 2000,
           "director": [
             "Tomás Wels"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0250574",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-ocic-cortometrajes-iberoamericanos",
@@ -108510,7 +108510,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:manos-libres",
+          "key": "tt0250574",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -108840,14 +108840,14 @@
         {
           "name": "Guerrero",
           "original_name": null,
-          "year": null,
+          "year": 2001,
           "director": [
             "Benjamín Escamilla Espinoza"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt13726924",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-ocic-largometrajes-panorama",
@@ -108855,7 +108855,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:guerrero",
+          "key": "tt13726924",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -108963,14 +108963,14 @@
         {
           "name": "El columpio del diablo",
           "original_name": null,
-          "year": null,
+          "year": 2004,
           "director": [
             "Enrique Rentería"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0419652",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-ocic-cortometrajes-panorama",
@@ -108978,7 +108978,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:el-columpio-del-diablo",
+          "key": "tt0419652",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -113962,14 +113962,14 @@
         {
           "name": "The Hanging Garden",
           "original_name": null,
-          "year": null,
+          "year": 1997,
           "director": [
             "Thom Fitzgeral"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0125128",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-ocic-peliculas-de-canada",
@@ -113977,7 +113977,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-hanging-garden",
+          "key": "tt0125128",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -114649,15 +114649,15 @@
         },
         {
           "name": "¿Quién diablos es Juliette?",
-          "original_name": null,
-          "year": null,
+          "original_name": "¿Quién diablos es Yuliet?",
+          "year": 1997,
           "director": [
             "Carlos Marcovic"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0126627",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-dicine-y-ocic-premio-dicine-y-ocic",
@@ -114665,7 +114665,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:quien-diablos-es-juliette",
+          "key": "tt0126627",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -116223,15 +116223,15 @@
         },
         {
           "name": "Vagabunda",
-          "original_name": null,
-          "year": null,
+          "original_name": "Vagabunda",
+          "year": 1994,
           "director": [
             "Alfonso Rosas Priego"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0376296",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-critica-internacional-largometrajes",
@@ -116239,7 +116239,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:vagabunda",
+          "key": "tt0376296",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -116508,14 +116508,14 @@
         {
           "name": "Bartolomé de las Casas",
           "original_name": null,
-          "year": null,
+          "year": 1993,
           "director": [
             "Sergio Olhovich"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0103771",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-critica-internacional-largometrajes",
@@ -116523,7 +116523,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:bartolome-de-las-casas",
+          "key": "tt0103771",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -116569,14 +116569,14 @@
         {
           "name": "La línea",
           "original_name": null,
-          "year": null,
+          "year": 1992,
           "director": [
             "Ernesto Rimoch"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0257884",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-critica-internacional-largometrajes",
@@ -116584,7 +116584,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:la-linea",
+          "key": "tt0257884",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -116792,15 +116792,15 @@
         },
         {
           "name": "Otoñal",
-          "original_name": null,
-          "year": null,
+          "original_name": "Otoñal",
+          "year": 1993,
           "director": [
             "María Novarro"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0107760",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-critica-internacional-cortometrajes",
@@ -116808,7 +116808,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:otonal",
+          "key": "tt0107760",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -118967,14 +118967,14 @@
         {
           "name": "Entrada la noche",
           "original_name": null,
-          "year": null,
+          "year": 1989,
           "director": [
             "Pablo Gómez Sáenz"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0383344",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "secciones-y-peliculas-cortos-y-mediometrajes",
@@ -118982,7 +118982,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:entrada-la-noche",
+          "key": "tt0383344",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -119109,14 +119109,14 @@
         {
           "name": "Un vestidito blanco como la leche Nido",
           "original_name": null,
-          "year": null,
+          "year": 1993,
           "director": [
             "Carlos Carrera"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0389492",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "secciones-y-peliculas-cortos-y-mediometrajes",
@@ -119124,7 +119124,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:un-vestidito-blanco-como-la-leche-nido",
+          "key": "tt0389492",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -120124,14 +120124,14 @@
         {
           "name": "Tatay",
           "original_name": null,
-          "year": null,
+          "year": 1987,
           "director": [
             "Sergio Muñoz Güemes"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0258237",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "secciones-y-peliculas-corto-y-mediometraje",
@@ -120139,7 +120139,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:tatay",
+          "key": "tt0258237",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {

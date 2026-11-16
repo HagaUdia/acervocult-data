@@ -2,7 +2,7 @@
   "id": "mardelplata",
   "label": "Festival de Mar del Plata",
   "kind": "festival",
-  "updated_at": "2026-09-28T11:26:30.375Z",
+  "updated_at": "2026-11-16T10:52:36.918Z",
   "editions": [
     {
       "year": 2023,
@@ -945,12 +945,12 @@
         {
           "name": "Nueva esperanza",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt29908356",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-mencion-especial",
@@ -958,7 +958,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:nueva-esperanza",
+          "key": "tt29908356",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -3870,16 +3870,16 @@
         {
           "name": "Vitória",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [
             "Ricardo Alves"
           ],
           "people": [
             "Ricardo Alves"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt12115086",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "participantes",
@@ -3887,7 +3887,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:vitoria",
+          "key": "tt12115086",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -4151,16 +4151,16 @@
         {
           "name": "Heliconia",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [
             "Paula Rodríguez Polanco"
           ],
           "people": [
             "Paula Rodríguez Polanco"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt13700508",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "participantes",
@@ -4173,7 +4173,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:heliconia",
+          "key": "tt13700508",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -4896,15 +4896,15 @@
         {
           "name": "Las poetas visitan a Juana Bignozzi",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [],
           "people": [
             "Laura Citarella",
             "Mercedes Halfon"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt33088701",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio",
@@ -4912,7 +4912,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:las-poetas-visitan-a-juana-bignozzi",
+          "key": "tt33088701",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {

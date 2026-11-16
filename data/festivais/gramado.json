@@ -2,7 +2,7 @@
   "id": "gramado",
   "label": "Festival de Gramado",
   "kind": "festival",
-  "updated_at": "2026-11-01T09:23:28.323Z",
+  "updated_at": "2026-11-16T10:52:36.918Z",
   "editions": [
     {
       "year": 2026,
@@ -909,14 +909,14 @@
         {
           "name": "DPA 4 – O Fantástico Reino de Ondion",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [
             "Mauro Lima"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt33009208",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "mostra-infantil-petrobras",
@@ -924,7 +924,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:dpa-4-o-fantastico-reino-de-ondion",
+          "key": "tt33009208",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -1412,16 +1412,16 @@
         },
         {
           "name": "Terra Bruta",
-          "original_name": null,
-          "year": null,
+          "original_name": "Terra Bruta",
+          "year": 2026,
           "director": [
             "Allan Riggs",
             "Guilherme Suman"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt39454020",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "curtas-metragens-gauchos-premio-assembleia-legislativa",
@@ -1429,7 +1429,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:terra-bruta",
+          "key": "tt39454020",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -1451,6 +1451,28 @@
           ],
           "key": "tt37844422",
           "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "Chorão: Só os Loucos Sabem",
+          "original_name": null,
+          "year": null,
+          "director": [
+            "Hugo Prata",
+            "Felipe Novaes"
+          ],
+          "people": [],
+          "imdb_id": null,
+          "wikidata_id": null,
+          "type": null,
+          "categories": [
+            {
+              "id": "longas-metragens-brasileiros",
+              "label": "Longas-metragens Brasileiros",
+              "result": "selected"
+            }
+          ],
+          "key": "t:chorao-so-os-loucos-sabem",
+          "first_seen": "2026-11-16T10:52:36.918Z"
         }
       ]
     },

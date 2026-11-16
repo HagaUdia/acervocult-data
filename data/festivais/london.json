@@ -2,7 +2,7 @@
   "id": "london",
   "label": "BFI London Film Festival",
   "kind": "festival",
-  "updated_at": "2026-11-01T07:00:52.865Z",
+  "updated_at": "2026-11-16T10:52:36.918Z",
   "editions": [
     {
       "year": 2026,
@@ -166,6 +166,11 @@
               "id": "gala",
               "label": "Gala",
               "result": "selected"
+            },
+            {
+              "id": "premio-best-feature-film",
+              "label": "Prêmio: Best Feature Film",
+              "result": "winner"
             }
           ],
           "key": "tt35511966",
@@ -981,7 +986,7 @@
             "Jessica Johnson"
           ],
           "imdb_id": "tt41103002",
-          "wikidata_id": null,
+          "wikidata_id": "Q142123000",
           "type": "movie",
           "categories": [
             {
@@ -1008,6 +1013,11 @@
               "id": "documentary-competition",
               "label": "Documentary Competition",
               "result": "selected"
+            },
+            {
+              "id": "premio-best-british-discovery",
+              "label": "Prêmio: Best British Discovery",
+              "result": "winner"
             }
           ],
           "key": "tt44988580",
@@ -1703,17 +1713,17 @@
         },
         {
           "name": "Good Little Soldier",
-          "original_name": null,
-          "year": null,
+          "original_name": "Un bon petit soldat",
+          "year": 2026,
           "director": [
             "Stéphane Brizé"
           ],
           "people": [
             "Stéphane Brizé"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt41802342",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "debate",
@@ -1721,7 +1731,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:good-little-soldier",
+          "key": "tt41802342",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -1787,15 +1797,15 @@
         {
           "name": "The Banning Curse",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "Mohsen Amiryousefi",
             "Mohsen Amiryousefi"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt44939002",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "laugh",
@@ -1803,7 +1813,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-banning-curse",
+          "key": "tt44939002",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -3371,6 +3381,24 @@
           ],
           "key": "tt29512008",
           "first_seen": "2026-11-01T07:00:52.865Z"
+        },
+        {
+          "name": "All Change",
+          "original_name": null,
+          "year": 2025,
+          "director": [],
+          "imdb_id": "tt38133776",
+          "wikidata_id": null,
+          "type": "short",
+          "categories": [
+            {
+              "id": "as-the-years-roll-by",
+              "label": "As the Years Roll By",
+              "result": "selected"
+            }
+          ],
+          "key": "tt38133776",
+          "first_seen": "2026-11-16T10:52:36.918Z"
         }
       ]
     },
@@ -4639,15 +4667,15 @@
         {
           "name": "Happiness",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [
             "Firat",
             "ücel"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt36610502",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-films-competition",
@@ -4655,7 +4683,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:happiness",
+          "key": "tt36610502",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -5166,14 +5194,14 @@
         {
           "name": "Island of the Winds",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [
             "Hsu Ya-Ting"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt37388324",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "debate",
@@ -5181,7 +5209,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:island-of-the-winds",
+          "key": "tt37388324",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -7161,14 +7189,14 @@
         {
           "name": "Under the Wave Off Little Dragon",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [
             "Luo Jian"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt29335822",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "discovering-home",
@@ -7176,7 +7204,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:under-the-wave-off-little-dragon",
+          "key": "tt29335822",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -8978,17 +9006,17 @@
         },
         {
           "name": "Living in Two Worlds",
-          "original_name": null,
-          "year": null,
+          "original_name": "Boku ga Ikiteru, Futatsu no Sekai",
+          "year": 2024,
           "director": [
             "Mipo O"
           ],
           "people": [
             "Mipo O"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt32485961",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "official-competition",
@@ -8996,7 +9024,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:living-in-two-worlds",
+          "key": "tt32485961",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -10294,16 +10322,16 @@
         {
           "name": "Sofa, So Good",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [
             "Kyle Thiele",
             "Eli Thiele",
             "Cole Thiele"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt33096873",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "laugh",
@@ -10311,7 +10339,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:sofa-so-good",
+          "key": "tt33096873",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -12869,14 +12897,14 @@
         {
           "name": "Crocodile Nest",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [
             "Jazmin Rojas Forero"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt33322494",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "a-stream-of-echoes",
@@ -12884,7 +12912,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:crocodile-nest",
+          "key": "tt33322494",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -13729,14 +13757,14 @@
         {
           "name": "Self Portrait: 47 Km 2020",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [
             "Zhang Mengqi"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt28800775",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "official-competition",
@@ -13744,7 +13772,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:self-portrait-47-km-2020",
+          "key": "tt28800775",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -18236,14 +18264,14 @@
         {
           "name": "Independence",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [
             "Karl Jackson"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt21347782",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "london-calling-brave-faces",
@@ -18251,7 +18279,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:independence",
+          "key": "tt21347782",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -19864,14 +19892,14 @@
         {
           "name": "The Ocean Analog",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [
             "Luis Macias"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt19178174",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film-competition",
@@ -19879,7 +19907,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-ocean-analog",
+          "key": "tt19178174",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -20001,12 +20029,12 @@
         {
           "name": "All Unsaved Progress Will be Lost",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt21871930",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "immersive-art-and-xr-competition",
@@ -20014,18 +20042,18 @@
               "result": "selected"
             }
           ],
-          "key": "t:all-unsaved-progress-will-be-lost",
+          "key": "tt21871930",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Apparatus Ludens",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt22044586",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "immersive-art-and-xr-competition",
@@ -20033,7 +20061,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:apparatus-ludens",
+          "key": "tt22044586",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -20121,12 +20149,12 @@
         {
           "name": "FRAMERATE: Pulse of The Earth",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt21872790",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "immersive-art-and-xr-competition",
@@ -20134,7 +20162,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:framerate-pulse-of-the-earth",
+          "key": "tt21872790",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -20179,12 +20207,12 @@
         {
           "name": "Intravene",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt22045514",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "immersive-art-and-xr-competition",
@@ -20192,7 +20220,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:intravene",
+          "key": "tt22045514",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -20274,12 +20302,12 @@
         {
           "name": "On the Morning You Wake (To the End Of The World)",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt16418768",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "immersive-art-and-xr-competition",
@@ -20287,7 +20315,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:on-the-morning-you-wake-to-the-end-of-the-world",
+          "key": "tt16418768",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -20312,12 +20340,12 @@
         {
           "name": "Planet City",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt22097602",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "immersive-art-and-xr-competition",
@@ -20325,7 +20353,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:planet-city",
+          "key": "tt22097602",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -21062,15 +21090,15 @@
         {
           "name": "The Middle Ages",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [
             "Luciana Acuña",
             "Alejo Moguillansky"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt17518262",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "laugh",
@@ -21078,7 +21106,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-middle-ages",
+          "key": "tt17518262",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -23622,12 +23650,12 @@
         {
           "name": "Wasteland",
           "original_name": null,
-          "year": null,
+          "year": 2011,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1045673",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-best-british-newcomer",
@@ -23635,7 +23663,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:wasteland",
+          "key": "tt1045673",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -23861,12 +23889,12 @@
         {
           "name": "The Ethnographer",
           "original_name": null,
-          "year": null,
+          "year": 2012,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2325665",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-the-grierson-award-for-best-documentary",
@@ -23874,7 +23902,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:the-ethnographer",
+          "key": "tt2325665",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {

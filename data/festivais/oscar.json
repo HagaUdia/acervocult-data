@@ -2,7 +2,7 @@
   "id": "oscar",
   "label": "Oscar",
   "kind": "award",
-  "updated_at": "2026-10-15T07:00:33.304Z",
+  "updated_at": "2026-11-16T10:52:36.918Z",
   "editions": [
     {
       "year": 2026,
@@ -25349,12 +25349,12 @@
         {
           "name": "Manon on the Asphalt",
           "original_name": null,
-          "year": null,
+          "year": 2007,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1186020",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-live-action",
@@ -25362,7 +25362,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:manon-on-the-asphalt",
+          "key": "tt1186020",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -26705,12 +26705,12 @@
         {
           "name": "Tanghi Argentini",
           "original_name": null,
-          "year": null,
+          "year": 2006,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0812387",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-live-action",
@@ -26718,7 +26718,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:tanghi-argentini",
+          "key": "tt0812387",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -33617,12 +33617,12 @@
         {
           "name": "Fait D'Hiver",
           "original_name": null,
-          "year": null,
+          "year": 2001,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0281850",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-live-action",
@@ -33630,7 +33630,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:fait-dhiver",
+          "key": "tt0281850",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -34897,12 +34897,12 @@
         {
           "name": "Gregor's Greatest Invention",
           "original_name": null,
-          "year": null,
+          "year": 2001,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0304107",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-live-action",
@@ -34910,7 +34910,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:gregors-greatest-invention",
+          "key": "tt0304107",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -34936,12 +34936,12 @@
         {
           "name": "Speed for Thespians",
           "original_name": null,
-          "year": null,
+          "year": 2000,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0269899",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-live-action",
@@ -34949,7 +34949,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:speed-for-thespians",
+          "key": "tt0269899",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -34995,12 +34995,12 @@
         {
           "name": "Give Up Yer Aul Sins",
           "original_name": null,
-          "year": null,
+          "year": 2001,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0308317",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-animated",
@@ -35008,7 +35008,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:give-up-yer-aul-sins",
+          "key": "tt0308317",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -36120,12 +36120,12 @@
         {
           "name": "One Day Crossing",
           "original_name": null,
-          "year": null,
+          "year": 2001,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0269658",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-live-action",
@@ -36133,18 +36133,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:one-day-crossing",
+          "key": "tt0269658",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Seraglio",
           "original_name": null,
-          "year": null,
+          "year": 2000,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0262758",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-live-action",
@@ -36152,7 +36152,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:seraglio",
+          "key": "tt0262758",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -37431,12 +37431,12 @@
         {
           "name": "Kleingeld",
           "original_name": null,
-          "year": null,
+          "year": 1999,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0200780",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-live-action",
@@ -37444,18 +37444,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:kleingeld",
+          "key": "tt0200780",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Major and Minor Miracles",
           "original_name": null,
-          "year": null,
+          "year": 1999,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0239583",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-live-action",
@@ -37463,7 +37463,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:major-and-minor-miracles",
+          "key": "tt0239583",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -38855,13 +38855,13 @@
         },
         {
           "name": "La Carte Postale",
-          "original_name": null,
-          "year": null,
+          "original_name": "La carte postale",
+          "year": 1998,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0188485",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-live-action",
@@ -38869,7 +38869,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:la-carte-postale",
+          "key": "tt0188485",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -40276,12 +40276,12 @@
         {
           "name": "It's Good to Talk",
           "original_name": null,
-          "year": null,
+          "year": 1997,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0141401",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-live-action",
@@ -40289,7 +40289,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:its-good-to-talk",
+          "key": "tt0141401",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -41628,12 +41628,12 @@
         {
           "name": "De tripas, corazón",
           "original_name": null,
-          "year": null,
+          "year": 1996,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0116044",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-live-action",
@@ -41641,7 +41641,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:de-tripas-corazon",
+          "key": "tt0116044",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -41688,12 +41688,12 @@
         {
           "name": "Senza parole",
           "original_name": null,
-          "year": null,
+          "year": 1996,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0118191",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-live-action",
@@ -41701,7 +41701,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:senza-parole",
+          "key": "tt0118191",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -41727,12 +41727,12 @@
         {
           "name": "Canhead",
           "original_name": null,
-          "year": null,
+          "year": 1996,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0115817",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-animated",
@@ -41740,7 +41740,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:canhead",
+          "key": "tt0115817",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -43316,12 +43316,12 @@
         {
           "name": "Gagarin",
           "original_name": null,
-          "year": null,
+          "year": 1994,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0113138",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-animated",
@@ -43329,7 +43329,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:gagarin",
+          "key": "tt0113138",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -44670,12 +44670,12 @@
         {
           "name": "The Janitor",
           "original_name": null,
-          "year": null,
+          "year": 1995,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0110183",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-animated",
@@ -44683,7 +44683,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:the-janitor",
+          "key": "tt0110183",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -45934,12 +45934,12 @@
         {
           "name": "Blindscape",
           "original_name": null,
-          "year": null,
+          "year": 1993,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0106428",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-animated",
@@ -45947,7 +45947,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:blindscape",
+          "key": "tt0106428",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -47142,12 +47142,12 @@
         {
           "name": "Cruise Control",
           "original_name": null,
-          "year": null,
+          "year": 1992,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0104032",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-live-action",
@@ -47155,7 +47155,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:cruise-control",
+          "key": "tt0104032",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -48490,12 +48490,12 @@
         {
           "name": "Birch Street Gym",
           "original_name": null,
-          "year": null,
+          "year": 1991,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0101456",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-live-action",
@@ -48503,20 +48503,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:birch-street-gym",
+          "key": "tt0101456",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Last Breeze of Summer",
           "original_name": null,
-          "year": null,
+          "year": 1991,
           "director": [],
           "people": [
             "David M. Massey"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0102268",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-live-action",
@@ -48524,7 +48524,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:last-breeze-of-summer",
+          "key": "tt0102268",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -50951,14 +50951,14 @@
         {
           "name": "The Childeater",
           "original_name": null,
-          "year": null,
+          "year": 1989,
           "director": [],
           "people": [
             "Jonathan Tammuz"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0097057",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-live-action",
@@ -50966,7 +50966,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:the-childeater",
+          "key": "tt0097057",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -52268,12 +52268,12 @@
         {
           "name": "Gullah Tales",
           "original_name": null,
-          "year": null,
+          "year": 1988,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0095261",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-live-action",
@@ -52281,7 +52281,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:gullah-tales",
+          "key": "tt0095261",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -53559,14 +53559,14 @@
         {
           "name": "Shoeshine",
           "original_name": null,
-          "year": null,
+          "year": 1987,
           "director": [],
           "people": [
             "Robert A. Katz"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0093960",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-live-action",
@@ -53574,7 +53574,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:shoeshine",
+          "key": "tt0093960",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -54869,12 +54869,12 @@
         {
           "name": "Love Struck",
           "original_name": null,
-          "year": null,
+          "year": 1986,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0091438",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-live-action",
@@ -54882,7 +54882,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:love-struck",
+          "key": "tt0091438",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -56167,12 +56167,12 @@
         {
           "name": "Graffiti",
           "original_name": null,
-          "year": null,
+          "year": 1985,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0089225",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-live-action",
@@ -56180,7 +56180,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:graffiti",
+          "key": "tt0089225",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -58649,12 +58649,12 @@
         {
           "name": "Overnight Sensation",
           "original_name": null,
-          "year": null,
+          "year": 1984,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0086067",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-live-action",
@@ -58662,7 +58662,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:overnight-sensation",
+          "key": "tt0086067",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -58708,12 +58708,12 @@
         {
           "name": "Sound of Sunshine – Sound of Rain",
           "original_name": null,
-          "year": null,
+          "year": 1983,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0086344",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-animated",
@@ -58721,7 +58721,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:sound-of-sunshine-sound-of-rain",
+          "key": "tt0086344",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -59864,12 +59864,12 @@
         {
           "name": "Split Cherry Tree",
           "original_name": null,
-          "year": null,
+          "year": 1982,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0084713",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-live-action",
@@ -59877,7 +59877,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:split-cherry-tree",
+          "key": "tt0084713",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -61050,14 +61050,14 @@
         {
           "name": "Couples and Robbers",
           "original_name": null,
-          "year": null,
+          "year": 1981,
           "director": [],
           "people": [
             "Christine Oestreicher"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0082207",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-live-action",
@@ -61065,7 +61065,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:couples-and-robbers",
+          "key": "tt0082207",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -64742,12 +64742,12 @@
         {
           "name": "Oh My Darling",
           "original_name": null,
-          "year": null,
+          "year": 1978,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0078017",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-animated",
@@ -64755,7 +64755,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:oh-my-darling",
+          "key": "tt0078017",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -65919,12 +65919,12 @@
         {
           "name": "Floating Free",
           "original_name": null,
-          "year": null,
+          "year": 1978,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0076036",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-live-action",
@@ -65932,7 +65932,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:floating-free",
+          "key": "tt0076036",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -65959,12 +65959,12 @@
         {
           "name": "Spaceborne",
           "original_name": null,
-          "year": null,
+          "year": 1977,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0076742",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-live-action",
@@ -65972,7 +65972,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:spaceborne",
+          "key": "tt0076742",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -67132,12 +67132,12 @@
         {
           "name": "Kudzu",
           "original_name": null,
-          "year": null,
+          "year": 1977,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0074765",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-live-action",
@@ -67145,20 +67145,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:kudzu",
+          "key": "tt0074765",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "The Morning Spider",
           "original_name": null,
-          "year": null,
+          "year": 1976,
           "director": [],
           "people": [
             "Julian Chagrin"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0074919",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-live-action",
@@ -67166,7 +67166,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:the-morning-spider",
+          "key": "tt0074919",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -67232,12 +67232,12 @@
         {
           "name": "Dedalo",
           "original_name": null,
-          "year": null,
+          "year": 1976,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0074386",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-animated",
@@ -67245,7 +67245,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:dedalo",
+          "key": "tt0074386",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -68596,12 +68596,12 @@
         {
           "name": "Doubletalk",
           "original_name": null,
-          "year": null,
+          "year": 1975,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0072900",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-live-action",
@@ -68609,7 +68609,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:doubletalk",
+          "key": "tt0072900",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -69843,14 +69843,14 @@
         {
           "name": "The Concert",
           "original_name": null,
-          "year": null,
+          "year": 1974,
           "director": [],
           "people": [
             "Julian Chagrin"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0071355",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-live-action",
@@ -69858,18 +69858,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:the-concert",
+          "key": "tt0071355",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Planet Ocean",
           "original_name": null,
-          "year": null,
+          "year": 1974,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0072001",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-live-action",
@@ -69877,18 +69877,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:planet-ocean",
+          "key": "tt0072001",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "The Violin",
           "original_name": null,
-          "year": null,
+          "year": 1974,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0072370",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-film-live-action",
@@ -69896,7 +69896,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:the-violin",
+          "key": "tt0072370",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -71165,12 +71165,12 @@
         {
           "name": "The Legend of John Henry",
           "original_name": null,
-          "year": null,
+          "year": 1974,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0070296",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-animated",
@@ -71178,7 +71178,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:the-legend-of-john-henry",
+          "key": "tt0070296",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -72344,12 +72344,12 @@
         {
           "name": "Frog Story",
           "original_name": null,
-          "year": null,
+          "year": 1972,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0068614",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-live-action",
@@ -72357,7 +72357,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:frog-story",
+          "key": "tt0068614",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -73536,12 +73536,12 @@
         {
           "name": "Good Morning",
           "original_name": null,
-          "year": null,
+          "year": 1971,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0067152",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-live-action",
@@ -73549,7 +73549,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:good-morning",
+          "key": "tt0067152",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -74747,12 +74747,12 @@
         {
           "name": "Shut Up...I'm Crying",
           "original_name": null,
-          "year": null,
+          "year": 1970,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0066376",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-live-action",
@@ -74760,7 +74760,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:shut-up-im-crying",
+          "key": "tt0066376",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -76098,12 +76098,12 @@
         {
           "name": "People Soup",
           "original_name": null,
-          "year": null,
+          "year": 1969,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0064799",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-live-action",
@@ -76111,7 +76111,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:people-soup",
+          "key": "tt0064799",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -77293,12 +77293,12 @@
         {
           "name": "Prelude",
           "original_name": null,
-          "year": null,
+          "year": 1968,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0063454",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-live-action",
@@ -77306,7 +77306,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:prelude",
+          "key": "tt0063454",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -77372,14 +77372,14 @@
         {
           "name": "Windy Day",
           "original_name": null,
-          "year": null,
+          "year": 1968,
           "director": [],
           "people": [
             "Hubley Studios"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0063816",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-cartoon",
@@ -77387,7 +77387,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:windy-day",
+          "key": "tt0063816",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -78557,12 +78557,12 @@
         {
           "name": "Sky over Holland",
           "original_name": null,
-          "year": null,
+          "year": 1967,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0062278",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-live-action",
@@ -78570,7 +78570,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:sky-over-holland",
+          "key": "tt0062278",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -78616,12 +78616,12 @@
         {
           "name": "Hypothese Beta",
           "original_name": null,
-          "year": null,
+          "year": 1967,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0061798",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-cartoon",
@@ -78629,7 +78629,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:hypothese-beta",
+          "key": "tt0061798",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -79794,12 +79794,12 @@
         {
           "name": "The Winning Strain",
           "original_name": null,
-          "year": null,
+          "year": 1966,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0061200",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-live-action",
@@ -79807,7 +79807,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:the-winning-strain",
+          "key": "tt0061200",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -81308,14 +81308,14 @@
         {
           "name": "Clay or the Origin of Species",
           "original_name": null,
-          "year": null,
+          "year": 1965,
           "director": [],
           "people": [
             "Eliot Noyes Jr."
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0059041",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-cartoon",
@@ -81323,7 +81323,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:clay-or-the-origin-of-species",
+          "key": "tt0059041",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -82814,14 +82814,14 @@
         {
           "name": "How to Avoid Friendship",
           "original_name": null,
-          "year": null,
+          "year": 1964,
           "director": [],
           "people": [
             "William L. Snyder"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0058211",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-cartoon",
@@ -82829,7 +82829,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:how-to-avoid-friendship",
+          "key": "tt0058211",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -85539,12 +85539,12 @@
         {
           "name": "Big City Blues",
           "original_name": null,
-          "year": null,
+          "year": 1962,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0055792",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-live-action",
@@ -85552,7 +85552,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:big-city-blues",
+          "key": "tt0055792",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -85578,12 +85578,12 @@
         {
           "name": "The Cliff Dwellers",
           "original_name": null,
-          "year": null,
+          "year": 1962,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0055853",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-live-action",
@@ -85591,7 +85591,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:the-cliff-dwellers",
+          "key": "tt0055853",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -85637,14 +85637,14 @@
         {
           "name": "Icarus Montgolfier Wright",
           "original_name": null,
-          "year": null,
+          "year": 1962,
           "director": [],
           "people": [
             "Jules Engel"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0056091",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-cartoon",
@@ -85652,7 +85652,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:icarus-montgolfier-wright",
+          "key": "tt0056091",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -85678,14 +85678,14 @@
         {
           "name": "Self Defense ... for Cowards",
           "original_name": null,
-          "year": null,
+          "year": 1962,
           "director": [],
           "people": [
             "William L. Snyder"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0056464",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-cartoon",
@@ -85693,7 +85693,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:self-defense-for-cowards",
+          "key": "tt0056464",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -86926,12 +86926,12 @@
         {
           "name": "The Face of Jesus",
           "original_name": null,
-          "year": null,
+          "year": 1961,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0054863",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-live-action",
@@ -86939,18 +86939,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:the-face-of-jesus",
+          "key": "tt0054863",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Play Ball!",
           "original_name": null,
-          "year": null,
+          "year": 1960,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0054658",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-live-action",
@@ -86958,18 +86958,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:play-ball",
+          "key": "tt0054658",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Rooftops of New York",
           "original_name": null,
-          "year": null,
+          "year": 1961,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0055384",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-live-action",
@@ -86977,7 +86977,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:rooftops-of-new-york",
+          "key": "tt0055384",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -88378,14 +88378,14 @@
         {
           "name": "The Creation of Woman",
           "original_name": null,
-          "year": null,
+          "year": 1961,
           "director": [],
           "people": [
             "Ismail Merchant"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0053737",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-live-action",
@@ -88393,20 +88393,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:the-creation-of-woman",
+          "key": "tt0053737",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Islands of the Sea",
           "original_name": null,
-          "year": null,
+          "year": 1960,
           "director": [],
           "people": [
             "Walt Disney"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0053956",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-live-action",
@@ -88414,18 +88414,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:islands-of-the-sea",
+          "key": "tt0053956",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "A Sport Is Born",
           "original_name": null,
-          "year": null,
+          "year": 1960,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0054335",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-live-action",
@@ -88433,7 +88433,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:a-sport-is-born",
+          "key": "tt0054335",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -88519,12 +88519,12 @@
         {
           "name": "A Place in the Sun",
           "original_name": null,
-          "year": null,
+          "year": 1959,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0054186",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-cartoon",
@@ -88532,7 +88532,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:a-place-in-the-sun",
+          "key": "tt0054186",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -89665,12 +89665,12 @@
         {
           "name": "Between the Tides",
           "original_name": null,
-          "year": null,
+          "year": 1958,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0052621",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-live-action",
@@ -89678,20 +89678,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:between-the-tides",
+          "key": "tt0052621",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Mysteries of the Deep",
           "original_name": null,
-          "year": null,
+          "year": 1959,
           "director": [],
           "people": [
             "Walt Disney"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0053090",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-live-action",
@@ -89699,7 +89699,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:mysteries-of-the-deep",
+          "key": "tt0053090",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -89786,14 +89786,14 @@
         {
           "name": "Noah's Ark",
           "original_name": null,
-          "year": null,
+          "year": 1959,
           "director": [],
           "people": [
             "Walt Disney"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0053120",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-cartoon",
@@ -89801,7 +89801,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:noahs-ark",
+          "key": "tt0053120",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -91122,14 +91122,14 @@
         {
           "name": "T Is for Tumbleweed",
           "original_name": null,
-          "year": null,
+          "year": 1958,
           "director": [],
           "people": [
             "James A. Lebenthal"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0052267",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-live-action",
@@ -91137,7 +91137,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:t-is-for-tumbleweed",
+          "key": "tt0052267",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -91183,12 +91183,12 @@
         {
           "name": "Sidney's Family Tree",
           "original_name": null,
-          "year": null,
+          "year": 1958,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0052195",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-cartoon",
@@ -91196,7 +91196,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:sidneys-family-tree",
+          "key": "tt0052195",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -92306,12 +92306,12 @@
         {
           "name": "Foothold on Antarctica",
           "original_name": null,
-          "year": null,
+          "year": 1957,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0050403",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-live-action",
@@ -92319,7 +92319,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:foothold-on-antarctica",
+          "key": "tt0050403",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -92405,14 +92405,14 @@
         {
           "name": "Trees and Jamaica Daddy",
           "original_name": null,
-          "year": null,
+          "year": 1957,
           "director": [],
           "people": [
             "Stephen Bosustow"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0051108",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-cartoon",
@@ -92420,7 +92420,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:trees-and-jamaica-daddy",
+          "key": "tt0051108",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -93805,14 +93805,14 @@
         {
           "name": "Samoa",
           "original_name": null,
-          "year": null,
+          "year": 1956,
           "director": [],
           "people": [
             "Walt Disney"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0049709",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-two-reel",
@@ -93820,7 +93820,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:samoa",
+          "key": "tt0049709",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -93846,14 +93846,14 @@
         {
           "name": "Gerald McBoing-Boing on Planet Moo",
           "original_name": null,
-          "year": null,
+          "year": 1956,
           "director": [],
           "people": [
             "Stephen Bosustow"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0049258",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-cartoon",
@@ -93861,7 +93861,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:gerald-mcboing-boing-on-planet-moo",
+          "key": "tt0049258",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -95142,14 +95142,14 @@
         {
           "name": "On the Twelfth Day",
           "original_name": null,
-          "year": null,
+          "year": 1965,
           "director": [],
           "people": [
             "George K. Arthur"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0048447",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-two-reel",
@@ -95157,20 +95157,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:on-the-twelfth-day",
+          "key": "tt0048447",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Switzerland",
           "original_name": null,
-          "year": null,
+          "year": 1955,
           "director": [],
           "people": [
             "Walt Disney"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0048683",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-two-reel",
@@ -95178,7 +95178,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:switzerland",
+          "key": "tt0048683",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -96672,14 +96672,14 @@
         {
           "name": "Touché, Pussy Cat!",
           "original_name": null,
-          "year": null,
+          "year": 1954,
           "director": [],
           "people": [
             "Fred Quimby"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0047600",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-cartoon",
@@ -96687,7 +96687,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:touche-pussy-cat",
+          "key": "tt0047600",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -97889,12 +97889,12 @@
         {
           "name": "Christ Among the Primitives",
           "original_name": null,
-          "year": null,
+          "year": 1953,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0045625",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-one-reel",
@@ -97902,7 +97902,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:christ-among-the-primitives",
+          "key": "tt0045625",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -97949,14 +97949,14 @@
         {
           "name": "Wee Water Wonders",
           "original_name": null,
-          "year": null,
+          "year": 1953,
           "director": [],
           "people": [
             "Jack Eaton"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0046537",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-one-reel",
@@ -97964,7 +97964,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:wee-water-wonders",
+          "key": "tt0046537",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -98050,12 +98050,12 @@
         {
           "name": "Winter Paradise",
           "original_name": null,
-          "year": null,
+          "year": 1953,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0046554",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-two-reel",
@@ -98063,7 +98063,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:winter-paradise",
+          "key": "tt0046554",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -98090,14 +98090,14 @@
         {
           "name": "Christopher Crumpet",
           "original_name": null,
-          "year": null,
+          "year": 1953,
           "director": [],
           "people": [
             "Stephen Bosustow"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0045626",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-cartoon",
@@ -98105,7 +98105,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:christopher-crumpet",
+          "key": "tt0045626",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -99611,14 +99611,14 @@
         {
           "name": "Desert Killer",
           "original_name": null,
-          "year": null,
+          "year": 1952,
           "director": [],
           "people": [
             "Gordon Hollingshead"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0044539",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-one-reel",
@@ -99626,20 +99626,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:desert-killer",
+          "key": "tt0044539",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Royal Scotland",
           "original_name": null,
-          "year": null,
+          "year": 1952,
           "director": [],
           "people": [
             "Crown Film Unit"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0045108",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-one-reel",
@@ -99647,7 +99647,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:royal-scotland",
+          "key": "tt0045108",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -99691,14 +99691,14 @@
         {
           "name": "Thar She Blows!",
           "original_name": null,
-          "year": null,
+          "year": 1952,
           "director": [],
           "people": [
             "Gordon Hollingshead"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0045228",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-two-reel",
@@ -99706,7 +99706,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:thar-she-blows",
+          "key": "tt0045228",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -99753,14 +99753,14 @@
         {
           "name": "Pink and Blue Blues",
           "original_name": null,
-          "year": null,
+          "year": 1952,
           "director": [],
           "people": [
             "Stephen Bosustow"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0045033",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-cartoon",
@@ -99768,7 +99768,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:pink-and-blue-blues",
+          "key": "tt0045033",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -101027,12 +101027,12 @@
         {
           "name": "The Story of Time",
           "original_name": null,
-          "year": null,
+          "year": 1951,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0044077",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-one-reel",
@@ -101040,7 +101040,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:the-story-of-time",
+          "key": "tt0044077",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -101066,14 +101066,14 @@
         {
           "name": "Balzac",
           "original_name": null,
-          "year": null,
+          "year": 1951,
           "director": [],
           "people": [
             "Les Films du Compass"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0043316",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-two-reel",
@@ -101081,18 +101081,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:balzac",
+          "key": "tt0043316",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Danger Under the Sea",
           "original_name": null,
-          "year": null,
+          "year": 1951,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0043447",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-two-reel",
@@ -101100,7 +101100,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:danger-under-the-sea",
+          "key": "tt0043447",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -102351,14 +102351,14 @@
         {
           "name": "Wrong Way Butch",
           "original_name": null,
-          "year": null,
+          "year": 1950,
           "director": [],
           "people": [
             "Pete Smith"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0043148",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-one-reel",
@@ -102366,7 +102366,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:wrong-way-butch",
+          "key": "tt0043148",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -102392,12 +102392,12 @@
         {
           "name": "Grandma Moses",
           "original_name": null,
-          "year": null,
+          "year": 1950,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0042520",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-two-reel",
@@ -102405,20 +102405,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:grandma-moses",
+          "key": "tt0042520",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "My Country 'Tis of Thee",
           "original_name": null,
-          "year": null,
+          "year": 1950,
           "director": [],
           "people": [
             "Gordon Hollingshead"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0042768",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-two-reel",
@@ -102426,7 +102426,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:my-country-tis-of-thee",
+          "key": "tt0042768",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -102453,14 +102453,14 @@
         {
           "name": "Trouble Indemnity",
           "original_name": null,
-          "year": null,
+          "year": 1950,
           "director": [],
           "people": [
             "Stephen Bosustow"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0043073",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-cartoon",
@@ -102468,7 +102468,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:trouble-indemnity",
+          "key": "tt0043073",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -103752,14 +103752,14 @@
         {
           "name": "Spills and Chills",
           "original_name": null,
-          "year": null,
+          "year": 1949,
           "director": [],
           "people": [
             "Walton C. Ament"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0041912",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-one-reel",
@@ -103767,20 +103767,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:spills-and-chills",
+          "key": "tt0041912",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Water Trix",
           "original_name": null,
-          "year": null,
+          "year": 1949,
           "director": [],
           "people": [
             "Pete Smith"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0042034",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-one-reel",
@@ -103788,7 +103788,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:water-trix",
+          "key": "tt0042034",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -103813,13 +103813,13 @@
         },
         {
           "name": "The Boy and the Eagle",
-          "original_name": null,
-          "year": null,
+          "original_name": "The Boy and the Eagle",
+          "year": 1949,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0041202",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-two-reel",
@@ -103827,7 +103827,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:the-boy-and-the-eagle",
+          "key": "tt0041202",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -103853,14 +103853,14 @@
         {
           "name": "The Grass Is Always Greener",
           "original_name": null,
-          "year": null,
+          "year": 1950,
           "director": [],
           "people": [
             "Gordon Hollingshead"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0041425",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-two-reel",
@@ -103868,18 +103868,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:the-grass-is-always-greener",
+          "key": "tt0041425",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Snow Carnival",
           "original_name": null,
-          "year": null,
+          "year": 1949,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0041889",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-two-reel",
@@ -103887,7 +103887,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:snow-carnival",
+          "key": "tt0041889",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -103913,14 +103913,14 @@
         {
           "name": "The Magic Fluke",
           "original_name": null,
-          "year": null,
+          "year": 1949,
           "director": [],
           "people": [
             "Stephen Bosustow"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0041618",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-cartoon",
@@ -103928,7 +103928,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:the-magic-fluke",
+          "key": "tt0041618",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -105078,14 +105078,14 @@
         {
           "name": "Annie Was a Wonder",
           "original_name": null,
-          "year": null,
+          "year": 1949,
           "director": [],
           "people": [
             "Herbert Moulton"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0040101",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-one-reel",
@@ -105093,20 +105093,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:annie-was-a-wonder",
+          "key": "tt0040101",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Cinderella Horse",
           "original_name": null,
-          "year": null,
+          "year": 1948,
           "director": [],
           "people": [
             "Gordon Hollingshead"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0040233",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-one-reel",
@@ -105114,20 +105114,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:cinderella-horse",
+          "key": "tt0040233",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "So You Want to Be on the Radio",
           "original_name": null,
-          "year": null,
+          "year": 1948,
           "director": [],
           "people": [
             "Gordon Hollingshead"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0040813",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-one-reel",
@@ -105135,20 +105135,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:so-you-want-to-be-on-the-radio",
+          "key": "tt0040813",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "You Can't Win",
           "original_name": null,
-          "year": null,
+          "year": 1948,
           "director": [],
           "people": [
             "Pete Smith"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0040981",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-one-reel",
@@ -105156,7 +105156,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:you-cant-win",
+          "key": "tt0040981",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -105182,12 +105182,12 @@
         {
           "name": "Going to Blazes",
           "original_name": null,
-          "year": null,
+          "year": 1948,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0040393",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-two-reel",
@@ -105195,20 +105195,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:going-to-blazes",
+          "key": "tt0040393",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Samba-Mania",
           "original_name": null,
-          "year": null,
+          "year": 1948,
           "director": [],
           "people": [
             "Harry Grey"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0040756",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-two-reel",
@@ -105216,7 +105216,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:samba-mania",
+          "key": "tt0040756",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -105301,14 +105301,14 @@
         {
           "name": "Robin Hoodlum",
           "original_name": null,
-          "year": null,
+          "year": 1948,
           "director": [],
           "people": [
             "United Productions of America"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0040741",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-cartoon",
@@ -105316,7 +105316,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:robin-hoodlum",
+          "key": "tt0040741",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -106436,12 +106436,12 @@
         {
           "name": "Brooklyn, U.S.A.",
           "original_name": null,
-          "year": null,
+          "year": 1947,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0039221",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-one-reel",
@@ -106449,20 +106449,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:brooklyn-u-s-a",
+          "key": "tt0039221",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Moon Rockets",
           "original_name": null,
-          "year": null,
+          "year": 1947,
           "director": [],
           "people": [
             "Jerry Fairbanks"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0039633",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-one-reel",
@@ -106470,20 +106470,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:moon-rockets",
+          "key": "tt0039633",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Now You See It",
           "original_name": null,
-          "year": null,
+          "year": 1947,
           "director": [],
           "people": [
             "Pete Smith"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0039671",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-one-reel",
@@ -106491,7 +106491,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:now-you-see-it",
+          "key": "tt0039671",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -106537,12 +106537,12 @@
         {
           "name": "Champagne for Two",
           "original_name": null,
-          "year": null,
+          "year": 1947,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0039258",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-two-reel",
@@ -106550,18 +106550,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:champagne-for-two",
+          "key": "tt0039258",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Fight of the Wild Stallions",
           "original_name": null,
-          "year": null,
+          "year": 1947,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0039379",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-two-reel",
@@ -106569,18 +106569,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:fight-of-the-wild-stallions",
+          "key": "tt0039379",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Give Us the Earth",
           "original_name": null,
-          "year": null,
+          "year": 1947,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0039425",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-two-reel",
@@ -106588,7 +106588,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:give-us-the-earth",
+          "key": "tt0039425",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -106654,14 +106654,14 @@
         {
           "name": "Dr. Jekyll and Mr. Mouse",
           "original_name": null,
-          "year": null,
+          "year": 1947,
           "director": [],
           "people": [
             "Fred Quimby"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0039338",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-cartoon",
@@ -106669,7 +106669,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:dr-jekyll-and-mr-mouse",
+          "key": "tt0039338",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -107960,14 +107960,14 @@
         {
           "name": "Dive-Hi Champs",
           "original_name": null,
-          "year": null,
+          "year": 1946,
           "director": [],
           "people": [
             "Jack Eaton"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0038483",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-one-reel",
@@ -107975,20 +107975,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:dive-hi-champs",
+          "key": "tt0038483",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Golden Horses",
           "original_name": null,
-          "year": null,
+          "year": 1946,
           "director": [],
           "people": [
             "Edmund Reek"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0038569",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-one-reel",
@@ -107996,7 +107996,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:golden-horses",
+          "key": "tt0038569",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -108022,14 +108022,14 @@
         {
           "name": "Sure Cures",
           "original_name": null,
-          "year": null,
+          "year": 1946,
           "director": [],
           "people": [
             "Pete Smith"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0038998",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-one-reel",
@@ -108037,7 +108037,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:sure-cures",
+          "key": "tt0038998",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -108063,12 +108063,12 @@
         {
           "name": "College Queen",
           "original_name": null,
-          "year": null,
+          "year": 1946,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0038421",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-two-reel",
@@ -108076,20 +108076,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:college-queen",
+          "key": "tt0038421",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "The Luckiest Guy in the World",
           "original_name": null,
-          "year": null,
+          "year": 1947,
           "director": [],
           "people": [
             "Jerry Bresler"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0038708",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-two-reel",
@@ -108097,7 +108097,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:the-luckiest-guy-in-the-world",
+          "key": "tt0038708",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -109403,14 +109403,14 @@
         {
           "name": "Along the Rainbow Trail",
           "original_name": null,
-          "year": null,
+          "year": 1946,
           "director": [],
           "people": [
             "Edmund Reek"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0037510",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-one-reel",
@@ -109418,7 +109418,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:along-the-rainbow-trail",
+          "key": "tt0037510",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -109445,14 +109445,14 @@
         {
           "name": "Story of a Dog",
           "original_name": null,
-          "year": null,
+          "year": 1945,
           "director": [],
           "people": [
             "Gordon Hollingshead"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0038121",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-one-reel",
@@ -109460,20 +109460,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:story-of-a-dog",
+          "key": "tt0038121",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "White Rhapsody",
           "original_name": null,
-          "year": null,
+          "year": 1945,
           "director": [],
           "people": [
             "Grantland Rice"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0038247",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-one-reel",
@@ -109481,18 +109481,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:white-rhapsody",
+          "key": "tt0038247",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Your National Gallery",
           "original_name": null,
-          "year": null,
+          "year": 1945,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0038265",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-one-reel",
@@ -109500,7 +109500,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:your-national-gallery",
+          "key": "tt0038265",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -109526,15 +109526,15 @@
         {
           "name": "A Gun in His Hand",
           "original_name": null,
-          "year": null,
+          "year": 1945,
           "director": [],
           "people": [
             "Chester Franklin",
             "Jerry Bresler"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0037758",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-two-reel",
@@ -109542,7 +109542,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:a-gun-in-his-hand",
+          "key": "tt0037758",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -109568,12 +109568,12 @@
         {
           "name": "The Little Witch",
           "original_name": null,
-          "year": null,
+          "year": 1945,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0037881",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-two-reel",
@@ -109581,7 +109581,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:the-little-witch",
+          "key": "tt0037881",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -109709,14 +109709,14 @@
         {
           "name": "Rippling Romance",
           "original_name": null,
-          "year": null,
+          "year": 1945,
           "director": [],
           "people": [
             "Screen Gems"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0038028",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-cartoon",
@@ -109724,7 +109724,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:rippling-romance",
+          "key": "tt0038028",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -111349,14 +111349,14 @@
         {
           "name": "Blue Grass Gentlemen",
           "original_name": null,
-          "year": null,
+          "year": 1944,
           "director": [],
           "people": [
             "Edmund Reek"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0036652",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-one-reel",
@@ -111364,7 +111364,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:blue-grass-gentlemen",
+          "key": "tt0036652",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -111390,14 +111390,14 @@
         {
           "name": "Movie Pests",
           "original_name": null,
-          "year": null,
+          "year": 1944,
           "director": [],
           "people": [
             "Pete Smith"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0037092",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-one-reel",
@@ -111405,20 +111405,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:movie-pests",
+          "key": "tt0037092",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Screen Snapshots' 50th Anniversary of Motion Pictures",
           "original_name": null,
-          "year": null,
+          "year": 1944,
           "director": [],
           "people": [
             "Ralph Staub"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0036576",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-one-reel",
@@ -111426,7 +111426,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:screen-snapshots-50th-anniversary-of-motion-pictures",
+          "key": "tt0036576",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -111452,12 +111452,12 @@
         {
           "name": "Bombalera",
           "original_name": null,
-          "year": null,
+          "year": 1945,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0036658",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-two-reel",
@@ -111465,21 +111465,21 @@
               "result": "nominee"
             }
           ],
-          "key": "t:bombalera",
+          "key": "tt0036658",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Main Street Today",
           "original_name": null,
-          "year": null,
+          "year": 1944,
           "director": [],
           "people": [
             "Jerry Bresler",
             "Herbert Moulton"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0037039",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-two-reel",
@@ -111487,7 +111487,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:main-street-today",
+          "key": "tt0037039",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -111514,14 +111514,14 @@
         {
           "name": "And to Think I Saw It on Mulberry Street",
           "original_name": null,
-          "year": null,
+          "year": 1944,
           "director": [],
           "people": [
             "George Pal"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0036601",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-cartoon",
@@ -111529,18 +111529,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:and-to-think-i-saw-it-on-mulberry-street",
+          "key": "tt0036601",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Dog, Cat and Canary",
           "original_name": null,
-          "year": null,
+          "year": 1945,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0036764",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-cartoon",
@@ -111548,7 +111548,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:dog-cat-and-canary",
+          "key": "tt0036764",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -111594,14 +111594,14 @@
         {
           "name": "My Boy, Johnny",
           "original_name": null,
-          "year": null,
+          "year": 1944,
           "director": [],
           "people": [
             "Paul Terry"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0037108",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-cartoon",
@@ -111609,7 +111609,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:my-boy-johnny",
+          "key": "tt0037108",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -113881,14 +113881,14 @@
         {
           "name": "Imagination",
           "original_name": null,
-          "year": null,
+          "year": 1943,
           "director": [],
           "people": [
             "Dave Fleischer"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0036035",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-cartoon",
@@ -113896,7 +113896,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:imagination",
+          "key": "tt0036035",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -115630,14 +115630,14 @@
         {
           "name": "High Over the Borders",
           "original_name": null,
-          "year": null,
+          "year": 1942,
           "director": [],
           "people": [
             "National Film Board of Canada"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0034851",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-documentary",
@@ -115645,18 +115645,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:high-over-the-borders",
+          "key": "tt0034851",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "High Stakes in the East",
           "original_name": null,
-          "year": null,
+          "year": 1942,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0034852",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-documentary",
@@ -115664,7 +115664,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:high-stakes-in-the-east",
+          "key": "tt0034852",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -115731,12 +115731,12 @@
         {
           "name": "Little Belgium",
           "original_name": null,
-          "year": null,
+          "year": 1942,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0034979",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-documentary",
@@ -115744,7 +115744,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:little-belgium",
+          "key": "tt0034979",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -115770,12 +115770,12 @@
         {
           "name": "Mr. Blabbermouth!",
           "original_name": null,
-          "year": null,
+          "year": 1942,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0035088",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-documentary",
@@ -115783,18 +115783,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:mr-blabbermouth",
+          "key": "tt0035088",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Mr. Gardenia Jones",
           "original_name": null,
-          "year": null,
+          "year": 1942,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0035091",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-documentary",
@@ -115802,7 +115802,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:mr-gardenia-jones",
+          "key": "tt0035091",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -115869,12 +115869,12 @@
         {
           "name": "Twenty-One Miles",
           "original_name": null,
-          "year": null,
+          "year": 1942,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0035478",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-documentary",
@@ -115882,20 +115882,20 @@
               "result": "nominee"
             }
           ],
-          "key": "t:twenty-one-miles",
+          "key": "tt0035478",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "We Refuse to Die",
           "original_name": null,
-          "year": null,
+          "year": 1942,
           "director": [],
           "people": [
             "William C. Thomas"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0035536",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-documentary",
@@ -115903,7 +115903,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:we-refuse-to-die",
+          "key": "tt0035536",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -116104,14 +116104,14 @@
         {
           "name": "All Out for \"V",
           "original_name": null,
-          "year": null,
+          "year": 1942,
           "director": [],
           "people": [
             "Paul Terry"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0034448",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-cartoon",
@@ -116119,7 +116119,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:all-out-for-v",
+          "key": "tt0034448",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -116145,14 +116145,14 @@
         {
           "name": "Juke Box Jamboree",
           "original_name": null,
-          "year": null,
+          "year": 1942,
           "director": [],
           "people": [
             "Walter Lantz"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0034925",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-cartoon",
@@ -116160,7 +116160,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:juke-box-jamboree",
+          "key": "tt0034925",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -118312,15 +118312,15 @@
         {
           "name": "Boogie Woogie Bugle Boy of Company B",
           "original_name": null,
-          "year": null,
+          "year": 1941,
           "director": [],
           "people": [
             "Walter Lantz Productions",
             "Universal"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0033424",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-cartoon",
@@ -118328,7 +118328,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:boogie-woogie-bugle-boy-of-company-b",
+          "key": "tt0033424",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -118354,14 +118354,14 @@
         {
           "name": "How War Came",
           "original_name": null,
-          "year": null,
+          "year": 1941,
           "director": [],
           "people": [
             "Columbia"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0033730",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-cartoon",
@@ -118369,7 +118369,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:how-war-came",
+          "key": "tt0033730",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -118416,14 +118416,14 @@
         {
           "name": "Rhythm in the Ranks",
           "original_name": null,
-          "year": null,
+          "year": 1941,
           "director": [],
           "people": [
             "Paramount"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0034098",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "best-short-subject-cartoon",
@@ -118431,7 +118431,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:rhythm-in-the-ranks",
+          "key": "tt0034098",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {

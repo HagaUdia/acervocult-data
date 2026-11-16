@@ -2,7 +2,7 @@
   "id": "berlim",
   "label": "Berlim",
   "kind": "festival",
-  "updated_at": "2026-11-01T07:00:52.865Z",
+  "updated_at": "2026-11-16T10:52:36.918Z",
   "editions": [
     {
       "year": 2026,
@@ -1065,15 +1065,15 @@
         },
         {
           "name": "Light Pillar",
-          "original_name": null,
-          "year": null,
+          "original_name": "Han ye deng zhu",
+          "year": 2026,
           "director": [
             "Zao Xu"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt32409947",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "perspectives",
@@ -1081,7 +1081,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:light-pillar",
+          "key": "tt32409947",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -2197,14 +2197,14 @@
         {
           "name": "Shanghai Daughter",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "Agnis Shen Zhongmin"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt39368543",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama",
@@ -2212,7 +2212,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:shanghai-daughter",
+          "key": "tt39368543",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -2662,14 +2662,14 @@
         {
           "name": "Einar Schleef – No Germany Did I Find",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "Sandra Prechtel"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt39383370",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "forum",
@@ -2677,7 +2677,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:einar-schleef-no-germany-did-i-find",
+          "key": "tt39383370",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -2998,16 +2998,16 @@
         {
           "name": "My Name",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "Chung Ji-young"
           ],
           "people": [
             "Chung Ji-young"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt39383539",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "forum",
@@ -3015,7 +3015,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:my-name",
+          "key": "tt39383539",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -4432,14 +4432,14 @@
         {
           "name": "Speedy!",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [
             "Oh Jiin"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt39371410",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "generation-kplus-short-films",
@@ -4447,7 +4447,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:speedy",
+          "key": "tt39371410",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -4749,14 +4749,14 @@
         {
           "name": "The Dream of Dancing",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "Luzbeidy Monterrosa Atencio"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt39371366",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "generation-14plus-short-films",
@@ -4764,20 +4764,20 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-dream-of-dancing",
+          "key": "tt39371366",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "En Route To",
-          "original_name": null,
-          "year": null,
+          "original_name": "Jiuri ganeun gil",
+          "year": 2025,
           "director": [
             "Yoo Jae-in"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt38518448",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "generation-14plus-short-films",
@@ -4785,7 +4785,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:en-route-to",
+          "key": "tt38518448",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -7231,14 +7231,14 @@
         {
           "name": "Living Stones",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [
             "Jakob Ladányi Jancsó"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt35315349",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "berlinale-short-film-competition",
@@ -7246,7 +7246,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:living-stones",
+          "key": "tt35315349",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -8414,15 +8414,15 @@
         },
         {
           "name": "Colossal",
-          "original_name": null,
-          "year": null,
+          "original_name": "Colosal",
+          "year": 2025,
           "director": [
             "Nayibe Tavares-Abel"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt35439271",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "forum",
@@ -8430,7 +8430,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:colossal",
+          "key": "tt35439271",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -8816,14 +8816,14 @@
         {
           "name": "Spring Night",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [
             "Kang Mi-ja"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt35437325",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "forum",
@@ -8831,7 +8831,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:spring-night",
+          "key": "tt35437325",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -8900,14 +8900,14 @@
         {
           "name": "The Trio Hall",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [
             "Su Hui-yu"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt35494658",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "forum",
@@ -8915,7 +8915,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-trio-hall",
+          "key": "tt35494658",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -8941,14 +8941,14 @@
         {
           "name": "What's Next?",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [
             "Cao Yiwen"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt35449698",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "forum",
@@ -8956,7 +8956,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:whats-next",
+          "key": "tt35449698",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -9084,16 +9084,16 @@
         {
           "name": "I Believe the Portrait Saved Me",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [
             "Alban Muja"
           ],
           "people": [
             "Alban Muja"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt35328453",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "forum-expanded",
@@ -9101,7 +9101,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:i-believe-the-portrait-saved-me",
+          "key": "tt35328453",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -9592,15 +9592,15 @@
         },
         {
           "name": "Nudity",
-          "original_name": null,
-          "year": null,
+          "original_name": "Nagota",
+          "year": 2025,
           "director": [
             "Sabina Bakaeva"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt35327662",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "forum-special",
@@ -9608,7 +9608,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:nudity",
+          "key": "tt35327662",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -9655,16 +9655,16 @@
         {
           "name": "Autokar",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [
             "Sylwia Szkiłądź"
           ],
           "people": [
             "Sylwia Szkiłądź"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt35050733",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "generation-kplus",
@@ -9672,7 +9672,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:autokar",
+          "key": "tt35050733",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -10003,14 +10003,14 @@
         {
           "name": "White Ochre",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [
             "Marlikka Perdrisat"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt34584827",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "generation-kplus",
@@ -10018,7 +10018,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:white-ochre",
+          "key": "tt34584827",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -10329,14 +10329,14 @@
         {
           "name": "The Tale of Daye’s Family",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [
             "Karim El Shenawy"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt33204549",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "generation-14plus",
@@ -10344,7 +10344,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-tale-of-dayes-family",
+          "key": "tt33204549",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -11079,13 +11079,13 @@
         },
         {
           "name": "Muganga",
-          "original_name": null,
-          "year": null,
+          "original_name": "Muganga - Celui qui soigne",
+          "year": 2025,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt29560213",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "berlinale-efm",
@@ -11093,7 +11093,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:muganga",
+          "key": "tt29560213",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -13689,14 +13689,14 @@
         {
           "name": "L'homme-vertige: Tales Of A City",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [
             "Malaury Eloi Paisley"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt30956113",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "forum",
@@ -13704,7 +13704,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:lhomme-vertige-tales-of-a-city",
+          "key": "tt30956113",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -13730,16 +13730,16 @@
         {
           "name": "In the Belly of a Tiger",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [
             "Siddartha Jatla"
           ],
           "people": [
             "Siddartha Jatla"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt23186222",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "forum",
@@ -13747,7 +13747,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:in-the-belly-of-a-tiger",
+          "key": "tt23186222",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -13793,14 +13793,14 @@
         {
           "name": "Maria's Silence",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [
             "Dāvis Sīmanis"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt30308333",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "forum",
@@ -13808,7 +13808,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:marias-silence",
+          "key": "tt30308333",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -14119,15 +14119,15 @@
         {
           "name": "Voices of the Silenced",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [
             "Park Soo-nam",
             "Park Maeui"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt29669778",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "forum",
@@ -14135,7 +14135,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:voices-of-the-silenced",
+          "key": "tt29669778",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -14307,14 +14307,14 @@
         {
           "name": "The Periphery of the Base",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [
             "Zhou Tao"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt36396430",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "forum-expanded",
@@ -14322,7 +14322,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-periphery-of-the-base",
+          "key": "tt36396430",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -15079,14 +15079,14 @@
         {
           "name": "She Sat There Like All Ordinary Ones",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [
             "Qu Youjia"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt31116678",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "generation-14plus",
@@ -15099,7 +15099,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:she-sat-there-like-all-ordinary-ones",
+          "key": "tt31116678",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -16729,14 +16729,14 @@
         {
           "name": "The Cage is Looking for a Bird",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [
             "Malika Musaeva"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt26441515",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "encounters",
@@ -16744,22 +16744,22 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-cage-is-looking-for-a-bird",
+          "key": "tt26441515",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Eastern Front",
-          "original_name": null,
-          "year": null,
+          "original_name": "Shidniy front",
+          "year": 2023,
           "director": [
             "Vitaly Mansky"
           ],
           "people": [
             "Vitaly Mansky"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt26448984",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "encounters",
@@ -16767,7 +16767,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:eastern-front",
+          "key": "tt26448984",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -17208,15 +17208,15 @@
         },
         {
           "name": "All Tomorrow's Parties",
-          "original_name": null,
-          "year": null,
+          "original_name": "Wo de peng you",
+          "year": 2022,
           "director": [
             "Zhang Dalei"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt26420539",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "berlinale-short-films-competition",
@@ -17224,7 +17224,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:all-tomorrows-parties",
+          "key": "tt26420539",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -17271,14 +17271,14 @@
         {
           "name": "Daughter and Son",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [
             "Cheng Yu"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt21243134",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "berlinale-short-films-competition",
@@ -17286,7 +17286,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:daughter-and-son",
+          "key": "tt21243134",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -17750,15 +17750,15 @@
         },
         {
           "name": "Green Night",
-          "original_name": null,
-          "year": null,
+          "original_name": "Lü ye",
+          "year": 2023,
           "director": [
             "Han Shuai"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt26425693",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama",
@@ -17766,7 +17766,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:green-night",
+          "key": "tt26425693",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -19386,16 +19386,16 @@
         {
           "name": "I, Your Mother",
           "original_name": null,
-          "year": null,
+          "year": 1980,
           "director": [
             "Safi Faye"
           ],
           "people": [
             "Safi Faye"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt26345129",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "forum-special-fiktionsbescheinigung",
@@ -19403,7 +19403,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:i-your-mother",
+          "key": "tt26345129",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -19601,14 +19601,14 @@
         {
           "name": "The early rain which washes away the chaff before spring rains",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [
             "Heiko-Thandeka Ncube"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt26350946",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "forum-expanded",
@@ -19616,7 +19616,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-early-rain-which-washes-away-the-chaff-before-spring-rains",
+          "key": "tt26350946",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -19926,15 +19926,15 @@
         },
         {
           "name": "Deep Sea",
-          "original_name": null,
-          "year": null,
+          "original_name": "Shen hai",
+          "year": 2023,
           "director": [
             "Tian Xiaopeng"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt25434854",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "generation-kplus",
@@ -19942,7 +19942,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:deep-sea",
+          "key": "tt25434854",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -20351,14 +20351,14 @@
         {
           "name": "Of Dreams in the Dream of Another Mirror",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [
             "Yunyi Zhu"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt26923874",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "generation-kplus",
@@ -20366,7 +20366,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:of-dreams-in-the-dream-of-another-mirror",
+          "key": "tt26923874",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -21677,12 +21677,12 @@
         {
           "name": "The Face of Jellyfish",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt23036290",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-forum",
@@ -21690,7 +21690,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:the-face-of-jellyfish",
+          "key": "tt23036290",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -23781,15 +23781,15 @@
         },
         {
           "name": "Hot in Day, Cold at Night",
-          "original_name": null,
-          "year": null,
+          "original_name": "Naj-eneun deobgo bam-eneun chubgo",
+          "year": 2022,
           "director": [
             "Park Song-yeol"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt15689882",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "forum",
@@ -23797,7 +23797,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:hot-in-day-cold-at-night",
+          "key": "tt15689882",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -23864,15 +23864,15 @@
         {
           "name": "The Middle Ages",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [
             "Alejo Moguillansky",
             "Luciana Acuña"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt17518262",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "forum",
@@ -23880,7 +23880,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-middle-ages",
+          "key": "tt17518262",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -24719,14 +24719,14 @@
         {
           "name": "Alma and Paz",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [
             "Cris Gris"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt13648306",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-films",
@@ -24734,7 +24734,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:alma-and-paz",
+          "key": "tt13648306",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -25945,13 +25945,13 @@
         },
         {
           "name": "Exalted Mars",
-          "original_name": null,
-          "year": null,
+          "original_name": "Mars exalté",
+          "year": 2022,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt17041656",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-best-short-film",
@@ -25959,7 +25959,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:exalted-mars",
+          "key": "tt17041656",
           "first_seen": "2026-09-28T11:26:30.375Z"
         }
       ]
@@ -27166,15 +27166,15 @@
         },
         {
           "name": "The World After Us",
-          "original_name": null,
-          "year": null,
+          "original_name": "Le monde après nous",
+          "year": 2021,
           "director": [
             "Louda Ben Salah-Cazanas"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt14043828",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama",
@@ -27182,7 +27182,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-world-after-us",
+          "key": "tt14043828",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -27308,15 +27308,15 @@
         },
         {
           "name": "My Uncle Tudor",
-          "original_name": null,
-          "year": null,
+          "original_name": "Nanu Tudor",
+          "year": 2021,
           "director": [],
           "people": [
             "Golden Bear for Best Short Film"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt14135872",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-golden-bear-for-best-short-film",
@@ -27324,7 +27324,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:my-uncle-tudor",
+          "key": "tt14135872",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -29046,15 +29046,15 @@
         },
         {
           "name": "Sow the Wind",
-          "original_name": null,
-          "year": null,
+          "original_name": "Semina il vento",
+          "year": 2020,
           "director": [
             "Danilo Caputo"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt11723916",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama",
@@ -29062,7 +29062,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:sow-the-wind",
+          "key": "tt11723916",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -29980,12 +29980,12 @@
         {
           "name": "White Winged Horse",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt11845700",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-special-mention",
@@ -29993,7 +29993,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:white-winged-horse",
+          "key": "tt11845700",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -30140,13 +30140,13 @@
         },
         {
           "name": "The Kites",
-          "original_name": null,
-          "year": null,
+          "original_name": "Badbadakha",
+          "year": 2020,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt12089024",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-special-mention",
@@ -30154,7 +30154,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:the-kites",
+          "key": "tt12089024",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -31420,14 +31420,14 @@
         {
           "name": "Beauty and Decay",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [
             "Annekatrin Hendel"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt9654222",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama-dokumente",
@@ -31440,7 +31440,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:beauty-and-decay",
+          "key": "tt9654222",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -31832,14 +31832,14 @@
         {
           "name": "It Could Have Been Worse – Mario Adorf",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [
             "Dominik Wessely"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt9638266",
           "wikidata_id": null,
-          "type": null,
+          "type": "tvMovie",
           "categories": [
             {
               "id": "berlinale-special",
@@ -31847,20 +31847,20 @@
               "result": "selected"
             }
           ],
-          "key": "t:it-could-have-been-worse-mario-adorf",
+          "key": "tt9638266",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Kids in the Spotlight",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [
             "Alice Agneskirchner"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt9638532",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "berlinale-special",
@@ -31868,7 +31868,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:kids-in-the-spotlight",
+          "key": "tt9638532",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -31956,15 +31956,15 @@
         },
         {
           "name": "You Only Live Once – Die Toten Hosen on Tour",
-          "original_name": null,
-          "year": null,
+          "original_name": "Weil du nur einmal lebst - Die Toten Hosen auf Tour",
+          "year": 2019,
           "director": [
             "Cordula Kablitz-Post"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt8814806",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "berlinale-special",
@@ -31972,7 +31972,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:you-only-live-once-die-toten-hosen-on-tour",
+          "key": "tt8814806",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -32429,14 +32429,14 @@
         {
           "name": "Splash",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [
             "Shen Jie"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt9675006",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "short-film-competition",
@@ -32444,7 +32444,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:splash",
+          "key": "tt9675006",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -32554,12 +32554,12 @@
         {
           "name": "Tattoo",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt10291162",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-crystal-bear-for-best-short-film",
@@ -32567,7 +32567,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:tattoo",
+          "key": "tt10291162",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -32652,13 +32652,13 @@
         },
         {
           "name": "The Jarariju Sisters",
-          "original_name": null,
-          "year": null,
+          "original_name": "Soeurs Jarariju",
+          "year": 2019,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt9610184",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-special-mention",
@@ -32666,7 +32666,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:the-jarariju-sisters",
+          "key": "tt9610184",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -34056,16 +34056,16 @@
         {
           "name": "Partisan",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [
             "Lutz Pehnert",
             "Matthias Ehlert",
             "Adama Ulrich"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt7929276",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama-dokumente",
@@ -34073,7 +34073,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:partisan",
+          "key": "tt7929276",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -34261,12 +34261,12 @@
         {
           "name": "The Men Behind the Wall",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt7899264",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-golden-bear-for-best-short-film",
@@ -34274,7 +34274,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:the-men-behind-the-wall",
+          "key": "tt7899264",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -34934,14 +34934,14 @@
         {
           "name": "Ciao Ciao",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [
             "Song Chuan"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3956334",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama",
@@ -34949,7 +34949,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:ciao-ciao",
+          "key": "tt3956334",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -35044,15 +35044,15 @@
         },
         {
           "name": "Ghost in the Mountains",
-          "original_name": null,
-          "year": null,
+          "original_name": "Kong shan yi ke",
+          "year": 2017,
           "director": [
             "Yang Heng"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt6450660",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama",
@@ -35060,7 +35060,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:ghost-in-the-mountains",
+          "key": "tt6450660",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -35582,16 +35582,16 @@
         {
           "name": "Five Stars",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [
             "Annekatrin Hendel"
           ],
           "people": [
             "Annekatrin Hendel"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt7088562",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama-dokumente",
@@ -35604,7 +35604,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:five-stars",
+          "key": "tt7088562",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -35780,14 +35780,14 @@
         {
           "name": "Revolution of Sound: Tangerine Dream",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [
             "Margarete Kreuzer"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt6708818",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama-dokumente",
@@ -35795,7 +35795,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:revolution-of-sound-tangerine-dream",
+          "key": "tt6708818",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -36463,15 +36463,15 @@
         },
         {
           "name": "Cidade Pequena",
-          "original_name": null,
-          "year": null,
+          "original_name": "Cidade Pequena",
+          "year": 2016,
           "director": [],
           "people": [
             "Golden Bear for Best Short Film"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt5824122",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-golden-bear-for-best-short-film",
@@ -36479,20 +36479,20 @@
               "result": "winner"
             }
           ],
-          "key": "t:cidade-pequena",
+          "key": "tt5824122",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Ensueño en la Pradera",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [],
           "people": [
             "Silver Bear for Best Short Film"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt5959704",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-silver-bear-for-best-short-film",
@@ -36500,7 +36500,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:ensueno-en-la-pradera",
+          "key": "tt5959704",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -36624,12 +36624,12 @@
         {
           "name": "The Jungle Knows You Better Than You Do",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt6765934",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-special-prize-of-the-generation-14plus-international-jury-for-the-best-short-film",
@@ -36637,22 +36637,22 @@
               "result": "winner"
             }
           ],
-          "key": "t:the-jungle-knows-you-better-than-you-do",
+          "key": "tt6765934",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "U Plavetnilo",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [
             "Antoneta Alamat Kusijanović"
           ],
           "people": [
             "Antoneta Alamat Kusijanović"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt6444314",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-special-mention-short-film",
@@ -36660,18 +36660,18 @@
               "result": "winner"
             }
           ],
-          "key": "t:u-plavetnilo",
+          "key": "tt6444314",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "My Gay Sister",
-          "original_name": null,
-          "year": null,
+          "original_name": "Min homosyster",
+          "year": 2017,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt6392492",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-best-short-film",
@@ -36679,7 +36679,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:my-gay-sister",
+          "key": "tt6392492",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -36826,12 +36826,12 @@
         {
           "name": "The Trap",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2048905",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-short-film",
@@ -36839,18 +36839,18 @@
               "result": "winner"
             }
           ],
-          "key": "t:the-trap",
+          "key": "tt2048905",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Behind Closed Doors",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt8126436",
           "wikidata_id": null,
-          "type": null,
+          "type": "tvMovie",
           "categories": [
             {
               "id": "premio-documentary-film",
@@ -36858,7 +36858,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:behind-closed-doors",
+          "key": "tt8126436",
           "first_seen": "2026-09-28T11:26:30.375Z"
         }
       ]
@@ -38970,15 +38970,15 @@
         },
         {
           "name": "Batrachian's Ballad",
-          "original_name": null,
-          "year": null,
+          "original_name": "Balada de um Batráquio",
+          "year": 2016,
           "director": [],
           "people": [
             "Golden Bear For Best Short Film"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt5485874",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-golden-bear-for-best-short-film",
@@ -38986,7 +38986,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:batrachians-ballad",
+          "key": "tt5485874",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -39012,12 +39012,12 @@
         {
           "name": "Anchorage Prohibited",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5474494",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-audi-short-film-award",
@@ -39025,18 +39025,18 @@
               "result": "winner"
             }
           ],
-          "key": "t:anchorage-prohibited",
+          "key": "tt5474494",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Moms On Fire",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5444462",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-best-short-film",
@@ -39044,7 +39044,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:moms-on-fire",
+          "key": "tt5444462",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -40362,12 +40362,12 @@
         {
           "name": "A Perfect Place",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4272720",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "perspektive-deutsches-kino",
@@ -40375,7 +40375,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-perfect-place",
+          "key": "tt4272720",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -40400,12 +40400,12 @@
         {
           "name": "Hakie – Haki. Living as a Man",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4354196",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "perspektive-deutsches-kino",
@@ -40413,7 +40413,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:hakie-haki-living-as-a-man",
+          "key": "tt4354196",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -42268,15 +42268,15 @@
         },
         {
           "name": "The Rice Bomber",
-          "original_name": null,
-          "year": null,
+          "original_name": "Bai mi zha dan ke",
+          "year": 2014,
           "director": [
             "Cho Li"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3421398",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama",
@@ -42284,7 +42284,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-rice-bomber",
+          "key": "tt3421398",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -43941,17 +43941,17 @@
         },
         {
           "name": "Behind the Camera",
-          "original_name": null,
-          "year": null,
+          "original_name": "Dwitdamhwa, gamdokyi micheotseoyo",
+          "year": 2013,
           "director": [
             "E J-yong"
           ],
           "people": [
             "E J-yong"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt2704282",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama",
@@ -43959,7 +43959,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:behind-the-camera",
+          "key": "tt2704282",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -44450,17 +44450,17 @@
         },
         {
           "name": "Cousin Jules",
-          "original_name": null,
-          "year": null,
+          "original_name": "Le cousin Jules",
+          "year": 1972,
           "director": [
             "Dominique Benicheti"
           ],
           "people": [
             "Dominique Benicheti"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0128142",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "forum",
@@ -44468,7 +44468,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:cousin-jules",
+          "key": "tt0128142",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -47376,15 +47376,15 @@
         },
         {
           "name": "Familiar Ground",
-          "original_name": null,
-          "year": null,
+          "original_name": "En terrains connus",
+          "year": 2011,
           "director": [
             "Stéphane Lafleur"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1671457",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "forum",
@@ -47392,7 +47392,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:familiar-ground",
+          "key": "tt1671457",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -47724,15 +47724,15 @@
         },
         {
           "name": "Self Referential Traverse: Zeitgeist and Engagement",
-          "original_name": null,
-          "year": null,
+          "original_name": "Jagadangchak: Shidaejeongshin kwa hyeonshilchamyeo",
+          "year": 2011,
           "director": [
             "Kim Sun"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2279039",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "forum",
@@ -47740,7 +47740,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:self-referential-traverse-zeitgeist-and-engagement",
+          "key": "tt2279039",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -48299,15 +48299,15 @@
         },
         {
           "name": "Broken Night",
-          "original_name": null,
-          "year": null,
+          "original_name": "Pu-seo-jin bam",
+          "year": 2010,
           "director": [
             "Yang Hyo-joo"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1858411",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "berlinale-shorts-films",
@@ -48315,7 +48315,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:broken-night",
+          "key": "tt1858411",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -51343,12 +51343,12 @@
         {
           "name": "A Fish with a Smile",
           "original_name": null,
-          "year": null,
+          "year": 2006,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0783855",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-special-award",
@@ -51356,7 +51356,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:a-fish-with-a-smile",
+          "key": "tt0783855",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -51605,12 +51605,12 @@
         {
           "name": "High Maintenance",
           "original_name": null,
-          "year": null,
+          "year": 2006,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0783732",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-talent-movie-of-the-week",
@@ -51618,7 +51618,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:high-maintenance",
+          "key": "tt0783732",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -52391,13 +52391,13 @@
         },
         {
           "name": "Hi Maya",
-          "original_name": null,
-          "year": null,
+          "original_name": "Hoi Maya",
+          "year": 2004,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0443036",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-best-short-film",
@@ -52405,7 +52405,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:hi-maya",
+          "key": "tt0443036",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -52431,12 +52431,12 @@
         {
           "name": "Does God Play Football",
           "original_name": null,
-          "year": null,
+          "year": 2004,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0338926",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-best-short-film",
@@ -52444,7 +52444,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:does-god-play-football",
+          "key": "tt0338926",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -55200,12 +55200,12 @@
         {
           "name": "The Tram #9 Was Going",
           "original_name": null,
-          "year": null,
+          "year": 2002,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0339812",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-short-film-golden-bear",
@@ -55213,7 +55213,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:the-tram-9-was-going",
+          "key": "tt0339812",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -55238,13 +55238,13 @@
         },
         {
           "name": "Pipsqueak Prince",
-          "original_name": null,
-          "year": null,
+          "original_name": "Le trop petit prince",
+          "year": 2003,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0358741",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-best-short-film",
@@ -55252,7 +55252,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:pipsqueak-prince",
+          "key": "tt0358741",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -59655,12 +59655,12 @@
         {
           "name": "Liu Awaiting Spring",
           "original_name": null,
-          "year": null,
+          "year": 1999,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0192256",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-best-short-film",
@@ -59668,7 +59668,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:liu-awaiting-spring",
+          "key": "tt0192256",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -68144,17 +68144,17 @@
         },
         {
           "name": "Solovky Power (Власть Соловецкая. Свидетельства и документы)",
-          "original_name": null,
-          "year": null,
+          "original_name": "Vlast Solovetskaya. Svidetelstva i dokumenty",
+          "year": 1988,
           "director": [
             "Marina Goldovskaya"
           ],
           "people": [
             "Marina Goldovskaya"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0096399",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "out-of-competition",
@@ -68162,7 +68162,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:solovky-power",
+          "key": "tt0096399",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -90599,16 +90599,16 @@
         {
           "name": "Jaider, the Lonely Hunter",
           "original_name": null,
-          "year": null,
+          "year": 1971,
           "director": [
             "Volker Vogeler"
           ],
           "people": [
             "Volker Vogeler"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0065907",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "main-competition",
@@ -90616,7 +90616,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:jaider-the-lonely-hunter",
+          "key": "tt0065907",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -90667,16 +90667,16 @@
         {
           "name": "Ninì Tirabusciò: the woman who invented \"the move",
           "original_name": null,
-          "year": null,
+          "year": 1970,
           "director": [
             "Marcello Fondato"
           ],
           "people": [
             "Marcello Fondato"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0066152",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "main-competition",
@@ -90684,7 +90684,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:nini-tirabuscio-the-woman-who-invented-the-move",
+          "key": "tt0066152",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -90830,12 +90830,12 @@
         {
           "name": "La bandera que levantamos",
           "original_name": null,
-          "year": null,
+          "year": 1971,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0356393",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "young-filmmakers-forum",
@@ -90843,7 +90843,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:la-bandera-que-levantamos",
+          "key": "tt0356393",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -91332,12 +91332,12 @@
         {
           "name": "The Woman's Film",
           "original_name": null,
-          "year": null,
+          "year": 1971,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0235063",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "young-filmmakers-forum",
@@ -91345,7 +91345,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-womans-film",
+          "key": "tt0235063",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -96685,16 +96685,16 @@
         {
           "name": "Southern Storm",
           "original_name": null,
-          "year": null,
+          "year": 1961,
           "director": [
             "Sofia W. D."
           ],
           "people": [
             "Sofia W. D."
           ],
-          "imdb_id": null,
+          "imdb_id": "tt0225143",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "main-competition",
@@ -96702,7 +96702,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:southern-storm",
+          "key": "tt0225143",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -98289,14 +98289,14 @@
         {
           "name": "New Light",
           "original_name": null,
-          "year": null,
+          "year": 1960,
           "director": [
             "S. M. Agha"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0232154",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "main-competition",
@@ -98304,7 +98304,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:new-light",
+          "key": "tt0232154",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -101123,17 +101123,17 @@
         },
         {
           "name": "The Wedding Day",
-          "original_name": null,
-          "year": null,
+          "original_name": "Shijibganeun nal",
+          "year": 1956,
           "director": [
             "Lee Byung-il"
           ],
           "people": [
             "Lee Byung-il"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt2151564",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "main-competition",
@@ -101141,7 +101141,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-wedding-day",
+          "key": "tt2151564",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -103994,14 +103994,14 @@
         {
           "name": "Der Film entdeckte Kunstwerke indianischer Vorzeit",
           "original_name": null,
-          "year": null,
+          "year": 1952,
           "director": [
             "Hans Cürlis"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0235384",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "main-competition",
@@ -104014,7 +104014,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:der-film-entdeckte-kunstwerke-indianischer-vorzeit",
+          "key": "tt0235384",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -104110,12 +104110,12 @@
         {
           "name": "Het gala-Concert",
           "original_name": null,
-          "year": null,
+          "year": 1951,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0235401",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "main-competition",
@@ -104128,20 +104128,20 @@
               "result": "winner"
             }
           ],
-          "key": "t:het-gala-concert",
+          "key": "tt0235401",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "The Story of Time",
           "original_name": null,
-          "year": null,
+          "year": 1951,
           "director": [
             "Michael Stainer-Hutchins"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0044077",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "main-competition",
@@ -104154,7 +104154,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:the-story-of-time",
+          "key": "tt0044077",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {

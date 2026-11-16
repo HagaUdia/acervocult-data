@@ -2,7 +2,7 @@
   "id": "tiradentes",
   "label": "Mostra de Cinema de Tiradentes",
   "kind": "festival",
-  "updated_at": "2026-09-28T11:26:30.375Z",
+  "updated_at": "2026-11-16T10:52:36.918Z",
   "editions": [
     {
       "year": 2026,
@@ -794,15 +794,15 @@
         {
           "name": "Mande me avisar se é em casa ou na igreja",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [
             "Rafael Waltrick"
           ],
           "people": [],
           "year_hint": 2025,
-          "imdb_id": null,
+          "imdb_id": "tt39313688",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "formacao",
@@ -810,7 +810,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:mande-me-avisar-se-e-em-casa-ou-na-igreja",
+          "key": "tt39313688",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -2727,16 +2727,16 @@
         },
         {
           "name": "Riscado",
-          "original_name": null,
-          "year": null,
+          "original_name": "Riscado",
+          "year": 2010,
           "director": [
             "Gustavo Pizzo"
           ],
           "people": [],
           "year_hint": 2010,
-          "imdb_id": null,
+          "imdb_id": "tt1667333",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "homenagem",
@@ -2744,7 +2744,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:riscado",
+          "key": "tt1667333",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -2835,15 +2835,15 @@
         {
           "name": "D.P.A. 4 – O Fantástico Reino de Ondion",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [
             "Mauro Lima"
           ],
           "people": [],
           "year_hint": 2025,
-          "imdb_id": null,
+          "imdb_id": "tt33009208",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "mostrinha",
@@ -2851,7 +2851,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:d-p-a-4-o-fantastico-reino-de-ondion",
+          "key": "tt33009208",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {

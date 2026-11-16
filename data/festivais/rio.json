@@ -2,7 +2,7 @@
   "id": "rio",
   "label": "Festival do Rio",
   "kind": "festival",
-  "updated_at": "2026-11-01T09:23:28.323Z",
+  "updated_at": "2026-11-16T10:52:36.918Z",
   "editions": [
     {
       "year": 2026,
@@ -263,15 +263,15 @@
         {
           "name": "A Professora de Francês",
           "original_name": "The French Teacher",
-          "year": null,
+          "year": 2026,
           "director": [
             "Ricardo Alves Jr"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt45961801",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-brasil-competicao-de-longas-metragens-ficcao",
@@ -279,7 +279,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-professora-de-frances",
+          "key": "tt45961801",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -409,7 +409,7 @@
         {
           "name": "Alucinação",
           "original_name": "Delusion",
-          "year": null,
+          "year": 2026,
           "director": [
             "Marcos Caetano",
             "Renato Terra",
@@ -417,9 +417,9 @@
           ],
           "people": [],
           "year_hint": 2025,
-          "imdb_id": null,
+          "imdb_id": "tt51057542",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-brasil-competicao-de-longas-metragens-documentario",
@@ -427,7 +427,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:alucinacao",
+          "key": "tt51057542",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -762,15 +762,15 @@
         {
           "name": "Better Future",
           "original_name": "Better Future",
-          "year": null,
+          "year": 2026,
           "director": [
             "Jungle"
           ],
           "people": [],
           "year_hint": 2025,
-          "imdb_id": null,
+          "imdb_id": "tt49810593",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premiere-brasil-curtas-em-competicao",
@@ -778,21 +778,21 @@
               "result": "selected"
             }
           ],
-          "key": "t:better-future",
+          "key": "tt49810593",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Boulevard Arrudas",
           "original_name": "Arrudas Boulevard",
-          "year": null,
+          "year": 2026,
           "director": [
             "Matheus Moura"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt35689738",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premiere-brasil-curtas-em-competicao",
@@ -800,7 +800,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:boulevard-arrudas",
+          "key": "tt35689738",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -1107,15 +1107,15 @@
         {
           "name": "Cinderela do Samba",
           "original_name": "Cinderella of Samba",
-          "year": null,
+          "year": 2026,
           "director": [
             "Magna Domingues"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt50552207",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premiere-brasil-nova-geracao",
@@ -1123,7 +1123,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:cinderela-do-samba",
+          "key": "tt50552207",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -1251,15 +1251,15 @@
         {
           "name": "Rapsódia Fantástica",
           "original_name": "Atlantic Rhapsody",
-          "year": null,
+          "year": 2026,
           "director": [
             "Zhong Kaifeng"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt32272953",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "expectativa",
@@ -1267,7 +1267,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:rapsodia-fantastica",
+          "key": "tt32272953",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -1521,15 +1521,15 @@
         {
           "name": "Diya - O Preço do Sangue",
           "original_name": "Diya",
-          "year": null,
+          "year": 2025,
           "director": [
             "Achille Ronaimou"
           ],
           "people": [],
           "year_hint": 2025,
-          "imdb_id": null,
+          "imdb_id": "tt36154131",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "expectativa",
@@ -1537,7 +1537,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:diya-o-preco-do-sangue",
+          "key": "tt36154131",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -1920,15 +1920,15 @@
         {
           "name": "Euforia",
           "original_name": "Euphoria",
-          "year": null,
+          "year": 2022,
           "director": [
             "Julian Rosefeldt"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt30448039",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama-mundial",
@@ -1936,7 +1936,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:euforia",
+          "key": "tt30448039",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -2151,15 +2151,15 @@
         {
           "name": "Fundura",
           "original_name": "Fundura",
-          "year": null,
+          "year": 2026,
           "director": [
             "Catapreta"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt49785356",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premiere-brasil-competicao-novos-rumos-de-curtas-metragens",
@@ -2167,7 +2167,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:fundura",
+          "key": "tt49785356",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -2293,15 +2293,15 @@
         {
           "name": "Guo Ran: Dias de Espera",
           "original_name": "Guo Ran",
-          "year": null,
+          "year": 2025,
           "director": [
             "Li Dongmei"
           ],
           "people": [],
           "year_hint": 2025,
-          "imdb_id": null,
+          "imdb_id": "tt35049932",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "expectativa",
@@ -2309,21 +2309,21 @@
               "result": "selected"
             }
           ],
-          "key": "t:guo-ran-dias-de-espera",
+          "key": "tt35049932",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Sheep in the Box",
           "original_name": "Sheep in the Box",
-          "year": null,
+          "year": 2026,
           "director": [
             "Hirokazu Kore-eda"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt38551209",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama-mundial",
@@ -2331,7 +2331,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:sheep-in-the-box",
+          "key": "tt38551209",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -2884,15 +2884,15 @@
         {
           "name": "Cassowary",
           "original_name": "Cassowary",
-          "year": null,
+          "year": 2026,
           "director": [
             "Zhang Hanyi"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt41142184",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "expectativa",
@@ -2900,7 +2900,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:cassowary",
+          "key": "tt41142184",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -3351,15 +3351,15 @@
         {
           "name": "As Rosas de Marrakech",
           "original_name": "The Roses of Marrakech",
-          "year": null,
+          "year": 2026,
           "director": [
             "Ginevra Elkann"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt43424369",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "expectativa",
@@ -3367,7 +3367,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:as-rosas-de-marrakech",
+          "key": "tt43424369",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -3851,16 +3851,16 @@
         {
           "name": "Minha Primeira Namorada",
           "original_name": "My First Love",
-          "year": null,
+          "year": 2026,
           "director": [
             "Jonathan Haagensen",
             "Kátia Lund"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt43620160",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-brasil-nova-geracao",
@@ -3868,7 +3868,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:minha-primeira-namorada",
+          "key": "tt43620160",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -4147,16 +4147,16 @@
         {
           "name": "Ney por Trás das Máscaras",
           "original_name": "Ney Behind the Masks",
-          "year": null,
+          "year": 2026,
           "director": [
             "Esmir Filho",
             "Thais Guisasola (codireção)"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt42932006",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-brasil-hors-concours",
@@ -4164,7 +4164,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:ney-por-tras-das-mascaras",
+          "key": "tt42932006",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -4294,15 +4294,15 @@
         {
           "name": "O Deserto de Luiza",
           "original_name": "Luiza's Desert",
-          "year": null,
+          "year": 2026,
           "director": [
             "Alan Minas"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt33510646",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-brasil-competicao-novos-rumos",
@@ -4310,7 +4310,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-deserto-de-luiza",
+          "key": "tt33510646",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -4383,15 +4383,15 @@
         {
           "name": "O Tempo e o Lugar",
           "original_name": "A Time and Place",
-          "year": null,
+          "year": 2008,
           "director": [
             "Eduardo Escorel"
           ],
           "people": [],
           "year_hint": 2008,
-          "imdb_id": null,
+          "imdb_id": "tt6447454",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-brasil-hors-concours-especial",
@@ -4399,21 +4399,21 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-tempo-e-o-lugar",
+          "key": "tt6447454",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Oceânico",
           "original_name": "Oceanic",
-          "year": null,
+          "year": 2026,
           "director": [
             "Guilherme Coelho"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt33513652",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-brasil-competicao-de-longas-metragens-ficcao",
@@ -4421,7 +4421,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:oceanico",
+          "key": "tt33513652",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -4487,15 +4487,15 @@
         {
           "name": "Ondas de Silêncio",
           "original_name": "Waves of Silence",
-          "year": null,
+          "year": 2026,
           "director": [
             "Caio J. Bonfim"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt32142468",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premiere-brasil-competicao-novos-rumos-de-curtas-metragens",
@@ -4503,7 +4503,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:ondas-de-silencio",
+          "key": "tt32142468",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -4570,15 +4570,15 @@
         {
           "name": "Pai de Primeira Viagem",
           "original_name": "Comeback Dad",
-          "year": null,
+          "year": 2026,
           "director": [
             "Mariana Youssef"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt35435665",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-brasil-hors-concours",
@@ -4586,7 +4586,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:pai-de-primeira-viagem",
+          "key": "tt35435665",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -4716,15 +4716,15 @@
         {
           "name": "Pepita: A Pistoleira",
           "original_name": "Pepita: The Gun Gunslinger",
-          "year": null,
+          "year": 2026,
           "director": [
             "Lucia Puenzo"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt29943166",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-latina",
@@ -4732,7 +4732,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:pepita-a-pistoleira",
+          "key": "tt29943166",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -4947,15 +4947,15 @@
         {
           "name": "Ângulo Inverso",
           "original_name": "Reverse Angle: New York, March 1982",
-          "year": null,
+          "year": 1982,
           "director": [
             "Wim Wenders"
           ],
           "people": [],
           "year_hint": 1982,
-          "imdb_id": null,
+          "imdb_id": "tt0084593",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "classicos-e-cults",
@@ -4963,7 +4963,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:angulo-inverso",
+          "key": "tt0084593",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -5172,15 +5172,15 @@
         {
           "name": "Serpentes",
           "original_name": "Snake",
-          "year": null,
+          "year": 2026,
           "director": [
             "Roberto de Paolis"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt38574284",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "expectativa",
@@ -5188,7 +5188,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:serpentes",
+          "key": "tt38574284",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -5294,15 +5294,15 @@
         {
           "name": "Sou Mario",
           "original_name": "I am Mario",
-          "year": null,
+          "year": 2026,
           "director": [
             "Sharon Kleinberg"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt37515757",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-latina",
@@ -5310,22 +5310,22 @@
               "result": "selected"
             }
           ],
-          "key": "t:sou-mario",
+          "key": "tt37515757",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Squel – Confissões de uma porta-bandeira",
           "original_name": "Squel, Confessions of the Carnival Queen",
-          "year": null,
+          "year": 2026,
           "director": [
             "Celina Torrealba",
             "Zeca Brito"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt40999978",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-brasil-retratos",
@@ -5333,7 +5333,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:squel-confissoes-de-uma-porta-bandeira",
+          "key": "tt40999978",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -5463,15 +5463,15 @@
         {
           "name": "Tarantino's Mind",
           "original_name": "Tarantino's Mind",
-          "year": null,
+          "year": 2006,
           "director": [
             "300ml"
           ],
           "people": [],
           "year_hint": 2006,
-          "imdb_id": null,
+          "imdb_id": "tt1828308",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premiere-brasil-hors-concours-especial",
@@ -5479,21 +5479,21 @@
               "result": "selected"
             }
           ],
-          "key": "t:tarantinos-mind",
+          "key": "tt1828308",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Tempo à Faca",
           "original_name": "Time, Knifed",
-          "year": null,
+          "year": 2026,
           "director": [
             "Diogo Oliveira"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt42205491",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-brasil-novos-rumos-hors-concours",
@@ -5501,7 +5501,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:tempo-a-faca",
+          "key": "tt42205491",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -6328,15 +6328,15 @@
         {
           "name": "Garota Sem Nome",
           "original_name": "A Girl Unknown",
-          "year": null,
+          "year": 2025,
           "director": [
             "Zou Jing"
           ],
           "people": [],
           "year_hint": 2026,
-          "imdb_id": null,
+          "imdb_id": "tt32459280",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "expectativa",
@@ -6344,7 +6344,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:garota-sem-nome",
+          "key": "tt32459280",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -8955,15 +8955,15 @@
         {
           "name": "Quase Amor",
           "original_name": "Skinny Love",
-          "year": null,
+          "year": 2024,
           "director": [
             "Sigurður Anton Friðþjófsson"
           ],
           "people": [],
           "year_hint": 2024,
-          "imdb_id": null,
+          "imdb_id": "tt29506136",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "midnight-movies",
@@ -8971,7 +8971,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:quase-amor",
+          "key": "tt29506136",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -9894,15 +9894,15 @@
         {
           "name": "O sequestro de Arabella",
           "original_name": "Kidnapping of Arabella",
-          "year": null,
+          "year": 2025,
           "director": [
             "Carolina Cavalli"
           ],
           "people": [],
           "year_hint": 2025,
-          "imdb_id": null,
+          "imdb_id": "tt33292601",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "expectativa",
@@ -9910,7 +9910,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-sequestro-de-arabella",
+          "key": "tt33292601",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -11589,15 +11589,15 @@
         {
           "name": "Mugaritz: Um Ateliê de Culinária",
           "original_name": "Mugaritz: No Bread, No Dessert.",
-          "year": null,
+          "year": 2024,
           "director": [
             "Paco Plaza"
           ],
           "people": [],
           "year_hint": 2024,
-          "imdb_id": null,
+          "imdb_id": "tt33507459",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "itinerarios-unicos",
@@ -11605,7 +11605,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:mugaritz-um-atelie-de-culinaria",
+          "key": "tt33507459",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -12881,16 +12881,16 @@
         {
           "name": "Quando o Tempo de Lembrar Bastou",
           "original_name": "Quando o Tempo de Lembrar Bastou",
-          "year": null,
+          "year": 2021,
           "director": [
             "Felipe Quadra",
             "Victor Rosa"
           ],
           "people": [],
           "year_hint": 2021,
-          "imdb_id": null,
+          "imdb_id": "tt16351750",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "especial-cop30-futuros-possiveis",
@@ -12898,21 +12898,21 @@
               "result": "selected"
             }
           ],
-          "key": "t:quando-o-tempo-de-lembrar-bastou",
+          "key": "tt16351750",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Quarto do Pânico",
           "original_name": "Panic Room",
-          "year": null,
+          "year": 2025,
           "director": [
             "Gabriela Amaral Almeida"
           ],
           "people": [],
           "year_hint": 2025,
-          "imdb_id": null,
+          "imdb_id": "tt35115515",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-brasil-midnight-movies",
@@ -12920,7 +12920,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:quarto-do-panico",
+          "key": "tt35115515",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -13412,15 +13412,15 @@
         {
           "name": "Sandra",
           "original_name": "Sandra",
-          "year": null,
+          "year": 2025,
           "director": [
             "Camila Márdila"
           ],
           "people": [],
           "year_hint": 2025,
-          "imdb_id": null,
+          "imdb_id": "tt36343758",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premiere-brasil-curtas-novos-rumos",
@@ -13428,7 +13428,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:sandra",
+          "key": "tt36343758",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -13617,15 +13617,15 @@
         {
           "name": "Living the Land",
           "original_name": "Living the Land",
-          "year": null,
+          "year": 2025,
           "director": [
             "HUO Meng"
           ],
           "people": [],
           "year_hint": 2025,
-          "imdb_id": null,
+          "imdb_id": "tt31079597",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "expectativa",
@@ -13633,7 +13633,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:living-the-land",
+          "key": "tt31079597",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -14952,15 +14952,15 @@
         {
           "name": "Emoções Represadas",
           "original_name": "Sandbag Dam",
-          "year": null,
+          "year": 2025,
           "director": [
             "Čejen Černić Čanak"
           ],
           "people": [],
           "year_hint": 2025,
-          "imdb_id": null,
+          "imdb_id": "tt35051064",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "expectativa",
@@ -14968,7 +14968,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:emocoes-represadas",
+          "key": "tt35051064",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -15550,15 +15550,15 @@
         {
           "name": "Um Filme Inacabado",
           "original_name": "An Unfinished Film",
-          "year": null,
+          "year": 2024,
           "director": [
             "Lou Ye"
           ],
           "people": [],
           "year_hint": 2024,
-          "imdb_id": null,
+          "imdb_id": "tt32186579",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama-mundial",
@@ -15566,7 +15566,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:um-filme-inacabado",
+          "key": "tt32186579",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -16305,15 +16305,15 @@
         {
           "name": "Promessa – A Arquitetura de BV Doshi",
           "original_name": "The Promise – Architect BV Doshi",
-          "year": null,
+          "year": 2023,
           "director": [
             "Jan Schmidt-Garre"
           ],
           "people": [],
           "year_hint": 2023,
-          "imdb_id": null,
+          "imdb_id": "tt29248179",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "itinerarios-unicos",
@@ -16321,7 +16321,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:promessa-a-arquitetura-de-bv-doshi",
+          "key": "tt29248179",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -16348,15 +16348,15 @@
         {
           "name": "Detetives do Prédio Azul 3 - Uma Aventura no Fim do Mundo",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [
             "Mauro Lima"
           ],
           "people": [],
           "year_hint": 2022,
-          "imdb_id": null,
+          "imdb_id": "tt10805260",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "cinema-circulacao",
@@ -16364,7 +16364,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:detetives-do-predio-azul-3-uma-aventura-no-fim-do-mundo",
+          "key": "tt10805260",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -19257,15 +19257,15 @@
         {
           "name": "Juventude: De Volta ao Lar",
           "original_name": "Youth (Homecoming)",
-          "year": null,
+          "year": 2024,
           "director": [
             "Wang Bing"
           ],
           "people": [],
           "year_hint": 2024,
-          "imdb_id": null,
+          "imdb_id": "tt33029375",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama-mundial",
@@ -19273,21 +19273,21 @@
               "result": "selected"
             }
           ],
-          "key": "t:juventude-de-volta-ao-lar",
+          "key": "tt33029375",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Juventude: Tempos Difíceis",
           "original_name": "Youth (Hard Times)",
-          "year": null,
+          "year": 2024,
           "director": [
             "Wang Bing"
           ],
           "people": [],
           "year_hint": 2024,
-          "imdb_id": null,
+          "imdb_id": "tt33029373",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama-mundial",
@@ -19295,7 +19295,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:juventude-tempos-dificeis",
+          "key": "tt33029373",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -19910,15 +19910,15 @@
         {
           "name": "Os Amantes do Rio",
           "original_name": "Suzhou River",
-          "year": null,
+          "year": 2000,
           "director": [
             "Lou Ye"
           ],
           "people": [],
           "year_hint": 2000,
-          "imdb_id": null,
+          "imdb_id": "tt0234837",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "classicos-cults",
@@ -19926,7 +19926,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:os-amantes-do-rio",
+          "key": "tt0234837",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -20305,15 +20305,15 @@
         {
           "name": "Thiago & Ísis e os Biomas do Brasil",
           "original_name": "Jake & Isa and the Biomes of Brazil",
-          "year": null,
+          "year": 2025,
           "director": [
             "João Amorim"
           ],
           "people": [],
           "year_hint": 2024,
-          "imdb_id": null,
+          "imdb_id": "tt36662741",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-brasil-geracao",
@@ -20321,7 +20321,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:thiago-isis-e-os-biomas-do-brasil",
+          "key": "tt36662741",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -20672,15 +20672,15 @@
         {
           "name": "Viet e Nam",
           "original_name": "Viet and Nam",
-          "year": null,
+          "year": 2024,
           "director": [
             "Truong Minh Quý"
           ],
           "people": [],
           "year_hint": 2024,
-          "imdb_id": null,
+          "imdb_id": "tt32086052",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "expectativa",
@@ -20688,7 +20688,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:viet-e-nam",
+          "key": "tt32086052",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -21190,15 +21190,15 @@
         {
           "name": "Ama Glória",
           "original_name": "Àma Gloria",
-          "year": null,
+          "year": 2023,
           "director": [
             "Marie Amachoukeli"
           ],
           "people": [],
           "year_hint": 2023,
-          "imdb_id": null,
+          "imdb_id": "tt26255358",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "expectativa",
@@ -21206,7 +21206,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:ama-gloria",
+          "key": "tt26255358",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -21588,15 +21588,15 @@
         {
           "name": "Adeus, Minha Concubina",
           "original_name": "Farewell My Concubine",
-          "year": null,
+          "year": 1993,
           "director": [
             "Chen Kaige"
           ],
           "people": [],
           "year_hint": 1993,
-          "imdb_id": null,
+          "imdb_id": "tt0106332",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "classicos-cults",
@@ -21604,7 +21604,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:adeus-minha-concubina",
+          "key": "tt0106332",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -22200,15 +22200,15 @@
         {
           "name": "Detetives do Prédio Azul 3 – Uma Aventura no Fim do Mundo",
           "original_name": "Detetives do Prédio Azul 3 – Uma Aventura no Fim do Mundo",
-          "year": null,
+          "year": 2020,
           "director": [
             "Mauro Lima"
           ],
           "people": [],
           "year_hint": 2022,
-          "imdb_id": null,
+          "imdb_id": "tt10805260",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "cinema-ao-ar-livre",
@@ -22216,7 +22216,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:detetives-do-predio-azul-3-uma-aventura-no-fim-do-mundo",
+          "key": "tt10805260",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -23228,15 +23228,15 @@
         {
           "name": "Monster",
           "original_name": "Monster",
-          "year": null,
+          "year": 2023,
           "director": [
             "Hirokazu Kore-eda"
           ],
           "people": [],
           "year_hint": 2023,
-          "imdb_id": null,
+          "imdb_id": "tt23736044",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama-mundial",
@@ -23244,7 +23244,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:monster",
+          "key": "tt23736044",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -23430,15 +23430,15 @@
         {
           "name": "A Suprema",
           "original_name": "La Suprema",
-          "year": null,
+          "year": 2023,
           "director": [
             "Felipe Holguín Caro"
           ],
           "people": [],
           "year_hint": 2023,
-          "imdb_id": null,
+          "imdb_id": "tt20158934",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-latina",
@@ -23446,7 +23446,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-suprema",
+          "key": "tt20158934",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -23738,15 +23738,15 @@
         {
           "name": "Mal Viver",
           "original_name": "Bad Living",
-          "year": null,
+          "year": 2023,
           "director": [
             "João Canijo"
           ],
           "people": [],
           "year_hint": 2023,
-          "imdb_id": null,
+          "imdb_id": "tt14007288",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama-mundial",
@@ -23754,7 +23754,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:mal-viver",
+          "key": "tt14007288",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -24335,15 +24335,15 @@
         {
           "name": "O Clube dos Anjos",
           "original_name": "The Club of Angels",
-          "year": null,
+          "year": 2020,
           "director": [
             "Angelo Defanti"
           ],
           "people": [],
           "year_hint": 2022,
-          "imdb_id": null,
+          "imdb_id": "tt8608144",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "festival-do-rio-no-ccjf",
@@ -24351,7 +24351,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-clube-dos-anjos",
+          "key": "tt8608144",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -26712,15 +26712,15 @@
         {
           "name": "Broker – Uma Nova Chance",
           "original_name": "Broker",
-          "year": null,
+          "year": 2022,
           "director": [
             "Hirokazu Kore-eda"
           ],
           "people": [],
           "year_hint": 2022,
-          "imdb_id": null,
+          "imdb_id": "tt13056052",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama-do-cinema-mundial",
@@ -26728,7 +26728,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:broker-uma-nova-chance",
+          "key": "tt13056052",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -30276,15 +30276,15 @@
         {
           "name": "A Chiara",
           "original_name": "A Chiara",
-          "year": null,
+          "year": 2021,
           "director": [
             "Jonas Carpignano"
           ],
           "people": [],
           "year_hint": 2021,
-          "imdb_id": null,
+          "imdb_id": "tt14324296",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama-especial",
@@ -30292,7 +30292,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-chiara",
+          "key": "tt14324296",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -31045,15 +31045,15 @@
         {
           "name": "Amor à flor da pele",
           "original_name": "In the mood for love",
-          "year": null,
+          "year": 2000,
           "director": [
             "Wong Kar Wai"
           ],
           "people": [],
           "year_hint": 2000,
-          "imdb_id": null,
+          "imdb_id": "tt0118694",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "retrospectiva-wong-kar-wai",
@@ -31061,7 +31061,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:amor-a-flor-da-pele",
+          "key": "tt0118694",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -31927,15 +31927,15 @@
         {
           "name": "Os dragões",
           "original_name": "The dragons",
-          "year": null,
+          "year": 2025,
           "director": [
             "Gustavo Spolidoro"
           ],
           "people": [],
           "year_hint": 2021,
-          "imdb_id": null,
+          "imdb_id": "tt37106172",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-brasil-novos-rumos-longa",
@@ -31943,7 +31943,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:os-dragoes",
+          "key": "tt37106172",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -32094,15 +32094,15 @@
         {
           "name": "Quando o tempo de lembrar bastou",
           "original_name": "When the time to remember is done",
-          "year": null,
+          "year": 2021,
           "director": [
             "Felipe Quadra"
           ],
           "people": [],
           "year_hint": 2021,
-          "imdb_id": null,
+          "imdb_id": "tt16351750",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premiere-brasil-competicao-curta",
@@ -32110,7 +32110,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:quando-o-tempo-de-lembrar-bastou",
+          "key": "tt16351750",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -32779,15 +32779,15 @@
         {
           "name": "A Maldita",
           "original_name": "A Maldita",
-          "year": null,
+          "year": 2020,
           "director": [
             "Tetê Mattos"
           ],
           "people": [],
           "year_hint": 2018,
-          "imdb_id": null,
+          "imdb_id": "tt21228562",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-brasil-retratos-longa",
@@ -32795,7 +32795,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-maldita",
+          "key": "tt21228562",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -32902,16 +32902,16 @@
         {
           "name": "A Última Gravação",
           "original_name": "The Last Audition",
-          "year": null,
+          "year": 2019,
           "director": [
             "Isabel Cavalcanti",
             "Célia Freitas"
           ],
           "people": [],
           "year_hint": 2019,
-          "imdb_id": null,
+          "imdb_id": "tt28247378",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "itinerarios-unicos",
@@ -32919,7 +32919,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-ultima-gravacao",
+          "key": "tt28247378",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -34525,15 +34525,15 @@
         {
           "name": "Histórias para Contar",
           "original_name": "Breaking the Silence",
-          "year": null,
+          "year": 2017,
           "director": [
             "Julia Lemos Lima"
           ],
           "people": [],
           "year_hint": 2018,
-          "imdb_id": null,
+          "imdb_id": "tt6789278",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premiere-brasil-novos-rumos-curta",
@@ -34541,7 +34541,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:historias-para-contar",
+          "key": "tt6789278",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -35071,15 +35071,15 @@
         {
           "name": "M8 - Quando a Morte Socorre a Vida",
           "original_name": "M8",
-          "year": null,
+          "year": 2019,
           "director": [
             "Jeferson De"
           ],
           "people": [],
           "year_hint": 2019,
-          "imdb_id": null,
+          "imdb_id": "tt11321572",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-brasil-competicao-longa-ficcao",
@@ -35087,7 +35087,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:m8-quando-a-morte-socorre-a-vida",
+          "key": "tt11321572",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -35315,15 +35315,15 @@
         {
           "name": "O lago do ganso selvagem",
           "original_name": "The Wild Goose Lake",
-          "year": null,
+          "year": 2019,
           "director": [
             "Diao Yinan"
           ],
           "people": [],
           "year_hint": 2019,
-          "imdb_id": null,
+          "imdb_id": "tt9647768",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "midnight",
@@ -35331,7 +35331,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-lago-do-ganso-selvagem",
+          "key": "tt9647768",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -36012,15 +36012,15 @@
         {
           "name": "Segundo Tempo",
           "original_name": "Second Half",
-          "year": null,
+          "year": 2023,
           "director": [
             "Rubens Rewald"
           ],
           "people": [],
           "year_hint": 2019,
-          "imdb_id": null,
+          "imdb_id": "tt6013674",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "mostra-premiere-brasil-novos-rumos-hors-concours",
@@ -36028,7 +36028,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:segundo-tempo",
+          "key": "tt6013674",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -36154,15 +36154,15 @@
         {
           "name": "Skin",
           "original_name": "Skin",
-          "year": null,
+          "year": 2018,
           "director": [
             "Guy Nattiv"
           ],
           "people": [],
           "year_hint": 2018,
-          "imdb_id": null,
+          "imdb_id": "tt6043142",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama-do-cinema-mundial",
@@ -36170,7 +36170,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:skin",
+          "key": "tt6043142",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -36639,15 +36639,15 @@
         {
           "name": "Sean Scully e a arte de tudo",
           "original_name": "Unstoppable: Sean Scully and the Art of Everything",
-          "year": null,
+          "year": 2019,
           "director": [
             "Nick Willing"
           ],
           "people": [],
           "year_hint": 2019,
-          "imdb_id": null,
+          "imdb_id": "tt9906218",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "itinerarios-unicos",
@@ -36655,7 +36655,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:sean-scully-e-a-arte-de-tudo",
+          "key": "tt9906218",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -36871,15 +36871,15 @@
         {
           "name": "A Sombra do Pai",
           "original_name": "The Father's Shadow",
-          "year": null,
+          "year": 2018,
           "director": [
             "Gabriela Amaral Almeida"
           ],
           "people": [],
           "year_hint": 2018,
-          "imdb_id": null,
+          "imdb_id": "tt6388464",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-brasil-competicao-longa-ficcao",
@@ -36887,7 +36887,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-sombra-do-pai",
+          "key": "tt6388464",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -37647,15 +37647,15 @@
         {
           "name": "Um elefante sentado quieto",
           "original_name": "An elephant sitting still",
-          "year": null,
+          "year": 2018,
           "director": [
             "Hu Bo"
           ],
           "people": [],
           "year_hint": 2018,
-          "imdb_id": null,
+          "imdb_id": "tt8020896",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "expectativa-2018",
@@ -37663,7 +37663,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:um-elefante-sentado-quieto",
+          "key": "tt8020896",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -38154,15 +38154,15 @@
         {
           "name": "O hotel às margens do rio",
           "original_name": "Hotel by the river",
-          "year": null,
+          "year": 2018,
           "director": [
             "Hong Sangsoo"
           ],
           "people": [],
           "year_hint": 2018,
-          "imdb_id": null,
+          "imdb_id": "tt8725958",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama-do-cinema-mundial",
@@ -38170,7 +38170,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-hotel-as-margens-do-rio",
+          "key": "tt8725958",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -38257,15 +38257,15 @@
         {
           "name": "Grass",
           "original_name": "Grass",
-          "year": null,
+          "year": 2018,
           "director": [
             "Hong Sangsoo"
           ],
           "people": [],
           "year_hint": 2018,
-          "imdb_id": null,
+          "imdb_id": "tt7913172",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama-do-cinema-mundial",
@@ -38273,7 +38273,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:grass",
+          "key": "tt7913172",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -38524,15 +38524,15 @@
         {
           "name": "Amor até as cinzas",
           "original_name": "Ash Is Purest White",
-          "year": null,
+          "year": 2018,
           "director": [
             "Jia Zhangke"
           ],
           "people": [],
           "year_hint": 2018,
-          "imdb_id": null,
+          "imdb_id": "tt7298400",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama-do-cinema-mundial",
@@ -38540,7 +38540,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:amor-ate-as-cinzas",
+          "key": "tt7298400",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -38747,15 +38747,15 @@
         {
           "name": "A última criança",
           "original_name": "Last Child",
-          "year": null,
+          "year": 2017,
           "director": [
             "Shin Dong-seok"
           ],
           "people": [],
           "year_hint": 2018,
-          "imdb_id": null,
+          "imdb_id": "tt8118056",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "expectativa-2018",
@@ -38763,7 +38763,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-ultima-crianca",
+          "key": "tt8118056",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -39254,16 +39254,16 @@
         {
           "name": "Nóis por Nóis",
           "original_name": "Us by Us",
-          "year": null,
+          "year": 2018,
           "director": [
             "Aly Muritiba",
             "Jandir Santin"
           ],
           "people": [],
           "year_hint": 2018,
-          "imdb_id": null,
+          "imdb_id": "tt8865046",
           "wikidata_id": null,
-          "type": null,
+          "type": "tvMovie",
           "categories": [
             {
               "id": "premiere-brasil-competicao-longa-ficcao",
@@ -39271,7 +39271,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:nois-por-nois",
+          "key": "tt8865046",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -39340,15 +39340,15 @@
         {
           "name": "O mundo é redondo pra ninguém se esconder nos cantos – Parte I: Refúgio",
           "original_name": "The world is round so that nobody can hide in the corners – Part I: Refuge",
-          "year": null,
+          "year": 2017,
           "director": [
             "Leandro Goddinho"
           ],
           "people": [],
           "year_hint": 2017,
-          "imdb_id": null,
+          "imdb_id": "tt7637910",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premiere-brasil-hors-concours-curta",
@@ -39356,7 +39356,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-mundo-e-redondo-pra-ninguem-se-esconder-nos-cantos-parte-i-refugio",
+          "key": "tt7637910",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -39975,15 +39975,15 @@
         {
           "name": "Ryūichi Sakamoto: Coda",
           "original_name": "Ryuichi Sakamoto: Coda",
-          "year": null,
+          "year": 2017,
           "director": [
             "Stephen Nomura Schible"
           ],
           "people": [],
           "year_hint": 2018,
-          "imdb_id": null,
+          "imdb_id": "tt6578572",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "itinerarios-unicos",
@@ -39991,7 +39991,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:ryuichi-sakamoto-coda",
+          "key": "tt6578572",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -41654,15 +41654,15 @@
         {
           "name": "Atrás há relâmpagos",
           "original_name": "Lightning Falls Behind",
-          "year": null,
+          "year": 2017,
           "director": [
             "Julio Hernández Cordón"
           ],
           "people": [],
           "year_hint": 2017,
-          "imdb_id": null,
+          "imdb_id": "tt6186068",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-latina",
@@ -41670,7 +41670,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:atras-ha-relampagos",
+          "key": "tt6186068",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -42603,15 +42603,15 @@
         {
           "name": "Discreet",
           "original_name": "Discreet",
-          "year": null,
+          "year": 2017,
           "director": [
             "Travis Matthews"
           ],
           "people": [],
           "year_hint": 2017,
-          "imdb_id": null,
+          "imdb_id": "tt6099416",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama-do-cinema-mundial",
@@ -42619,7 +42619,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:discreet",
+          "key": "tt6099416",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -43027,15 +43027,15 @@
         {
           "name": "Sociedade do almoço grátis",
           "original_name": "Free Lunch Society",
-          "year": null,
+          "year": 2017,
           "director": [
             "Christian Tod"
           ],
           "people": [],
           "year_hint": 2017,
-          "imdb_id": null,
+          "imdb_id": "tt6690458",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "meio-ambiente",
@@ -43043,7 +43043,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:sociedade-do-almoco-gratis",
+          "key": "tt6690458",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -43982,16 +43982,16 @@
         {
           "name": "Legalize já!",
           "original_name": "Legalize It!",
-          "year": null,
+          "year": 2017,
           "director": [
             "Johnny Araújo",
             "Gustavo Bonafé"
           ],
           "people": [],
           "year_hint": 2017,
-          "imdb_id": null,
+          "imdb_id": "tt5818404",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-brasil-hors-concours-longa-ficcao",
@@ -43999,7 +43999,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:legalize-ja",
+          "key": "tt5818404",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -44291,15 +44291,15 @@
         {
           "name": "Maria - Não esqueça que eu venho dos trópicos",
           "original_name": "Maria - Don't Forget I Come From the Tropics",
-          "year": null,
+          "year": 2017,
           "director": [
             "Francisco C. Martins"
           ],
           "people": [],
           "year_hint": 2016,
-          "imdb_id": null,
+          "imdb_id": "tt5181270",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "itinerarios-unicos",
@@ -44307,7 +44307,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:maria-nao-esqueca-que-eu-venho-dos-tropicos",
+          "key": "tt5181270",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -44333,15 +44333,15 @@
         {
           "name": "Matar Jesus",
           "original_name": "Killing Jesus",
-          "year": null,
+          "year": 2017,
           "director": [
             "Laura Mora"
           ],
           "people": [],
           "year_hint": 2017,
-          "imdb_id": null,
+          "imdb_id": "tt7272242",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-latina",
@@ -44349,7 +44349,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:matar-jesus",
+          "key": "tt7272242",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -44696,15 +44696,15 @@
         {
           "name": "O animal cordial",
           "original_name": "Friendly Beast",
-          "year": null,
+          "year": 2017,
           "director": [
             "Gabriela Amaral Almeida"
           ],
           "people": [],
           "year_hint": 2017,
-          "imdb_id": null,
+          "imdb_id": "tt5126274",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-brasil-competicao-longa-ficcao",
@@ -44712,7 +44712,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-animal-cordial",
+          "key": "tt5126274",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -45311,15 +45311,15 @@
         {
           "name": "Tangerine Dream: a revolução do som",
           "original_name": "Revolution of Sound: Tangerine Dream",
-          "year": null,
+          "year": 2017,
           "director": [
             "Margarete Kreuzer"
           ],
           "people": [],
           "year_hint": 2017,
-          "imdb_id": null,
+          "imdb_id": "tt6708818",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "midnight-musica",
@@ -45327,7 +45327,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:tangerine-dream-a-revolucao-do-som",
+          "key": "tt6708818",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -45475,16 +45475,16 @@
         {
           "name": "Serguei, O último psicodélico",
           "original_name": "Serguei, The Last Psychedelic",
-          "year": null,
+          "year": 2016,
           "director": [
             "Ching Lee",
             "Zahy Tata Pur’gte"
           ],
           "people": [],
           "year_hint": 2016,
-          "imdb_id": null,
+          "imdb_id": "tt6027480",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "midnight-musica",
@@ -45492,7 +45492,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:serguei-o-ultimo-psicodelico",
+          "key": "tt6027480",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -47381,15 +47381,15 @@
         {
           "name": "Chico - artista brasileiro",
           "original_name": "Chico - Brazilian artist",
-          "year": null,
+          "year": 2015,
           "director": [
             "Miguel Faria"
           ],
           "people": [],
           "year_hint": 2015,
-          "imdb_id": null,
+          "imdb_id": "tt5251348",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -47397,7 +47397,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:chico-artista-brasileiro",
+          "key": "tt5251348",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -47687,15 +47687,15 @@
         {
           "name": "Destruction babies",
           "original_name": "Destruction Babies",
-          "year": null,
+          "year": 2016,
           "director": [
             "Mariko Tetsuya"
           ],
           "people": [],
           "year_hint": 2016,
-          "imdb_id": null,
+          "imdb_id": "tt4912452",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "expectativa-2016",
@@ -47703,7 +47703,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:destruction-babies",
+          "key": "tt4912452",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -48608,15 +48608,15 @@
         {
           "name": "Ilha das crianças",
           "original_name": "Ilha das crianças",
-          "year": null,
+          "year": 2017,
           "director": [
             "Zeca Ferreira"
           ],
           "people": [],
           "year_hint": 2016,
-          "imdb_id": null,
+          "imdb_id": "tt7611768",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mostra-geracao",
@@ -48624,7 +48624,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:ilha-das-criancas",
+          "key": "tt7611768",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -48735,15 +48735,15 @@
         {
           "name": "Jota: para além do flamenco",
           "original_name": "J: Beyond Flamenco",
-          "year": null,
+          "year": 2016,
           "director": [
             "Carlos Saura"
           ],
           "people": [],
           "year_hint": 2016,
-          "imdb_id": null,
+          "imdb_id": "tt4557512",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama-do-cinema-mundial",
@@ -48751,21 +48751,21 @@
               "result": "selected"
             }
           ],
-          "key": "t:jota-para-alem-do-flamenco",
+          "key": "tt4557512",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "A dama de Baco",
           "original_name": "The Bacchus Lady",
-          "year": null,
+          "year": 2016,
           "director": [
             "E J-yong"
           ],
           "people": [],
           "year_hint": 2016,
-          "imdb_id": null,
+          "imdb_id": "tt5628012",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "expectativa-2016",
@@ -48773,7 +48773,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-dama-de-baco",
+          "key": "tt5628012",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -50072,15 +50072,15 @@
         {
           "name": "Para ter onde ir",
           "original_name": "Somewhere to Go",
-          "year": null,
+          "year": 2016,
           "director": [
             "Jorane Castro"
           ],
           "people": [],
           "year_hint": 2016,
-          "imdb_id": null,
+          "imdb_id": "tt9623586",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-brasil-novos-rumos-longa",
@@ -50088,7 +50088,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:para-ter-onde-ir",
+          "key": "tt9623586",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -50577,15 +50577,15 @@
         {
           "name": "Sarah Winchester, Ópera Fantasma",
           "original_name": "Sarah Winchester",
-          "year": null,
+          "year": 2016,
           "director": [
             "Bertrand Bonello"
           ],
           "people": [],
           "year_hint": 2016,
-          "imdb_id": null,
+          "imdb_id": "tt5950980",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "panorama-do-cinema-mundial",
@@ -50593,7 +50593,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:sarah-winchester-opera-fantasma",
+          "key": "tt5950980",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -50639,15 +50639,15 @@
         {
           "name": "Serra Pelada – a lenda da montanha dourada",
           "original_name": "Serra Pelada, The Legend Of the Gold Mountain",
-          "year": null,
+          "year": 2013,
           "director": [
             "Victor Lopes"
           ],
           "people": [],
           "year_hint": 2014,
-          "imdb_id": null,
+          "imdb_id": "tt2819948",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -50655,7 +50655,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:serra-pelada-a-lenda-da-montanha-dourada",
+          "key": "tt2819948",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -50763,15 +50763,15 @@
         {
           "name": "Sonita, uma rapper afegã",
           "original_name": "Sonita",
-          "year": null,
+          "year": 2015,
           "director": [
             "Rokhsareh Ghaem Maghami"
           ],
           "people": [],
           "year_hint": 2015,
-          "imdb_id": null,
+          "imdb_id": "tt5278928",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "fronteiras",
@@ -50779,7 +50779,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:sonita-uma-rapper-afega",
+          "key": "tt5278928",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -51691,15 +51691,15 @@
         {
           "name": "Voyage of Time: Life's Journey",
           "original_name": "Voyage of Time: Life's Journey",
-          "year": null,
+          "year": 2016,
           "director": [
             "Terrence Malick"
           ],
           "people": [],
           "year_hint": 2016,
-          "imdb_id": null,
+          "imdb_id": "tt1945228",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama-do-cinema-mundial",
@@ -51707,7 +51707,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:voyage-of-time-lifes-journey",
+          "key": "tt1945228",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -52666,15 +52666,15 @@
         {
           "name": "Aurora",
           "original_name": "Aurora",
-          "year": null,
+          "year": 2014,
           "director": [
             "Rodrigo Sepúlveda"
           ],
           "people": [],
           "year_hint": 2014,
-          "imdb_id": null,
+          "imdb_id": "tt3603470",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-latina",
@@ -52682,7 +52682,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:aurora",
+          "key": "tt3603470",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -53826,15 +53826,15 @@
         {
           "name": "Febre ondulante",
           "original_name": "Undulant Fever",
-          "year": null,
+          "year": 2014,
           "director": [
             "Ando Hiroshi"
           ],
           "people": [],
           "year_hint": 2014,
-          "imdb_id": null,
+          "imdb_id": "tt3626970",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "expectativa-2015",
@@ -53842,7 +53842,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:febre-ondulante",
+          "key": "tt3626970",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -53950,15 +53950,15 @@
         {
           "name": "Gigante adormecido",
           "original_name": "Sleeping Giant",
-          "year": null,
+          "year": 2014,
           "director": [
             "Andrew Cividino"
           ],
           "people": [],
           "year_hint": 2015,
-          "imdb_id": null,
+          "imdb_id": "tt3768668",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "expectativa-2015",
@@ -53966,7 +53966,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:gigante-adormecido",
+          "key": "tt3768668",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -54972,15 +54972,15 @@
         {
           "name": "Montanha da liberdade",
           "original_name": "Hill of Freedom",
-          "year": null,
+          "year": 2014,
           "director": [
             "Hong Sangsoo"
           ],
           "people": [],
           "year_hint": 2014,
-          "imdb_id": null,
+          "imdb_id": "tt3732252",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama-grandes-mestres",
@@ -54988,7 +54988,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:montanha-da-liberdade",
+          "key": "tt3732252",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -55214,15 +55214,15 @@
         {
           "name": "O caçador de estátuas",
           "original_name": "The Monument Hunter",
-          "year": null,
+          "year": 2015,
           "director": [
             "Jeronimo Rodriguez"
           ],
           "people": [],
           "year_hint": 2015,
-          "imdb_id": null,
+          "imdb_id": "tt6201454",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-latina",
@@ -55230,7 +55230,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-cacador-de-estatuas",
+          "key": "tt6201454",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -56348,15 +56348,15 @@
         {
           "name": "Right now, wrong then",
           "original_name": "Right Now, Wrong Then",
-          "year": null,
+          "year": 2015,
           "director": [
             "Hong Sangsoo"
           ],
           "people": [],
           "year_hint": 2015,
-          "imdb_id": null,
+          "imdb_id": "tt4768776",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama-grandes-mestres",
@@ -56364,7 +56364,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:right-now-wrong-then",
+          "key": "tt4768776",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -57343,15 +57343,15 @@
         {
           "name": "Um Filme de Cinema",
           "original_name": "About Cinema",
-          "year": null,
+          "year": 2017,
           "director": [
             "Walter Carvalho"
           ],
           "people": [],
           "year_hint": 2015,
-          "imdb_id": null,
+          "imdb_id": "tt6412648",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-brasil-hors-concours-documentario",
@@ -57359,7 +57359,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:um-filme-de-cinema",
+          "key": "tt6412648",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -58029,15 +58029,15 @@
         {
           "name": "Primeiros amores",
           "original_name": "Elementary Loves",
-          "year": null,
+          "year": 2014,
           "director": [
             "Sergio Basso"
           ],
           "people": [],
           "year_hint": 2014,
-          "imdb_id": null,
+          "imdb_id": "tt3462828",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "mostra-geracao",
@@ -58045,7 +58045,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:primeiros-amores",
+          "key": "tt3462828",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -58256,15 +58256,15 @@
         {
           "name": "Carvão negro",
           "original_name": "Black Coal, Thin Ice",
-          "year": null,
+          "year": 2014,
           "director": [
             "Diao Yinan"
           ],
           "people": [],
           "year_hint": 2014,
-          "imdb_id": null,
+          "imdb_id": "tt3469910",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama-do-cinema-mundial",
@@ -58272,7 +58272,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:carvao-negro",
+          "key": "tt3469910",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -58502,15 +58502,15 @@
         {
           "name": "Festa no céu 3D",
           "original_name": "Book of Life",
-          "year": null,
+          "year": 2014,
           "director": [
             "Jorge R. Gutierrez"
           ],
           "people": [],
           "year_hint": 2014,
-          "imdb_id": null,
+          "imdb_id": "tt2262227",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama-do-cinema-mundial",
@@ -58518,7 +58518,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:festa-no-ceu-3d",
+          "key": "tt2262227",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -58544,15 +58544,15 @@
         {
           "name": "Brincante",
           "original_name": "Brincante",
-          "year": null,
+          "year": 2014,
           "director": [
             "Walter Carvalho"
           ],
           "people": [],
           "year_hint": 2014,
-          "imdb_id": null,
+          "imdb_id": "tt3847420",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-brasil-hors-concours-longas-documentario",
@@ -58560,7 +58560,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:brincante",
+          "key": "tt3847420",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -58852,15 +58852,15 @@
         {
           "name": "Amnésia Vermelha",
           "original_name": "Red Amnesia",
-          "year": null,
+          "year": 2014,
           "director": [
             "Wang Xiaoshuai"
           ],
           "people": [],
           "year_hint": 2014,
-          "imdb_id": null,
+          "imdb_id": "tt3890278",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama-do-cinema-mundial",
@@ -58868,7 +58868,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:amnesia-vermelha",
+          "key": "tt3890278",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -58934,16 +58934,16 @@
         {
           "name": "Compêndio",
           "original_name": "Compendium",
-          "year": null,
+          "year": 2016,
           "director": [
             "Eugenio Puppo",
             "Ricardo Carioba"
           ],
           "people": [],
           "year_hint": 2014,
-          "imdb_id": null,
+          "imdb_id": "tt3696964",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premiere-brasil-hors-concours-curtas",
@@ -58951,7 +58951,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:compendio",
+          "key": "tt3696964",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -59816,15 +59816,15 @@
         {
           "name": "Pescando sem redes",
           "original_name": "Fishing Without Nets",
-          "year": null,
+          "year": 2014,
           "director": [
             "Cutter Hodierne"
           ],
           "people": [],
           "year_hint": 2013,
-          "imdb_id": null,
+          "imdb_id": "tt3469718",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "expectativa-2014",
@@ -59832,7 +59832,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:pescando-sem-redes",
+          "key": "tt3469718",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -60165,15 +60165,15 @@
         {
           "name": "Coming Home",
           "original_name": "Coming Home",
-          "year": null,
+          "year": 2014,
           "director": [
             "Zhang Yimou"
           ],
           "people": [],
           "year_hint": 2014,
-          "imdb_id": null,
+          "imdb_id": "tt3125472",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama-do-cinema-mundial",
@@ -60181,7 +60181,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:coming-home",
+          "key": "tt3125472",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -60790,15 +60790,15 @@
         {
           "name": "A escola de Babel",
           "original_name": "School of Babel",
-          "year": null,
+          "year": 2013,
           "director": [
             "Julie Bertucelli"
           ],
           "people": [],
           "year_hint": 2013,
-          "imdb_id": null,
+          "imdb_id": "tt3552254",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama-do-cinema-mundial",
@@ -60806,7 +60806,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-escola-de-babel",
+          "key": "tt3552254",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -60995,15 +60995,15 @@
         {
           "name": "O preço da glória",
           "original_name": "The Prince of Fame",
-          "year": null,
+          "year": 2014,
           "director": [
             "Xavier Beauvois"
           ],
           "people": [],
           "year_hint": 2014,
-          "imdb_id": null,
+          "imdb_id": "tt3194410",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama-do-cinema-mundial",
@@ -61011,7 +61011,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:o-preco-da-gloria",
+          "key": "tt3194410",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -61322,15 +61322,15 @@
         {
           "name": "Loja de répteis",
           "original_name": "Reptile Shop",
-          "year": null,
+          "year": 2012,
           "director": [
             "Pedro Severien"
           ],
           "people": [],
           "year_hint": 2014,
-          "imdb_id": null,
+          "imdb_id": "tt4009834",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premiere-brasil-competicao-de-curtas-ficcao",
@@ -61338,7 +61338,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:loja-de-repteis",
+          "key": "tt4009834",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -61913,15 +61913,15 @@
         {
           "name": "My Name is Now, Elza Soares",
           "original_name": "My Name is Now, Elza Soares",
-          "year": null,
+          "year": 2018,
           "director": [
             "Elizabete Martins Campos"
           ],
           "people": [],
           "year_hint": 2014,
-          "imdb_id": null,
+          "imdb_id": "tt4300924",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-brasil-competicao-de-documentarios-longas",
@@ -61929,7 +61929,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:my-name-is-now-elza-soares",
+          "key": "tt4300924",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -62834,15 +62834,15 @@
         {
           "name": "Revolução ao contrário",
           "original_name": "Revolution in Reverse – Debt & Work: The New Colonialism",
-          "year": null,
+          "year": 2014,
           "director": [
             "Chiara Cavalazzi"
           ],
           "people": [],
           "year_hint": 2014,
-          "imdb_id": null,
+          "imdb_id": "tt3796784",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "fronteiras",
@@ -62850,7 +62850,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:revolucao-ao-contrario",
+          "key": "tt3796784",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -62957,15 +62957,15 @@
         {
           "name": "Samba & Jazz",
           "original_name": "Samba & Jazz",
-          "year": null,
+          "year": 2014,
           "director": [
             "Jefferson Mello"
           ],
           "people": [],
           "year_hint": 2014,
-          "imdb_id": null,
+          "imdb_id": "tt3881668",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-brasil-competicao-de-documentarios-longas",
@@ -62973,7 +62973,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:samba-jazz",
+          "key": "tt3881668",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -63998,15 +63998,15 @@
         {
           "name": "Massagem cega",
           "original_name": "Blind Massage",
-          "year": null,
+          "year": 2014,
           "director": [
             "Lou Ye"
           ],
           "people": [],
           "year_hint": 2014,
-          "imdb_id": null,
+          "imdb_id": "tt3469964",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama-do-cinema-mundial",
@@ -64014,7 +64014,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:massagem-cega",
+          "key": "tt3469964",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -64322,15 +64322,15 @@
         {
           "name": "Whiplash - Em busca da perfeição",
           "original_name": "Whiplash",
-          "year": null,
+          "year": 2014,
           "director": [
             "Damien Chazelle"
           ],
           "people": [],
           "year_hint": 2013,
-          "imdb_id": null,
+          "imdb_id": "tt2582802",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama-do-cinema-mundial",
@@ -64338,7 +64338,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:whiplash-em-busca-da-perfeicao",
+          "key": "tt2582802",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -64408,15 +64408,15 @@
         {
           "name": "Voo Noturno",
           "original_name": "Night Flight",
-          "year": null,
+          "year": 2014,
           "director": [
             "LeeSong Hee-il"
           ],
           "people": [],
           "year_hint": 2014,
-          "imdb_id": null,
+          "imdb_id": "tt3506934",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "panorama-do-cinema-mundial",
@@ -64424,7 +64424,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:voo-noturno",
+          "key": "tt3506934",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -65638,16 +65638,16 @@
         {
           "name": "Jean-Claude Carrière, 250 Metros",
           "original_name": "Carrière, 250 Meters",
-          "year": null,
+          "year": 2011,
           "director": [
             "Juan Carlos Rulfo",
             "Natalia Gil"
           ],
           "people": [],
           "year_hint": 2011,
-          "imdb_id": null,
+          "imdb_id": "tt2050472",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "filme-doc",
@@ -65655,7 +65655,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:jean-claude-carriere-250-metros",
+          "key": "tt2050472",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -65701,15 +65701,15 @@
         {
           "name": "Cativas - presas pelo coração",
           "original_name": "Captive Hearts",
-          "year": null,
+          "year": 2014,
           "director": [
             "Joana Nin"
           ],
           "people": [],
           "year_hint": 2013,
-          "imdb_id": null,
+          "imdb_id": "tt3300382",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-brasil-competicao-de-documentarios-longas",
@@ -65717,7 +65717,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:cativas-presas-pelo-coracao",
+          "key": "tt3300382",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -66010,15 +66010,15 @@
         {
           "name": "Crônica do Fim do Mundo",
           "original_name": "Cronichles of the End of the World",
-          "year": null,
+          "year": 2012,
           "director": [
             "Mauricio Cuervo"
           ],
           "people": [],
           "year_hint": 2012,
-          "imdb_id": null,
+          "imdb_id": "tt3484466",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-latina",
@@ -66026,7 +66026,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:cronica-do-fim-do-mundo",
+          "key": "tt3484466",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -68165,16 +68165,16 @@
         {
           "name": "Desconectado",
           "original_name": "Powerless",
-          "year": null,
+          "year": 2013,
           "director": [
             "Deepti Kakkar",
             "Fahad Mustafa"
           ],
           "people": [],
           "year_hint": 2013,
-          "imdb_id": null,
+          "imdb_id": "tt3463560",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "fronteiras",
@@ -68182,7 +68182,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:desconectado",
+          "key": "tt3463560",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -68248,15 +68248,15 @@
         {
           "name": "Christoph Schlingensief e a Vila Opera em Burkina Faso",
           "original_name": "Crackle of Time - Christoph Schlingensief and his Opera Village in Burkina Faso",
-          "year": null,
+          "year": 2012,
           "director": [
             "Sibylle Dahrendorf"
           ],
           "people": [],
           "year_hint": 2012,
-          "imdb_id": null,
+          "imdb_id": "tt2147384",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "itinerarios-unicos",
@@ -68264,7 +68264,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:christoph-schlingensief-e-a-vila-opera-em-burkina-faso",
+          "key": "tt2147384",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -68558,15 +68558,15 @@
         {
           "name": "As buscas",
           "original_name": "The Searches",
-          "year": null,
+          "year": 2013,
           "director": [
             "José Luis Valle"
           ],
           "people": [],
           "year_hint": 2013,
-          "imdb_id": null,
+          "imdb_id": "tt2777438",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premiere-latina",
@@ -68574,7 +68574,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:as-buscas",
+          "key": "tt2777438",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -68804,15 +68804,15 @@
         {
           "name": "Pee Wee ou O Inverno que Mudou Minha Vida",
           "original_name": "The Pee Wees: The Winter that changed my Life",
-          "year": null,
+          "year": 2012,
           "director": [
             "Éric Tessier"
           ],
           "people": [],
           "year_hint": 2012,
-          "imdb_id": null,
+          "imdb_id": "tt2224307",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "mostra-geracao-longas",
@@ -68820,7 +68820,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:pee-wee-ou-o-inverno-que-mudou-minha-vida",
+          "key": "tt2224307",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -69134,15 +69134,15 @@
         {
           "name": "Mapa",
           "original_name": "Map",
-          "year": null,
+          "year": 2012,
           "director": [
             "León Siminiani"
           ],
           "people": [],
           "year_hint": 2012,
-          "imdb_id": null,
+          "imdb_id": "tt2494396",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "expectativa-2013-vanguarda",
@@ -69150,7 +69150,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:mapa",
+          "key": "tt2494396",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -71834,15 +71834,15 @@
         {
           "name": "Muhammad Ali - Das Lutas ao Ativismo",
           "original_name": "Trials of Muhammad Ali",
-          "year": null,
+          "year": 2013,
           "director": [
             "Bill Siegel"
           ],
           "people": [],
           "year_hint": 2013,
-          "imdb_id": null,
+          "imdb_id": "tt2489734",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "itinerarios-unicos",
@@ -71850,7 +71850,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:muhammad-ali-das-lutas-ao-ativismo",
+          "key": "tt2489734",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -72058,15 +72058,15 @@
         {
           "name": "Hotel Transeuropa",
           "original_name": "Transeurope Hotel",
-          "year": null,
+          "year": 2012,
           "director": [
             "Luigi Cinque"
           ],
           "people": [],
           "year_hint": 2012,
-          "imdb_id": null,
+          "imdb_id": "tt3232802",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "expectativa-2013",
@@ -72074,7 +72074,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:hotel-transeuropa",
+          "key": "tt3232802",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -72261,15 +72261,15 @@
         {
           "name": "Uma Família Gay",
           "original_name": "A Gay Family",
-          "year": null,
+          "year": 2013,
           "director": [
             "Maximiliano Pelosi"
           ],
           "people": [],
           "year_hint": 2013,
-          "imdb_id": null,
+          "imdb_id": "tt2813536",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "mundo-gay",
@@ -72277,7 +72277,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:uma-familia-gay",
+          "key": "tt2813536",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -72403,15 +72403,15 @@
         {
           "name": "VIPS",
           "original_name": "VIPS",
-          "year": null,
+          "year": 2010,
           "director": [
             "Toniko Mello"
           ],
           "people": [],
           "year_hint": 2010,
-          "imdb_id": null,
+          "imdb_id": "tt1235548",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "o-melhor-da-premiere-brasil",
@@ -72419,7 +72419,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:vips",
+          "key": "tt1235548",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {

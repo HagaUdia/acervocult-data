@@ -2,7 +2,7 @@
   "id": "tribeca",
   "label": "Tribeca",
   "kind": "festival",
-  "updated_at": "2026-09-28T11:26:30.375Z",
+  "updated_at": "2026-11-16T10:52:36.918Z",
   "editions": [
     {
       "year": 2026,
@@ -277,14 +277,14 @@
         {
           "name": "Holo",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [
             "Alexander DeSouza"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt12927642",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "shorts",
@@ -292,7 +292,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:holo",
+          "key": "tt12927642",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -378,14 +378,14 @@
         {
           "name": "A Crime Across Four Landscapes",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [
             "Aidan Weaver"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt11160272",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "shorts",
@@ -393,7 +393,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-crime-across-four-landscapes",
+          "key": "tt11160272",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -1388,14 +1388,14 @@
         {
           "name": "Árru",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "Elle Sofe Sara"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt13975248",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "viewpoints",
@@ -1403,7 +1403,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:arru",
+          "key": "tt13975248",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -1792,14 +1792,14 @@
         {
           "name": "The Baddest Speechwriter of All",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "Ben Proudfoot and Stephen Curry"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt39196105",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "shorts",
@@ -1807,7 +1807,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-baddest-speechwriter-of-all",
+          "key": "tt39196105",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -2139,14 +2139,14 @@
         {
           "name": "Against the Flow",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "Ming Wu"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt29271896",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "international-narrative-competition",
@@ -2154,7 +2154,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:against-the-flow",
+          "key": "tt29271896",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -3218,14 +3218,14 @@
         {
           "name": "ROAR",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "Jesse Weglein"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt42070669",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "shorts",
@@ -3233,7 +3233,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:roar",
+          "key": "tt42070669",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -4428,7 +4428,7 @@
         {
           "name": "Switch",
           "original_name": null,
-          "year": null,
+          "year": 2026,
           "director": [
             "Isabelle Platt",
             "Sofya Levitsky-Weitz",
@@ -4436,9 +4436,9 @@
             "and Jaki Bradley"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt39035987",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "tribeca-tv",
@@ -4446,7 +4446,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:switch",
+          "key": "tt39035987",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -5823,6 +5823,42 @@
           ],
           "key": "t:between-here-and-home",
           "first_seen": "2026-09-28T11:26:30.375Z"
+        },
+        {
+          "name": "American Zoo",
+          "original_name": null,
+          "year": 2026,
+          "director": [],
+          "imdb_id": "tt11820862",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "documentary-competition",
+              "label": "Documentary Competition",
+              "result": "selected"
+            }
+          ],
+          "key": "tt11820862",
+          "first_seen": "2026-11-16T10:52:36.918Z"
+        },
+        {
+          "name": "Dante",
+          "original_name": null,
+          "year": 2026,
+          "director": [],
+          "imdb_id": "tt39772804",
+          "wikidata_id": null,
+          "type": "movie",
+          "categories": [
+            {
+              "id": "escape-from-tribeca",
+              "label": "Escape From Tribeca",
+              "result": "selected"
+            }
+          ],
+          "key": "tt39772804",
+          "first_seen": "2026-11-16T10:52:36.918Z"
         }
       ]
     },
@@ -5997,14 +6033,14 @@
         {
           "name": "Mugaritz: No Bread, No Dessert.",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [
             "Paco Plaza"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt33507459",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "spotlight-documentary",
@@ -6012,7 +6048,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:mugaritz-no-bread-no-dessert",
+          "key": "tt33507459",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -6159,14 +6195,14 @@
         {
           "name": "So Far All Good",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [
             "$ECK"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt36591465",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "u-s-narrative-competition",
@@ -6174,7 +6210,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:so-far-all-good",
+          "key": "tt36591465",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -6501,15 +6537,15 @@
         },
         {
           "name": "People and Meat",
-          "original_name": null,
-          "year": null,
+          "original_name": "Saramgwa gogi",
+          "year": 2025,
           "director": [
             "Jong-hyun Yang"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt36591539",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "international-narrative-competition",
@@ -6517,7 +6553,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:people-and-meat",
+          "key": "tt36591539",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -7069,14 +7105,14 @@
         {
           "name": "Depeche Mode: M",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [
             "Fernando Frias de la Parra"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt36590288",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "spotlight",
@@ -7084,7 +7120,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:depeche-mode-m",
+          "key": "tt36590288",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -10545,14 +10581,14 @@
         {
           "name": "Antidote",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [
             "James Jones"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt32143856",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "documentary-competition",
@@ -10560,7 +10596,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:antidote",
+          "key": "tt32143856",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -13232,14 +13268,14 @@
         {
           "name": "Nepotism, Baby!",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [
             "Tij D'oyen"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt27225372",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "shorts",
@@ -13247,7 +13283,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:nepotism-baby",
+          "key": "tt27225372",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -13778,14 +13814,14 @@
         {
           "name": "I Want to Violently Crash into the Windshield of Love",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [
             "Fernanda Tovar"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt31315623",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "shorts",
@@ -13793,7 +13829,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:i-want-to-violently-crash-into-the-windshield-of-love",
+          "key": "tt31315623",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -17248,14 +17284,14 @@
         {
           "name": "Merman",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [
             "Sterling Hampton"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt26007706",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "shorts",
@@ -17263,7 +17299,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:merman",
+          "key": "tt26007706",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -20220,14 +20256,14 @@
         {
           "name": "Tehura",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [
             "Wei Li"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt20783386",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "shorts",
@@ -20235,7 +20271,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:tehura",
+          "key": "tt20783386",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -21505,14 +21541,14 @@
         {
           "name": "F^¢K '€M R!GHT B@¢K",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [
             "Harris Doran"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt15206308",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "tribeca-online-premieres",
@@ -21520,7 +21556,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:f-k-m-r-ght-b-k",
+          "key": "tt15206308",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -21586,14 +21622,14 @@
         {
           "name": "Kylie",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [
             "Sterling Hampton"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt19759098",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "tribeca-online-premieres",
@@ -21601,7 +21637,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:kylie",
+          "key": "tt19759098",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -23436,7 +23472,7 @@
         {
           "name": "Paper & Glue",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [
             "J R",
             "JR Project",
@@ -23445,9 +23481,9 @@
             "Justin Wilkes"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt14488886",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "spotlight",
@@ -23455,7 +23491,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:paper-glue",
+          "key": "tt14488886",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -23790,14 +23826,14 @@
         {
           "name": "Leaf Boat",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [
             "Efa Blosse-Mason"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt12498576",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "shorts",
@@ -23805,7 +23841,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:leaf-boat",
+          "key": "tt12498576",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -25204,14 +25240,14 @@
         {
           "name": "She Paradise",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [
             "Maya Cozier"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt10442666",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "2020-official-selection-features",
@@ -25219,7 +25255,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:she-paradise",
+          "key": "tt10442666",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -26845,14 +26881,14 @@
         {
           "name": "The Black Veil",
           "original_name": null,
-          "year": null,
+          "year": 2020,
           "director": [
             "A.J. Al-Thani"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt7573022",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "2020-official-selection-shorts",
@@ -26860,7 +26896,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-black-veil",
+          "key": "tt7573022",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -28605,15 +28641,15 @@
         },
         {
           "name": "I'm No Longer Here",
-          "original_name": null,
-          "year": null,
+          "original_name": "Ya no estoy aquí",
+          "year": 2019,
           "director": [
             "Fernando Frias de la Parra"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4323594",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "viewpoints",
@@ -28621,7 +28657,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:im-no-longer-here",
+          "key": "tt4323594",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -30021,14 +30057,14 @@
         {
           "name": "She Paradise",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [
             "Maya Cozier"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt10396138",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "international-narrative-competition",
@@ -30036,7 +30072,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:she-paradise",
+          "key": "tt10396138",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -30423,14 +30459,14 @@
         {
           "name": "Abducted",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [
             "Ben Joyner"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt10593116",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "shorts",
@@ -30438,7 +30474,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:abducted",
+          "key": "tt10593116",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -33743,14 +33779,14 @@
         {
           "name": "Skin",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [
             "Guy Nattiv"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt6043142",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "spotlight-narrative",
@@ -33758,7 +33794,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:skin",
+          "key": "tt6043142",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -33928,14 +33964,14 @@
         {
           "name": "Stray Dolls",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [
             "Sonejuhi Sinha"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt6690836",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "u-s-narrative-competition",
@@ -33943,7 +33979,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:stray-dolls",
+          "key": "tt6690836",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -34151,7 +34187,7 @@
         {
           "name": "11.11.18",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [
             "Django Schrevens",
             "Project Creator",
@@ -34160,9 +34196,9 @@
             "Sébastien Tixador"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt10007980",
           "wikidata_id": null,
-          "type": null,
+          "type": "tvShort",
           "categories": [
             {
               "id": "cinema360",
@@ -34170,7 +34206,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:11-11-18",
+          "key": "tt10007980",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -34259,14 +34295,14 @@
         {
           "name": "See You Yesterday",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [
             "Stefon Bristol"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt8743064",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "viewpoints",
@@ -34274,7 +34310,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:see-you-yesterday",
+          "key": "tt8743064",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -36807,14 +36843,14 @@
         {
           "name": "Maine",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [
             "Matthew Brown"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt7316358",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "u-s-narrative-competition",
@@ -36822,7 +36858,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:maine",
+          "key": "tt7316358",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -37690,14 +37726,14 @@
         {
           "name": "Notes from Dunblane: Lessons from a School Shooting",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [
             "Kim A. Snyder"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt7476418",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "shorts",
@@ -37705,7 +37741,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:notes-from-dunblane-lessons-from-a-school-shooting",
+          "key": "tt7476418",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -38040,14 +38076,14 @@
         {
           "name": "In a Relationship",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [
             "Sam Boyd"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt6676028",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "spotlight-narrative",
@@ -38055,7 +38091,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:in-a-relationship",
+          "key": "tt6676028",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -38284,14 +38320,14 @@
         {
           "name": "Ryuichi Sakamoto: Coda",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [
             "Stephen Nomura Schible"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt6578572",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "spotlight-documentary",
@@ -38299,7 +38335,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:ryuichi-sakamoto-coda",
+          "key": "tt6578572",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -38568,14 +38604,14 @@
         {
           "name": "RX: Early Detection A Cancer Journey with Sandra Lee",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [
             "Cathy Chermol Schrijver"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt7879414",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "special-screenings",
@@ -38583,7 +38619,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:rx-early-detection-a-cancer-journey-with-sandra-lee",
+          "key": "tt7879414",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -43662,7 +43698,7 @@
         {
           "name": "The Other Dakar",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [
             "Selly Raby Kane",
             "Project Creator",
@@ -43671,9 +43707,9 @@
             "Big World Cinema"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt11006870",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "virtual-arcade",
@@ -43681,7 +43717,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-other-dakar",
+          "key": "tt11006870",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -43842,14 +43878,14 @@
         {
           "name": "Revolving Doors",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [
             "James Burns"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt6744932",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "shorts",
@@ -43857,7 +43893,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:revolving-doors",
+          "key": "tt6744932",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -44352,14 +44388,14 @@
         {
           "name": "The Scarecrow",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [
             "Phillip Rhys"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4457888",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "shorts-in-competition-narrative",
@@ -44367,7 +44403,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-scarecrow",
+          "key": "tt4457888",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -46163,14 +46199,14 @@
         {
           "name": "Father's Day",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [
             "Kiki Lambden Stout"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4743688",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "shorts-in-competition-narrative",
@@ -46178,7 +46214,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:fathers-day",
+          "key": "tt4743688",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -46288,14 +46324,14 @@
         {
           "name": "The Show of Shows: 100 Years of Vaudeville, Circuses and Carnivals",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [
             "Benedikt Erlingsson"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5173000",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "special-screenings",
@@ -46303,7 +46339,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-show-of-shows-100-years-of-vaudeville-circuses-and-carnivals",
+          "key": "tt5173000",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -46450,14 +46486,14 @@
         {
           "name": "The Last Journey of the Enigmatic Paul WR",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [
             "Romain Quirot"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5275182",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "shorts-in-competition-narrative",
@@ -46465,7 +46501,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-last-journey-of-the-enigmatic-paul-wr",
+          "key": "tt5275182",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -47153,14 +47189,14 @@
         {
           "name": "The Charro of Toluquilla",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [
             "Jose Villalobos Romero"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5116404",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "viewpoints",
@@ -47168,7 +47204,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-charro-of-toluquilla",
+          "key": "tt5116404",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -47660,14 +47696,14 @@
         {
           "name": "A.C. Green: Iron Virgin",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [
             "Isaac Feder"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5562666",
           "wikidata_id": null,
-          "type": null,
+          "type": "tvMovie",
           "categories": [
             {
               "id": "shorts-out-of-competition",
@@ -47675,7 +47711,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:a-c-green-iron-virgin",
+          "key": "tt5562666",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -48317,7 +48353,7 @@
         {
           "name": "The Ark",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [
             "Kel O'Neill and Eline Jongsma",
             "Project Creators",
@@ -48326,9 +48362,9 @@
             "Kel O'Neill"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5843408",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "storyscapes",
@@ -48336,7 +48372,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-ark",
+          "key": "tt5843408",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -50970,14 +51006,14 @@
         {
           "name": "Thought Crimes",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [
             "Erin Lee Carr"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4503900",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "spotlight",
@@ -50985,7 +51021,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:thought-crimes",
+          "key": "tt4503900",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -51475,14 +51511,14 @@
         {
           "name": "Backtrack",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [
             "Michael Petroni"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2784936",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "spotlight",
@@ -51490,7 +51526,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:backtrack",
+          "key": "tt2784936",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -52244,14 +52280,14 @@
         {
           "name": "Les Bosquets",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [
             "J R"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4677790",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "shorts-in-competition-documentary",
@@ -52259,7 +52295,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:les-bosquets",
+          "key": "tt4677790",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -53692,14 +53728,14 @@
         {
           "name": "Traitors",
           "original_name": null,
-          "year": null,
+          "year": 2013,
           "director": [
             "Sean Gullette"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3003758",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "viewpoints",
@@ -53707,7 +53743,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:traitors",
+          "key": "tt3003758",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -55506,15 +55542,15 @@
         },
         {
           "name": "Black Coal, Thin Ice",
-          "original_name": null,
-          "year": null,
+          "original_name": "Bai ri yan huo",
+          "year": 2014,
           "director": [
             "Diao Yinan"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3469910",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "viewpoints",
@@ -55522,7 +55558,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:black-coal-thin-ice",
+          "key": "tt3469910",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -56570,14 +56606,14 @@
         {
           "name": "Inside Out: The People's Art Project",
           "original_name": null,
-          "year": null,
+          "year": 2013,
           "director": [
             "Alastair Siddons"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2608638",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "spotlight",
@@ -56585,7 +56621,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:inside-out-the-peoples-art-project",
+          "key": "tt2608638",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -58912,15 +58948,15 @@
         {
           "name": "The Exit Room",
           "original_name": null,
-          "year": null,
+          "year": 2013,
           "director": [
             "Todd Wiseman",
             "Jr."
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2428364",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "shorts-in-competition-narrative",
@@ -58928,7 +58964,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:the-exit-room",
+          "key": "tt2428364",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -62667,14 +62703,14 @@
         {
           "name": "An Incomplete History of the Travelogue, 1925",
           "original_name": null,
-          "year": null,
+          "year": 2012,
           "director": [
             "Sasha Waters Freyer"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2124737",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "shorts-in-competition-documentary",
@@ -62682,7 +62718,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:an-incomplete-history-of-the-travelogue-1925",
+          "key": "tt2124737",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -68636,8 +68672,8 @@
         },
         {
           "name": "Clash",
-          "original_name": null,
-          "year": null,
+          "original_name": "Bay rong",
+          "year": 2009,
           "director": [
             "Le Thanh Son and Le Thanh Son",
             "Screenwriters",
@@ -68646,9 +68682,9 @@
             "Ho Quang Hung"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1571565",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "cinemania",
@@ -68656,7 +68692,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:clash",
+          "key": "tt1571565",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -71973,16 +72009,16 @@
         {
           "name": "Under Our Skin",
           "original_name": null,
-          "year": null,
+          "year": 2008,
           "director": [
             "Andy Abrahams Wilson",
             "Senior Producer",
             "Kris Newby"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1202579",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "discovery",
@@ -71990,7 +72026,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:under-our-skin",
+          "key": "tt1202579",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -72337,15 +72373,15 @@
         },
         {
           "name": "Rattlesnakes",
-          "original_name": null,
-          "year": null,
+          "original_name": "Skröltormar",
+          "year": 2007,
           "director": [
             "Hafsteinn Gunnar Sigurdsson"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1034332",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "shorts-in-competition-student",
@@ -72353,7 +72389,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:rattlesnakes",
+          "key": "tt1034332",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -74127,14 +74163,14 @@
         {
           "name": "At Day's End",
           "original_name": null,
-          "year": null,
+          "year": 2008,
           "director": [
             "Sherif El Bendary"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1211339",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "shorts-in-competition-student",
@@ -74142,7 +74178,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:at-days-end",
+          "key": "tt1211339",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -75707,7 +75743,7 @@
         {
           "name": "Blackout",
           "original_name": null,
-          "year": null,
+          "year": 2007,
           "director": [
             "Jerry Lamothe",
             "Want the Festival experience year round? Become a Tribeca Member for",
@@ -75716,9 +75752,9 @@
             "Learn More"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0822791",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "selecao",
@@ -75726,7 +75762,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:blackout",
+          "key": "tt0822791",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -79697,8 +79733,8 @@
         },
         {
           "name": "COR[N]E[R] OF THE MATTER",
-          "original_name": null,
-          "year": null,
+          "original_name": "Kutak za sporni trenutak",
+          "year": 2004,
           "director": [
             "Džemal Šabiæ",
             "Want the Festival experience year round? Become a Tribeca Member for",
@@ -79707,9 +79743,9 @@
             "Learn More"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5859826",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "selecao",
@@ -79717,7 +79753,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:cor-n-e-r-of-the-matter",
+          "key": "tt5859826",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {

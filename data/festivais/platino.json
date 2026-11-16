@@ -2,7 +2,7 @@
   "id": "platino",
   "label": "Prêmio Platino (Ibero-América)",
   "kind": "award",
-  "updated_at": "2026-09-28T11:26:30.375Z",
+  "updated_at": "2026-11-16T10:52:36.918Z",
   "editions": [
     {
       "year": 2026,
@@ -9910,13 +9910,13 @@
         },
         {
           "name": "Cuates de Australia",
-          "original_name": null,
-          "year": null,
+          "original_name": "Cuates de Australia",
+          "year": 2011,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2097844",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "best-documentary",
@@ -9924,7 +9924,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:cuates-de-australia",
+          "key": "tt2097844",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {

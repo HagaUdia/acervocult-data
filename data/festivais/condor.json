@@ -2,7 +2,7 @@
   "id": "condor",
   "label": "Condor de Plata (Argentina)",
   "kind": "award",
-  "updated_at": "2026-09-28T11:26:30.375Z",
+  "updated_at": "2026-11-16T10:52:36.918Z",
   "editions": [
     {
       "year": 2025,
@@ -875,12 +875,12 @@
         {
           "name": "El origen del mundo",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt37673307",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje",
@@ -888,7 +888,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:el-origen-del-mundo",
+          "key": "tt37673307",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -913,12 +913,12 @@
         {
           "name": "Luz diabla",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt35051289",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje",
@@ -926,7 +926,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:luz-diabla",
+          "key": "tt35051289",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -951,12 +951,12 @@
         {
           "name": "Tu cuerpo en mi habitación",
           "original_name": null,
-          "year": null,
+          "year": 2025,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt37521637",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje",
@@ -964,7 +964,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:tu-cuerpo-en-mi-habitacion",
+          "key": "tt37521637",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -2104,13 +2104,13 @@
         },
         {
           "name": "Carga animal",
-          "original_name": null,
-          "year": null,
+          "original_name": "Carga Animal",
+          "year": 2023,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt17076282",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje",
@@ -2118,7 +2118,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:carga-animal",
+          "key": "tt17076282",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -2143,12 +2143,12 @@
         {
           "name": "El affaire Miu Miu",
           "original_name": null,
-          "year": null,
+          "year": 2024,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt33310248",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje",
@@ -2156,18 +2156,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:el-affaire-miu-miu",
+          "key": "tt33310248",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Ensayo para la memoria",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt29919467",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje",
@@ -2175,7 +2175,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:ensayo-para-la-memoria",
+          "key": "tt29919467",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -3739,12 +3739,12 @@
         {
           "name": "Tres cinematecas",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt23638560",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje-de-ficcion-o-documental",
@@ -3752,7 +3752,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:tres-cinematecas",
+          "key": "tt23638560",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -3836,12 +3836,12 @@
         {
           "name": "Pasajero",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt24226014",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje-de-animacion",
@@ -3849,7 +3849,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:pasajero",
+          "key": "tt24226014",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -3874,12 +3874,12 @@
         {
           "name": "Carne de Dios",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt27757693",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje-de-animacion",
@@ -3887,7 +3887,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:carne-de-dios",
+          "key": "tt27757693",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -3912,12 +3912,12 @@
         {
           "name": "La calesita",
           "original_name": null,
-          "year": null,
+          "year": 2022,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt21277216",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje-de-animacion",
@@ -3925,7 +3925,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:la-calesita",
+          "key": "tt21277216",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -5202,13 +5202,13 @@
         },
         {
           "name": "El espacio sideral",
-          "original_name": null,
-          "year": null,
+          "original_name": "El Espacio Sideral",
+          "year": 2021,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt14812796",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje-de-ficcion",
@@ -5216,7 +5216,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:el-espacio-sideral",
+          "key": "tt14812796",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -5279,12 +5279,12 @@
         {
           "name": "Mi última aventura",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt15214960",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje-de-ficcion",
@@ -5292,7 +5292,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:mi-ultima-aventura",
+          "key": "tt15214960",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -5356,12 +5356,12 @@
         {
           "name": "Érase una vez en Quizca",
           "original_name": null,
-          "year": null,
+          "year": 2021,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt13176588",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje-documental",
@@ -5369,7 +5369,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:erase-una-vez-en-quizca",
+          "key": "tt13176588",
           "first_seen": "2026-09-28T11:26:30.375Z"
         }
       ]
@@ -6545,13 +6545,13 @@
         },
         {
           "name": "Homenaje a la obra de Philip Henry Gosse",
-          "original_name": null,
-          "year": null,
+          "original_name": "Homenaje a la obra de Philip Henry Gosse",
+          "year": 2020,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt13526906",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje-documental",
@@ -6559,7 +6559,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:homenaje-a-la-obra-de-philip-henry-gosse",
+          "key": "tt13526906",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -6602,13 +6602,13 @@
         },
         {
           "name": "Mi otro hijo",
-          "original_name": null,
-          "year": null,
+          "original_name": "Mi otro hijo",
+          "year": 2019,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt14341822",
           "wikidata_id": null,
-          "type": null,
+          "type": "video",
           "categories": [
             {
               "id": "mejor-cortometraje-documental",
@@ -6616,18 +6616,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:mi-otro-hijo",
+          "key": "tt14341822",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Nos devoraba el fuego",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt16043076",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje-documental",
@@ -6635,7 +6635,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:nos-devoraba-el-fuego",
+          "key": "tt16043076",
           "first_seen": "2026-09-28T11:26:30.375Z"
         }
       ]
@@ -7343,15 +7343,15 @@
         },
         {
           "name": "Arabia",
-          "original_name": null,
-          "year": null,
+          "original_name": "Arábia",
+          "year": 2017,
           "director": [],
           "people": [
             "Brasil"
           ],
-          "imdb_id": null,
+          "imdb_id": "tt6400280",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "mejor-pelicula-iberoamericana",
@@ -7359,7 +7359,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:arabia",
+          "key": "tt6400280",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -7463,13 +7463,13 @@
         },
         {
           "name": "La siesta",
-          "original_name": null,
-          "year": null,
+          "original_name": "La siesta",
+          "year": 2019,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt10224960",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje-de-ficcion",
@@ -7477,18 +7477,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:la-siesta",
+          "key": "tt10224960",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Monstruo Dios",
-          "original_name": null,
-          "year": null,
+          "original_name": "Monstruo Dios",
+          "year": 2019,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt10224954",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje-de-ficcion",
@@ -7496,18 +7496,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:monstruo-dios",
+          "key": "tt10224954",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Una cabrita sin cuernos",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt8651734",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje-de-ficcion",
@@ -7515,7 +7515,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:una-cabrita-sin-cuernos",
+          "key": "tt8651734",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -7540,12 +7540,12 @@
         {
           "name": "Blue Boy",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt9902526",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje-documental",
@@ -7553,18 +7553,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:blue-boy",
+          "key": "tt9902526",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Cairo Affaire",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt9686006",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje-documental",
@@ -7572,7 +7572,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:cairo-affaire",
+          "key": "tt9686006",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -7597,12 +7597,12 @@
         {
           "name": "Los rugidos alejan la tormenta",
           "original_name": null,
-          "year": null,
+          "year": 2019,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt10893028",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje-documental",
@@ -7610,7 +7610,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:los-rugidos-alejan-la-tormenta",
+          "key": "tt10893028",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -9000,12 +9000,12 @@
         {
           "name": "Aquel verano sin hogar",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt9337780",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje",
@@ -9013,7 +9013,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:aquel-verano-sin-hogar",
+          "key": "tt9337780",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -9076,12 +9076,12 @@
         {
           "name": "Las fuerzas",
           "original_name": null,
-          "year": null,
+          "year": 2018,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt8445762",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje",
@@ -9089,7 +9089,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:las-fuerzas",
+          "key": "tt8445762",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -10451,12 +10451,12 @@
         {
           "name": "Corp.",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt6296526",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje",
@@ -10464,18 +10464,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:corp",
+          "key": "tt6296526",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Fiora",
           "original_name": null,
-          "year": null,
+          "year": 2017,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt14210814",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje",
@@ -10483,7 +10483,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:fiora",
+          "key": "tt14210814",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -11554,12 +11554,12 @@
         {
           "name": "Contra Paraguay",
           "original_name": null,
-          "year": null,
+          "year": 2014,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4354392",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "mejor-documental",
@@ -11567,7 +11567,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:contra-paraguay",
+          "key": "tt4354392",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -11899,12 +11899,12 @@
         {
           "name": "Las arácnidas",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5149154",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje",
@@ -11912,18 +11912,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:las-aracnidas",
+          "key": "tt5149154",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Los días felices",
-          "original_name": null,
-          "year": null,
+          "original_name": "Los días felices",
+          "year": 2016,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5684894",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje",
@@ -11931,7 +11931,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:los-dias-felices",
+          "key": "tt5684894",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -12093,12 +12093,12 @@
         {
           "name": "La niña de tacones amarillos",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4598710",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "revelacion-femenina",
@@ -12106,7 +12106,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:la-nina-de-tacones-amarillos",
+          "key": "tt4598710",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -13183,13 +13183,13 @@
         },
         {
           "name": "En las nubes",
-          "original_name": null,
-          "year": null,
+          "original_name": "En las nubes",
+          "year": 2014,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3614972",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje",
@@ -13197,7 +13197,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:en-las-nubes",
+          "key": "tt3614972",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -13221,13 +13221,13 @@
         },
         {
           "name": "Catalina y el sol",
-          "original_name": null,
-          "year": null,
+          "original_name": "Catalina y el sol",
+          "year": 2015,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4434240",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje",
@@ -13235,7 +13235,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:catalina-y-el-sol",
+          "key": "tt4434240",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -13260,12 +13260,12 @@
         {
           "name": "El dorado de Ford",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5127630",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje",
@@ -13273,18 +13273,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:el-dorado-de-ford",
+          "key": "tt5127630",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "La variación de López",
           "original_name": null,
-          "year": null,
+          "year": 2015,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt5126166",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje",
@@ -13292,7 +13292,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:la-variacion-de-lopez",
+          "key": "tt5126166",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -14700,13 +14700,13 @@
         },
         {
           "name": "La reina",
-          "original_name": null,
-          "year": null,
+          "original_name": "La reina",
+          "year": 2013,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3400550",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje",
@@ -14714,7 +14714,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:la-reina",
+          "key": "tt3400550",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -14739,12 +14739,12 @@
         {
           "name": "Cuestión de té",
           "original_name": null,
-          "year": null,
+          "year": 2014,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt3773098",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje",
@@ -14752,18 +14752,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:cuestion-de-te",
+          "key": "tt3773098",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "La Donna",
           "original_name": null,
-          "year": null,
+          "year": 2014,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2990818",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje",
@@ -14771,18 +14771,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:la-donna",
+          "key": "tt2990818",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Zombies",
           "original_name": null,
-          "year": null,
+          "year": 2014,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4201588",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje",
@@ -14790,7 +14790,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:zombies",
+          "key": "tt4201588",
           "first_seen": "2026-09-28T11:26:30.375Z"
         }
       ]
@@ -16017,12 +16017,12 @@
         {
           "name": "En carne viva",
           "original_name": null,
-          "year": null,
+          "year": 2012,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2557020",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje",
@@ -16030,7 +16030,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:en-carne-viva",
+          "key": "tt2557020",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -17224,12 +17224,12 @@
         {
           "name": "Crónica de la muerte de Paco Uribe",
           "original_name": null,
-          "year": null,
+          "year": 2012,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt4726934",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje",
@@ -17237,7 +17237,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:cronica-de-la-muerte-de-paco-uribe",
+          "key": "tt4726934",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -17852,12 +17852,12 @@
         {
           "name": "Fontana, la frontera interior",
           "original_name": null,
-          "year": null,
+          "year": 2009,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1615843",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "pelicula",
@@ -17875,7 +17875,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:fontana-la-frontera-interior",
+          "key": "tt1615843",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -18549,12 +18549,12 @@
         {
           "name": "Luminaris",
           "original_name": null,
-          "year": null,
+          "year": 2011,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1860278",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje",
@@ -18562,7 +18562,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:luminaris",
+          "key": "tt1860278",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -19609,12 +19609,12 @@
         {
           "name": "El piano mudo",
           "original_name": null,
-          "year": null,
+          "year": 2008,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1319649",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "mejor-actor-de-reparto",
@@ -19622,7 +19622,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:el-piano-mudo",
+          "key": "tt1319649",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -20962,12 +20962,12 @@
         {
           "name": "Manuel de Falla, músico de dos mundos",
           "original_name": null,
-          "year": null,
+          "year": 2007,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1220570",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "mejor-sonido",
@@ -20975,7 +20975,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:manuel-de-falla-musico-de-dos-mundos",
+          "key": "tt1220570",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -21103,12 +21103,12 @@
         {
           "name": "Historias breves V: Toro verde",
           "original_name": null,
-          "year": null,
+          "year": 2009,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1427227",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje",
@@ -21116,18 +21116,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:historias-breves-v-toro-verde",
+          "key": "tt1427227",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "La ollera",
           "original_name": null,
-          "year": null,
+          "year": 2009,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1505884",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje",
@@ -21135,7 +21135,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:la-ollera",
+          "key": "tt1505884",
           "first_seen": "2026-09-28T11:26:30.375Z"
         }
       ]
@@ -22264,12 +22264,12 @@
         {
           "name": "Puerta 12",
           "original_name": null,
-          "year": null,
+          "year": 2008,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1534828",
           "wikidata_id": null,
-          "type": null,
+          "type": "video",
           "categories": [
             {
               "id": "mejor-innovacion-artistica",
@@ -22277,18 +22277,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:puerta-12",
+          "key": "tt1534828",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "El empleo",
           "original_name": null,
-          "year": null,
+          "year": 2008,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1247184",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje",
@@ -22296,7 +22296,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:el-empleo",
+          "key": "tt1247184",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -22340,12 +22340,12 @@
         {
           "name": "Un santo para Telmo",
           "original_name": null,
-          "year": null,
+          "year": 2007,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0969747",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje",
@@ -22353,7 +22353,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:un-santo-para-telmo",
+          "key": "tt0969747",
           "first_seen": "2026-09-28T11:26:30.375Z"
         }
       ]
@@ -23728,12 +23728,12 @@
         {
           "name": "Cobrador",
           "original_name": null,
-          "year": null,
+          "year": 2006,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0462230",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "mejor-montaje",
@@ -23741,7 +23741,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:cobrador",
+          "key": "tt0462230",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -24330,12 +24330,12 @@
         {
           "name": "Judíos en el espacio",
           "original_name": null,
-          "year": null,
+          "year": 2005,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0417826",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "mejor-actriz-de-reparto",
@@ -24358,7 +24358,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:judios-en-el-espacio",
+          "key": "tt0417826",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -24712,12 +24712,12 @@
         {
           "name": "Caballos en la ciudad",
           "original_name": null,
-          "year": null,
+          "year": 2004,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0407618",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "mejor-videofilm",
@@ -24725,18 +24725,18 @@
               "result": "winner"
             }
           ],
-          "key": "t:caballos-en-la-ciudad",
+          "key": "tt0407618",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "Cuba plástica",
           "original_name": null,
-          "year": null,
+          "year": 2003,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0387958",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "mejor-videofilm",
@@ -24744,18 +24744,18 @@
               "result": "nominee"
             }
           ],
-          "key": "t:cuba-plastica",
+          "key": "tt0387958",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
           "name": "El exilio de San Martín",
           "original_name": null,
-          "year": null,
+          "year": 2006,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0759547",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "mejor-videofilm",
@@ -24763,7 +24763,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:el-exilio-de-san-martin",
+          "key": "tt0759547",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -24828,13 +24828,13 @@
         },
         {
           "name": "Medianeras",
-          "original_name": null,
-          "year": null,
+          "original_name": "Medianeras",
+          "year": 2005,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0455622",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje",
@@ -24842,7 +24842,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:medianeras",
+          "key": "tt0455622",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -25488,13 +25488,13 @@
         },
         {
           "name": "Hermanas",
-          "original_name": null,
-          "year": null,
+          "original_name": "Hermanas",
+          "year": 2005,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0362718",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "mejor-actriz",
@@ -25512,7 +25512,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:hermanas",
+          "key": "tt0362718",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -25633,12 +25633,12 @@
         {
           "name": "Cautiva",
           "original_name": null,
-          "year": null,
+          "year": 2003,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0362496",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "mejor-actriz-de-reparto",
@@ -25671,7 +25671,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:cautiva",
+          "key": "tt0362496",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -26319,12 +26319,12 @@
         {
           "name": "Viaje a Marte",
           "original_name": null,
-          "year": null,
+          "year": 2005,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0433124",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "mejor-cortometraje",
@@ -26332,7 +26332,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:viaje-a-marte",
+          "key": "tt0433124",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -26873,12 +26873,12 @@
         {
           "name": "Dos ilusiones",
           "original_name": null,
-          "year": null,
+          "year": 2004,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0360521",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "mejor-actriz-de-reparto",
@@ -26886,7 +26886,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:dos-ilusiones",
+          "key": "tt0360521",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -29813,13 +29813,13 @@
         },
         {
           "name": "La libertad",
-          "original_name": null,
-          "year": null,
+          "original_name": "La libertad",
+          "year": 2001,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0291310",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "mejor-opera-prima",
@@ -29827,7 +29827,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:la-libertad",
+          "key": "tt0291310",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -30757,12 +30757,12 @@
         {
           "name": "Un amor de Borge",
           "original_name": null,
-          "year": null,
+          "year": 2000,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0194852",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "mejor-guion-adaptado",
@@ -30770,7 +30770,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:un-amor-de-borge",
+          "key": "tt0194852",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -30995,13 +30995,13 @@
         },
         {
           "name": "El nadador inmóvil",
-          "original_name": null,
-          "year": null,
+          "original_name": "El nadador inmóvil",
+          "year": 1998,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0247556",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "mejor-fotografia",
@@ -31009,7 +31009,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:el-nadador-inmovil",
+          "key": "tt0247556",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -31590,12 +31590,12 @@
         {
           "name": "H.G.O.",
           "original_name": null,
-          "year": null,
+          "year": 1999,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0285167",
           "wikidata_id": null,
-          "type": null,
+          "type": "video",
           "categories": [
             {
               "id": "mejor-videofilm",
@@ -31603,7 +31603,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:h-g-o",
+          "key": "tt0285167",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -31628,12 +31628,12 @@
         {
           "name": "Padre Mugica",
           "original_name": null,
-          "year": null,
+          "year": 1999,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0285864",
           "wikidata_id": null,
-          "type": null,
+          "type": "video",
           "categories": [
             {
               "id": "mejor-videofilm",
@@ -31641,7 +31641,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:padre-mugica",
+          "key": "tt0285864",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -31809,12 +31809,12 @@
         {
           "name": "El faro",
           "original_name": null,
-          "year": null,
+          "year": 1998,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0322249",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "mejor-pelicula",
@@ -31862,7 +31862,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:el-faro",
+          "key": "tt0322249",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -32345,13 +32345,13 @@
         },
         {
           "name": "Picado fino",
-          "original_name": null,
-          "year": null,
+          "original_name": "Picado fino",
+          "year": 1996,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0117337",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "mejor-opera-prima",
@@ -32369,7 +32369,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:picado-fino",
+          "key": "tt0117337",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -32459,13 +32459,13 @@
       "films": [
         {
           "name": "Buenos Aires viceversa",
-          "original_name": null,
-          "year": null,
+          "original_name": "Buenos Aires Vice Versa",
+          "year": 1996,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0115773",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "mejor-pelicula",
@@ -32493,7 +32493,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:buenos-aires-viceversa",
+          "key": "tt0115773",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -32855,12 +32855,12 @@
         {
           "name": "El impostor",
           "original_name": null,
-          "year": null,
+          "year": 1997,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0126351",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "mejor-guion-adaptado",
@@ -32893,7 +32893,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:el-impostor",
+          "key": "tt0126351",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -33636,12 +33636,12 @@
         {
           "name": "Underground",
           "original_name": null,
-          "year": null,
+          "year": 1995,
           "director": [],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0114787",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "mejor-pelicula-extranjera",
@@ -33649,7 +33649,7 @@
               "result": "nominee"
             }
           ],
-          "key": "t:underground",
+          "key": "tt0114787",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {

@@ -2,7 +2,7 @@
   "id": "fica",
   "label": "FICA — Cinema e Vídeo Ambiental (Goiás)",
   "kind": "festival",
-  "updated_at": "2026-11-01T09:23:28.323Z",
+  "updated_at": "2026-11-16T10:52:36.918Z",
   "editions": [
     {
       "year": 2026,
@@ -2528,15 +2528,15 @@
         {
           "name": "Utopia Tropical",
           "original_name": null,
-          "year": null,
+          "year": 2023,
           "director": [
             "João Amorim"
           ],
           "people": [],
           "year_hint": 2023,
-          "imdb_id": null,
+          "imdb_id": "tt29742408",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "mostras-competitivas",
@@ -2544,7 +2544,7 @@
               "result": "selected"
             }
           ],
-          "key": "t:utopia-tropical",
+          "key": "tt29742408",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -3429,14 +3429,14 @@
         {
           "name": "CORP",
           "original_name": null,
-          "year": null,
+          "year": 2016,
           "director": [
             "Pablo Polledri"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt6296526",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-trofeu-luiz-gonzaga-soares-juri-popular",
@@ -3444,7 +3444,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:corp",
+          "key": "tt6296526",
           "first_seen": "2026-09-28T11:26:30.375Z"
         }
       ]
@@ -3857,14 +3857,14 @@
         {
           "name": "Galus Galus",
           "original_name": null,
-          "year": null,
+          "year": 2013,
           "director": [
             "Clarissa Duque"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt2899450",
           "wikidata_id": null,
-          "type": null,
+          "type": "short",
           "categories": [
             {
               "id": "premio-premio-melhor-curta",
@@ -3872,7 +3872,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:galus-galus",
+          "key": "tt2899450",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -4833,14 +4833,14 @@
         {
           "name": "Blooming Business",
           "original_name": null,
-          "year": null,
+          "year": 2009,
           "director": [
             "Ton van Zantvoort"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt1370835",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-premio-imprensa",
@@ -4848,7 +4848,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:blooming-business",
+          "key": "tt1370835",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -5095,14 +5095,14 @@
         {
           "name": "Carpatia",
           "original_name": null,
-          "year": null,
+          "year": 2004,
           "director": [
             "Ulrich Rydzewsky"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0432776",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-melhor-filme-do-festival-dos-festivais",
@@ -5110,7 +5110,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:carpatia",
+          "key": "tt0432776",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
@@ -5480,14 +5480,14 @@
         {
           "name": "Dutch Light",
           "original_name": null,
-          "year": null,
+          "year": 2003,
           "director": [
             "Pieter - Rim de Krocon"
           ],
           "people": [],
-          "imdb_id": null,
+          "imdb_id": "tt0380419",
           "wikidata_id": null,
-          "type": null,
+          "type": "movie",
           "categories": [
             {
               "id": "premio-mencao-honrosa",
@@ -5495,7 +5495,7 @@
               "result": "winner"
             }
           ],
-          "key": "t:dutch-light",
+          "key": "tt0380419",
           "first_seen": "2026-09-28T11:26:30.375Z"
         },
         {
