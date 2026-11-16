@@ -1,5 +1,82 @@
 [
   {
+    "id": "acervocult:curtaon:1676647",
+    "source": "curtaon",
+    "name": "Escrito e Dirigido por Quentin Tarantino",
+    "year": 2026,
+    "director": "France Swimberge",
+    "type": "movie",
+    "imdb_id": null,
+    "tmdb_id": 1676647,
+    "poster": "https://image.tmdb.org/t/p/w500/d7UCIEiAeMRESV1Vuf2CYmqZZUO.jpg",
+    "source_url": "https://www.themoviedb.org/movie/1676647",
+    "enrich_status": "matched",
+    "first_seen": "2026-11-16T06:39:51.208Z",
+    "last_seen": "2026-11-16T06:39:51.208Z"
+  },
+  {
+    "id": "acervocult:curtaon:1583759",
+    "source": "curtaon",
+    "name": "Homo Plasticus, l'invasion silencieuse des microplastiques",
+    "year": 2025,
+    "director": "Elodie Bonnes",
+    "type": "movie",
+    "imdb_id": null,
+    "tmdb_id": 1583759,
+    "poster": "https://image.tmdb.org/t/p/w500/hlI8OSij1wKPV1hcYBnljjq2Kpa.jpg",
+    "source_url": "https://www.themoviedb.org/movie/1583759",
+    "enrich_status": "matched",
+    "first_seen": "2026-11-16T06:39:51.208Z",
+    "last_seen": "2026-11-16T06:39:51.208Z"
+  },
+  {
+    "id": "acervocult:curtaon:1427106",
+    "source": "curtaon",
+    "name": "Miyazaki",
+    "year": 2025,
+    "director": "Lunia Belaïd, Alexandre Boutier, Christopher Carter, Calixte Chateau, Zijin Chen, Subodh Das, Siyang Dong, Maggie Weng",
+    "type": "movie",
+    "imdb_id": null,
+    "tmdb_id": 1427106,
+    "poster": "https://image.tmdb.org/t/p/w500/vdA9ZNkWBIBoB607sQ2y3uAb1bG.jpg",
+    "source_url": "https://www.themoviedb.org/movie/1427106",
+    "enrich_status": "matched",
+    "first_seen": "2026-11-16T06:39:51.208Z",
+    "last_seen": "2026-11-16T06:39:51.208Z"
+  },
+  {
+    "id": "acervocult:curtaon:1543085",
+    "source": "curtaon",
+    "name": "Ninguém Pode Provar Nada: A Inacreditável História de Ezequiel Neves",
+    "year": 2025,
+    "director": "Rodrigo Pinto",
+    "type": "movie",
+    "imdb_id": "tt38504774",
+    "tmdb_id": 1543085,
+    "poster": "https://image.tmdb.org/t/p/w500/uq1l61L291wzPtii0BQVe9hg7ru.jpg",
+    "source_url": "https://www.themoviedb.org/movie/1543085",
+    "enrich_status": "matched",
+    "first_seen": "2026-11-16T06:39:51.208Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-11-16T06:39:52.024Z"
+  },
+  {
+    "id": "acervocult:curtaon:1816311",
+    "source": "curtaon",
+    "name": "A Voz de Ruy",
+    "year": 2024,
+    "director": "Fernanda Miranda, Pedro Sprejer",
+    "type": "movie",
+    "imdb_id": null,
+    "tmdb_id": 1816311,
+    "poster": "https://image.tmdb.org/t/p/w500/sh3SATQuWjlKHwfEh7HYIMsGo3t.jpg",
+    "source_url": "https://www.themoviedb.org/movie/1816311",
+    "enrich_status": "matched",
+    "first_seen": "2026-11-16T06:39:51.208Z",
+    "last_seen": "2026-11-16T06:39:51.208Z"
+  },
+  {
     "id": "acervocult:curtaon:1543073",
     "source": "curtaon",
     "name": "As Dores do Mundo: Hyldon",
@@ -12,7 +89,7 @@
     "source_url": "https://www.themoviedb.org/movie/1543073",
     "enrich_status": "matched",
     "first_seen": "2026-11-09T16:52:55.126Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-11-09T16:52:55.129Z"
   },
@@ -29,7 +106,7 @@
     "source_url": "https://www.themoviedb.org/movie/411019",
     "enrich_status": "matched",
     "first_seen": "2026-11-09T16:52:55.126Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-11-09T16:52:55.129Z"
   },
@@ -46,7 +123,7 @@
     "source_url": "https://www.themoviedb.org/movie/310534",
     "enrich_status": "matched",
     "first_seen": "2026-10-26T06:36:43.682Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-26T06:36:43.704Z"
   },
@@ -80,7 +157,7 @@
     "source_url": "https://www.themoviedb.org/movie/1204159",
     "enrich_status": "matched",
     "first_seen": "2026-10-13T21:04:59.058Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -97,7 +174,7 @@
     "source_url": "https://www.themoviedb.org/movie/337863",
     "enrich_status": "matched",
     "first_seen": "2026-10-13T21:04:59.058Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -114,7 +191,7 @@
     "source_url": "https://www.themoviedb.org/movie/137285",
     "enrich_status": "matched",
     "first_seen": "2026-10-13T21:04:59.058Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -131,7 +208,7 @@
     "source_url": "https://www.themoviedb.org/movie/1684901",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -163,7 +240,7 @@
     "source_url": "https://www.themoviedb.org/movie/1630527",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:1459709",
@@ -178,7 +255,7 @@
     "source_url": "https://www.themoviedb.org/movie/1459709",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:1594659",
@@ -193,7 +270,7 @@
     "source_url": "https://www.themoviedb.org/movie/1594659",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:1451469",
@@ -208,7 +285,7 @@
     "source_url": "https://www.themoviedb.org/movie/1451469",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:1543093",
@@ -223,7 +300,7 @@
     "source_url": "https://www.themoviedb.org/movie/1543093",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -240,7 +317,7 @@
     "source_url": "https://www.themoviedb.org/movie/1460390",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -257,7 +334,7 @@
     "source_url": "https://www.themoviedb.org/movie/1564399",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:1608797",
@@ -272,7 +349,7 @@
     "source_url": "https://www.themoviedb.org/movie/1608797",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -289,7 +366,7 @@
     "source_url": "https://www.themoviedb.org/movie/1462357",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:1430149",
@@ -304,7 +381,7 @@
     "source_url": "https://www.themoviedb.org/movie/1430149",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -321,7 +398,7 @@
     "source_url": "https://www.themoviedb.org/movie/1311806",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:1318389",
@@ -336,7 +413,7 @@
     "source_url": "https://www.themoviedb.org/movie/1318389",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -353,7 +430,7 @@
     "source_url": "https://www.themoviedb.org/movie/1374404",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -370,7 +447,7 @@
     "source_url": "https://www.themoviedb.org/movie/1416427",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:1317993",
@@ -385,7 +462,7 @@
     "source_url": "https://www.themoviedb.org/movie/1317993",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:1304109",
@@ -400,7 +477,7 @@
     "source_url": "https://www.themoviedb.org/movie/1304109",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -417,7 +494,7 @@
     "source_url": "https://www.themoviedb.org/movie/1361306",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -434,7 +511,7 @@
     "source_url": "https://www.themoviedb.org/movie/1262161",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -468,7 +545,7 @@
     "source_url": "https://www.themoviedb.org/movie/1186666",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:1033322",
@@ -483,7 +560,7 @@
     "source_url": "https://www.themoviedb.org/movie/1033322",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -500,7 +577,7 @@
     "source_url": "https://www.themoviedb.org/movie/1141238",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:1201537",
@@ -515,7 +592,7 @@
     "source_url": "https://www.themoviedb.org/movie/1201537",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:1177238",
@@ -530,7 +607,7 @@
     "source_url": "https://www.themoviedb.org/movie/1177238",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:1140562",
@@ -545,7 +622,7 @@
     "source_url": "https://www.themoviedb.org/movie/1140562",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:1474401",
@@ -560,7 +637,7 @@
     "source_url": "https://www.themoviedb.org/movie/1474401",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:1105948",
@@ -575,7 +652,7 @@
     "source_url": "https://www.themoviedb.org/movie/1105948",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -609,7 +686,7 @@
     "source_url": "https://www.themoviedb.org/movie/783427",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -626,7 +703,7 @@
     "source_url": "https://www.themoviedb.org/movie/1135644",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:1068034",
@@ -641,7 +718,7 @@
     "source_url": "https://www.themoviedb.org/movie/1068034",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -658,7 +735,7 @@
     "source_url": "https://www.themoviedb.org/movie/1441687",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -675,7 +752,7 @@
     "source_url": "https://www.themoviedb.org/movie/1033349",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -709,7 +786,7 @@
     "source_url": "https://www.themoviedb.org/movie/1016206",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -726,7 +803,7 @@
     "source_url": "https://www.themoviedb.org/movie/1030583",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -743,7 +820,7 @@
     "source_url": "https://www.themoviedb.org/movie/952392",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -760,7 +837,7 @@
     "source_url": "https://www.themoviedb.org/movie/1150453",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:900023",
@@ -775,7 +852,7 @@
     "source_url": "https://www.themoviedb.org/movie/900023",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -792,7 +869,7 @@
     "source_url": "https://www.themoviedb.org/movie/882994",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -809,7 +886,7 @@
     "source_url": "https://www.themoviedb.org/movie/872197",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -826,7 +903,7 @@
     "source_url": "https://www.themoviedb.org/movie/801019",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:810210",
@@ -841,7 +918,7 @@
     "source_url": "https://www.themoviedb.org/movie/810210",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -858,7 +935,7 @@
     "source_url": "https://www.themoviedb.org/movie/1237219",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:808624",
@@ -873,7 +950,7 @@
     "source_url": "https://www.themoviedb.org/movie/808624",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -890,7 +967,7 @@
     "source_url": "https://www.themoviedb.org/movie/810213",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -907,7 +984,7 @@
     "source_url": "https://www.themoviedb.org/movie/920639",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:841986",
@@ -922,7 +999,7 @@
     "source_url": "https://www.themoviedb.org/movie/841986",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -939,7 +1016,7 @@
     "source_url": "https://www.themoviedb.org/movie/882829",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -956,7 +1033,7 @@
     "source_url": "https://www.themoviedb.org/movie/745867",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -973,7 +1050,7 @@
     "source_url": "https://www.themoviedb.org/movie/1311942",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -990,7 +1067,7 @@
     "source_url": "https://www.themoviedb.org/movie/742292",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1007,7 +1084,7 @@
     "source_url": "https://www.themoviedb.org/movie/931088",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:741146",
@@ -1022,7 +1099,7 @@
     "source_url": "https://www.themoviedb.org/movie/741146",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1039,7 +1116,7 @@
     "source_url": "https://www.themoviedb.org/movie/752657",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1056,7 +1133,7 @@
     "source_url": "https://www.themoviedb.org/movie/745885",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1073,7 +1150,7 @@
     "source_url": "https://www.themoviedb.org/movie/689705",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1090,7 +1167,7 @@
     "source_url": "https://www.themoviedb.org/movie/741213",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1107,7 +1184,7 @@
     "source_url": "https://www.themoviedb.org/movie/766685",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1124,7 +1201,7 @@
     "source_url": "https://www.themoviedb.org/movie/929009",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:746124",
@@ -1139,7 +1216,7 @@
     "source_url": "https://www.themoviedb.org/movie/746124",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1156,7 +1233,7 @@
     "source_url": "https://www.themoviedb.org/movie/789242",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1173,7 +1250,7 @@
     "source_url": "https://www.themoviedb.org/movie/745887",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1190,7 +1267,7 @@
     "source_url": "https://www.themoviedb.org/movie/1451547",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1207,7 +1284,7 @@
     "source_url": "https://www.themoviedb.org/movie/752663",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1224,7 +1301,7 @@
     "source_url": "https://www.themoviedb.org/movie/791389",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1241,7 +1318,7 @@
     "source_url": "https://www.themoviedb.org/movie/725486",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:738739",
@@ -1256,7 +1333,7 @@
     "source_url": "https://www.themoviedb.org/movie/738739",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1273,7 +1350,7 @@
     "source_url": "https://www.themoviedb.org/movie/607947",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1290,7 +1367,7 @@
     "source_url": "https://www.themoviedb.org/movie/601613",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1307,7 +1384,7 @@
     "source_url": "https://www.themoviedb.org/movie/624635",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1324,7 +1401,7 @@
     "source_url": "https://www.themoviedb.org/movie/651299",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1341,7 +1418,7 @@
     "source_url": "https://www.themoviedb.org/movie/575817",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1358,7 +1435,7 @@
     "source_url": "https://www.themoviedb.org/movie/791410",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1375,7 +1452,7 @@
     "source_url": "https://www.themoviedb.org/movie/651898",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1392,7 +1469,7 @@
     "source_url": "https://www.themoviedb.org/movie/734668",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1409,7 +1486,7 @@
     "source_url": "https://www.themoviedb.org/movie/555799",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1426,7 +1503,7 @@
     "source_url": "https://www.themoviedb.org/movie/573503",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1443,7 +1520,7 @@
     "source_url": "https://www.themoviedb.org/movie/651877",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1460,7 +1537,7 @@
     "source_url": "https://www.themoviedb.org/movie/637613",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1477,7 +1554,7 @@
     "source_url": "https://www.themoviedb.org/movie/733709",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1494,7 +1571,7 @@
     "source_url": "https://www.themoviedb.org/movie/637616",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1511,7 +1588,7 @@
     "source_url": "https://www.themoviedb.org/movie/638239",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1528,7 +1605,7 @@
     "source_url": "https://www.themoviedb.org/movie/935695",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:752600",
@@ -1543,7 +1620,7 @@
     "source_url": "https://www.themoviedb.org/movie/752600",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1560,7 +1637,7 @@
     "source_url": "https://www.themoviedb.org/movie/627449",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:743785",
@@ -1575,7 +1652,7 @@
     "source_url": "https://www.themoviedb.org/movie/743785",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1592,7 +1669,7 @@
     "source_url": "https://www.themoviedb.org/movie/554036",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1609,7 +1686,7 @@
     "source_url": "https://www.themoviedb.org/movie/614842",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1626,7 +1703,7 @@
     "source_url": "https://www.themoviedb.org/movie/522868",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1643,7 +1720,7 @@
     "source_url": "https://www.themoviedb.org/movie/712940",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1660,7 +1737,7 @@
     "source_url": "https://www.themoviedb.org/movie/1416448",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:554976",
@@ -1675,7 +1752,7 @@
     "source_url": "https://www.themoviedb.org/movie/554976",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1692,7 +1769,7 @@
     "source_url": "https://www.themoviedb.org/movie/555430",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1709,7 +1786,7 @@
     "source_url": "https://www.themoviedb.org/movie/633997",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:542480",
@@ -1724,7 +1801,7 @@
     "source_url": "https://www.themoviedb.org/movie/542480",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1741,7 +1818,7 @@
     "source_url": "https://www.themoviedb.org/movie/515190",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1758,7 +1835,7 @@
     "source_url": "https://www.themoviedb.org/movie/435681",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1775,7 +1852,7 @@
     "source_url": "https://www.themoviedb.org/movie/544491",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:480242",
@@ -1790,7 +1867,7 @@
     "source_url": "https://www.themoviedb.org/movie/480242",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1807,7 +1884,7 @@
     "source_url": "https://www.themoviedb.org/movie/555810",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1824,7 +1901,7 @@
     "source_url": "https://www.themoviedb.org/movie/726572",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:555812",
@@ -1839,7 +1916,7 @@
     "source_url": "https://www.themoviedb.org/movie/555812",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:555816",
@@ -1854,7 +1931,7 @@
     "source_url": "https://www.themoviedb.org/movie/555816",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1871,7 +1948,7 @@
     "source_url": "https://www.themoviedb.org/movie/576050",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1888,7 +1965,7 @@
     "source_url": "https://www.themoviedb.org/movie/805300",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:451813",
@@ -1903,7 +1980,7 @@
     "source_url": "https://www.themoviedb.org/movie/451813",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1920,7 +1997,7 @@
     "source_url": "https://www.themoviedb.org/movie/480540",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1937,7 +2014,7 @@
     "source_url": "https://www.themoviedb.org/movie/675248",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1954,7 +2031,7 @@
     "source_url": "https://www.themoviedb.org/movie/772507",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -1971,7 +2048,7 @@
     "source_url": "https://www.themoviedb.org/movie/548265",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:479487",
@@ -1986,7 +2063,7 @@
     "source_url": "https://www.themoviedb.org/movie/479487",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2003,7 +2080,7 @@
     "source_url": "https://www.themoviedb.org/movie/439296",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2020,7 +2097,7 @@
     "source_url": "https://www.themoviedb.org/movie/481573",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2037,7 +2114,7 @@
     "source_url": "https://www.themoviedb.org/movie/479563",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2054,7 +2131,7 @@
     "source_url": "https://www.themoviedb.org/movie/478652",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2071,7 +2148,7 @@
     "source_url": "https://www.themoviedb.org/movie/487460",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2088,7 +2165,7 @@
     "source_url": "https://www.themoviedb.org/movie/516494",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:441498",
@@ -2103,7 +2180,7 @@
     "source_url": "https://www.themoviedb.org/movie/441498",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2120,7 +2197,7 @@
     "source_url": "https://www.themoviedb.org/movie/646036",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2137,7 +2214,7 @@
     "source_url": "https://www.themoviedb.org/movie/480519",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2154,7 +2231,7 @@
     "source_url": "https://www.themoviedb.org/movie/573871",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2171,7 +2248,7 @@
     "source_url": "https://www.themoviedb.org/movie/480706",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2188,7 +2265,7 @@
     "source_url": "https://www.themoviedb.org/movie/481887",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2205,7 +2282,7 @@
     "source_url": "https://www.themoviedb.org/movie/721295",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2222,7 +2299,7 @@
     "source_url": "https://www.themoviedb.org/movie/502338",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2239,7 +2316,7 @@
     "source_url": "https://www.themoviedb.org/movie/535149",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2256,7 +2333,7 @@
     "source_url": "https://www.themoviedb.org/movie/434949",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2273,7 +2350,7 @@
     "source_url": "https://www.themoviedb.org/movie/461178",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2290,7 +2367,7 @@
     "source_url": "https://www.themoviedb.org/movie/417502",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2307,7 +2384,7 @@
     "source_url": "https://www.themoviedb.org/movie/411003",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2324,7 +2401,7 @@
     "source_url": "https://www.themoviedb.org/movie/846670",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:610146",
@@ -2339,7 +2416,7 @@
     "source_url": "https://www.themoviedb.org/movie/610146",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:386332",
@@ -2354,7 +2431,7 @@
     "source_url": "https://www.themoviedb.org/movie/386332",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2371,7 +2448,7 @@
     "source_url": "https://www.themoviedb.org/movie/359808",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2388,7 +2465,7 @@
     "source_url": "https://www.themoviedb.org/movie/461597",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2405,7 +2482,7 @@
     "source_url": "https://www.themoviedb.org/movie/361474",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2422,7 +2499,7 @@
     "source_url": "https://www.themoviedb.org/movie/360113",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2439,7 +2516,7 @@
     "source_url": "https://www.themoviedb.org/movie/347098",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2456,7 +2533,7 @@
     "source_url": "https://www.themoviedb.org/movie/280759",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2473,7 +2550,7 @@
     "source_url": "https://www.themoviedb.org/movie/298340",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2490,7 +2567,7 @@
     "source_url": "https://www.themoviedb.org/movie/334152",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2507,7 +2584,7 @@
     "source_url": "https://www.themoviedb.org/movie/821370",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2524,7 +2601,7 @@
     "source_url": "https://www.themoviedb.org/movie/330666",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2541,7 +2618,7 @@
     "source_url": "https://www.themoviedb.org/movie/704780",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2558,7 +2635,7 @@
     "source_url": "https://www.themoviedb.org/movie/297140",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2575,7 +2652,7 @@
     "source_url": "https://www.themoviedb.org/movie/263976",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2592,7 +2669,7 @@
     "source_url": "https://www.themoviedb.org/movie/265297",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2609,7 +2686,7 @@
     "source_url": "https://www.themoviedb.org/movie/250784",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2643,7 +2720,7 @@
     "source_url": "https://www.themoviedb.org/movie/198950",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2660,7 +2737,7 @@
     "source_url": "https://www.themoviedb.org/movie/228380",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2677,7 +2754,7 @@
     "source_url": "https://www.themoviedb.org/movie/534299",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2694,7 +2771,7 @@
     "source_url": "https://www.themoviedb.org/movie/466439",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2711,7 +2788,7 @@
     "source_url": "https://www.themoviedb.org/movie/235453",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2728,7 +2805,7 @@
     "source_url": "https://www.themoviedb.org/movie/351389",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2745,7 +2822,7 @@
     "source_url": "https://www.themoviedb.org/movie/263839",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2762,7 +2839,7 @@
     "source_url": "https://www.themoviedb.org/movie/121983",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2779,7 +2856,7 @@
     "source_url": "https://www.themoviedb.org/movie/128190",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2796,7 +2873,7 @@
     "source_url": "https://www.themoviedb.org/movie/470913",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:267478",
@@ -2811,7 +2888,7 @@
     "source_url": "https://www.themoviedb.org/movie/267478",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2828,7 +2905,7 @@
     "source_url": "https://www.themoviedb.org/movie/296406",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:153412",
@@ -2843,7 +2920,7 @@
     "source_url": "https://www.themoviedb.org/movie/153412",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2860,7 +2937,7 @@
     "source_url": "https://www.themoviedb.org/movie/395407",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2877,7 +2954,7 @@
     "source_url": "https://www.themoviedb.org/movie/773134",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2894,7 +2971,7 @@
     "source_url": "https://www.themoviedb.org/movie/256242",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2911,7 +2988,7 @@
     "source_url": "https://www.themoviedb.org/movie/151516",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2928,7 +3005,7 @@
     "source_url": "https://www.themoviedb.org/movie/583703",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2945,7 +3022,7 @@
     "source_url": "https://www.themoviedb.org/movie/57276",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2962,7 +3039,7 @@
     "source_url": "https://www.themoviedb.org/movie/79893",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2979,7 +3056,7 @@
     "source_url": "https://www.themoviedb.org/movie/238528",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -2996,7 +3073,7 @@
     "source_url": "https://www.themoviedb.org/movie/175375",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -3013,7 +3090,7 @@
     "source_url": "https://www.themoviedb.org/movie/851304",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -3030,7 +3107,7 @@
     "source_url": "https://www.themoviedb.org/movie/618823",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -3047,7 +3124,7 @@
     "source_url": "https://www.themoviedb.org/movie/305979",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -3064,7 +3141,7 @@
     "source_url": "https://www.themoviedb.org/movie/172293",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -3081,7 +3158,7 @@
     "source_url": "https://www.themoviedb.org/movie/157291",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -3098,7 +3175,7 @@
     "source_url": "https://www.themoviedb.org/movie/259560",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -3115,7 +3192,7 @@
     "source_url": "https://www.themoviedb.org/movie/147935",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z"
+    "last_seen": "2026-11-16T06:39:51.208Z"
   },
   {
     "id": "acervocult:curtaon:169275",
@@ -3130,7 +3207,7 @@
     "source_url": "https://www.themoviedb.org/movie/169275",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -3147,7 +3224,7 @@
     "source_url": "https://www.themoviedb.org/movie/126043",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -3164,7 +3241,7 @@
     "source_url": "https://www.themoviedb.org/movie/353780",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -3181,7 +3258,7 @@
     "source_url": "https://www.themoviedb.org/movie/148183",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -3198,7 +3275,7 @@
     "source_url": "https://www.themoviedb.org/movie/267329",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -3232,7 +3309,7 @@
     "source_url": "https://www.themoviedb.org/movie/11358",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -3249,7 +3326,7 @@
     "source_url": "https://www.themoviedb.org/movie/68169",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -3266,7 +3343,7 @@
     "source_url": "https://www.themoviedb.org/movie/296397",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -3283,7 +3360,7 @@
     "source_url": "https://www.themoviedb.org/movie/291938",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -3300,7 +3377,7 @@
     "source_url": "https://www.themoviedb.org/movie/353089",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -3317,7 +3394,7 @@
     "source_url": "https://www.themoviedb.org/movie/260994",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -3334,7 +3411,7 @@
     "source_url": "https://www.themoviedb.org/movie/40680",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -3351,7 +3428,7 @@
     "source_url": "https://www.themoviedb.org/movie/40500",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -3368,7 +3445,7 @@
     "source_url": "https://www.themoviedb.org/movie/361285",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -3385,7 +3462,7 @@
     "source_url": "https://www.themoviedb.org/movie/283002",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -3402,7 +3479,7 @@
     "source_url": "https://www.themoviedb.org/movie/422968",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -3419,7 +3496,7 @@
     "source_url": "https://www.themoviedb.org/movie/147932",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -3436,7 +3513,7 @@
     "source_url": "https://www.themoviedb.org/movie/269474",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -3453,7 +3530,7 @@
     "source_url": "https://www.themoviedb.org/movie/1096783",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -3470,7 +3547,7 @@
     "source_url": "https://www.themoviedb.org/movie/149949",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -3487,7 +3564,7 @@
     "source_url": "https://www.themoviedb.org/movie/147934",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -3504,7 +3581,7 @@
     "source_url": "https://www.themoviedb.org/movie/211880",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -3521,7 +3598,7 @@
     "source_url": "https://www.themoviedb.org/movie/438789",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -3538,7 +3615,7 @@
     "source_url": "https://www.themoviedb.org/movie/86320",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -3555,7 +3632,7 @@
     "source_url": "https://www.themoviedb.org/movie/272399",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -3572,7 +3649,7 @@
     "source_url": "https://www.themoviedb.org/movie/324447",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   },
@@ -3589,7 +3666,7 @@
     "source_url": "https://www.themoviedb.org/movie/328266",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T14:00:33.341Z",
-    "last_seen": "2026-11-09T16:52:55.126Z",
+    "last_seen": "2026-11-16T06:39:51.208Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T21:04:59.086Z"
   }

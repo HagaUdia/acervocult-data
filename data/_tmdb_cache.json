@@ -221818,7 +221818,7 @@
       "original_title": "O Estranho",
       "release_date": "2023-07-01",
       "poster_path": "/7B1MhNCl9rk1THYoVcRixrwQBHJ.jpg",
-      "popularity": 0.6835,
+      "popularity": 0.2507,
       "credits": {
         "crew": [
           {
@@ -270838,6 +270838,2309 @@
         "imdb_id": "tt13057120"
       },
       "earliest_release_year": 2020
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Scanners 2: A Nova Ordem&region=BR&year=1991": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Scanners 2: A Nova Ordem&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Wakhri&region=BR&year=2023": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1213973,
+          "title": "وکھری",
+          "original_title": "وکھری",
+          "release_date": "2023-12-02",
+          "poster_path": "/p7mtg3AocPkSr7CzvfxlQ61qU34.jpg",
+          "popularity": 0.1858
+        }
+      ]
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Scanners 3: O Duelo Final&region=BR&year=1991": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 33305,
+          "title": "Scanners III: O Duelo Final",
+          "original_title": "Scanners III: The Takeover",
+          "release_date": "1992-01-31",
+          "poster_path": "/bX17MzWbvTKzAjwdkeQKLXBFMXz.jpg",
+          "popularity": 1.1438
+        }
+      ]
+    },
+    "/movie/33305?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 33305,
+      "title": "Scanners III: O Duelo Final",
+      "original_title": "Scanners III: The Takeover",
+      "release_date": "1992-01-31",
+      "poster_path": "/bX17MzWbvTKzAjwdkeQKLXBFMXz.jpg",
+      "popularity": 1.1438,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Christian Duguay"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0105322"
+      },
+      "earliest_release_year": 1991
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Ao Caminhar Entrevi Lampejos de Beleza (Parte Dois)&region=BR&year=2000": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 130824,
+          "title": "Ao Caminhar Entrevi Lampejos de Beleza",
+          "original_title": "As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty",
+          "release_date": "2000-11-05",
+          "poster_path": "/p7ahc7KPXIHRzvyOyVU8Dlp1kmM.jpg",
+          "popularity": 1.2811
+        }
+      ]
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=L&region=BR&year=2011": {
+      "page": 1,
+      "total_pages": 367,
+      "total_results": 7328,
+      "results": [
+        {
+          "id": 2118,
+          "title": "Los Angeles: Cidade Proibida",
+          "original_title": "L.A. Confidential",
+          "release_date": "1997-11-07",
+          "poster_path": "/sQPznDV3qpEIh7qenP0Jo9OlORX.jpg",
+          "popularity": 7.3592
+        },
+        {
+          "id": 84427,
+          "title": "L'Apollonide: Os Amores da Casa de Tolerância",
+          "original_title": "L'Apollonide, souvenirs de la maison close",
+          "release_date": "2011-09-21",
+          "poster_path": "/2yGFjciHSU0u9fJEzDHe7Co4Exy.jpg",
+          "popularity": 2.9252
+        },
+        {
+          "id": 466465,
+          "title": "L",
+          "original_title": "L",
+          "release_date": "2011-09-28",
+          "poster_path": "/7A9ooklzDfwLf0Cup19pvTCOzt8.jpg",
+          "popularity": 0.4213
+        },
+        {
+          "id": 2383,
+          "title": "O Urso",
+          "original_title": "L'Ours",
+          "release_date": "1988-10-21",
+          "poster_path": "/qvAkNjpFrKUpBjYAbKKuniQw9yb.jpg",
+          "popularity": 2.414
+        },
+        {
+          "id": 37645,
+          "title": "22 Balas",
+          "original_title": "L'Immortel",
+          "release_date": "2010-07-29",
+          "poster_path": "/3EkhsU6augJjLU83AiONvs3y97s.jpg",
+          "popularity": 2.9439
+        },
+        {
+          "id": 41201,
+          "title": "O Mágico",
+          "original_title": "L'Illusionniste",
+          "release_date": "2011-01-14",
+          "poster_path": "/gpgi8WWJqOo2hUsdOQmEL8eqbVd.jpg",
+          "popularity": 2.0206
+        },
+        {
+          "id": 86549,
+          "title": "Verão em L.A.",
+          "original_title": "August",
+          "release_date": "2011-06-09",
+          "poster_path": "/l54G35FYDnA7gr2UglHn1HZKPEI.jpg",
+          "popularity": 0.694
+        },
+        {
+          "id": 411,
+          "title": "As Crônicas de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa",
+          "original_title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+          "release_date": "2005-12-09",
+          "poster_path": "/sDBziWxSTavCNjbayaXaDDwmTiQ.jpg",
+          "popularity": 18.3789
+        },
+        {
+          "id": 59145,
+          "title": "O Resgate",
+          "original_title": "L'Assaut",
+          "release_date": "2011-09-25",
+          "poster_path": "/tkYIt0hYhDP5J1UhMPRlpwyBm46.jpg",
+          "popularity": 1.688
+        },
+        {
+          "id": 13635,
+          "title": "Inimigo Público nº 1",
+          "original_title": "L'Instinct de mort",
+          "release_date": "2009-06-26",
+          "poster_path": "/nuvpc0J5AJlqovCyADlRvEYdOHO.jpg",
+          "popularity": 2.4451
+        },
+        {
+          "id": 43904,
+          "title": "O Atalante",
+          "original_title": "L'Atalante",
+          "release_date": "2025-06-07",
+          "poster_path": "/nwEtqhOYCofEHUX36rCkH6OcLzj.jpg",
+          "popularity": 1.2496
+        },
+        {
+          "id": 41110,
+          "title": "Um Sonho de Amor",
+          "original_title": "Io sono l'amore",
+          "release_date": "2011-08-19",
+          "poster_path": "/357X8okcnrJDvWXmQS8doahfPJj.jpg",
+          "popularity": 2.1706
+        },
+        {
+          "id": 91070,
+          "title": "A V!da Acontece",
+          "original_title": "L!fe Happens",
+          "release_date": "2011-06-18",
+          "poster_path": "/eQk1oFUP7BgPcQlcHSdHTJQhT4z.jpg",
+          "popularity": 1.1088
+        },
+        {
+          "id": 141522,
+          "title": "L'Oiseau",
+          "original_title": "L'Oiseau",
+          "release_date": "2012-01-25",
+          "poster_path": "/ngmvKQEiqsaLDOuQ1oqpFPwTst9.jpg",
+          "popularity": 0.6378
+        },
+        {
+          "id": 11141,
+          "title": "Leis da Atração",
+          "original_title": "Laws of Attraction",
+          "release_date": "2004-04-04",
+          "poster_path": "/fxYz1wy7vCDuXYTO1wckSCs4ouK.jpg",
+          "popularity": 9.0348
+        },
+        {
+          "id": 33996,
+          "title": "O Caso Farewell",
+          "original_title": "L'Affaire Farewell",
+          "release_date": "2009-09-23",
+          "poster_path": "/hPSOB907C9b4Zc8dh4hAaIQYWiy.jpg",
+          "popularity": 0.8907
+        },
+        {
+          "id": 58088,
+          "title": "O Amor Escondido",
+          "original_title": "L'amore nascosto",
+          "release_date": "2009-09-25",
+          "poster_path": "/shLYTIULb6nE8DUyDunlaANs1A1.jpg",
+          "popularity": 0.6305
+        },
+        {
+          "id": 325266,
+          "title": "L Train",
+          "original_title": "L Train",
+          "release_date": "2011-10-10",
+          "poster_path": null,
+          "popularity": 0.0795
+        },
+        {
+          "id": 85735,
+          "title": "L'amour dure trois ans",
+          "original_title": "L'amour dure trois ans",
+          "release_date": "2011-12-10",
+          "poster_path": "/oc9EFtET8YxlJxaB7PAKC4NnnM.jpg",
+          "popularity": 1.3919
+        },
+        {
+          "id": 49001,
+          "title": "O Outro Mundo",
+          "original_title": "L'Autre monde",
+          "release_date": "2010-07-14",
+          "poster_path": "/7XTFuAhaVBdKcYpxKWoz2OkEiEU.jpg",
+          "popularity": 1.1112
+        }
+      ]
+    },
+    "/movie/466465?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 466465,
+      "title": "L",
+      "original_title": "L",
+      "release_date": "2011-09-28",
+      "poster_path": "/7A9ooklzDfwLf0Cup19pvTCOzt8.jpg",
+      "popularity": 0.4213,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Thais Fujinaga"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt2023555"
+      },
+      "earliest_release_year": 2011
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Casablanca, Casablanca&region=BR&year=2002": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 4,
+      "results": [
+        {
+          "id": 289,
+          "title": "Casablanca",
+          "original_title": "Casablanca",
+          "release_date": "1943-09-17",
+          "poster_path": "/3XxWPlKMfSTDCpWRgjljm5Xw5zX.jpg",
+          "popularity": 9.6951
+        },
+        {
+          "id": 794504,
+          "title": "Casablanca, Casablanca",
+          "original_title": "Casablanca",
+          "release_date": "2002-01-13",
+          "poster_path": "/pW4Vjq9X8YYF2oh5JVkECXjTwFn.jpg",
+          "popularity": 0.3406
+        },
+        {
+          "id": 49167,
+          "title": "As Ruas de Casablanca",
+          "original_title": "Ali Zaoua, prince de la rue",
+          "release_date": "2001-03-21",
+          "poster_path": "/5Uf2zhivRpxTNI9c1MjGwjT3Szx.jpg",
+          "popularity": 1.0277
+        },
+        {
+          "id": 1026966,
+          "title": "الدار البيضاء يا الدار البيضاء",
+          "original_title": "الدار البيضاء يا الدار البيضاء",
+          "release_date": "2002-07-17",
+          "poster_path": "/bBA22DP4QPcWxuPnwRh05D8cgnL.jpg",
+          "popularity": 0.2009
+        }
+      ]
+    },
+    "/movie/794504?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 794504,
+      "title": "Casablanca, Casablanca",
+      "original_title": "Casablanca",
+      "release_date": "2002-01-13",
+      "poster_path": "/pW4Vjq9X8YYF2oh5JVkECXjTwFn.jpg",
+      "popularity": 0.3406,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Mike Saenz"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0303279"
+      },
+      "earliest_release_year": 2002
+    },
+    "/movie/49167?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 49167,
+      "title": "As Ruas de Casablanca",
+      "original_title": "Ali Zaoua, prince de la rue",
+      "release_date": "2001-03-21",
+      "poster_path": "/5Uf2zhivRpxTNI9c1MjGwjT3Szx.jpg",
+      "popularity": 1.0277,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Nabil Ayouch"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0260688"
+      },
+      "earliest_release_year": 2000
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=A Hora da Libertação Chegou&region=BR&year=1974": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=A Hora da Libertação Chegou&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/movie/24331?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 24331,
+      "title": "Scanners II: A Força do Poder",
+      "original_title": "Scanners II: The New Order",
+      "release_date": "1991-05-03",
+      "poster_path": "/v7W3SljIodn7BqrBGAJb7eOzkLp.jpg",
+      "popularity": 1.1966,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Christian Duguay"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0102848"
+      },
+      "earliest_release_year": 1991
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Tirésia&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 2,
+      "results": [
+        {
+          "id": 67236,
+          "title": "Tiresia",
+          "original_title": "Tiresia",
+          "release_date": "2003-05-20",
+          "poster_path": "/pKJDqmzf79JElADdSNktOsyBiTE.jpg",
+          "popularity": 0.5974
+        },
+        {
+          "id": 559347,
+          "title": "Conversazione su Tiresia - Di e con Andrea Camilleri",
+          "original_title": "Conversazione su Tiresia - Di e con Andrea Camilleri",
+          "release_date": "2018-11-05",
+          "poster_path": "/raLkJPuSulf5ohbJrLYaSQnX3FI.jpg",
+          "popularity": 0.2495
+        }
+      ]
+    },
+    "/movie/67236?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 67236,
+      "title": "Tiresia",
+      "original_title": "Tiresia",
+      "release_date": "2003-05-20",
+      "poster_path": "/pKJDqmzf79JElADdSNktOsyBiTE.jpg",
+      "popularity": 0.5974,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Bertrand Bonello"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0362246"
+      },
+      "earliest_release_year": 2003
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=O Desterro&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 2,
+      "results": [
+        {
+          "id": 25142,
+          "title": "O Desterro",
+          "original_title": "Изгнание",
+          "release_date": "2008-03-27",
+          "poster_path": "/kCqZnLWldG2Qj2zClP3vCWMCu41.jpg",
+          "popularity": 0.9794
+        },
+        {
+          "id": 290243,
+          "title": "Cruz e Sousa - O Poeta do Desterro",
+          "original_title": "Cruz e Sousa - O Poeta do Desterro",
+          "release_date": "1999-11-25",
+          "poster_path": "/mu02NLBG7cIgpesis0lPbIYi2gw.jpg",
+          "popularity": 0.4688
+        }
+      ]
+    },
+    "/movie/25142?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 25142,
+      "title": "O Desterro",
+      "original_title": "Изгнание",
+      "release_date": "2008-03-27",
+      "poster_path": "/kCqZnLWldG2Qj2zClP3vCWMCu41.jpg",
+      "popularity": 0.9794,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Андрей Звягинцев"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0488905"
+      },
+      "earliest_release_year": 2007
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=A perdição de Lázaro&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1645650,
+          "title": "A Perdição de Lázaro",
+          "original_title": "A Perdição de Lázaro",
+          "release_date": "2026-05-23",
+          "poster_path": "/n2P1vTchKh1QPyjaiOXnCycDxsM.jpg",
+          "popularity": 0.2502
+        }
+      ]
+    },
+    "/movie/1645650?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1645650,
+      "title": "A Perdição de Lázaro",
+      "original_title": "A Perdição de Lázaro",
+      "release_date": "2026-05-23",
+      "poster_path": "/n2P1vTchKh1QPyjaiOXnCycDxsM.jpg",
+      "popularity": 0.2502,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Diego Paulino"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt43698138"
+      },
+      "earliest_release_year": 2026
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Descarrilho&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1719808,
+          "title": "Descarrilho",
+          "original_title": "Descarrilho",
+          "release_date": "2026-09-15",
+          "poster_path": "/dyMBtO6sUo1wEGxAxLQDyjb0sBn.jpg",
+          "popularity": 0.3004
+        }
+      ]
+    },
+    "/movie/1719808?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1719808,
+      "title": "Descarrilho",
+      "original_title": "Descarrilho",
+      "release_date": "2026-09-15",
+      "poster_path": "/dyMBtO6sUo1wEGxAxLQDyjb0sBn.jpg",
+      "popularity": 0.3004,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Aline Gutierres"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2026
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Destinação&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1753313,
+          "title": "Destinação",
+          "original_title": "Destinação",
+          "release_date": "2026-08-20",
+          "poster_path": "/7Vr3LKUsnpXgpGCqlV7oOwo91ia.jpg",
+          "popularity": 0.0846
+        }
+      ]
+    },
+    "/movie/1753313?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1753313,
+      "title": "Destinação",
+      "original_title": "Destinação",
+      "release_date": "2026-08-20",
+      "poster_path": "/7Vr3LKUsnpXgpGCqlV7oOwo91ia.jpg",
+      "popularity": 0.0846,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Wagno Godez"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2026
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Irmã&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 6,
+      "total_results": 108,
+      "results": [
+        {
+          "id": 1284120,
+          "title": "A Meia-Irmã Feia",
+          "original_title": "Den stygge stesøsteren",
+          "release_date": "2025-10-23",
+          "poster_path": "/2dEoQ2eWk3evQQBNUxPnZsPDq1N.jpg",
+          "popularity": 11.0027
+        },
+        {
+          "id": 228167,
+          "title": "Irmã Dulce",
+          "original_title": "Irmã Dulce",
+          "release_date": "2014-11-13",
+          "poster_path": "/9Z5NfvHQjL9KNqam9AqSMVRoRIN.jpg",
+          "popularity": 0.4445
+        },
+        {
+          "id": 1646267,
+          "title": "Irmã",
+          "original_title": "Irmã",
+          "release_date": "2026-03-29",
+          "poster_path": "/mJ6Ml92Bj7PNwCauuqBHRTxCmQh.jpg",
+          "popularity": 0.303
+        },
+        {
+          "id": 375846,
+          "title": "Irmã do Pecado",
+          "original_title": "Bad Sister",
+          "release_date": "2015-08-24",
+          "poster_path": "/hlJSkTnCZsotjOJjAA5jrdckH0o.jpg",
+          "popularity": 3.9415
+        },
+        {
+          "id": 25355,
+          "title": "Irma Vep",
+          "original_title": "Irma Vep",
+          "release_date": "1996-10-01",
+          "poster_path": "/lAS2egLUnQnDKZ5fSnE7jr7Jinw.jpg",
+          "popularity": 1.4908
+        },
+        {
+          "id": 315846,
+          "title": "Nossa Irmã Mais Nova",
+          "original_title": "海街diary",
+          "release_date": "2016-03-03",
+          "poster_path": "/8cD8bcisM0Gc5VOfXy1epoPW2FG.jpg",
+          "popularity": 4.5181
+        },
+        {
+          "id": 439705,
+          "title": "Irmã Selma",
+          "original_title": "Irmã Selma",
+          "release_date": "2017-02-05",
+          "poster_path": null,
+          "popularity": 0.0209
+        },
+        {
+          "id": 2690,
+          "title": "Irma la Douce",
+          "original_title": "Irma la Douce",
+          "release_date": "1963-01-30",
+          "poster_path": "/8lK5voP0N4NFEgGgk77zFjHqUaj.jpg",
+          "popularity": 1.9133
+        },
+        {
+          "id": 43617,
+          "title": "Madame Irma",
+          "original_title": "Madame Irma",
+          "release_date": "2006-12-06",
+          "poster_path": "/3JmXXkpiPXjCst15oV9uv31wfBQ.jpg",
+          "popularity": 1.1319
+        },
+        {
+          "id": 1061240,
+          "title": "Minha Irmã e Eu",
+          "original_title": "Minha Irmã e Eu",
+          "release_date": "2023-12-25",
+          "poster_path": "/mQ3aQAR2Wt4l4tsPeNftmgsrsSg.jpg",
+          "popularity": 0.8089
+        },
+        {
+          "id": 666104,
+          "title": "Irmã",
+          "original_title": "Irmã",
+          "release_date": "2020-02-26",
+          "poster_path": "/Akuwt3DCQGdFEMteltwGZldTS2n.jpg",
+          "popularity": 0.2778
+        },
+        {
+          "id": 1392587,
+          "title": "Irmã",
+          "original_title": "Irmã",
+          "release_date": "2016-10-22",
+          "poster_path": null,
+          "popularity": 0.1376
+        },
+        {
+          "id": 570,
+          "title": "Para Minha Irmã",
+          "original_title": "À ma sœur !",
+          "release_date": "2001-03-07",
+          "poster_path": "/fjqafvJW9UxiuiVFE0WtGxwvJit.jpg",
+          "popularity": 2.2102
+        },
+        {
+          "id": 955531,
+          "title": "Irmã Morte",
+          "original_title": "Hermana Muerte",
+          "release_date": "2023-10-27",
+          "poster_path": "/jZXjucSt0SLxZjKa74lvxPsyKeg.jpg",
+          "popularity": 1.8899
+        },
+        {
+          "id": 1159206,
+          "title": "Pai Mãe Irmã Irmão",
+          "original_title": "Father Mother Sister Brother",
+          "release_date": "2026-04-09",
+          "poster_path": "/eBP2PYBngd4boEoWvMHD1XRPPma.jpg",
+          "popularity": 4.1078
+        },
+        {
+          "id": 706589,
+          "title": "Irma",
+          "original_title": "Irma",
+          "release_date": "2017-01-20",
+          "poster_path": "/sJ5gYtHfX16WB446xC3xoFtIR03.jpg",
+          "popularity": 0.1133
+        },
+        {
+          "id": 769445,
+          "title": "Irma",
+          "original_title": "Irma",
+          "release_date": "2019-10-25",
+          "poster_path": "/AerUOrhOf7GRh5WbouEvNQUSBYy.jpg",
+          "popularity": 0.1981
+        },
+        {
+          "id": 59068,
+          "title": "Irmã Emanuelle",
+          "original_title": "Suor Emanuelle",
+          "release_date": "1983-05-16",
+          "poster_path": "/khP2SeMNSCBhZebQnmXG7SIUP72.jpg",
+          "popularity": 1.5907
+        },
+        {
+          "id": 360605,
+          "title": "Minha Irmã Invisível",
+          "original_title": "Invisible Sister",
+          "release_date": "2015-12-10",
+          "poster_path": "/ga2BbbiW3fsBangPZxDvEbJKVcf.jpg",
+          "popularity": 2.3892
+        },
+        {
+          "id": 1336768,
+          "title": "Irma",
+          "original_title": "Irma",
+          "release_date": "2024-06-24",
+          "poster_path": "/x3gYIqMHjfSe6NjznY5iH9g4gOf.jpg",
+          "popularity": 0.1917
+        }
+      ]
+    },
+    "/movie/1646267?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1646267,
+      "title": "Irmã",
+      "original_title": "Irmã",
+      "release_date": "2026-03-29",
+      "poster_path": "/mJ6Ml92Bj7PNwCauuqBHRTxCmQh.jpg",
+      "popularity": 0.303,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Anderson Bardot"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt41423953"
+      },
+      "earliest_release_year": 2026
+    },
+    "/movie/666104?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 666104,
+      "title": "Irmã",
+      "original_title": "Irmã",
+      "release_date": "2020-02-26",
+      "poster_path": "/Akuwt3DCQGdFEMteltwGZldTS2n.jpg",
+      "popularity": 0.2151,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Luciana Mazeto"
+          },
+          {
+            "job": "Director",
+            "name": "Vinícius Lopes"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt11802742"
+      },
+      "earliest_release_year": 2020
+    },
+    "/movie/769445?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 769445,
+      "title": "Irma",
+      "original_title": "Irma",
+      "release_date": "2019-10-25",
+      "poster_path": "/AerUOrhOf7GRh5WbouEvNQUSBYy.jpg",
+      "popularity": 0.1981,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Lisa Cruz"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2019
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=O gesto entre nós&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1772627,
+          "title": "O Gesto Entre Nós",
+          "original_title": "O Gesto Entre Nós",
+          "release_date": "2026-10-06",
+          "poster_path": "/3aR4EdXOYeFCIx7WlEELg8bayVh.jpg",
+          "popularity": 0.4521
+        }
+      ]
+    },
+    "/movie/1772627?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1772627,
+      "title": "O Gesto Entre Nós",
+      "original_title": "O Gesto Entre Nós",
+      "release_date": "2026-10-06",
+      "poster_path": "/3aR4EdXOYeFCIx7WlEELg8bayVh.jpg",
+      "popularity": 0.4521,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Roberto Bomtempo"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2026
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Rita Moreira: crônicas, memórias e videotape&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1688889,
+          "title": "Rita Moreira: Crônicas, Memórias e Videotape",
+          "original_title": "Rita Moreira: Crônicas, Memórias e Videotape",
+          "release_date": "2026-06-05",
+          "poster_path": "/9m3TKcYR9shRepAvDuh1boZFNwU.jpg",
+          "popularity": 0.2944
+        }
+      ]
+    },
+    "/movie/1688889?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1688889,
+      "title": "Rita Moreira: Crônicas, Memórias e Videotape",
+      "original_title": "Rita Moreira: Crônicas, Memórias e Videotape",
+      "release_date": "2026-06-05",
+      "poster_path": "/9m3TKcYR9shRepAvDuh1boZFNwU.jpg",
+      "popularity": 0.2944,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Sérgio Santos Barroso"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt43199368"
+      },
+      "earliest_release_year": 2026
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Pirexia&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1688913,
+          "title": "Pirexia",
+          "original_title": "Pirexia",
+          "release_date": "2026-06-03",
+          "poster_path": "/qvbcPbNDaEWpGkkF57bUxPNDHJt.jpg",
+          "popularity": 0.2082
+        }
+      ]
+    },
+    "/movie/1688913?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1688913,
+      "title": "Pirexia",
+      "original_title": "Pirexia",
+      "release_date": "2026-06-03",
+      "poster_path": "/qvbcPbNDaEWpGkkF57bUxPNDHJt.jpg",
+      "popularity": 0.2082,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Nico da Costa"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2026
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Theo&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 35,
+      "total_results": 690,
+      "results": [
+        {
+          "id": 1018409,
+          "title": "Theo",
+          "original_title": "Theo",
+          "release_date": "2020-11-09",
+          "poster_path": "/g7holSpq7GLMzYS0N54xTAcDtPG.jpg",
+          "popularity": 0.6134
+        },
+        {
+          "id": 1639951,
+          "title": "Theo",
+          "original_title": "Theo",
+          "release_date": "2026-03-18",
+          "poster_path": "/8CJ8ib0unIB9kC0FKIgHN82sW21.jpg",
+          "popularity": 0.2755
+        },
+        {
+          "id": 300686,
+          "title": "Chloe e Theo",
+          "original_title": "Chloe and Theo",
+          "release_date": "2015-04-15",
+          "poster_path": "/fmjyKrH64UPndnUEkTWOOHcT5xU.jpg",
+          "popularity": 1.0769
+        },
+        {
+          "id": 382892,
+          "title": "Théo e Hugo",
+          "original_title": "Théo et Hugo dans le même bateau",
+          "release_date": "2016-04-27",
+          "poster_path": "/4RUg5stVmZ5fm6q7z6GT77YsBPU.jpg",
+          "popularity": 1.5273
+        },
+        {
+          "id": 1231768,
+          "title": "Querido Theo",
+          "original_title": "Querido Theo",
+          "release_date": "2024-01-18",
+          "poster_path": "/ngRmr2n2wtw1QxJCm0Tz9A08lb7.jpg",
+          "popularity": 0.4524
+        },
+        {
+          "id": 55309,
+          "title": "Van Gogh - Vida e Obra de um Gênio",
+          "original_title": "Vincent & Theo",
+          "release_date": "1990-12-02",
+          "poster_path": "/hKsYwJoncAf42hqzCVbp1LBwUxv.jpg",
+          "popularity": 1.0499
+        },
+        {
+          "id": 1360845,
+          "title": "Theo",
+          "original_title": "Theo",
+          "release_date": "2024-05-01",
+          "poster_path": null,
+          "popularity": 0.0348
+        },
+        {
+          "id": 1030899,
+          "title": "Theo",
+          "original_title": "Theo",
+          "release_date": "",
+          "poster_path": null,
+          "popularity": 0.0141
+        },
+        {
+          "id": 726777,
+          "title": "Theo",
+          "original_title": "Theo",
+          "release_date": "2016-07-01",
+          "poster_path": "/lOssJFsbqGchOqOd3ETPRvFjvaw.jpg",
+          "popularity": 0.0989
+        },
+        {
+          "id": 572094,
+          "title": "Theo & Celeste",
+          "original_title": "Theo & Celeste",
+          "release_date": "2018-06-21",
+          "poster_path": "/oPCzNQQwhxZU5xJlMzSewpm7nny.jpg",
+          "popularity": 0.1573
+        },
+        {
+          "id": 934113,
+          "title": "Théo",
+          "original_title": "Théo",
+          "release_date": "2020-02-01",
+          "poster_path": null,
+          "popularity": 0.236
+        },
+        {
+          "id": 1752614,
+          "title": "Theo of Golden",
+          "original_title": "Theo of Golden",
+          "release_date": "",
+          "poster_path": null,
+          "popularity": 0.8128
+        },
+        {
+          "id": 886883,
+          "title": "Theo Von: Pessoas Comuns",
+          "original_title": "Theo Von: Regular People",
+          "release_date": "2021-10-19",
+          "poster_path": "/xjo30E2uZXbYGXJXOd4Nlhb0Plm.jpg",
+          "popularity": 0.4097
+        },
+        {
+          "id": 1060229,
+          "title": "Theo on Theo",
+          "original_title": "Theo on Theo",
+          "release_date": "2004-12-18",
+          "poster_path": "/63c9dXSv1R2vFXggpaAifhhqHz0.jpg",
+          "popularity": 0.1407
+        },
+        {
+          "id": 383567,
+          "title": "Theo Von: Pessoas Comuns",
+          "original_title": "Theo Von: No Offense",
+          "release_date": "2021-10-19",
+          "poster_path": "/bXlygET5oc2ElepvYHJ2lW37wEX.jpg",
+          "popularity": 0.7088
+        },
+        {
+          "id": 1461937,
+          "title": "Theo & Martin",
+          "original_title": "Theo & Martin",
+          "release_date": "",
+          "poster_path": "/5H8SXbm58axSs2cEnSuPcyoiByZ.jpg",
+          "popularity": 0.2048
+        },
+        {
+          "id": 496602,
+          "title": "Theo, além da liberdade",
+          "original_title": "Theo, além da liberdade",
+          "release_date": "2017-11-04",
+          "poster_path": "/c4BBPwBP9Vh7fdWADUHGn8zeQyD.jpg",
+          "popularity": 0.5044
+        },
+        {
+          "id": 610256,
+          "title": "Where Theo Lives",
+          "original_title": "Where Theo Lives",
+          "release_date": "",
+          "poster_path": "/yHSLNsO8gHCgvVdxwXIiNb826ge.jpg",
+          "popularity": 0.193
+        },
+        {
+          "id": 30333,
+          "title": "Theo Maassen: Zonder Pardon",
+          "original_title": "Theo Maassen: Zonder Pardon",
+          "release_date": "2009-11-12",
+          "poster_path": "/aCEgkeZ8acoHvAbqGyhPhhYjG0Q.jpg",
+          "popularity": 0.4473
+        },
+        {
+          "id": 847375,
+          "title": "Théo et Marie",
+          "original_title": "Théo et Marie",
+          "release_date": "1998-04-16",
+          "poster_path": "/mi21tFbForr5z1BUuR9iyivJH7E.jpg",
+          "popularity": 0.4192
+        }
+      ]
+    },
+    "/movie/1018409?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1018409,
+      "title": "Theo",
+      "original_title": "Theo",
+      "release_date": "2020-11-09",
+      "poster_path": "/g7holSpq7GLMzYS0N54xTAcDtPG.jpg",
+      "popularity": 0.6138,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Landon Liboiron"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt11639984"
+      },
+      "earliest_release_year": 2020
+    },
+    "/movie/1639951?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1639951,
+      "title": "Theo",
+      "original_title": "Theo",
+      "release_date": "2026-03-18",
+      "poster_path": "/8CJ8ib0unIB9kC0FKIgHN82sW21.jpg",
+      "popularity": 0.2755,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Monica Palazzo"
+          },
+          {
+            "job": "Director",
+            "name": "Jo Galvv"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt42203146"
+      },
+      "earliest_release_year": 2026
+    },
+    "/movie/934113?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 934113,
+      "title": "Théo",
+      "original_title": "Théo",
+      "release_date": "2020-02-01",
+      "poster_path": null,
+      "popularity": 0.2585,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Tanya Larcinese"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2020
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Trivakra&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1462263,
+          "title": "Trivakra",
+          "original_title": "Trivakra",
+          "release_date": "2025-05-13",
+          "poster_path": "/g2X9oqeFRpoxP1qexL16pE9WsEq.jpg",
+          "popularity": 0.4091
+        }
+      ]
+    },
+    "/movie/1462263?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1462263,
+      "title": "Trivakra",
+      "original_title": "Trivakra",
+      "release_date": "2025-05-13",
+      "poster_path": "/g2X9oqeFRpoxP1qexL16pE9WsEq.jpg",
+      "popularity": 0.4091,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Sofia Angst"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt39257534"
+      },
+      "earliest_release_year": 2025
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Trópico de Leão&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1397304,
+          "title": "Trópico de Leão",
+          "original_title": "Trópico de Leão",
+          "release_date": "2025-01-29",
+          "poster_path": "/fFpYHWLhiDGLJmr7mCKpzXRbLc0.jpg",
+          "popularity": 0.2901
+        }
+      ]
+    },
+    "/movie/1397304?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1397304,
+      "title": "Trópico de Leão",
+      "original_title": "Trópico de Leão",
+      "release_date": "2025-01-29",
+      "poster_path": "/fFpYHWLhiDGLJmr7mCKpzXRbLc0.jpg",
+      "popularity": 0.2901,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Luna Alkalay"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2025
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Nem todos sabem&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1771396,
+          "title": "Nem Todos Sabem",
+          "original_title": "Nem Todos Sabem",
+          "release_date": "2026-09-17",
+          "poster_path": "/3J3GUAsPBam9jTup2rIQJPP1Ewn.jpg",
+          "popularity": 0.1283
+        }
+      ]
+    },
+    "/movie/1771396?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1771396,
+      "title": "Nem Todos Sabem",
+      "original_title": "Nem Todos Sabem",
+      "release_date": "2026-09-17",
+      "poster_path": "/3J3GUAsPBam9jTup2rIQJPP1Ewn.jpg",
+      "popularity": 0.1283,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Edileuza Penha de Souza"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2026
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Uma missa para Dom Angélico&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1757393,
+          "title": "Uma Missa para Dom Angélico",
+          "original_title": "Uma Missa para Dom Angélico",
+          "release_date": "2026-10-02",
+          "poster_path": "/f2puOJOnkhcZ4T3OjPjxgTvzw83.jpg",
+          "popularity": 0.539
+        }
+      ]
+    },
+    "/movie/1757393?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1757393,
+      "title": "Uma Missa para Dom Angélico",
+      "original_title": "Uma Missa para Dom Angélico",
+      "release_date": "2026-10-02",
+      "poster_path": "/f2puOJOnkhcZ4T3OjPjxgTvzw83.jpg",
+      "popularity": 0.539,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Emília Silveira"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt45763602"
+      },
+      "earliest_release_year": 2026
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Massa funkeira&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1541088,
+          "title": "Massa Funkeira",
+          "original_title": "Massa Funkeira",
+          "release_date": "2025-10-07",
+          "poster_path": "/7gfQ47sbMtqjsXpsPSiqSFm7Jlh.jpg",
+          "popularity": 0.2797
+        }
+      ]
+    },
+    "/movie/1541088?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1541088,
+      "title": "Massa Funkeira",
+      "original_title": "Massa Funkeira",
+      "release_date": "2025-10-07",
+      "poster_path": "/7gfQ47sbMtqjsXpsPSiqSFm7Jlh.jpg",
+      "popularity": 0.2797,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Ana Rieper"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt38497664"
+      },
+      "earliest_release_year": 2025
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Mounir&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 3,
+      "results": [
+        {
+          "id": 1722517,
+          "title": "Mounir",
+          "original_title": "Mounir",
+          "release_date": "2026-05-28",
+          "poster_path": "/nu9lcaXNL9wq211l8cyT7BnNTlf.jpg",
+          "popularity": 0.526
+        },
+        {
+          "id": 1374223,
+          "title": "Mounir",
+          "original_title": "Mounir",
+          "release_date": "2024-11-28",
+          "poster_path": "/ocA9WhS6prEfxdkNgF3M38QrN10.jpg",
+          "popularity": 0.336
+        },
+        {
+          "id": 311800,
+          "title": "Hard Head: The Films of Mounir Fatmi",
+          "original_title": "Hard Head: The Films of Mounir Fatmi",
+          "release_date": "",
+          "poster_path": null,
+          "popularity": 0.0471
+        }
+      ]
+    },
+    "/movie/1722517?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1722517,
+      "title": "Mounir",
+      "original_title": "Mounir",
+      "release_date": "2026-05-28",
+      "poster_path": "/nu9lcaXNL9wq211l8cyT7BnNTlf.jpg",
+      "popularity": 0.526,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Juliana Borges"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2026
+    },
+    "/movie/1374223?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1374223,
+      "title": "Mounir",
+      "original_title": "Mounir",
+      "release_date": "2024-11-28",
+      "poster_path": "/ocA9WhS6prEfxdkNgF3M38QrN10.jpg",
+      "popularity": 0.336,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Xabier Rúa"
+          },
+          {
+            "job": "Director",
+            "name": "Xose Dopazo"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2024
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Filmar ou morrer&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1561197,
+          "title": "Films to Die For",
+          "original_title": "Films to Die For",
+          "release_date": "2025-10-23",
+          "poster_path": "/xYJ28gXEfusqlffgOc4TlXsBJAs.jpg",
+          "popularity": 0.6697
+        }
+      ]
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Amora&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 2,
+      "total_results": 21,
+      "results": [
+        {
+          "id": 1557668,
+          "title": "Amora",
+          "original_title": "Amora",
+          "release_date": "2025-10-16",
+          "poster_path": "/4FS3bnauwKOiiPglhqak3BdLtle.jpg",
+          "popularity": 0.3742
+        },
+        {
+          "id": 953073,
+          "title": "Amora",
+          "original_title": "Amora",
+          "release_date": "2021-11-03",
+          "poster_path": null,
+          "popularity": 0.0295
+        },
+        {
+          "id": 1471515,
+          "title": "AMOR A AMORA",
+          "original_title": "AMOR A AMORA",
+          "release_date": "",
+          "poster_path": null,
+          "popularity": 0.0382
+        },
+        {
+          "id": 454196,
+          "title": "Ewir Amora Kelabi",
+          "original_title": "Ewir Amora Kelabi",
+          "release_date": "2016-01-01",
+          "poster_path": "/1GDinl3De5sfW5KEVdLfacke3An.jpg",
+          "popularity": 0.0181
+        },
+        {
+          "id": 483106,
+          "title": "Cordilheira de Amora II",
+          "original_title": "Cordilheira de Amora II",
+          "release_date": "2015-06-16",
+          "poster_path": "/zIBuE6TiCtFjcLhtlpMYMsDULp8.jpg",
+          "popularity": 0.3278
+        },
+        {
+          "id": 483105,
+          "title": "Cordilheira de Amora II",
+          "original_title": "Cordilheira de Amora II",
+          "release_date": "",
+          "poster_path": null,
+          "popularity": 0.0735
+        },
+        {
+          "id": 542,
+          "title": "O Crime do Padre Amaro",
+          "original_title": "El crimen del padre Amaro",
+          "release_date": "2003-01-17",
+          "poster_path": "/eo60rPzqAjEvv5EPZINGBx7BU7a.jpg",
+          "popularity": 1.7428
+        },
+        {
+          "id": 135693,
+          "title": "Cupid's Prey",
+          "original_title": "Cupid's Prey",
+          "release_date": "2002-01-01",
+          "poster_path": "/fY2MroBtA0mCwwj7sHUJVz14rnA.jpg",
+          "popularity": 0.4324
+        },
+        {
+          "id": 1451130,
+          "title": "É Tempo de Amoras",
+          "original_title": "É Tempo de Amoras",
+          "release_date": "2026-02-26",
+          "poster_path": "/mdvdmqmluqZjos4G3UqQ7PospzA.jpg",
+          "popularity": 0.5832
+        },
+        {
+          "id": 613337,
+          "title": "Deliciosamente amoral",
+          "original_title": "Deliciosamente amoral",
+          "release_date": "1969-02-27",
+          "poster_path": "/ieiGrFRK0sKY3o43OSN5Dk79l9H.jpg",
+          "popularity": 0.5733
+        },
+        {
+          "id": 1355870,
+          "title": "Amoramar",
+          "original_title": "Amoramar",
+          "release_date": "2023-04-24",
+          "poster_path": "/76xpQgo879c0j1HENB9ddq69Co8.jpg",
+          "popularity": 0.4714
+        },
+        {
+          "id": 884095,
+          "title": "Temporada de Amoras",
+          "original_title": "Dema dirîreşkan",
+          "release_date": "2021-10-17",
+          "poster_path": "/eUpceVcFqtfB4ptVxlYbABHWyEE.jpg",
+          "popularity": 0.2309
+        },
+        {
+          "id": 1304314,
+          "title": "Serial: Amoral Uprising",
+          "original_title": "Serial: Amoral Uprising",
+          "release_date": "2009-07-11",
+          "poster_path": "/6GQZG6bOV5wVwT2p1NxvkRsAYW1.jpg",
+          "popularity": 0.1489
+        },
+        {
+          "id": 1435588,
+          "title": "amor-AMPLA-perspectiva",
+          "original_title": "amor-AMPLA-perspectiva",
+          "release_date": "",
+          "poster_path": "/rAdXtXFtNZDFhqJ7lfPB5mzrJ4p.jpg",
+          "popularity": 0.0722
+        },
+        {
+          "id": 1235958,
+          "title": "El amoragaor",
+          "original_title": "El amoragaor",
+          "release_date": "2024-03-03",
+          "poster_path": "/bYsuzzBR7dgwnOhjIKWWy6ejb0D.jpg",
+          "popularity": 0.2463
+        },
+        {
+          "id": 1518426,
+          "title": "Școala amorașilor",
+          "original_title": "Școala amorașilor",
+          "release_date": "1974-01-01",
+          "poster_path": "/snOcuE24XZvbS2KlYrKnIwP2Odz.jpg",
+          "popularity": 0.1352
+        },
+        {
+          "id": 217109,
+          "title": "John Wetton: Amorata",
+          "original_title": "John Wetton: Amorata",
+          "release_date": "2003-11-17",
+          "poster_path": "/dIXIVXlDayXNk386h5StkOUzbEQ.jpg",
+          "popularity": 0.082
+        },
+        {
+          "id": 1254134,
+          "title": "Amorarte",
+          "original_title": "Amorarte",
+          "release_date": "2023-07-04",
+          "poster_path": "/lyjoLeB6iUpb3RDzFkUTmpIbmFU.jpg",
+          "popularity": 0.1435
+        },
+        {
+          "id": 639851,
+          "title": "Wetton - Amorata Concert - 2009",
+          "original_title": "Wetton - Amorata Concert - 2009",
+          "release_date": "",
+          "poster_path": null,
+          "popularity": 0.0637
+        },
+        {
+          "id": 46581,
+          "title": "Contos Imorais",
+          "original_title": "Contes immoraux",
+          "release_date": "1982-09-20",
+          "poster_path": "/8EKQi1DMcz2v5DAQXxOXdLfJIu9.jpg",
+          "popularity": 3.1034
+        }
+      ]
+    },
+    "/movie/1557668?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1557668,
+      "title": "Amora",
+      "original_title": "Amora",
+      "release_date": "2025-10-16",
+      "poster_path": "/4FS3bnauwKOiiPglhqak3BdLtle.jpg",
+      "popularity": 0.3742,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Ana Petta"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt38985796"
+      },
+      "earliest_release_year": 2025
+    },
+    "/movie/953073?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 953073,
+      "title": "Amora",
+      "original_title": "Amora",
+      "release_date": "2021-11-03",
+      "poster_path": null,
+      "popularity": 0.0295,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2021
+    },
+    "/movie/1355870?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1355870,
+      "title": "Amoramar",
+      "original_title": "Amoramar",
+      "release_date": "2023-04-24",
+      "poster_path": "/76xpQgo879c0j1HENB9ddq69Co8.jpg",
+      "popularity": 0.4714,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Daniel Perez Valderrama"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2023
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Xingu, nosso rio sagrado&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Yõg ãtak: meu pai, Kaiowá&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1397226,
+          "title": "Yõg Ãtak: Meu Pai, Kaiowá",
+          "original_title": "Yõg Ãtak: Meu Pai, Kaiowá",
+          "release_date": "2024-12-04",
+          "poster_path": "/4LENDwDs12okPbukXW2CqcA8gXH.jpg",
+          "popularity": 0.2631
+        }
+      ]
+    },
+    "/movie/1397226?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1397226,
+      "title": "Yõg Ãtak: Meu Pai, Kaiowá",
+      "original_title": "Yõg Ãtak: Meu Pai, Kaiowá",
+      "release_date": "2024-12-04",
+      "poster_path": "/4LENDwDs12okPbukXW2CqcA8gXH.jpg",
+      "popularity": 0.2631,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Sueli Maxakali"
+          },
+          {
+            "job": "Director",
+            "name": "Isael Maxakali"
+          },
+          {
+            "job": "Director",
+            "name": "Roberto Romero"
+          },
+          {
+            "job": "Director",
+            "name": "Luísa Lanna"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2024
+    },
+    "/movie/1676647?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1676647,
+      "title": "Escrito e Dirigido por Quentin Tarantino",
+      "original_title": "Making Tarantino",
+      "release_date": "2026-11-15",
+      "poster_path": "/d7UCIEiAeMRESV1Vuf2CYmqZZUO.jpg",
+      "popularity": 0.562,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "France Swimberge"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2026
+    },
+    "/movie/1583759?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1583759,
+      "title": "Homo Plasticus, l'invasion silencieuse des microplastiques",
+      "original_title": "Homo Plasticus, l'invasion silencieuse des microplastiques",
+      "release_date": "2025-11-15",
+      "poster_path": "/hlI8OSij1wKPV1hcYBnljjq2Kpa.jpg",
+      "popularity": 0.6574,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Elodie Bonnes"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2025
+    },
+    "/movie/1543085?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1543085,
+      "title": "Ninguém Pode Provar Nada: A Inacreditável História de Ezequiel Neves",
+      "original_title": "Ninguém Pode Provar Nada: A Inacreditável História de Ezequiel Neves",
+      "release_date": "2025-10-01",
+      "poster_path": "/uq1l61L291wzPtii0BQVe9hg7ru.jpg",
+      "popularity": 0.7265,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Rodrigo Pinto"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt38504774"
+      },
+      "earliest_release_year": 2025
+    },
+    "/movie/1427106?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1427106,
+      "title": "Miyazaki",
+      "original_title": "Miyazaki",
+      "release_date": "2025-01-28",
+      "poster_path": "/vdA9ZNkWBIBoB607sQ2y3uAb1bG.jpg",
+      "popularity": 0.7387,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Lunia Belaïd"
+          },
+          {
+            "job": "Director",
+            "name": "Alexandre Boutier"
+          },
+          {
+            "job": "Director",
+            "name": "Christopher Carter"
+          },
+          {
+            "job": "Director",
+            "name": "Calixte Chateau"
+          },
+          {
+            "job": "Director",
+            "name": "Zijin Chen"
+          },
+          {
+            "job": "Director",
+            "name": "Subodh Das"
+          },
+          {
+            "job": "Director",
+            "name": "Siyang Dong"
+          },
+          {
+            "job": "Director",
+            "name": "Maggie Weng"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2025
+    },
+    "/movie/1816311?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1816311,
+      "title": "A Voz de Ruy",
+      "original_title": "A Voz de Ruy",
+      "release_date": "2024-03-04",
+      "poster_path": "/sh3SATQuWjlKHwfEh7HYIMsGo3t.jpg",
+      "popularity": 0.4564,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Fernanda Miranda"
+          },
+          {
+            "job": "Director",
+            "name": "Pedro Sprejer"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2024
+    },
+    "/movie/1210268?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1210268,
+      "title": "O Degelo",
+      "original_title": "El deshielo",
+      "release_date": "2026-08-26",
+      "poster_path": "/lx9tgBP35h7ztA06Z6OFses96ri.jpg",
+      "popularity": 4.8759,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Manuela Martelli"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt39571626"
+      },
+      "earliest_release_year": 2026
+    },
+    "/movie/1130948?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1130948,
+      "title": "Rosebush Pruning",
+      "original_title": "Rosebush Pruning",
+      "release_date": "2026-04-23",
+      "poster_path": "/uor0DM9RAc0ZwJXT4wrT8XAvsKL.jpg",
+      "popularity": 42.3264,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Karim Aïnouz"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt27844906"
+      },
+      "earliest_release_year": 2026
+    },
+    "/movie/1119537?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1119537,
+      "title": "Love Letters",
+      "original_title": "Des preuves d'amour",
+      "release_date": "2025-11-19",
+      "poster_path": "/uh8JHOrusqGhR02jCvk2mutuWef.jpg",
+      "popularity": 2.1572,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Alice Douard"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt34762801"
+      },
+      "earliest_release_year": 2025
+    },
+    "/movie/396535?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 396535,
+      "title": "Invasão Zumbi",
+      "original_title": "부산행",
+      "release_date": "2016-07-20",
+      "poster_path": "/QqHtwk0oHYed26zra9WGQGyBSm.jpg",
+      "popularity": 16.4729,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Yeon Sang-ho"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt5700672"
+      },
+      "earliest_release_year": 2016
+    },
+    "/movie/1391084?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1391084,
+      "title": "À la gauche du père",
+      "original_title": "À la gauche du père",
+      "release_date": "2006-01-01",
+      "poster_path": null,
+      "popularity": 0.0647,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Nathalie Marcault"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2006
+    },
+    "/movie/1064656?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1064656,
+      "title": "Natureza Humana",
+      "original_title": "Natureza Humana",
+      "release_date": "2023-10-18",
+      "poster_path": "/7pQFYjnkaOulZ0lcKDENajhTgUV.jpg",
+      "popularity": 0.1935,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Mónica Lima"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt22749662"
+      },
+      "earliest_release_year": 2023
+    },
+    "/movie/1058424?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1058424,
+      "title": "Hope: O Primeiro Impacto",
+      "original_title": "호프",
+      "release_date": "2026-07-15",
+      "poster_path": "/yfWe8Vaac8b8f9dagmzBWOroUcg.jpg",
+      "popularity": 288.8103,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "나홍진"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt27369017"
+      },
+      "earliest_release_year": 2026
+    },
+    "/movie/770724?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 770724,
+      "title": "A Imensidão",
+      "original_title": "L'immensità",
+      "release_date": "2022-09-15",
+      "poster_path": "/rsz7QDn6r6HpWjaGJrDoU4EYHym.jpg",
+      "popularity": 1.107,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Emanuele Crialese"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt13051724"
+      },
+      "earliest_release_year": 2022
+    },
+    "/movie/1564185?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1564185,
+      "title": "Scheepsbouw",
+      "original_title": "Scheepsbouw",
+      "release_date": "1978-07-02",
+      "poster_path": "/o9AGjHGr6s5Y1NQeHUcEaLFlQ65.jpg",
+      "popularity": 0.1803,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Floor Kooij"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 1978
+    },
+    "/movie/1821520?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1821520,
+      "title": "Another case of poisoning",
+      "original_title": "Another case of poisoning",
+      "release_date": "1949-01-01",
+      "poster_path": null,
+      "popularity": 0.1275,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "John Waterhouse"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 1949
+    },
+    "/movie/1767102?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1767102,
+      "title": "Jean Gabin - La guerre, c'est pas du cinéma",
+      "original_title": "Jean Gabin - La guerre, c'est pas du cinéma",
+      "release_date": "2026-11-02",
+      "poster_path": "/5BxDS4DmVvBi0agPjOIPxrKr7wv.jpg",
+      "popularity": 0.7807,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Patrick Jeudy"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2026
+    },
+    "/movie/1484148?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1484148,
+      "title": "Die kleinen und die großen Lügen",
+      "original_title": "Die kleinen und die großen Lügen",
+      "release_date": "2026-06-30",
+      "poster_path": "/hLAA2LaZM3orxibJt7QEiafmrt.jpg",
+      "popularity": 2.4481,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Wolfgang Fischer"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt36218771"
+      },
+      "earliest_release_year": 2026
+    },
+    "/movie/1457993?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1457993,
+      "title": "There's Something in the Milk",
+      "original_title": "There's Something in the Milk",
+      "release_date": "2025-11-28",
+      "poster_path": "/vSow5J86WHQmya0uzsFYJt6z5cP.jpg",
+      "popularity": 0.4118,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Cliona Noonan"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt39044757"
+      },
+      "earliest_release_year": 2025
+    },
+    "/movie/1174023?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1174023,
+      "title": "Rote Sterne überm Feld",
+      "original_title": "Rote Sterne überm Feld",
+      "release_date": "2025-11-06",
+      "poster_path": "/d9biUvRR2XgYFeIhBR8TeDYFHTU.jpg",
+      "popularity": 1.4549,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Laura Laabs"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt35150158"
+      },
+      "earliest_release_year": 2025
+    },
+    "/movie/1403843?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1403843,
+      "title": "Fiume o morte!",
+      "original_title": "Fiume o morte!",
+      "release_date": "2025-02-13",
+      "poster_path": "/vzg6c0i8ewh6lV1SRqFpNlQN9OS.jpg",
+      "popularity": 1.3302,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Igor Bezinović"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt34383611"
+      },
+      "earliest_release_year": 2025
+    },
+    "/movie/1275374?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1275374,
+      "title": "When We Were Sisters",
+      "original_title": "When We Were Sisters",
+      "release_date": "2024-10-06",
+      "poster_path": "/bHxhLm785FhgNUvIwnxKPfDKsV5.jpg",
+      "popularity": 1.0682,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Lisa Brühlmann"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt33203493"
+      },
+      "earliest_release_year": 2024
+    },
+    "/movie/923344?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 923344,
+      "title": "다음 소희",
+      "original_title": "다음 소희",
+      "release_date": "2022-11-21",
+      "poster_path": "/rmWXGHKeKEhYncZdeRxRnGZlldM.jpg",
+      "popularity": 2.1337,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "정주리"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt19820538"
+      },
+      "earliest_release_year": 2022
+    },
+    "/movie/795889?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 795889,
+      "title": "Die Saat",
+      "original_title": "Die Saat",
+      "release_date": "2022-04-28",
+      "poster_path": "/sF1v7rPSLROCtS5zvIcaxjXti9l.jpg",
+      "popularity": 0.9546,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Mia Maariel Meyer"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt13892494"
+      },
+      "earliest_release_year": 2021
+    },
+    "/movie/46326?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 46326,
+      "title": "Cais das Sombras",
+      "original_title": "Le quai des brumes",
+      "release_date": "1938-05-17",
+      "poster_path": "/vYwsxGSb1DrRHbH3dz4IcggsE9V.jpg",
+      "popularity": 3.0843,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Marcel Carné"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt0030643"
+      },
+      "earliest_release_year": 1938
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Felinos em Preto e Branco&region=BR&year=2024": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Felinos em Preto e Branco&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/tv/341543/external_ids": {
+      "id": 341543,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": null,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/tv/341346/external_ids": {
+      "id": 341346,
+      "imdb_id": null,
+      "freebase_mid": null,
+      "freebase_id": null,
+      "tvdb_id": null,
+      "tvrage_id": null,
+      "wikidata_id": null,
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "/movie/1636147?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1636147,
+      "title": "Rome Underground",
+      "original_title": "Rome Underground",
+      "release_date": "2025-12-22",
+      "poster_path": "/6sf91UkRqE1kT0ENtu6V1yXnBKO.jpg",
+      "popularity": 0.6219,
+      "credits": {
+        "crew": []
+      },
+      "external_ids": {
+        "imdb_id": null
+      },
+      "earliest_release_year": 2025
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Expedition: Saving Our Seas&region=BR&year=2026": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 1,
+      "results": [
+        {
+          "id": 1826442,
+          "title": "Expedition: Saving Our Seas",
+          "original_title": "Expedition: Saving Our Seas",
+          "release_date": "2026-11-14",
+          "poster_path": "/9sKVTdLSw8d6nEbwJ7XryEUlxRm.jpg",
+          "popularity": 1.9602
+        }
+      ]
+    },
+    "/movie/1826442?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 1826442,
+      "title": "Expedition: Saving Our Seas",
+      "original_title": "Expedition: Saving Our Seas",
+      "release_date": "2026-11-14",
+      "poster_path": "/9sKVTdLSw8d6nEbwJ7XryEUlxRm.jpg",
+      "popularity": 1.9602,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Katharine Arthy"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt49065977"
+      },
+      "earliest_release_year": 2026
+    },
+    "/movie/653753?append_to_response=credits,external_ids,release_dates&language=pt-BR": {
+      "id": 653753,
+      "title": "Земля блакитна, ніби апельсин",
+      "original_title": "Земля блакитна, ніби апельсин",
+      "release_date": "2020-11-26",
+      "poster_path": "/miFgwL35OaXuKwPrfoQDV6DP4c7.jpg",
+      "popularity": 0.3337,
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Ірина Цілик"
+          }
+        ]
+      },
+      "external_ids": {
+        "imdb_id": "tt11394290"
+      },
+      "earliest_release_year": 2020
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Vremya: moskovskoye&region=BR&year=1977": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
+    },
+    "/search/movie?include_adult=false&language=pt-BR&query=Vremya: moskovskoye&region=BR&year=undefined": {
+      "page": 1,
+      "total_pages": 1,
+      "total_results": 0,
+      "results": []
     }
   },
   "at": {
@@ -270872,7 +273175,7 @@
     "/search/movie?include_adult=false&language=pt-BR&query=3000 Noites&region=BR&year=2015": 1792994452038,
     "/search/movie?include_adult=false&language=pt-BR&query=3000 Noites&region=BR&year=undefined": 1792994452219,
     "/movie/817018?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1794241038572,
-    "/movie/1228473?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1793599260827,
+    "/movie/1228473?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1794809132605,
     "/movie/1340703?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1794241035827,
     "/movie/672845?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1794241040612,
     "/movie/477983?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1794241042182,
@@ -270884,7 +273187,7 @@
     "/search/movie?include_adult=false&language=pt-BR&query=A Lenda da Rainha Sem Terra de Lagos&region=BR&year=undefined": 1793599269130,
     "/search/movie?include_adult=false&language=pt-BR&query=Nossos Dias Mais Felizes&region=BR&year=2021": 1791922598215,
     "/search/movie?include_adult=false&language=pt-BR&query=Nossos Dias Mais Felizes&region=BR&year=undefined": 1791922598417,
-    "/search/movie?include_adult=false&language=pt-BR&query=A Bruxa do Amor&region=BR&year=2016": 1793599264874,
+    "/search/movie?include_adult=false&language=pt-BR&query=A Bruxa do Amor&region=BR&year=2016": 1794809135326,
     "/search/movie?include_adult=false&language=pt-BR&query=A Pequena Vendedora de Sol (Legendado)&region=BR&year=1999": 1794241025669,
     "/search/movie?include_adult=false&language=pt-BR&query=A Pequena Vendedora de Sol (Legendado)&region=BR&year=undefined": 1794241025878,
     "/movie/1321457?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1794241036253,
@@ -272818,6 +275121,37 @@
     "/movie/534418?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1794243674517,
     "/movie/1594522?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1794243677709,
     "/search/movie?include_adult=false&language=pt-BR&query=Skerryvore Aig Caisteal Floors&region=BR&year=2025": 1794243682687,
-    "/search/movie?include_adult=false&language=pt-BR&query=Skerryvore Aig Caisteal Floors&region=BR&year=undefined": 1794243682878
+    "/search/movie?include_adult=false&language=pt-BR&query=Skerryvore Aig Caisteal Floors&region=BR&year=undefined": 1794243682878,
+    "/search/movie?include_adult=false&language=pt-BR&query=Scanners 2: A Nova Ordem&region=BR&year=1991": 1794809127944,
+    "/search/movie?include_adult=false&language=pt-BR&query=Scanners 2: A Nova Ordem&region=BR&year=undefined": 1794809128149,
+    "/search/movie?include_adult=false&language=pt-BR&query=A Hora da Libertação Chegou&region=BR&year=1974": 1794809134771,
+    "/search/movie?include_adult=false&language=pt-BR&query=A Hora da Libertação Chegou&region=BR&year=undefined": 1794809134963,
+    "/movie/1719808?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1794810680224,
+    "/movie/1753313?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1794810680634,
+    "/movie/769445?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1794810681443,
+    "/movie/1772627?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1794810681853,
+    "/movie/1688913?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1794810682715,
+    "/movie/934113?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1794810683513,
+    "/movie/1397304?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1794810684326,
+    "/movie/1771396?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1794810684723,
+    "/movie/1722517?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1794810685921,
+    "/movie/1374223?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1794810686120,
+    "/movie/953073?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1794810686941,
+    "/movie/1355870?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1794810687145,
+    "/search/movie?include_adult=false&language=pt-BR&query=Xingu, nosso rio sagrado&region=BR&year=undefined": 1794810687346,
+    "/movie/1397226?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1794810687776,
+    "/movie/1676647?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1794811190112,
+    "/movie/1583759?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1794811190300,
+    "/movie/1427106?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1794811190673,
+    "/movie/1816311?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1794811190867,
+    "/movie/1391084?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1794811205700,
+    "/movie/1564185?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1794811363052,
+    "/movie/1821520?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1794811363321,
+    "/movie/1767102?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1794811504537,
+    "/search/movie?include_adult=false&language=pt-BR&query=Felinos em Preto e Branco&region=BR&year=2024": 1794811519842,
+    "/search/movie?include_adult=false&language=pt-BR&query=Felinos em Preto e Branco&region=BR&year=undefined": 1794811520040,
+    "/movie/1636147?append_to_response=credits,external_ids,release_dates&language=pt-BR": 1794811542674,
+    "/search/movie?include_adult=false&language=pt-BR&query=Vremya: moskovskoye&region=BR&year=1977": 1794811580899,
+    "/search/movie?include_adult=false&language=pt-BR&query=Vremya: moskovskoye&region=BR&year=undefined": 1794811581121
   }
 }

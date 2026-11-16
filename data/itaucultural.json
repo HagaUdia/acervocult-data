@@ -1,5 +1,289 @@
 [
   {
+    "id": "acervocult:itaucultural:a-perdicao-de-lazaro",
+    "source": "itaucultural",
+    "name": "A perdição de Lázaro",
+    "year": 2026,
+    "director": "Diego Paulino",
+    "type": "movie",
+    "imdb_id": "tt43698138",
+    "tmdb_id": 1645650,
+    "poster": "https://d2op5d7x846v9q.cloudfront.net/public/uploads/2026-11-05/f24b76c0-5888-4329-857c-e0ce84d9e79a-a_perdicao_de_lazaro_poster01.jpg",
+    "source_url": "https://www.itauculturalplay.com.br/content/movies/a-perdicao-de-lazaro",
+    "enrich_status": "matched",
+    "first_seen": "2026-11-16T06:31:28.149Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-11-16T06:31:28.155Z"
+  },
+  {
+    "id": "acervocult:itaucultural:descarrilho",
+    "source": "itaucultural",
+    "name": "Descarrilho",
+    "year": 2026,
+    "director": "Aline Gutierres",
+    "type": "movie",
+    "imdb_id": null,
+    "tmdb_id": 1719808,
+    "poster": "https://d2op5d7x846v9q.cloudfront.net/public/uploads/2026-11-05/0d644119-6387-4b8b-9203-875dc5fc2eb9-descarrilho_poster01.png",
+    "source_url": "https://www.itauculturalplay.com.br/content/movies/descarrilho",
+    "enrich_status": "matched",
+    "first_seen": "2026-11-16T06:31:28.149Z",
+    "last_seen": "2026-11-16T06:31:28.149Z"
+  },
+  {
+    "id": "acervocult:itaucultural:destinacao",
+    "source": "itaucultural",
+    "name": "Destinação",
+    "year": 2026,
+    "director": "Wagno Godez",
+    "type": "movie",
+    "imdb_id": null,
+    "tmdb_id": 1753313,
+    "poster": "https://d2op5d7x846v9q.cloudfront.net/public/uploads/2026-11-05/0407ba05-b4ea-4c35-88f4-da7644f8e475-destinacao_thumb02.png",
+    "source_url": "https://www.itauculturalplay.com.br/content/movies/destinacao",
+    "enrich_status": "matched",
+    "first_seen": "2026-11-16T06:31:28.149Z",
+    "last_seen": "2026-11-16T06:31:28.149Z"
+  },
+  {
+    "id": "acervocult:itaucultural:filme-irma",
+    "source": "itaucultural",
+    "name": "Irmã",
+    "year": 2026,
+    "director": "Anderson Bardot",
+    "type": "movie",
+    "imdb_id": "tt41423953",
+    "tmdb_id": 1646267,
+    "poster": "https://d2op5d7x846v9q.cloudfront.net/public/uploads/2026-11-05/39bf210b-d8b1-4d8c-b9d3-39f9b3b2b660-irma_poster01.jpg",
+    "source_url": "https://www.itauculturalplay.com.br/content/movies/filme-irma",
+    "enrich_status": "matched",
+    "first_seen": "2026-11-16T06:31:28.149Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-11-16T06:31:28.155Z"
+  },
+  {
+    "id": "acervocult:itaucultural:mounir",
+    "source": "itaucultural",
+    "name": "Mounir",
+    "year": 2026,
+    "director": "Juliana Borges",
+    "type": "movie",
+    "imdb_id": null,
+    "tmdb_id": 1722517,
+    "poster": "https://d2op5d7x846v9q.cloudfront.net/public/uploads/2026-11-13/87396c90-573a-4ea9-afcd-67d0dd45a9d3-mounir_thumb02.png",
+    "source_url": "https://www.itauculturalplay.com.br/content/movies/mounir",
+    "enrich_status": "matched",
+    "first_seen": "2026-11-16T06:31:28.149Z",
+    "last_seen": "2026-11-16T06:31:28.149Z"
+  },
+  {
+    "id": "acervocult:itaucultural:nem-todos-sabem",
+    "source": "itaucultural",
+    "name": "Nem todos sabem",
+    "year": 2026,
+    "director": "Edileuza Penha de Souza",
+    "type": "movie",
+    "imdb_id": null,
+    "tmdb_id": 1771396,
+    "poster": "https://d2op5d7x846v9q.cloudfront.net/public/uploads/2026-11-05/510a3595-60a2-4afc-80df-f0bd09b0b3c4-nem_todos_sabem_thumb01.png",
+    "source_url": "https://www.itauculturalplay.com.br/content/movies/nem-todos-sabem",
+    "enrich_status": "matched",
+    "first_seen": "2026-11-16T06:31:28.149Z",
+    "last_seen": "2026-11-16T06:31:28.149Z"
+  },
+  {
+    "id": "acervocult:itaucultural:o-gesto-entre-nos",
+    "source": "itaucultural",
+    "name": "O gesto entre nós",
+    "year": 2026,
+    "director": "Roberto Bomtempo",
+    "type": "movie",
+    "imdb_id": null,
+    "tmdb_id": 1772627,
+    "poster": "https://d2op5d7x846v9q.cloudfront.net/public/uploads/2026-11-05/3087ef34-f98b-404c-887a-adacfdbe6f76-o_gesto_entre_nos_poster02.png",
+    "source_url": "https://www.itauculturalplay.com.br/content/movies/o-gesto-entre-nos",
+    "enrich_status": "matched",
+    "first_seen": "2026-11-16T06:31:28.149Z",
+    "last_seen": "2026-11-16T06:31:28.149Z"
+  },
+  {
+    "id": "acervocult:itaucultural:pirexia-2",
+    "source": "itaucultural",
+    "name": "Pirexia",
+    "year": 2026,
+    "director": "Nico da Costa",
+    "type": "movie",
+    "imdb_id": null,
+    "tmdb_id": 1688913,
+    "poster": "https://cdn.itauculturalplay.com.br/public/uploads/2026-11-05/f52f6bd6-6d17-4f35-bc88-e3a63f70522a-pirexia_poster01.jpg",
+    "source_url": "https://www.itauculturalplay.com.br/content/movies/pirexia-2",
+    "enrich_status": "matched",
+    "first_seen": "2026-11-16T06:31:28.149Z",
+    "last_seen": "2026-11-16T06:31:28.149Z"
+  },
+  {
+    "id": "acervocult:itaucultural:rita-moreira-cronicas-memorias-e-videotape",
+    "source": "itaucultural",
+    "name": "Rita Moreira: crônicas, memórias e videotape",
+    "year": 2026,
+    "director": "Sérgio Santos Barroso",
+    "type": "movie",
+    "imdb_id": "tt43199368",
+    "tmdb_id": 1688889,
+    "poster": "https://d2op5d7x846v9q.cloudfront.net/public/uploads/2026-11-05/dd425383-eb0f-421b-9edd-b26d6e0361fe-rita_moreira_cronicas_memorias_e_videotape_poster02.jpg",
+    "source_url": "https://www.itauculturalplay.com.br/content/movies/rita-moreira-cronicas-memorias-e-videotape",
+    "enrich_status": "matched",
+    "first_seen": "2026-11-16T06:31:28.149Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-11-16T06:31:28.155Z"
+  },
+  {
+    "id": "acervocult:itaucultural:filme-theo",
+    "source": "itaucultural",
+    "name": "Theo",
+    "year": 2026,
+    "director": "Monica Palazzo, Jo Galvv",
+    "type": "movie",
+    "imdb_id": "tt42203146",
+    "tmdb_id": 1639951,
+    "poster": "https://cdn.itauculturalplay.com.br/public/uploads/2026-09-11/8ca1505d-afe6-4417-bf98-6cda55e2ab48-theo_thumb02.jpg",
+    "source_url": "https://www.itauculturalplay.com.br/content/movies/filme-theo",
+    "enrich_status": "matched",
+    "first_seen": "2026-11-16T06:31:28.149Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-11-16T06:31:28.155Z"
+  },
+  {
+    "id": "acervocult:itaucultural:uma-missa-para-dom-angelico",
+    "source": "itaucultural",
+    "name": "Uma missa para Dom Angélico",
+    "year": 2026,
+    "director": "Emília Silveira",
+    "type": "movie",
+    "imdb_id": "tt45763602",
+    "tmdb_id": 1757393,
+    "poster": "https://d2op5d7x846v9q.cloudfront.net/public/uploads/2026-11-05/387826f0-7587-46e3-96c1-ea656bfcf43a-uma_missa_para_dom_angelico_poster01.png",
+    "source_url": "https://www.itauculturalplay.com.br/content/movies/uma-missa-para-dom-angelico",
+    "enrich_status": "matched",
+    "first_seen": "2026-11-16T06:31:28.149Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-11-16T06:31:28.155Z"
+  },
+  {
+    "id": "acervocult:itaucultural:amora-2",
+    "source": "itaucultural",
+    "name": "Amora",
+    "year": 2025,
+    "director": "Ana Petta",
+    "type": "movie",
+    "imdb_id": "tt38985796",
+    "tmdb_id": 1557668,
+    "poster": "https://cdn.itauculturalplay.com.br/public/uploads/2026-08-19/6c520849-be7d-4730-83d9-9f49ae833525-ampra_poster02.jpg",
+    "source_url": "https://www.itauculturalplay.com.br/content/movies/amora-2",
+    "enrich_status": "matched",
+    "first_seen": "2026-11-16T06:31:28.149Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-11-16T06:31:28.155Z"
+  },
+  {
+    "id": "acervocult:itaucultural:massa-funkeira",
+    "source": "itaucultural",
+    "name": "Massa funkeira",
+    "year": 2025,
+    "director": "Ana Rieper",
+    "type": "movie",
+    "imdb_id": "tt38497664",
+    "tmdb_id": 1541088,
+    "poster": "https://d2op5d7x846v9q.cloudfront.net/public/uploads/2026-11-13/7e11258a-c994-4229-92dd-5bcbdd8e69d4-massa_funkeira_thumb02.png",
+    "source_url": "https://www.itauculturalplay.com.br/content/movies/massa-funkeira",
+    "enrich_status": "matched",
+    "first_seen": "2026-11-16T06:31:28.149Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
+    "poster_metahub": true,
+    "poster_checked_at": "2026-11-16T06:31:28.155Z"
+  },
+  {
+    "id": "acervocult:itaucultural:tropico-de-leao",
+    "source": "itaucultural",
+    "name": "Trópico de Leão",
+    "year": 2025,
+    "director": "Luna Alkalay",
+    "type": "movie",
+    "imdb_id": null,
+    "tmdb_id": 1397304,
+    "poster": "https://d2op5d7x846v9q.cloudfront.net/public/uploads/2026-11-13/143c32c1-7869-40e7-bff1-537d1195c490-tropico_de_leao_thumb01.png",
+    "source_url": "https://www.itauculturalplay.com.br/content/movies/tropico-de-leao",
+    "enrich_status": "matched",
+    "first_seen": "2026-11-16T06:31:28.149Z",
+    "last_seen": "2026-11-16T06:31:28.149Z"
+  },
+  {
+    "id": "acervocult:itaucultural:yog-atak-meu-pai-kaiowa",
+    "source": "itaucultural",
+    "name": "Yõg ãtak: meu pai, Kaiowá",
+    "year": 2024,
+    "director": "Sueli Maxakali, Isael Maxakali, Roberto Romero, Luísa Lanna",
+    "type": "movie",
+    "imdb_id": null,
+    "tmdb_id": 1397226,
+    "poster": "https://d2op5d7x846v9q.cloudfront.net/public/uploads/2026-11-05/2043acd5-e28f-4d05-83be-f2adb254b360-yog_atak_meu_pai_kaiowa_poster01.jpg",
+    "source_url": "https://www.itauculturalplay.com.br/content/movies/yog-atak-meu-pai-kaiowa",
+    "enrich_status": "matched",
+    "first_seen": "2026-11-16T06:31:28.149Z",
+    "last_seen": "2026-11-16T06:31:28.149Z"
+  },
+  {
+    "id": "acervocult:itaucultural:filmar-ou-morrer",
+    "source": "itaucultural",
+    "name": "Filmar ou morrer",
+    "year": null,
+    "director": "Lucia Nagib",
+    "type": "movie",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "poster": "https://d2op5d7x846v9q.cloudfront.net/public/uploads/2026-11-13/62146f0c-2b70-4d2a-81b9-22b45867aec3-filmar_ou_morrer_poster01.png",
+    "source_url": "https://www.itauculturalplay.com.br/content/movies/filmar-ou-morrer",
+    "enrich_status": "unmatched",
+    "first_seen": "2026-11-16T06:31:28.149Z",
+    "last_seen": "2026-11-16T06:31:28.149Z"
+  },
+  {
+    "id": "acervocult:itaucultural:trivakra",
+    "source": "itaucultural",
+    "name": "Trivakra",
+    "year": null,
+    "director": "Angst Sofia",
+    "type": "movie",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "poster": "https://cdn.itauculturalplay.com.br/public/uploads/2026-08-19/3384e692-8a19-46ae-89c3-594e05c179e7-trivakra_poster01.jpg",
+    "source_url": "https://www.itauculturalplay.com.br/content/movies/trivakra",
+    "enrich_status": "unmatched",
+    "first_seen": "2026-11-16T06:31:28.149Z",
+    "last_seen": "2026-11-16T06:31:28.149Z"
+  },
+  {
+    "id": "acervocult:itaucultural:xingu-nosso-rio-sagrado",
+    "source": "itaucultural",
+    "name": "Xingu, nosso rio sagrado",
+    "year": null,
+    "director": "Angela Gomes",
+    "type": "movie",
+    "imdb_id": null,
+    "tmdb_id": null,
+    "poster": "https://d2op5d7x846v9q.cloudfront.net/public/uploads/2026-11-13/520e1780-70e3-4f45-a8b4-75006402d48e-xingu_nosso_rio_sagrado_thumb01.png",
+    "source_url": "https://www.itauculturalplay.com.br/content/movies/xingu-nosso-rio-sagrado",
+    "enrich_status": "unmatched",
+    "first_seen": "2026-11-16T06:31:28.149Z",
+    "last_seen": "2026-11-16T06:31:28.149Z"
+  },
+  {
     "id": "acervocult:itaucultural:a-bola-magica",
     "source": "itaucultural",
     "name": "A bola mágica",
@@ -12,7 +296,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/a-bola-magica",
     "enrich_status": "unmatched",
     "first_seen": "2026-11-09T16:44:02.137Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:a-casa-dos-bonecos-magicos",
@@ -27,7 +311,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/a-casa-dos-bonecos-magicos",
     "enrich_status": "unmatched",
     "first_seen": "2026-11-09T16:44:02.137Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:a-chave-dourada",
@@ -42,7 +326,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/a-chave-dourada",
     "enrich_status": "unmatched",
     "first_seen": "2026-11-09T16:44:02.137Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:a-lenda-que-escapa",
@@ -57,7 +341,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/a-lenda-que-escapa",
     "enrich_status": "unmatched",
     "first_seen": "2026-11-09T16:44:02.137Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:a-revolta-dos-macacos",
@@ -72,7 +356,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/a-revolta-dos-macacos",
     "enrich_status": "unmatched",
     "first_seen": "2026-11-09T16:44:02.137Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:agbogbloshie",
@@ -87,7 +371,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/agbogbloshie",
     "enrich_status": "unmatched",
     "first_seen": "2026-11-09T16:44:02.137Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:arnaldo-teve-uma-ideia",
@@ -102,7 +386,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/arnaldo-teve-uma-ideia",
     "enrich_status": "unmatched",
     "first_seen": "2026-11-09T16:44:02.137Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:centelha",
@@ -117,7 +401,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/centelha",
     "enrich_status": "unmatched",
     "first_seen": "2026-11-09T16:44:02.137Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:invasao-em-minas-gerais",
@@ -132,7 +416,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/invasao-em-minas-gerais",
     "enrich_status": "unmatched",
     "first_seen": "2026-11-09T16:44:02.137Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:monstros",
@@ -147,7 +431,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/monstros",
     "enrich_status": "unmatched",
     "first_seen": "2026-11-09T16:44:02.137Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:o-ecodespertar-um-chamado-a-natureza",
@@ -162,7 +446,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/o-ecodespertar-um-chamado-a-natureza",
     "enrich_status": "unmatched",
     "first_seen": "2026-11-09T16:44:02.137Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:peso-do-silencio",
@@ -177,7 +461,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/peso-do-silencio",
     "enrich_status": "unmatched",
     "first_seen": "2026-11-09T16:44:02.137Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:quando-o-circo-esta-na-cidade",
@@ -192,7 +476,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/quando-o-circo-esta-na-cidade",
     "enrich_status": "unmatched",
     "first_seen": "2026-11-09T16:44:02.137Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:sinuca-de-bico",
@@ -207,7 +491,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/sinuca-de-bico",
     "enrich_status": "matched",
     "first_seen": "2026-11-09T16:44:02.137Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:tudo-depois-do-corta",
@@ -222,7 +506,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/tudo-depois-do-corta",
     "enrich_status": "unmatched",
     "first_seen": "2026-11-09T16:44:02.137Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:as-boas-maneiras",
@@ -237,7 +521,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/as-boas-maneiras",
     "enrich_status": "matched",
     "first_seen": "2026-11-02T06:28:08.882Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-11-02T06:28:13.071Z"
   },
@@ -254,7 +538,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/margarida-sempre-viva",
     "enrich_status": "matched",
     "first_seen": "2026-11-02T06:28:08.882Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:santo-e-jesus-metalurgicos",
@@ -269,7 +553,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/santo-e-jesus-metalurgicos",
     "enrich_status": "matched",
     "first_seen": "2026-11-02T06:28:08.882Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-11-02T06:28:13.071Z"
   },
@@ -286,7 +570,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/eunice-clarice-thereza",
     "enrich_status": "matched",
     "first_seen": "2026-11-02T06:28:08.882Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-11-02T06:28:13.071Z"
   },
@@ -742,7 +1026,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/claudia-andujar-cosmovisao",
     "enrich_status": "unmatched",
     "first_seen": "2026-10-05T13:14:17.577Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:curandeiras",
@@ -757,7 +1041,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/curandeiras",
     "enrich_status": "unmatched",
     "first_seen": "2026-10-05T13:14:17.577Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:ela-elu",
@@ -772,7 +1056,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/ela-elu",
     "enrich_status": "unmatched",
     "first_seen": "2026-10-05T13:14:17.577Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:de-volta-ao-comeco",
@@ -971,7 +1255,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/o-lexico-de-solange-pessoa",
     "enrich_status": "unmatched",
     "first_seen": "2026-09-28T12:47:05.536Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:tarde-dentro-da-tarde",
@@ -1217,7 +1501,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/abracos",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:canto-das-areias",
@@ -1232,7 +1516,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/canto-das-areias",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:concerto-de-quintal",
@@ -1247,7 +1531,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/concerto-de-quintal",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:entre-as-nuvens",
@@ -1262,7 +1546,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/entre-as-nuvens",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:eu-e-meu-avo-nihonjin",
@@ -1277,7 +1561,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/eu-e-meu-avo-nihonjin",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -1294,7 +1578,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/eu-e-o-boi-o-boi-e-eu",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:maira-porongyta-o-aviso-do-ceu",
@@ -1309,7 +1593,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/maira-porongyta-o-aviso-do-ceu",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:maremoto",
@@ -1324,7 +1608,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/maremoto",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:o-jardim-magico",
@@ -1339,7 +1623,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/o-jardim-magico",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:phoenix-club",
@@ -1354,7 +1638,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/phoenix-club",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -1386,7 +1670,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/tsuru",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:a-menina-e-o-pote",
@@ -1401,7 +1685,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/a-menina-e-o-pote",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -1418,7 +1702,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/ainda-escuto-o-ceu-embaixo-dagua-2",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:brasiliana-o-musical-negro-que-apresentou-o-brasil-ao-mundo",
@@ -1433,7 +1717,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/brasiliana-o-musical-negro-que-apresentou-o-brasil-ao-mundo",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:cavalo-marinho",
@@ -1448,7 +1732,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/cavalo-marinho",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:depois-deste-desterro",
@@ -1463,7 +1747,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/depois-deste-desterro",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -1480,7 +1764,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/joao-de-una-tem-um-boi",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:memorias-de-um-esclerosado",
@@ -1495,7 +1779,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/memorias-de-um-esclerosado",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -1512,7 +1796,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/mexeu-comigo",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:nhande",
@@ -1527,7 +1811,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/nhande",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:o-lado-de-fora-fica-aqui-dentro",
@@ -1542,7 +1826,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/o-lado-de-fora-fica-aqui-dentro",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:pioinc",
@@ -1557,7 +1841,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/pioinc",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:filme-pupa",
@@ -1572,7 +1856,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/filme-pupa",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:queimando-por-dentro",
@@ -1587,7 +1871,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/queimando-por-dentro",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -1604,7 +1888,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/serao",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -1621,7 +1905,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/waapa-2",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:a-alegria-e-a-prova-dos-nove",
@@ -1653,7 +1937,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/a-sua-aura-e-azul-arthur-bispo-do-rosario",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:arruma-um-pessoal-pra-gente-botar-uma-macumba-num-disco",
@@ -1668,7 +1952,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/arruma-um-pessoal-pra-gente-botar-uma-macumba-num-disco",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:as-linhas-da-minha-mao",
@@ -1683,7 +1967,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/as-linhas-da-minha-mao",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -1715,7 +1999,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/contos-mirabolantes-o-olho-do-mapinguari",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:curacanga",
@@ -1730,7 +2014,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/curacanga",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:engole-o-choro",
@@ -1745,7 +2029,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/engole-o-choro",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:estranho-caminho",
@@ -1760,7 +2044,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/estranho-caminho",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -1777,7 +2061,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/jussara",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:lulina-e-a-lua",
@@ -1792,7 +2076,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/lulina-e-a-lua",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:mareu",
@@ -1822,7 +2106,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/moventes",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -1839,7 +2123,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/o-som-da-pele",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:o-sonho-de-clarice",
@@ -1854,7 +2138,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/o-sonho-de-clarice",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:peixe-vivo",
@@ -1869,7 +2153,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/peixe-vivo",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:ramal",
@@ -1916,7 +2200,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/teca-e-tuti",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -1933,7 +2217,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/yuri-u-xeatima-the-a-pesca-com-timbo",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:a-menina-e-o-mar",
@@ -1963,7 +2247,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/aguas-que-me-tocam",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:down-quixote",
@@ -1978,7 +2262,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/down-quixote",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -1995,7 +2279,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/ela-mora-logo-ali",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:mulher-vestida-de-sol",
@@ -2010,7 +2294,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/mulher-vestida-de-sol",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "aliases": [
       "acervocult:itaucultural:mulher-vestida-de-sol-2"
     ],
@@ -2030,7 +2314,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/thue-pihi-kuuwi-uma-mulher-pensando",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:uyra-a-retomada-da-floresta",
@@ -2045,7 +2329,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/uyra-a-retomada-da-floresta",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -2079,7 +2363,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/lithipokoroda",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:os-primeiros-soldados",
@@ -2094,7 +2378,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/os-primeiros-soldados",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -2111,7 +2395,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/sars-cov2-o-tempo-da-pandemia",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -2145,7 +2429,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/cabeca-de-nego",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -2196,7 +2480,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/mestre-pastinha-rei-da-capoeira",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:meu-nome-e-bagda",
@@ -2228,7 +2512,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/napo-film",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -2245,7 +2529,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/para-onde-voam-as-feiticeiras",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -2262,7 +2546,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/perifericu",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -2279,7 +2563,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/a-felicidade-delas",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -2296,7 +2580,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/apneia",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:dorival-caymmi-um-homem-de-afetos-3",
@@ -2311,7 +2595,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/dorival-caymmi-um-homem-de-afetos-3",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -2345,7 +2629,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/irmandade-da-boa-morte",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:matanag-a-encantada",
@@ -2360,7 +2644,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/matanag-a-encantada",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:negrum3-3",
@@ -2409,7 +2693,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/quebramar",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -2426,7 +2710,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/transamazonia",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -2443,7 +2727,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/vivi-lobo-e-o-quarto-magico",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:chuva-e-cantoria-na-aldeia-dos-mortos",
@@ -2458,7 +2742,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/chuva-e-cantoria-na-aldeia-dos-mortos",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -2492,7 +2776,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/empate",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:fabiana",
@@ -2507,7 +2791,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/fabiana",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -2539,7 +2823,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/majur",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -2556,7 +2840,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/o-ceu-dos-indios-desana-e-tuiuca",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:o-malabarista",
@@ -2571,7 +2855,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/o-malabarista",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:poesia-azeviche",
@@ -2586,7 +2870,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/poesia-azeviche",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:rasga-coracao",
@@ -2635,7 +2919,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/cafe-com-canela",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -2669,7 +2953,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/lingua-e-territorio1",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:a-paixao-de-jl",
@@ -2684,7 +2968,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/a-paixao-de-jl",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -2718,7 +3002,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/deixa-na-regua",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -2735,7 +3019,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/divinas-divas",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -2752,7 +3036,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/krenak",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:la-do-alto",
@@ -2784,7 +3068,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/mae-so-ha-uma",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -2818,7 +3102,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/das-raizes-as-pontas",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:territorio-do-brincar",
@@ -2833,7 +3117,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/territorio-do-brincar",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -2850,7 +3134,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/dominguinhos",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -2867,7 +3151,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/hoje-eu-quero-voltar-sozinho",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -2884,7 +3168,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/o-dia-de-jerusa",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -2901,7 +3185,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/acalanto",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -2918,7 +3202,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/jards",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -2935,7 +3219,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/ouvir-o-rio",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -2952,7 +3236,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/a-batalha-do-passinho-2",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -2969,7 +3253,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/leonilson-sob-o-peso-dos-meus-amores",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -2986,7 +3270,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/assim-e-se-lhe-parece",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:daquele-instante-em-diante",
@@ -3001,7 +3285,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/daquele-instante-em-diante",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -3018,7 +3302,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/diario-de-uma-busca",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -3035,7 +3319,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/evoe-retrato-de-um-antropofago",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -3052,7 +3336,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/ex-isto",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -3086,7 +3370,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/eu-nao-quero-voltar-sozinho",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -3120,7 +3404,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/recife-frio",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -3137,7 +3421,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/falsa-loura",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -3154,7 +3438,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/serras-da-desordem",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -3171,7 +3455,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/bens-confiscados",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -3188,7 +3472,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/carandiru-3",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -3205,7 +3489,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/garotas-do-abc",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -3222,7 +3506,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/o-homem-que-copiava",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -3239,7 +3523,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/mademoiselle-cinema-3",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:alma-corsaria",
@@ -3254,7 +3538,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/alma-corsaria",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -3271,7 +3555,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/barbosa",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -3288,7 +3572,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/jubiaba",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -3322,7 +3606,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/sargento-getulio",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -3339,7 +3623,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/eles-nao-usam-black-tie",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -3356,7 +3640,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/partido-alto",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -3373,7 +3657,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/lilian-m-confissoes-amorosas",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -3424,7 +3708,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/o-menino-e-o-vento",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -3441,7 +3725,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/proezas-de-satanas-na-vila-de-leva-e-traz",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -3475,7 +3759,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/os-fuzis",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -3492,7 +3776,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/tristeza-do-jeca",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -3509,7 +3793,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/rio-zona-norte",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -3526,7 +3810,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/matar-ou-correr",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -3543,7 +3827,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/carnaval-atlantida",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -3560,7 +3844,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/sai-da-frente-mazzaropi",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -3577,7 +3861,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/tambem-somos-irmaos",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -3594,7 +3878,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/limite",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -3641,7 +3925,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/apoptosis",
     "enrich_status": "unmatched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:ava-yvy-vera",
@@ -3656,7 +3940,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/ava-yvy-vera",
     "enrich_status": "unmatched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:bimi-shu-ikaya",
@@ -3701,7 +3985,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/carlos-zilio-uma-retrospectiva-de-60-anos-de-criacao-a-querela-do-brasil",
     "enrich_status": "unmatched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:carne",
@@ -3716,7 +4000,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/carne",
     "enrich_status": "unmatched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:chuva",
@@ -3746,7 +4030,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/dasilva-daselva",
     "enrich_status": "unmatched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:disque-quilombola",
@@ -3761,7 +4045,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/disque-quilombola",
     "enrich_status": "unmatched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:djaexaa-pora-um-olhar-para-o-futuro",
@@ -3791,7 +4075,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/estrela-azul-mae-stella",
     "enrich_status": "unmatched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:filme-paraler",
@@ -3806,7 +4090,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/filme-paraler",
     "enrich_status": "unmatched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:giramundo-documentario",
@@ -3821,7 +4105,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/giramundo-documentario",
     "enrich_status": "unmatched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:jaime-sodre-e-o-carnaval-negro-da-bahia",
@@ -3836,7 +4120,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/jaime-sodre-e-o-carnaval-negro-da-bahia",
     "enrich_status": "unmatched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:lagrimar",
@@ -3851,7 +4135,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/lagrimar",
     "enrich_status": "unmatched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:mari-hi-a-arvore-do-sonho",
@@ -3896,7 +4180,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/mekukradja-territorios-chao-e-afeto-lar-do-suficiente",
     "enrich_status": "unmatched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:mekukradja-territorios-chao-e-afeto",
@@ -3911,7 +4195,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/mekukradja-territorios-chao-e-afeto",
     "enrich_status": "unmatched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:mestre-moa-presente",
@@ -3926,7 +4210,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/mestre-moa-presente",
     "enrich_status": "unmatched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:min-e-as-maozinhas-cores-sumiram",
@@ -3956,7 +4240,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/murure",
     "enrich_status": "unmatched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:museu-da-mare-experiencias-educativas-em-museus-comunitarios",
@@ -3971,7 +4255,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/museu-da-mare-experiencias-educativas-em-museus-comunitarios",
     "enrich_status": "unmatched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:narrativas-quase-centenarias-um-seculo-de-agora",
@@ -3986,7 +4270,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/narrativas-quase-centenarias-um-seculo-de-agora",
     "enrich_status": "unmatched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:oriki-visual-a-arte-de-mestre-didi",
@@ -4001,7 +4285,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/oriki-visual-a-arte-de-mestre-didi",
     "enrich_status": "unmatched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:ouca-me",
@@ -4016,7 +4300,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/ouca-me",
     "enrich_status": "unmatched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:patxoha-a-lingua-de-guerreiros",
@@ -4031,7 +4315,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/patxoha-a-lingua-de-guerreiros",
     "enrich_status": "unmatched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:quem-foi-arthur-bispo-do-rosario",
@@ -4046,7 +4330,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/quem-foi-arthur-bispo-do-rosario",
     "enrich_status": "unmatched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:quintal",
@@ -4076,7 +4360,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/reformatorio-krenak",
     "enrich_status": "unmatched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:sandra-cinto-tudo-esta-em-movimento-3",
@@ -4091,7 +4375,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/sandra-cinto-tudo-esta-em-movimento-3",
     "enrich_status": "unmatched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:sentidos-do-fio",
@@ -4121,7 +4405,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/solitude",
     "enrich_status": "unmatched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:tailor",
@@ -4136,7 +4420,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/tailor",
     "enrich_status": "unmatched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:terreiros-do-brincar",
@@ -4151,7 +4435,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/terreiros-do-brincar",
     "enrich_status": "unmatched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:transviar",
@@ -4166,7 +4450,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/transviar",
     "enrich_status": "unmatched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:travessia",
@@ -4181,7 +4465,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/travessia",
     "enrich_status": "unmatched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:trilha-da-lagoa-seca",
@@ -4196,7 +4480,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/trilha-da-lagoa-seca",
     "enrich_status": "unmatched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:tu-oro",
@@ -4211,7 +4495,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/tu-oro",
     "enrich_status": "unmatched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:tunga-magnetico-o-que-nao-se-ve",
@@ -4226,7 +4510,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/tunga-magnetico-o-que-nao-se-ve",
     "enrich_status": "unmatched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:utopia",
@@ -4241,7 +4525,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/utopia",
     "enrich_status": "unmatched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:yamiyxop-os-espiritos-guerreiros",
@@ -4256,7 +4540,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/yamiyxop-os-espiritos-guerreiros",
     "enrich_status": "unmatched",
     "first_seen": "2026-09-19T04:09:48.827Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:america-do-sol",
@@ -4271,7 +4555,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/america-do-sol",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:artacho-jurado-sinfonia-de-um-arquiteto-2",
@@ -4286,7 +4570,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/artacho-jurado-sinfonia-de-um-arquiteto-2",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -4318,7 +4602,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/do-colo-da-terra",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:misterios-do-nixipae",
@@ -4333,7 +4617,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/misterios-do-nixipae",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:javyju",
@@ -4348,7 +4632,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/javyju",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:liberdade-sem-conduta",
@@ -4363,7 +4647,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/liberdade-sem-conduta",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:castanho",
@@ -4378,7 +4662,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/castanho",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:incompativel-com-a-vida",
@@ -4393,7 +4677,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/incompativel-com-a-vida",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -4410,7 +4694,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/saudosa-maloca",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -4444,7 +4728,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/mato-seco-em-chamas",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -4461,7 +4745,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/aquilo-que-eu-nunca-perdi",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -4512,7 +4796,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/espero-tua-revolta-2",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -4529,7 +4813,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/almofadas-de-penas",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -4580,7 +4864,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/o-jabuti-e-a-anta",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -4597,7 +4881,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/orun-aiye-a-criacao-do-mundo",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:branco-sai-preto-fica",
@@ -4612,7 +4896,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/branco-sai-preto-fica",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -4646,7 +4930,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/no-devagar-depressa-dos-tempos",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -4663,7 +4947,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/tao-longe-e-aqui",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -4680,7 +4964,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/uma-historia-de-amor-e-furia",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -4697,7 +4981,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/trabalhar-cansa",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -4714,7 +4998,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/cartola-musica-para-os-olhos-2",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -4731,7 +5015,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/saneamento-basico",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -4748,7 +5032,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/durval-discos",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -4765,7 +5049,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/a-negacao-do-brasil",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -4816,7 +5100,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/amor-maldito",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -4833,7 +5117,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/cabra-marcado-para-morrer",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -4850,7 +5134,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/guerra-conjugal-2",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -4867,7 +5151,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/alma-no-olho",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -4884,7 +5168,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/sao-bernardo",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -4935,7 +5219,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/copacabana-mon-amour",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -4986,7 +5270,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/a-mulher-de-todos",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -5020,7 +5304,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/juventude-e-ternura",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -5037,7 +5321,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/o-bandido-da-luz-vermelha",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -5071,7 +5355,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/carnaval-barra-limpa",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -5105,7 +5389,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/sao-paulo-sociedade-anonima",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -5122,7 +5406,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/assalto-ao-trem-pagador",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -5139,7 +5423,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/a-grande-feira",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z",
+    "last_seen": "2026-11-16T06:31:28.149Z",
     "poster_metahub": true,
     "poster_checked_at": "2026-10-13T20:52:10.560Z"
   },
@@ -5156,7 +5440,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/resistencia-2",
     "enrich_status": "pending",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:a-criacao-da-bienal",
@@ -5171,7 +5455,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/a-criacao-da-bienal",
     "enrich_status": "pending",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:a-margem",
@@ -5186,7 +5470,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/a-margem",
     "enrich_status": "pending",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:karaiw-a-e-wa",
@@ -5231,7 +5515,7 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/origem-da-noite",
     "enrich_status": "matched",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   },
   {
     "id": "acervocult:itaucultural:patio",
@@ -5246,6 +5530,6 @@
     "source_url": "https://www.itauculturalplay.com.br/content/movies/patio",
     "enrich_status": "pending",
     "first_seen": "2026-09-19T01:59:33.572Z",
-    "last_seen": "2026-11-09T16:44:02.137Z"
+    "last_seen": "2026-11-16T06:31:28.149Z"
   }
 ]
